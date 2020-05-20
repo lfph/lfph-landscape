@@ -13,27 +13,26 @@ landscape:
             logo: graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
       - subcategory:
-        name: Tools
+        name: Apps
         items:
           - item:
-            name: Apollo Angular
-            homepage_url: 'https://www.apollographql.com/docs/angular'
-            repo_url: 'https://github.com/apollographql/apollo-angular'
-            logo: apollo-angular.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            name: Covid Watch
+            homepage_url: 'https://www.covid-watch.org'
+            repo_url: 'https://github.com/covid19risk/covidwatch-android'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
           - item:
-            name: Apollo CLI
-            homepage_url: 'https://www.apollographql.com/'
-            repo_url: 'https://github.com/apollographql/apollo-tooling'
-            logo: apollo-cli.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            name: Covid Safe Paths
+            homepage_url: 'https://covidsafepaths.org'
+            repo_url: 'https://github.com/Path-Check/covid-safe-paths'
+            logo: covid-safe-paths.svg
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
           - item:
-            name: GraphiQL
-            homepage_url: 'https://github.com/graphql/graphiql'
-            project: foundationproject
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphiql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            name: OHIOH
+            homepage_url: 'https://ohioh.de'
+            repo_url: 'https://github.com/ohioh/ohioh.de'
+            logo: ohioh.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ohioh'
           - item:
             name: GraphQL CLI
             homepage_url: 'https://github.com/urigo/graphql-cli'
