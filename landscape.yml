@@ -106,52 +106,17 @@ landscape:
             logo: type-graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
-    name: Databases
+    name: Components
     subcategories:
       - subcategory:
-        name: Databases
+        name: SDK
         items:
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            repo_url: 'https://github.com/arangodb/arangodb'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
-          - item:
-            name: Dgraph
-            homepage_url: 'https://dgraph.io/'
-            repo_url: 'https://github.com/dgraph-io/dgraph'
-            logo: dgraph-labs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
-          - item:
-            name: EdgeDB
-            homepage_url: 'https://edgedb.com/'
-            repo_url: 'https://github.com/edgedb/edgedb'
-            logo: edgedb.svg
-            crunchbase: 'https://www.crunchbase.com/organization/magicstack'
-          - item:
-            name: Fauna
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
-          - item:
-            name: Hasura GraphQL Engine
-            homepage_url: 'https://hasura.io'
-            repo_url: 'https://github.com/hasura/graphql-engine'
-            logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: Neo4j
-            homepage_url: 'https://neo4j.com/'
-            repo_url: 'https://github.com/neo4j/neo4j'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-          - item:
-            name: YugabyteDB
-            homepage_url: 'https://www.yugabyte.com/'
-            repo_url: 'https://github.com/YugaByte/yugabyte-db'
-            logo: yugabyte.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yugabyte'
+            name: FLAAT
+            homepage_url: 'https://app.flaat.io/'
+            repo_url: 'https://github.com/EQWorks/flaat-sdk-ios'
+            logo: flaat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eq-works'
   - category:
     name: Services
     subcategories:
