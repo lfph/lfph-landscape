@@ -1,8 +1,8 @@
-[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/lfph/lfph-landscape.svg?style=flat-square)](https://david-dm.io/lfph/lfph-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/1f52a10d-b6bd-4e53-8bb3-e0785f8a356e/deploy-status)](https://app.netlify.com/sites/lfph/deploys)
 
 # GraphQL Landscape
 
-![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![GraphQL Landscape Logo](https://landscape.lfph.io/images/left-logo.svg)
 
 - [GraphQL Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
@@ -24,11 +24,11 @@ This landscape is intended as a map to explore the GraphQL Ecosystem, and also s
 
 ## Current Version
 
-[![GraphQL Landscape](https://landscape.graphql.org/images/landscape.png)](https://landscape.graphql.org/images/landscape.png)
+[![GraphQL Landscape](https://landscape.lfph.io/images/landscape.png)](https://landscape.lfph.io/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.graphql.io](https://landscape.graphql.org).
+Please see [landscape.lfph.io](https://landscape.lfph.io).
 
 ## New Entries
 
@@ -79,22 +79,22 @@ The canonical source for all data is [landscape.yml](landscape.yml). Once a day,
 * Project info from GitHub
 * Funding info from [Crunchbase](https://www.crunchbase.com/)
 * Market cap data from Yahoo Finance
-* CII Best Practices Badge [data](https://bestpractices.coreinfrastructure.org/)
+* CII Best Practices Badge [data](https://bestpractices.coreinfrastructure.io/)
 
 The update server enhances the source data with the fetched data and saves the result in [processed_landscape.yml](processed_landscape.yml). The app loads a JSON representation of processed_landscape.yml to display data.
 
 ## Best Practices Badge
 
-As explained at https://bestpractices.coreinfrastructure.org/:
+As explained at https://bestpractices.coreinfrastructure.io/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.graphql.org/bestpractices=yes) and [without](https://landscape.graphql.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfph.io/bestpractices=yes) and [without](https://landscape.lfph.io/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.graphql.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.lfph.io/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.graphql.org/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfph.io/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -102,14 +102,14 @@ Items that have been removed can apply to be re-added using the regular New Entr
 
 This repository contains data received from [Crunchbase](http://www.crunchbase.com). This data is not licensed pursuant to the Apache License. It is subject to Crunchbase’s Data Access Terms, available at [https://data.crunchbase.com/v3.1/docs/terms](https://data.crunchbase.com/v3.1/docs/terms), and is only permitted to be used with this Landscape Project which is hosted by the Linux Foundation.
 
-Everything else is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The trail map, static landscape, serverless landscape, and [landscape.yml](landscape.yml) file are alternatively available under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+Everything else is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The trail map, static landscape, serverless landscape, and [landscape.yml](landscape.yml) file are alternatively available under the [Creative Commons Attribution 4.0 license](https://creativecommons.io/licenses/by/4.0/).
 
 ## Formats
 
 The GraphQL Landscape is available in these formats:
 
-* [PNG](https://landscape.graphql.org/images/landscape.png)
-* [PDF](https://landscape.graphql.org/images/landscape.pdf)
+* [PNG](https://landscape.lfph.io/images/landscape.png)
+* [PDF](https://landscape.lfph.io/images/landscape.pdf)
 
 ## Installation
 
