@@ -109,10 +109,19 @@ landscape:
     name: Components
     subcategories:
       - subcategory:
+        name: APIs
+        items:
+          - item:
+            name: FLAAT API
+            homepage_url: 'https://app.flaat.io/'
+            repo_url: 'https://github.com/EQWorks/flaat-api'
+            logo: flaat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eq-works'
+      - subcategory:
         name: SDK
         items:
           - item:
-            name: FLAAT
+            name: FLAAT SDK
             homepage_url: 'https://app.flaat.io/'
             repo_url: 'https://github.com/EQWorks/flaat-sdk-ios'
             logo: flaat.svg
