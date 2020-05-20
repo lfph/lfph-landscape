@@ -1,10 +1,10 @@
 [![Dependency Status](https://img.shields.io/david/lfph/lfph-landscape.svg?style=flat-square)](https://david-dm.io/lfph/lfph-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/1f52a10d-b6bd-4e53-8bb3-e0785f8a356e/deploy-status)](https://app.netlify.com/sites/lfph/deploys)
 
-# GraphQL Landscape
+# LF Public Health Landscape
 
-![GraphQL Landscape Logo](https://landscape.lfph.io/images/left-logo.svg)
+![LF Public Health Landscape Logo](https://landscape.lfph.io/images/left-logo.svg)
 
-- [GraphQL Landscape](#cloud-native-landscape)
+- [LF Public Health Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,11 +20,11 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore the GraphQL Ecosystem, and also shows the member companies of the GraphQL Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
+This landscape is intended as a map to explore the LF Public Health Ecosystem, and also shows the member companies of the LF Public Health Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
-[![GraphQL Landscape](https://landscape.lfph.io/images/landscape.png)](https://landscape.lfph.io/images/landscape.png)
+[![LF Public Health Landscape](https://landscape.lfph.io/images/landscape.png)](https://landscape.lfph.io/images/landscape.png)
 
 ## Interactive Version
 
@@ -79,7 +79,7 @@ The canonical source for all data is [landscape.yml](landscape.yml). Once a day,
 * Project info from GitHub
 * Funding info from [Crunchbase](https://www.crunchbase.com/)
 * Market cap data from Yahoo Finance
-* CII Best Practices Badge [data](https://bestpractices.coreinfrastructure.io/)
+* CII Best Practices Badge [data](https://bestpractices.coreinfrastructure.org/)
 
 The update server enhances the source data with the fetched data and saves the result in [processed_landscape.yml](processed_landscape.yml). The app loads a JSON representation of processed_landscape.yml to display data.
 
@@ -106,7 +106,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The GraphQL Landscape is available in these formats:
+The LF Public Health Landscape is available in these formats:
 
 * [PNG](https://landscape.lfph.io/images/landscape.png)
 * [PDF](https://landscape.lfph.io/images/landscape.pdf)
