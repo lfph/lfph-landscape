@@ -112,12 +112,21 @@ big_picture:
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
-        category: Databases
+        category: Components
         rows: 3
         width: 325
         height: 160
         top: 0
         left: 645
+        color: 'rgb(79,121,13)'
+        fit_width: true
+      - type: VerticalCategory
+        category: Organizations
+        cols: 3
+        width: 160
+        height: 325
+        top: 0
+        left: 990
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
