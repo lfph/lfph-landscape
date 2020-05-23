@@ -62,17 +62,28 @@ landscape:
             logo: flaat.svg
             crunchbase: 'https://www.crunchbase.com/organization/eq-works'
   - category:
-    name: Services
+    name: Specifications
     subcategories:
       - subcategory:
-        name: Services
+        name: Specifications
         items:
           - item:
-            name: xxx 8base
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
+            homepage_url: 'https://github.com/DP-3T/documents'
+            repo_url: 'https://github.com/DP-3T/documents'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+          - item:
+            name: Google Apple Exposure Notification (GAEN)
+            homepage_url: 'https://www.apple.com/covid19/contacttracing'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/apple'
+          - item:
+            name: Temporary Contact Number (TCN)
+            homepage_url: 'http://tcn-coalition.org/'
+            repo_url: 'https://github.com/TCNCoalition/TCN'
+            logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
   - category:
     name: LF Public Health Foundation Member
     subcategories:
