@@ -16,6 +16,12 @@ landscape:
         name: Apps
         items:
           - item:
+            name: Corona-Warn-App
+            homepage_url: 'https://www.coronawarn.app'
+            repo_url: 'https://github.com/corona-warn-app/cwa-documentation'
+            logo: corona-warn-app.svg
+            crunchbase: 'https://www.crunchbase.com/organization/sap'
+          - item:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
