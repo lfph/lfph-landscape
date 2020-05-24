@@ -1,61 +1,247 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: Projects
+    name: Contact Tracing
     subcategories:
       - subcategory:
-        name: xxx to replace w/ LFPH xxx Spec
+        name: Contact Tracing
         items:
           - item:
-            name: xxx to replace w/ LFPH xxx GraphQL Spec
-            homepage_url: 'https://graphql.org'
-            project: foundationproject
-            repo_url: 'https://github.com/graphql/graphql-spec'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            name: CommCare
+            description: >-
+              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
+              from screening and contact tracing to patient monitoring and post-care support.
+            homepage_url: 'https://www.dimagi.com/covid-19/'
+            logo: commcare.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dimagi'
             crunchbase_data:
-              name: GraphQL Foundation
-              description: Enabling widespread adoption of GraphQL to help accelerate development and the surrounding ecosystem
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://foundation.graphql.org'
-              city: San Francisco
-              region: California
+              name: Dimagi
+              description: 'Dimagi is an award-winning technology company, developing scalable ICT solutions for low-resource settings.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.dimagi.com/'
+              city: Cambridge
+              region: Massachusetts
               country: United States
-              twitter: 'https://twitter.com/GraphQL'
-              linkedin: null
-              acquisitions:
-                - date: '2018-11-06'
-                  acquiree: GraphQL
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            github_data:
-              languages:
-                - name: Shell
-                  value: 3120
-                  color: '#89e051'
-              contributions: 0;0;0;1;0;9;0;0;1;2;6;0;0;0;1;0;2;0;3;1;1;2;0;6;6;0;2;1;1;1;0;0;10;3;0;2;3;0;0;0;2;0;0;0;1;0;0;0;1;1;0;0
-              firstWeek: 2019-05-26Z
-              stars: 12678
-              license: Unknown License
-              description: GraphQL is a query language and execution engine tied to any backend service.
-              latest_commit_date: '2020-05-08T18:35:45Z'
-              latest_commit_link: /graphql/graphql-spec/commit/af57491063c69d1ab7b88a12c738f66c7977f4ac
-              release_date: '2018-06-11T02:45:19Z'
-              release_link: 'https://github.com/graphql/graphql-spec/releases'
-              contributors_count: 92
-              contributors_link: 'https://github.com/graphql/graphql-spec/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /graphql/graphql-spec/commit/7c0398803c94826957be307e1d3c4a5ffc3c5b5e
-              start_date: '2015-07-01T00:41:15Z'
+              twitter: 'https://twitter.com/dimagi'
+              linkedin: 'https://www.linkedin.com/company/142712'
+              acquisitions: []
+              parents: []
             image_data:
-              fileName: xxx-to-replace-w-lfph-xxx-graph-ql-spec.svg
-              hash: /wzA7u6MxKYkQbunahsIFIvt3QtzLq4x/PXWwtwps8g=
+              fileName: comm-care.svg
+              hash: m9UJn4KmFw/8/bIWi3Z58fDQH9lvh3l5bIiA3xgjGKg=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-06-26T16:15:00.000Z
+              latest_tweet_date: 2020-05-22T16:08:54.000Z
+          - item:
+            name: Conduent Maven
+            description: >-
+              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
+              support and share information during an outbreak crisis.
+            homepage_url: 'https://www.conduent.com/solution/public-health-technology/disease-surveillance-system/'
+            logo: 'https://upload.wikimedia.org/wikipedia/en/f/fa/Conduent_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/conduent'
+            crunchbase_data:
+              name: Conduent
+              description: 'Improving how businesses and governments interact with citizens, patients, customers and employees.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.conduent.com/'
+              city: Florham Park
+              region: New Jersey
+              country: United States
+              twitter: 'https://twitter.com/conduent'
+              linkedin: 'https://www.linkedin.com/company-beta/10794364'
+              acquisitions:
+                - date: '2018-10-31'
+                  acquiree: Health Solutions Plus
+              parents: []
+            image_data:
+              fileName: conduent-maven.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-22T17:00:01.000Z
+          - item:
+            name: Salesforce Emergency Response Management for Public Health
+            description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
+            homepage_url: 'https://www.salesforce.com/editions-pricing/work/public-health/'
+            logo: 'https://landscape.cncf.io/logos/salesforce-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/salesforce'
+            crunchbase_data:
+              name: Salesforce
+              description: Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.salesforce.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/salesforce'
+              linkedin: 'https://www.linkedin.com/company/salesforce'
+              acquisitions:
+                - date: '2020-03-02'
+                  acquiree: The CMO Club
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                  price: 1330000000
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                  price: 1350000000
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                  price: 15700000000
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                  price: 213000000
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                  price: 300000000
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                  price: 800000000
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                  price: 6500000000
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2016-10-03'
+                  acquiree: Krux
+                  price: 800000000
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                  price: 110000000
+                - date: '2016-08-01'
+                  acquiree: Quip
+                  price: 750000000
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                  price: 2800000000
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                  price: 32799999
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                  price: 360000000
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                  price: 24200000
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                  price: 390000000
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                  price: 2500000000
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                  price: 20000000
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                  price: 649000000
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2011-12-15'
+                  acquiree: Rypple
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                  price: 7000000
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                  price: 31500000
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2006-04-11'
+                  acquiree: Sendia
+              parents: []
+              ticker: CRM
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 159866699776
+              effective_ticker: CRM
+            image_data:
+              fileName: salesforce-emergency-response-management-for-public-health.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-23T23:30:06.000Z
       - subcategory:
         name: Apps
         items:
@@ -140,7 +326,7 @@ landscape:
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
-            project: hosted
+            project: foundationproject
             repo_url: 'https://github.com/CovidShield/mobile'
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
