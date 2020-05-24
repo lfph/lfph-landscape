@@ -110,6 +110,7 @@ landscape:
             homepage_url: 'http://tcn-coalition.org/'
             repo_url: 'https://github.com/TCNCoalition/TCN'
             logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
+            twitter: 'https://twitter.com/tcncoalition'
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
   - category:
     name: LF Public Health Foundation Member
@@ -133,6 +134,15 @@ landscape:
             name: U.S. Digital Response
             homepage_url: 'https://www.usdigitalresponse.org'
             logo: usdigitalresponse.svg
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
+      - subcategory:
+        name: Legal Templates
+        items:
+          - item:
+            name: Model Data Protection Agreement (DPA)
+            homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
+            repo_url: 'https://github.com/usdigitalresponse/dpa'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
   - category:
     name: LF Public Health Adopter
