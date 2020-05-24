@@ -31,6 +31,12 @@ landscape:
         name: Apps
         items:
           - item:
+            name: Corona-Warn-App
+            homepage_url: 'https://www.coronawarn.app'
+            repo_url: 'https://github.com/corona-warn-app/cwa-server'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sap'
+          - item:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
@@ -49,6 +55,12 @@ landscape:
             repo_url: 'https://github.com/covid19risk/covidwatch-android'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+          - item:
+            name: NextTrace
+            homepage_url: 'https://nexttrace.org'
+            repo_url: 'https://github.com/nexttrace/survey-platform'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nexttrace'
           - item:
             name: OHIOH
             homepage_url: 'https://ohioh.de'
