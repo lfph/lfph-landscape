@@ -15,11 +15,10 @@ global:
     twitter: '@lfpublichealth'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: LFPH Member
+  membership: LFPH Member Products/Projects
   flags:
     hide_license_for_categories:
       - LF Public Health Adopter
-      - LFPH Member
 twitter:
   search: landscape.lfph.io
   url: 'https://landscape.lfph.io'
@@ -39,10 +38,6 @@ relation:
           big_picture_order: 1
           big_picture_label: LF Public Health Foundation Project
           big_picture_color: 'rgb(24,54,114)'
-    - id: company
-      label: LFPH Member
-      tag: Company
-      big_picture_order: 3
     - id: member
       label: LFPH Member Products/Projects
       tag: LF Public Health Foundation Member
@@ -148,15 +143,6 @@ big_picture:
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
-      - type: HorizontalCategory
-        category: LFPH Member
-        rows: 4
-        width: 650
-        height: 100
-        top: 440
-        left: 0
-        color: 'rgb(103,66,18)'
-        fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
@@ -202,5 +188,5 @@ anonymous_organization:
   country: Antarctica
 test:
   header: LF Public Health Landscape
-  section: LFPH Member
-  logo: u-s-digital-response.svg
+  section: LFPH Member Products/Projects
+  logo: covid-shield.svg
