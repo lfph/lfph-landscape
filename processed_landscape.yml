@@ -7,57 +7,6 @@ landscape:
         name: GAEN-compatible
         items:
           - item:
-            name: CoEpi
-            homepage_url: 'https://www.coepi.org'
-            repo_url: 'https://github.com/Co-Epi/app-android'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            twitter: 'https://twitter.com/CoEpiApp'
-            crunchbase: 'https://www.crunchbase.com/organization/coepi'
-            crunchbase_data:
-              name: CoEpi
-              description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.coepi.org'
-              city: Seattle
-              region: Washington
-              country: United States
-              twitter: 'https://twitter.com/CoEpiApp'
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Kotlin
-                  value: 247312
-                  color: '#F18E33'
-                - name: Java
-                  value: 86847
-                  color: '#b07219'
-                - name: Shell
-                  value: 964
-                  color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;19;33;17;16;17;3;9;14;4
-              firstWeek: 2019-06-03Z
-              stars: 27
-              license: MIT License
-              description: 'Android implementation of CoEpi '
-              latest_commit_date: '2020-05-22T00:49:26Z'
-              latest_commit_link: /Co-Epi/app-android/commit/079c73a7802d34cc5f9880f5f970469b8868902b
-              contributors_count: 11
-              contributors_link: 'https://github.com/Co-Epi/app-android/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /Co-Epi/app-android/commit/801182d53ef4a033cbd41ff0be12859aefef9b8a
-              start_date: '2020-03-22T08:01:10Z'
-            image_data:
-              fileName: co-epi.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-07T23:37:38.000Z
-          - item:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app'
             repo_url: 'https://github.com/corona-warn-app/cwa-server'
@@ -586,7 +535,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-12T02:12:20.000Z
       - subcategory:
-        name: Other
+        name: Non-GAEN-Compatible
         items:
           - item:
             name: Flaat
@@ -1331,6 +1280,122 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-20T21:51:16.000Z
   - category:
+    name: Symptom Monitoring
+    subcategories:
+      - subcategory:
+        name: Symptom Monitoring
+        items:
+          - item:
+            name: CoEpi
+            homepage_url: 'https://www.coepi.org'
+            repo_url: 'https://github.com/Co-Epi/app-android'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/CoEpiApp'
+            crunchbase: 'https://www.crunchbase.com/organization/coepi'
+            crunchbase_data:
+              name: CoEpi
+              description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.coepi.org'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: 'https://twitter.com/CoEpiApp'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 247312
+                  color: '#F18E33'
+                - name: Java
+                  value: 86847
+                  color: '#b07219'
+                - name: Shell
+                  value: 964
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;19;33;17;16;17;3;9;14;4
+              firstWeek: 2019-06-03Z
+              stars: 27
+              license: MIT License
+              description: 'Android implementation of CoEpi '
+              latest_commit_date: '2020-05-22T00:49:26Z'
+              latest_commit_link: /Co-Epi/app-android/commit/079c73a7802d34cc5f9880f5f970469b8868902b
+              contributors_count: 11
+              contributors_link: 'https://github.com/Co-Epi/app-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Co-Epi/app-android/commit/801182d53ef4a033cbd41ff0be12859aefef9b8a
+              start_date: '2020-03-22T08:01:10Z'
+            image_data:
+              fileName: co-epi.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-07T23:37:38.000Z
+          - item:
+            name: Sara Alert
+            homepage_url: 'https://saraalert.org/'
+            repo_url: 'https://github.com/SaraAlert/SaraAlert'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/mitre'
+            crunchbase_data:
+              name: MITRE Corporation
+              description: MITRE is a not-for-profit organization that operates research and development centers.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.mitre.org'
+              city: Bedford
+              region: Massachusetts
+              country: United States
+              twitter: 'http://twitter.com/MITREcorp'
+              linkedin: 'https://www.linkedin.com/company/mitre'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 588031
+                  color: '#f1e05a'
+                - name: Ruby
+                  value: 555605
+                  color: '#701516'
+                - name: HTML
+                  value: 121938
+                  color: '#e34c26'
+                - name: CSS
+                  value: 31370
+                  color: '#563d7c'
+                - name: Dockerfile
+                  value: 2944
+                  color: '#384d54'
+                - name: Shell
+                  value: 94
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;70;54;61;79;13;47;92;93;99;55;93;45;156;113;89;119;52
+              firstWeek: 2019-06-03Z
+              stars: 10
+              license: Apache License 2.0
+              description: Sara Alert is an open source application built to allow public health officials to monitor disease outbreaks.
+              latest_commit_date: '2020-05-24T15:11:04Z'
+              latest_commit_link: /SaraAlert/SaraAlert/commit/c190fc2a15421a00eceecd82d65b6b7ac151d5aa
+              contributors_count: 11
+              contributors_link: 'https://github.com/SaraAlert/SaraAlert/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /SaraAlert/SaraAlert/commit/d451109da880db913e96e217a1d36d43d7fe2ed8
+              start_date: '2020-01-26T21:26:44Z'
+            image_data:
+              fileName: sara-alert.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-22T16:00:07.000Z
+  - category:
     name: LF Public Health Foundation Member
     subcategories:
       - subcategory:
@@ -1441,10 +1506,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-23T01:51:45.000Z
   - category:
-    name: LF Public Health Adopter
+    name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: Implementation
+        name: PHA-Deployed Apps
         items:
           - item:
             name: Hamagen

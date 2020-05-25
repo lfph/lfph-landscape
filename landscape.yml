@@ -6,13 +6,6 @@ landscape:
         name: GAEN-compatible
         items:
           - item:
-            name: CoEpi
-            homepage_url: 'https://www.coepi.org'
-            repo_url: 'https://github.com/Co-Epi/app-android'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            twitter: 'https://twitter.com/CoEpiApp'
-            crunchbase: 'https://www.crunchbase.com/organization/coepi'
-          - item:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app'
             repo_url: 'https://github.com/corona-warn-app/cwa-server'
@@ -62,7 +55,7 @@ landscape:
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
       - subcategory:
-        name: Other
+        name: Non-GAEN-Compatible
         items:
           - item:
             name: Flaat
@@ -131,6 +124,25 @@ landscape:
             twitter: 'https://twitter.com/tcncoalition'
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
   - category:
+    name: Symptom Monitoring
+    subcategories:
+      - subcategory:
+        name: Symptom Monitoring
+        items:
+          - item:
+            name: CoEpi
+            homepage_url: 'https://www.coepi.org'
+            repo_url: 'https://github.com/Co-Epi/app-android'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/CoEpiApp'
+            crunchbase: 'https://www.crunchbase.com/organization/coepi'
+          - item:
+            name: Sara Alert
+            homepage_url: 'https://saraalert.org/'
+            repo_url: 'https://github.com/SaraAlert/SaraAlert'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/mitre'
+  - category:
     name: LF Public Health Foundation Member
     subcategories:
       - subcategory:
@@ -163,10 +175,10 @@ landscape:
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
   - category:
-    name: LF Public Health Adopter
+    name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: Implementation
+        name: PHA-Deployed Apps
         items:
           - item:
             name: Hamagen

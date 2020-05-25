@@ -130,11 +130,20 @@ big_picture:
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
-        category: LF Public Health Adopter
+        category: Symptom Monitoring
+        rows: 6
+        width: 325
+        height: 100
+        top: 180
+        left: 0
+        color: 'rgb(126,115,14)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: PHA-Deployed Apps
         rows: 6
         width: 970
-        height: 320
-        top: 180
+        height: 120
+        top: 300
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
