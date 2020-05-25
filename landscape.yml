@@ -170,13 +170,27 @@ landscape:
           - item:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg'
             crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg'
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
+          - item:
+            name: Stopp Corona (Austria)
+            homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
+      - subcategory:
+        name: Non-GAEN
+        items:
+          - item:
+            name: COVIDSafe (Australia)
+            homepage_url: 'https://covidsafe.gov.au/'
+            repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/australian-government'
       - subcategory:
         name: Self-Tracking
         items:
@@ -192,12 +206,12 @@ landscape:
           - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
   - category:

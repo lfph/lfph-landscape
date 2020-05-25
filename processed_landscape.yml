@@ -1494,7 +1494,7 @@ landscape:
           - item:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg'
             crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
             crunchbase_data:
               name: North Dakota Department of Health
@@ -1520,7 +1520,7 @@ landscape:
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg'
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
             crunchbase_data:
               name: South Dakota Department of Health
@@ -1543,6 +1543,78 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T19:30:08.000Z
+          - item:
+            name: Stopp Corona (Austria)
+            homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
+            crunchbase_data:
+              name: Austrian Red Cross
+              description: National Red Cross Organization in Austria and is part of the International Red Cross and Red Crescent Movement
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.roteskreuz.at'
+              city: Vienna
+              region: Wien
+              country: Austria
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: stopp-corona-austria.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Non-GAEN
+        items:
+          - item:
+            name: COVIDSafe (Australia)
+            homepage_url: 'https://covidsafe.gov.au/'
+            repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/australian-government'
+            crunchbase_data:
+              name: Australian Government
+              description: Australian Government website is primarily for the public and is your trusted source of government information.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.australia.gov.au/'
+              city: Canberra
+              region: Australian Capital Territory
+              country: Australia
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 271122
+                  color: '#F18E33'
+                - name: Java
+                  value: 61934
+                  color: '#b07219'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+              firstWeek: 2019-06-02Z
+              stars: 307
+              license: Other
+              description: COVIDSafe android app
+              latest_commit_date: '2020-05-15T08:19:59Z'
+              latest_commit_link: /AU-COVIDSafe/mobile-android/commit/696e4ed498623a763b3fefc6982d2567691ea48d
+              contributors_count: 1
+              contributors_link: 'https://github.com/AU-COVIDSafe/mobile-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /AU-COVIDSafe/mobile-android/commit/b827cf3ccef72a3d38c6fc37466a99868823540f
+              start_date: '2020-05-08T05:23:03Z'
+            image_data:
+              fileName: covid-safe-australia.svg
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Self-Tracking
         items:
@@ -1618,7 +1690,7 @@ landscape:
           - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
             crunchbase_data:
               name: Rhode Island Department of Health
@@ -1644,7 +1716,7 @@ landscape:
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
             crunchbase_data:
