@@ -591,6 +591,73 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-25T17:24:13.000Z
+          - item:
+            name: COVID-19 App
+            homepage_url: 'https://github.com/WorldHealthOrganization/app'
+            repo_url: 'https://github.com/WorldHealthOrganization/app'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/26/World_Health_Organization_Logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
+            crunchbase_data:
+              name: World Health Organization (WHO)
+              description: 'World Health Organization, an international organization, directs and coordinates authority for health within the United Nations System.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://who.int/'
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: 'http://twitter.com/who'
+              linkedin: 'https://www.linkedin.com/company/5350'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Dart
+                  value: 331821
+                  color: '#00B4AB'
+                - name: Java
+                  value: 30957
+                  color: '#b07219'
+                - name: Ruby
+                  value: 9822
+                  color: '#701516'
+                - name: Swift
+                  value: 2973
+                  color: '#ffac45'
+                - name: Kotlin
+                  value: 2740
+                  color: '#F18E33'
+                - name: Shell
+                  value: 1641
+                  color: '#89e051'
+                - name: Python
+                  value: 1106
+                  color: '#3572A5'
+                - name: Objective-C
+                  value: 837
+                  color: '#438eff'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91;88;135;43;19;19;15;18;47;4
+              firstWeek: 2019-06-02Z
+              stars: 1807
+              license: Other
+              description: COVID-19 App
+              latest_commit_date: '2020-05-24T16:30:14Z'
+              latest_commit_link: /WorldHealthOrganization/app/commit/190cb41cf4116ff10d4c59fb93d7ee19cfbbd842
+              release_date: '2020-04-06T06:00:25Z'
+              release_link: 'https://github.com/WorldHealthOrganization/app/releases'
+              contributors_count: 51
+              contributors_link: 'https://github.com/WorldHealthOrganization/app/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /WorldHealthOrganization/app/commit/5710ae95f5d48877faa38383f0f566e4a66ac35d
+              start_date: '2020-03-17T16:37:23Z'
+            image_data:
+              fileName: covid-19-app.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T19:21:10.000Z
   - category:
     name: Contact Tracing
     subcategories:
