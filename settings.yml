@@ -40,14 +40,14 @@ relation:
           big_picture_label: LF Public Health Foundation Project
           big_picture_color: 'rgb(24,54,114)'
     - id: company
-      label: LF Public Health Foundation Member
+      label: LFPH Member
       tag: Company
       big_picture_order: 3
     - id: member
-      label: LF Public Health Foundation Member Products/Projects
+      label: LFPH Member Products/Projects
       tag: LF Public Health Foundation Member
     - id: false
-      label: Non-LF Public Health Foundation Member Products/Projects
+      label: Non-LFPH Member Products/Projects
       url: 'no'
 membership:
   General:
@@ -147,6 +147,15 @@ big_picture:
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
+      - type: HorizontalCategory
+        category: LFPH Member
+        rows: 4
+        width: 650
+        height: 200
+        top: 540
+        left: 0
+        color: 'rgb(103,66,18)'
+        fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
@@ -187,5 +196,5 @@ big_picture:
             title: LF Public Health Foundation Logo
 test:
   header: LF Public Health Landscape
-  section: PHA-Deployed Apps
+  section: LFPH Member
   logo: u-s-digital-response.svg
