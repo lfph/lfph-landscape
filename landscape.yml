@@ -134,7 +134,6 @@ landscape:
             homepage_url: 'https://www.coepi.org'
             repo_url: 'https://github.com/Co-Epi/app-android'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
-            twitter: 'https://twitter.com/CoEpiApp'
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
           - item:
             name: Sara Alert
@@ -177,7 +176,6 @@ landscape:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
-            twitter: 'https://twitter.com/SDDOH'
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
       - subcategory:
         name: Self-Tracking
@@ -192,17 +190,16 @@ landscape:
         name: GPS-based
         items:
           - item:
+            name: Crush Covid (Rhode Island)
+            homepage_url: 'https://health.ri.gov/covid/crush/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+          - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
-          - item:
-            name: Crush Covid (Rhode Island)
-            homepage_url: 'https://health.ri.gov/covid/crush/'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            twitter: 'https://twitter.com/rihealth'
-            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
   - category:
     name: LFPH Member
     subcategories:
