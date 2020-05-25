@@ -10,7 +10,7 @@ landscape:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app'
             repo_url: 'https://github.com/corona-warn-app/cwa-server'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: corona-warn-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
             crunchbase_data:
               name: SAP
@@ -162,6 +162,7 @@ landscape:
               effective_ticker: SAP
             image_data:
               fileName: corona-warn-app.svg
+              hash: uC1EuJN/08loVgbYSpH9XQWbFJGoJD+F5PTm9ZRnU50=
             best_practice_data:
               badge: false
               percentage: null
@@ -978,7 +979,7 @@ landscape:
             name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
             homepage_url: 'https://github.com/DP-3T/documents'
             repo_url: 'https://github.com/DP-3T/documents'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: dp3t.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
             crunchbase_data:
               name: ETH Zurich
@@ -1013,6 +1014,7 @@ landscape:
               start_date: '2020-04-03T16:04:33Z'
             image_data:
               fileName: decentralized-privacy-preserving-proximity-tracing-dp-3-t.svg
+              hash: DwZInCMKOexPwcSDDCSDHJuyWgBkein+XeasgIZBn+M=
             best_practice_data:
               badge: false
               percentage: null
@@ -1503,7 +1505,7 @@ landscape:
             name: Model Data Protection Agreement (DPA)
             homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
             repo_url: 'https://github.com/usdigitalresponse/dpa'
-            logo: mit-privacy.svg
+            logo: us-digital-response-dpa.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
             crunchbase_data:
               name: U.S. Digital Response
@@ -1535,7 +1537,7 @@ landscape:
               start_date: '2020-05-19T19:51:16Z'
             image_data:
               fileName: model-data-protection-agreement-dpa.svg
-              hash: YAk2yaml9tItsu5BDYVRvG5dtuRxl50QoewKevZXmU8=
+              hash: CbFJ/kCugT0vJ3o8po2InwYNTaQKCoE8esmEsjWMMmw=
             best_practice_data:
               badge: false
               percentage: null
@@ -1826,6 +1828,58 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T19:36:01.000Z
+          - item:
+            name: NHS Covid-19 App (United Kingdom)
+            homepage_url: 'https://covid19.nhs.uk'
+            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
+            logo: united-kingdom.svg
+            twitter: 'https://twitter.com/NHSCOVID19app'
+            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
+            crunchbase_data:
+              name: National Health Service
+              description: NHS is the UK’s biggest health website which employs people with a wide range of skills from software development to journalism.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.nhs.uk'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/nhsuk'
+              linkedin: 'https://www.linkedin.com/company/nhs/about/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 472891
+                  color: '#F18E33'
+                - name: Dockerfile
+                  value: 4405
+                  color: '#384d54'
+                - name: Shell
+                  value: 4052
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;2;0
+              firstWeek: 2019-06-02Z
+              stars: 697
+              license: MIT License
+              description: Source code of the Beta of the NHS COVID-19 Android app
+              latest_commit_date: '2020-05-14T08:09:44Z'
+              latest_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/acfb01e3c40ac8f35cb85b55208e6efa3a10241d
+              contributors_count: 1
+              contributors_link: 'https://github.com/nhsx/COVID-19-app-Android-BETA/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/981adccfa22d135d0e0589c1450a56a6149496df
+              start_date: '2020-05-05T16:20:22Z'
+            image_data:
+              fileName: nhs-covid-19-app-united-kingdom.svg
+              hash: kTzNSx7bIbs7DPfpocDUpeNzJbOp8Hf+tUOdJ11R1SQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-23T13:00:32.000Z
           - item:
             name: ViruSafe (Bulgaria)
             homepage_url: 'https://virusafe.info/'
