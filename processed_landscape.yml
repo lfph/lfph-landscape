@@ -1495,18 +1495,18 @@ landscape:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/state-of-north-dakota'
+            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
             crunchbase_data:
-              name: State of North Dakota
-              description: 'State of North Dakota is a community shaped by history, traditions and a fresh perspective.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.nd.gov/'
+              name: North Dakota Department of Health
+              description: North Dakota Department of Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.health.nd.gov'
               city: Bismarck
               region: North Dakota
               country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/northdakota/'
+              twitter: 'https://twitter.com/NDDOH'
+              linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
@@ -1515,6 +1515,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T00:14:12.000Z
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
