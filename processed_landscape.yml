@@ -172,20 +172,21 @@ landscape:
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
             logo: covid-safe-paths.svg
-            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+            crunchbase: 'https://www.crunchbase.com/organization/path-check'
             crunchbase_data:
-              name: Covid Watch
-              description: Covid Watch
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.covid-watch.org/'
-              city: Palo Alto
-              region: California
+              name: Path Check
+              description: 'open-source, privacy-by-design tools for individuals, public health officials, and larger communities to flatten the curve of COVID-19'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://covidsafepaths.org/'
+              city: Cambridge
+              region: Massachusetts
               country: United States
-              twitter: 'https://twitter.com/COVIDWatchApp'
-              linkedin: 'https://www.linkedin.com/company/covidwatch/'
+              twitter: 'https://twitter.com/covidsafepaths'
+              linkedin: null
               acquisitions: []
               parents: []
+              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
@@ -244,7 +245,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-23T00:55:43.000Z
+              latest_tweet_date: 2020-05-24T22:13:18.000Z
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
@@ -1500,6 +1501,33 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Care19 (South Dakota)
+            homepage_url: 'https://covid.sd.gov/care19app.aspx'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/SDDOH'
+            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
+            crunchbase_data:
+              name: South Dakota Department of Health
+              description: Department of Health for South Dakota
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://doh.sd.gov/'
+              city: Pierre
+              region: South Dakota
+              country: United States
+              twitter: 'https://twitter.com/SDDOH'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: care19-south-dakota.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-24T19:30:08.000Z
       - subcategory:
         name: Self-Tracking
         items:
