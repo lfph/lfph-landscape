@@ -4,7 +4,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Corona-Warn-App
@@ -539,7 +539,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-12T02:12:20.000Z
       - subcategory:
-        name: Non-GAEN-Compatible
+        name: Non-GAEN
         items:
           - item:
             name: CovidSafe
@@ -595,7 +595,7 @@ landscape:
             name: COVID-19 App
             homepage_url: 'https://github.com/WorldHealthOrganization/app'
             repo_url: 'https://github.com/WorldHealthOrganization/app'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/26/World_Health_Organization_Logo.svg'
+            logo: world-health-organization-covid-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
             crunchbase_data:
               name: World Health Organization (WHO)
@@ -653,6 +653,7 @@ landscape:
               start_date: '2020-03-17T16:37:23Z'
             image_data:
               fileName: covid-19-app.svg
+              hash: 9xMtEl2POwXu/ORfReRPr0FUfERthJgJDDOb5mAWwlg=
             best_practice_data:
               badge: false
               percentage: null
@@ -1541,7 +1542,7 @@ landscape:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Care19 (North Dakota)
@@ -1620,7 +1621,7 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
-        name: Non-GAEN
+        name: Non-GAEN Bluetooth
         items:
           - item:
             name: COVIDSafe (Australia)
@@ -1817,6 +1818,58 @@ landscape:
               stockExchange: null
             image_data:
               fileName: healthy-together-utah.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-24T19:36:01.000Z
+          - item:
+            name: ViruSafe (Bulgaria)
+            homepage_url: 'https://virusafe.info/'
+            repo_url: 'https://github.com/scalefocus/virusafe-android'
+            logo: virusafe-bulgaria.svg
+            twitter: 'https://twitter.com/UtahCoronavirus'
+            crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+            crunchbase_data:
+              name: State of Utah
+              description: State of Utah provides links to government information sites and departments.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.utah.gov/'
+              city: Salt Lake City
+              region: Utah
+              country: United States
+              twitter: 'https://www.twitter.com/utahdata'
+              linkedin: 'https://www.linkedin.com/company/3357569'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 195300
+                  color: '#F18E33'
+                - name: Java
+                  value: 2262
+                  color: '#b07219'
+                - name: Shell
+                  value: 379
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;32;31;20;13;4
+              firstWeek: 2019-06-02Z
+              stars: 27
+              license: Apache License 2.0
+              description: The repo for the ViruSafe Android project
+              latest_commit_date: '2020-05-21T06:58:45Z'
+              latest_commit_link: /scalefocus/virusafe-android/commit/bff55d187aab4bee7070d844b691d3b2906a4242
+              contributors_count: 6
+              contributors_link: 'https://github.com/scalefocus/virusafe-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /scalefocus/virusafe-android/commit/35a13a5126e09ef7cd6373f59fdb50154943e58f
+              start_date: '2020-04-13T12:58:26Z'
+            image_data:
+              fileName: viru-safe-bulgaria.svg
+              hash: BZ9RAaagzp3dXu+02h3d/s8ToZjRnsa19Nnnm9H0qHI=
             best_practice_data:
               badge: false
               percentage: null

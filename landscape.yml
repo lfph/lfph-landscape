@@ -3,7 +3,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Corona-Warn-App
@@ -55,7 +55,7 @@ landscape:
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
       - subcategory:
-        name: Non-GAEN-Compatible
+        name: Non-GAEN
         items:
           - item:
             name: CovidSafe
@@ -67,7 +67,7 @@ landscape:
             name: COVID-19 App
             homepage_url: 'https://github.com/WorldHealthOrganization/app'
             repo_url: 'https://github.com/WorldHealthOrganization/app'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/26/World_Health_Organization_Logo.svg'
+            logo: world-health-organization-covid-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
   - category:
     name: Contact Tracing
@@ -171,7 +171,7 @@ landscape:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Care19 (North Dakota)
@@ -189,7 +189,7 @@ landscape:
             logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
       - subcategory:
-        name: Non-GAEN
+        name: Non-GAEN Bluetooth
         items:
           - item:
             name: COVIDSafe (Australia)
@@ -227,6 +227,13 @@ landscape:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
+            twitter: 'https://twitter.com/UtahCoronavirus'
+            crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+          - item:
+            name: ViruSafe (Bulgaria)
+            homepage_url: 'https://virusafe.info/'
+            repo_url: 'https://github.com/scalefocus/virusafe-android'
+            logo: virusafe-bulgaria.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
   - category:
