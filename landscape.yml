@@ -3,7 +3,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-compatible
+        name: GAEN-Compatible
         items:
           - item:
             name: Corona-Warn-App
@@ -143,18 +143,6 @@ landscape:
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/mitre'
   - category:
-    name: LF Public Health Foundation Member
-    subcategories:
-      - subcategory:
-        name: General
-        items:
-          - item:
-            name: xxx 8base (member)
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
-  - category:
     name: Organizations
     subcategories:
       - subcategory:
@@ -178,22 +166,45 @@ landscape:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: PHA-Deployed Apps
+        name: GAEN-Compatible
         items:
           - item:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-north-dakota'
+      - subcategory:
+        name: Self-Tracking
+        items:
           - item:
             name: Hamagen (Israel)
             homepage_url: 'https://health.gov.il'
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
+      - subcategory:
+        name: GPS-based
+        items:
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+          - item:
+            name: Crush Covid (Rhode Island)
+            homepage_url: 'https://health.ri.gov/covid/crush/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/rihealth'
+            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+  - category:
+    name: LFPH Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            unnamed_organization: true
+            name: Non-Public Organization Alligator (member)
+            homepage_url: 'https://www.lfph.io/'
+            logo: 'https://landscape.cncf.io/logos/non-public-organization-alligator-member.svg'

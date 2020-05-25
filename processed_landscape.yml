@@ -4,7 +4,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-compatible
+        name: GAEN-Compatible
         items:
           - item:
             name: Corona-Warn-App
@@ -1396,41 +1396,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-22T16:00:07.000Z
   - category:
-    name: LF Public Health Foundation Member
-    subcategories:
-      - subcategory:
-        name: General
-        items:
-          - item:
-            name: xxx 8base (member)
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
-            crunchbase_data:
-              name: 8base
-              description: 8base is a next generation backend-as-a-service for powering SaaS and other go-to-market applications.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://8base.com'
-              city: Coral Gables
-              region: Florida
-              country: United States
-              twitter: 'https://twitter.com/8baseinc'
-              linkedin: 'https://www.linkedin.com/company/8base/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 2800000
-            image_data:
-              fileName: xxx-8base-member.svg
-              hash: 9ISuHXEQOyNpQEjFXCiPixrx3L8sQ0HoH+hZ98EEoWg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-20T01:59:23.000Z
-  - category:
     name: Organizations
     subcategories:
       - subcategory:
@@ -1509,7 +1474,7 @@ landscape:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: PHA-Deployed Apps
+        name: GAEN-Compatible
         items:
           - item:
             name: Care19 (North Dakota)
@@ -1535,6 +1500,9 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Self-Tracking
+        items:
           - item:
             name: Hamagen (Israel)
             homepage_url: 'https://health.gov.il'
@@ -1601,6 +1569,9 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-20T17:12:44.000Z
+      - subcategory:
+        name: GPS-based
+        items:
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
@@ -1628,5 +1599,51 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T19:36:01.000Z
+          - item:
+            name: Crush Covid (Rhode Island)
+            homepage_url: 'https://health.ri.gov/covid/crush/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/rihealth'
+            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+            crunchbase_data:
+              name: Rhode Island Department of Health
+              description: To prevent disease and protect and promote the health and safety of the people of Rhode Island.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://health.ri.gov/'
+              city: Providence
+              region: Rhode Island
+              country: United States
+              twitter: 'https://twitter.com/rihealth'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: crush-covid-rhode-island.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-24T21:48:02.000Z
+  - category:
+    name: LFPH Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            unnamed_organization: true
+            name: Non-Public Organization Alligator (member)
+            homepage_url: 'https://www.lfph.io/'
+            logo: 'https://landscape.cncf.io/logos/non-public-organization-alligator-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
+            crunchbase_data:
+              parents: []
+            image_data:
+              fileName: non-public-organization-alligator-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
 twitter_options:
   count: 0

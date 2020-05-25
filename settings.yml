@@ -15,11 +15,11 @@ global:
     twitter: '@lfpublichealth'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: LF Public Health Foundation Member
+  membership: LFPH Member
   flags:
     hide_license_for_categories:
       - LF Public Health Adopter
-      - LF Public Health Foundation Member
+      - LFPH Member
 twitter:
   search: landscape.lfph.io
   url: 'https://landscape.lfph.io'
@@ -141,32 +141,23 @@ big_picture:
       - type: HorizontalCategory
         category: PHA-Deployed Apps
         rows: 6
-        width: 970
+        width: 650
         height: 120
         top: 300
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
-      - type: HorizontalCategory
-        category: LF Public Health Foundation Member
-        rows: 4
-        width: 650
-        height: 200
-        top: 540
-        left: 0
-        color: 'rgb(103,66,18)'
-        fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
-        top: 540
+        top: 160
         left: 665
         children:
           - type: text
             text: >
               This landscape is intended as a map to explore the LF Public Health community, and also shows the member organizations of the LF Public Health
               Foundation.
-            top: 55
+            top: 80
             left: 140
             right: 10
             font_size: 10
@@ -180,7 +171,7 @@ big_picture:
           - type: title
             title: l.lfph.io
             top: 140
-            left: 5
+            left: 30
             font_size: 21
           - type: image
             image: left-logo.svg
@@ -196,5 +187,5 @@ big_picture:
             title: LF Public Health Foundation Logo
 test:
   header: LF Public Health Landscape
-  section: LF Public Health Foundation Member
+  section: PHA-Deployed Apps
   logo: u-s-digital-response.svg
