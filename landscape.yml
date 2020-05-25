@@ -9,7 +9,7 @@ landscape:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app'
             repo_url: 'https://github.com/corona-warn-app/cwa-server'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: corona-warn-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
           - item:
             name: Covid Safe Paths
@@ -115,7 +115,7 @@ landscape:
             name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
             homepage_url: 'https://github.com/DP-3T/documents'
             repo_url: 'https://github.com/DP-3T/documents'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: dp3t.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
           - item:
             name: Google Apple Exposure Notification (GAEN)
@@ -229,6 +229,12 @@ landscape:
             logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+          - item:
+            name: NHS Covid-19 App (United Kingdom)
+            homepage_url: 'https://covid19.nhs.uk'
+            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
+            logo: united-kingdom.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
           - item:
             name: ViruSafe (Bulgaria)
             homepage_url: 'https://virusafe.info/'
