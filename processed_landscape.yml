@@ -1,250 +1,223 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: Contact Tracing
+    name: Exposure Notification
     subcategories:
       - subcategory:
-        name: Contact Tracing
+        name: GAEN-compatible
         items:
           - item:
-            name: CommCare
-            description: >-
-              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
-              from screening and contact tracing to patient monitoring and post-care support.
-            homepage_url: 'https://www.dimagi.com/covid-19/'
-            logo: commcare.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dimagi'
+            name: CoEpi
+            homepage_url: 'https://www.coepi.org'
+            repo_url: 'https://github.com/Co-Epi/app-android'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/CoEpiApp'
+            crunchbase: 'https://www.crunchbase.com/organization/coepi'
             crunchbase_data:
-              name: Dimagi
-              description: 'Dimagi is an award-winning technology company, developing scalable ICT solutions for low-resource settings.'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.dimagi.com/'
-              city: Cambridge
-              region: Massachusetts
+              name: CoEpi
+              description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.coepi.org'
+              city: Seattle
+              region: Washington
               country: United States
-              twitter: 'https://twitter.com/dimagi'
-              linkedin: 'https://www.linkedin.com/company/142712'
+              twitter: 'https://twitter.com/CoEpiApp'
+              linkedin: null
               acquisitions: []
               parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 247312
+                  color: '#F18E33'
+                - name: Java
+                  value: 86847
+                  color: '#b07219'
+                - name: Shell
+                  value: 964
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;19;33;17;16;17;3;9;14;4
+              firstWeek: 2019-06-03Z
+              stars: 27
+              license: MIT License
+              description: 'Android implementation of CoEpi '
+              latest_commit_date: '2020-05-22T00:49:26Z'
+              latest_commit_link: /Co-Epi/app-android/commit/079c73a7802d34cc5f9880f5f970469b8868902b
+              contributors_count: 11
+              contributors_link: 'https://github.com/Co-Epi/app-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Co-Epi/app-android/commit/801182d53ef4a033cbd41ff0be12859aefef9b8a
+              start_date: '2020-03-22T08:01:10Z'
             image_data:
-              fileName: comm-care.svg
-              hash: m9UJn4KmFw/8/bIWi3Z58fDQH9lvh3l5bIiA3xgjGKg=
+              fileName: co-epi.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-22T16:08:54.000Z
+              latest_tweet_date: 2020-05-07T23:37:38.000Z
           - item:
-            name: Conduent Maven
-            description: >-
-              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
-              support and share information during an outbreak crisis.
-            homepage_url: 'https://www.conduent.com/solution/public-health-technology/disease-surveillance-system/'
-            logo: 'https://upload.wikimedia.org/wikipedia/en/f/fa/Conduent_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/conduent'
+            name: Corona-Warn-App
+            homepage_url: 'https://www.coronawarn.app'
+            repo_url: 'https://github.com/corona-warn-app/cwa-server'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sap'
             crunchbase_data:
-              name: Conduent
-              description: 'Improving how businesses and governments interact with citizens, patients, customers and employees.'
+              name: SAP
+              description: SAP is a technology company that develops enterprise application software for companies and industries across diverse sectors.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'https://www.conduent.com/'
-              city: Florham Park
-              region: New Jersey
-              country: United States
-              twitter: 'https://twitter.com/conduent'
-              linkedin: 'https://www.linkedin.com/company-beta/10794364'
+              homepage: 'https://www.sap.com/'
+              city: Walldorf
+              region: Baden-Wurttemberg
+              country: Germany
+              twitter: 'http://twitter.com/SAP'
+              linkedin: 'https://www.linkedin.com/company/sap'
               acquisitions:
-                - date: '2018-10-31'
-                  acquiree: Health Solutions Plus
-              parents: []
-            image_data:
-              fileName: conduent-maven.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-22T17:00:01.000Z
-          - item:
-            name: Salesforce Emergency Response Management for Public Health
-            description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
-            homepage_url: 'https://www.salesforce.com/editions-pricing/work/public-health/'
-            logo: 'https://landscape.cncf.io/logos/salesforce-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/salesforce'
-            crunchbase_data:
-              name: Salesforce
-              description: Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.salesforce.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/salesforce'
-              linkedin: 'https://www.linkedin.com/company/salesforce'
-              acquisitions:
-                - date: '2020-03-02'
-                  acquiree: The CMO Club
-                - date: '2020-02-25'
-                  acquiree: Vlocity
-                  price: 1330000000
-                - date: '2020-02-03'
-                  acquiree: Evergage
-                - date: '2019-08-08'
-                  acquiree: ClickSoftware Technologies
-                  price: 1350000000
-                - date: '2019-06-10'
-                  acquiree: Tableau
-                  price: 15700000000
-                - date: '2019-05-06'
-                  acquiree: Bonobo AI
-                - date: '2019-04-17'
-                  acquiree: MapAnything
-                  price: 213000000
-                - date: '2019-04-16'
-                  acquiree: Salesforce Foundation
-                  price: 300000000
-                - date: '2019-01-28'
-                  acquiree: Griddable
-                - date: '2018-10-05'
-                  acquiree: Rebel
-                - date: '2018-07-17'
-                  acquiree: Datorama
-                  price: 800000000
-                - date: '2018-03-20'
-                  acquiree: MuleSoft
-                  price: 6500000000
-                - date: '2018-03-13'
-                  acquiree: CloudCraze
-                - date: '2018-01-08'
-                  acquiree: Attic Labs
-                - date: '2017-01-25'
-                  acquiree: Sequence
+                - date: '2001-03-30'
+                  acquiree: TopTier Software
+                  price: 400000000
+                - date: '2005-06-22'
+                  acquiree: Lighthammer Software
+                - date: '2005-09-19'
+                  acquiree: Triversity
+                - date: '2005-11-30'
+                  acquiree: Khimetrics
+                - date: '2006-04-05'
+                  acquiree: Virsa Systems
+                - date: '2006-05-17'
+                  acquiree: Frictionless Commerce
+                - date: '2006-12-07'
+                  acquiree: Factory Logic
+                - date: '2007-02-14'
+                  acquiree: 'Pilot Software, Inc.'
+                - date: '2007-05-08'
+                  acquiree: OutlookSoft
+                - date: '2007-05-14'
+                  acquiree: MaXware
+                - date: '2007-05-14'
+                  acquiree: Wicom Communications
+                - date: '2007-10-07'
+                  acquiree: Business Objects
+                  price: 6800000000
+                - date: '2008-06-17'
+                  acquiree: Visiprise
+                - date: '2009-02-19'
+                  acquiree: Coghead
+                - date: '2009-05-06'
+                  acquiree: Highdeal
+                - date: '2009-05-11'
+                  acquiree: Clear Standards
+                - date: '2009-07-23'
+                  acquiree: SAF
+                - date: '2010-05-12'
+                  acquiree: Sybase
+                  price: 5800000000
+                - date: '2011-01-12'
+                  acquiree: SECUDE - Software Security Products and Assets
+                - date: '2011-09-06'
+                  acquiree: Right Hemisphere
+                - date: '2011-09-20'
+                  acquiree: Crossgate
+                - date: '2011-12-03'
+                  acquiree: SuccessFactors
+                  price: 3400000000
+                - date: '2012-04-10'
+                  acquiree: Syclo
+                - date: '2012-05-22'
+                  acquiree: Ariba
+                  price: 4300000000
+                - date: '2013-01-31'
+                  acquiree: Ticket-Web
+                - date: '2013-02-22'
+                  acquiree: SmartOps
+                - date: '2013-03-07'
+                  acquiree: Camilion Solutions
+                - date: '2013-05-01'
+                  acquiree: Kms Software
+                - date: '2013-06-06'
+                  acquiree: hybris
+                  price: 1400000000
+                - date: '2013-09-10'
+                  acquiree: KXEN
+                - date: '2014-03-26'
+                  acquiree: Fieldglass
+                  price: 1000000000
+                - date: '2014-05-20'
+                  acquiree: SeeWhy
+                - date: '2014-08-10'
+                  acquiree: OpTier
+                  price: 10000000
+                - date: '2014-09-18'
+                  acquiree: SAP Concur
+                  price: 8300000000
+                - date: '2015-10-14'
+                  acquiree: Multiposting
+                - date: '2016-02-17'
+                  acquiree: Roambi
+                - date: '2016-08-25'
+                  acquiree: Altiscale
+                  price: 125000000
+                - date: '2016-09-28'
+                  acquiree: PLAT.ONE
                 - date: '2016-12-14'
-                  acquiree: Twin Prime
-                - date: '2016-10-03'
-                  acquiree: Krux
-                  price: 800000000
-                - date: '2016-09-30'
-                  acquiree: gravitytank
-                - date: '2016-09-07'
-                  acquiree: HeyWire
-                - date: '2016-08-15'
-                  acquiree: BeyondCore
-                  price: 110000000
-                - date: '2016-08-01'
-                  acquiree: Quip
-                  price: 750000000
-                - date: '2016-07-21'
-                  acquiree: Coolan
-                - date: '2016-06-01'
-                  acquiree: Demandware
-                  price: 2800000000
-                - date: '2016-05-09'
-                  acquiree: Implisit
-                - date: '2016-04-04'
-                  acquiree: MetaMind
-                  price: 32799999
-                - date: '2016-02-19'
-                  acquiree: PredictionIO
-                - date: '2016-01-22'
-                  acquiree: YOUR SL
-                - date: '2015-12-23'
-                  acquiree: SteelBrick
-                  price: 360000000
-                - date: '2015-12-14'
-                  acquiree: MinHash
-                - date: '2015-09-02'
-                  acquiree: AKTA
-                - date: '2015-07-31'
-                  acquiree: Kerensen Consulting
-                  price: 24200000
-                - date: '2015-05-29'
-                  acquiree: Tempo AI
-                - date: '2015-04-01'
-                  acquiree: Toopher
-                - date: '2014-07-11'
-                  acquiree: RelateIQ
-                  price: 390000000
-                - date: '2013-06-07'
-                  acquiree: EdgeSpring
-                - date: '2013-06-04'
-                  acquiree: ExactTarget
-                  price: 2500000000
-                - date: '2013-05-10'
-                  acquiree: Clipboard
-                  price: 20000000
-                - date: '2013-02-06'
-                  acquiree: EntropySoft
-                - date: '2012-11-23'
-                  acquiree: Prior Knowledge
-                - date: '2012-07-09'
-                  acquiree: GoInstant
-                - date: '2012-06-25'
-                  acquiree: Thinkfuse
-                - date: '2012-06-18'
-                  acquiree: ChoicePass
-                - date: '2012-06-04'
-                  acquiree: Buddy Media
-                  price: 649000000
-                - date: '2012-05-01'
-                  acquiree: Stypi
-                - date: '2011-12-15'
-                  acquiree: Rypple
-                - date: '2011-11-14'
-                  acquiree: Model Metrics
-                - date: '2011-09-21'
-                  acquiree: Desk.com
-                - date: '2011-08-26'
-                  acquiree: Navajo Systems
-                - date: '2011-05-01'
-                  acquiree: Zorap
-                - date: '2011-03-30'
-                  acquiree: Radian6
-                - date: '2011-02-01'
-                  acquiree: Manymoon
-                - date: '2011-01-06'
-                  acquiree: Dimdim
-                - date: '2010-12-21'
-                  acquiree: Etacts
-                - date: '2010-12-08'
-                  acquiree: Heroku
-                - date: '2010-09-24'
-                  acquiree: Activa Live
-                - date: '2010-05-28'
-                  acquiree: Sitemasher
-                - date: '2010-04-21'
-                  acquiree: Jigsaw
-                - date: '2009-12-31'
-                  acquiree: Informavores
-                - date: '2009-12-11'
-                  acquiree: GroupSwim
-                  price: 7000000
-                - date: '2008-08-19'
-                  acquiree: InStranet
-                  price: 31500000
-                - date: '2007-04-10'
-                  acquiree: Koral Technologies
-                - date: '2006-08-22'
-                  acquiree: Kieden
-                - date: '2006-04-11'
-                  acquiree: Sendia
+                  acquiree: Abakus
+                - date: '2017-09-24'
+                  acquiree: Gigya
+                  price: 350000000
+                - date: '2018-01-22'
+                  acquiree: Recast.AI
+                - date: '2018-01-29'
+                  acquiree: CallidusCloud
+                  price: 2400000000
+                - date: '2018-06-05'
+                  acquiree: Coresystems
+                - date: '2018-11-10'
+                  acquiree: Qualtrics
+                  price: 8000000000
+                - date: '2018-11-19'
+                  acquiree: Contextor
               parents: []
-              ticker: CRM
+              ticker: SAP
+              funding: 1301371240
+              stockExchange: nyse
               kind: market_cap
+            github_data:
+              languages:
+                - name: Java
+                  value: 366015
+                  color: '#b07219'
+                - name: Shell
+                  value: 4334
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 954
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;26;55;78
+              firstWeek: 2019-06-03Z
+              stars: 630
+              license: Apache License 2.0
+              description: Backend implementation for the Apple/Google exposure notification API.
+              latest_commit_date: '2020-05-24T16:28:09Z'
+              latest_commit_link: /corona-warn-app/cwa-server/commit/04019bf2d9f725c10c8caacfa7344c6261763db3
+              release_date: '2020-05-22T21:25:20Z'
+              release_link: 'https://github.com/corona-warn-app/cwa-server/releases'
+              contributors_count: 24
+              contributors_link: 'https://github.com/corona-warn-app/cwa-server/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /corona-warn-app/cwa-server/commit/a25c5fde50c4536ca1b39b889b93f3c94fcbc15b
+              start_date: '2020-05-02T15:07:32Z'
             yahoo_finance_data:
-              market_cap: 159866699776
-              effective_ticker: CRM
+              market_cap: 139791237120
+              effective_ticker: SAP
             image_data:
-              fileName: salesforce-emergency-response-management-for-public-health.svg
+              fileName: corona-warn-app.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-23T23:30:06.000Z
-      - subcategory:
-        name: Apps
-        items:
+              latest_tweet_date: 2020-05-24T22:13:06.000Z
           - item:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
@@ -427,6 +400,67 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-23T00:55:43.000Z
           - item:
+            name: ito-app
+            homepage_url: 'https://www.ito-app.org'
+            repo_url: 'https://github.com/ito-org/ito-app'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
+            crunchbase_data:
+              name: ito-App
+              description: ito is a privacy-first contact tracing app to fight SARS-CoV-2 and other pathogens.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Ober-olm
+              region: Rheinland-Pfalz
+              country: Germany
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 85350
+                  color: '#2b7489'
+                - name: Java
+                  value: 6583
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 4405
+                  color: '#438eff'
+                - name: Ruby
+                  value: 3929
+                  color: '#701516'
+                - name: JavaScript
+                  value: 973
+                  color: '#f1e05a'
+                - name: Starlark
+                  value: 602
+                - name: Shell
+                  value: 596
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61;47;135;62;31;9;4;0
+              firstWeek: 2019-06-03Z
+              stars: 42
+              license: GNU General Public License v3.0
+              description: A privacy-first contact tracing app
+              latest_commit_date: '2020-05-15T12:42:23Z'
+              latest_commit_link: /ito-org/ito-app/commit/eba629372adf799fe046b40ee53a9f1e0eb29055
+              release_date: '2020-05-04T22:07:17Z'
+              release_link: 'https://github.com/ito-org/ito-app/releases'
+              contributors_count: 20
+              contributors_link: 'https://github.com/ito-org/ito-app/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /ito-org/ito-app/commit/443b9ed15ef6b19c9c533a30dc8e361c86adbf0e
+              start_date: '2020-04-01T18:12:08Z'
+            image_data:
+              fileName: ito-app.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: OHIOH
             homepage_url: 'https://ohioh.de'
             repo_url: 'https://github.com/ohioh/ohioh.de'
@@ -465,74 +499,97 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-  - category:
-    name: Components
-    subcategories:
-      - subcategory:
-        name: APIs
-        items:
           - item:
-            name: FLAAT API
-            homepage_url: 'https://app.flaat.io/'
-            repo_url: 'https://github.com/EQWorks/react-schedule'
-            logo: flaat.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eq-works'
+            name: Pandoa
+            homepage_url: 'https://pandoa.org'
+            repo_url: 'https://github.com/wirewirewirewire/pandoa'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/pandoa'
             crunchbase_data:
-              name: EQ works
-              description: 'EQ Works is a provider of targeted mobile, web, social, and video advertising and digital marketing solutions.'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.eqworks.com'
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: 'http://twitter.com/eqworkscorp'
-              linkedin: 'https://www.linkedin.com/company/3202191'
-              acquisitions:
-                - date: '2018-10-15'
-                  acquiree: Tapped Mobile
-                - date: '2010-09-14'
-                  acquiree: Surebaby.com
-                - date: '2010-05-18'
-                  acquiree: Tsavo Media
-                - date: '2000-03-22'
-                  acquiree: ProCure Treatment Centers
+              name: Pandoa
+              description: The Corona virus tracker app.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://pandoa.org'
+              city: Jena
+              region: Thuringen
+              country: Germany
+              twitter: null
+              linkedin: null
+              acquisitions: []
               parents: []
-              ticker: EQ
-              kind: market_cap
+              stockExchange: null
             github_data:
               languages:
                 - name: JavaScript
-                  value: 11913
+                  value: 191774
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;1;1;0;0;0;0;0;3;0;0;0;0;0;0;0;1;9;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2019-06-02Z
-              stars: 0
-              license: Unknown License
-              description: 'Generic schedule (time of day) component http://eqworks.github.io/react-schedule'
-              latest_commit_date: '2020-01-27T21:21:55Z'
-              latest_commit_link: /EQWorks/react-schedule/commit/9804e67fe1ab088f55741c596094cbf73c372d28
-              contributors_count: 4
-              contributors_link: 'https://github.com/EQWorks/react-schedule/graphs/contributors'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72;20;0;0;0;3;0;0;0;0
+              firstWeek: 2019-06-03Z
+              stars: 68
+              license: GNU General Public License v3.0
+              description: 'The app informs you, if you had contact with an infected patient.'
+              latest_commit_date: '2020-04-25T23:42:47Z'
+              latest_commit_link: /wirewirewirewire/pandoa/commit/520de4d7f3c2e6c970b36bba4c0e6b0216328a4a
+              contributors_count: 5
+              contributors_link: 'https://github.com/wirewirewirewire/pandoa/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /EQWorks/react-schedule/commit/93569edbd60f7f2176aa2d2d59598d6df9ebb3f3
-              start_date: '2018-02-01T20:03:49Z'
-            yahoo_finance_data:
-              market_cap: 54466720
-              effective_ticker: EQ
+              start_commit_link: /wirewirewirewire/pandoa/commit/dbbdcfeb66cae3f9c23db5fb04998a78f315849c
+              start_date: '2020-03-18T14:52:52Z'
             image_data:
-              fileName: flaat-api.svg
-              hash: wjTcCFSf5OwK4khWGlwH99mOI5K+Ydyd4+hThc0IwhY=
+              fileName: pandoa.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TrackCOVID
+            homepage_url: 'https://trackcovid.net'
+            repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
+            crunchbase_data:
+              name: TrackCOVID
+              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Los Angeles
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TrackCOVIDApp'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: R
+                  value: 21598
+                  color: '#198CE7'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51;42;88;10;0;29;3;0;8;0
+              firstWeek: 2019-06-03Z
+              stars: 14
+              license: MIT License
+              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes
+              latest_commit_date: '2020-05-12T17:19:38Z'
+              latest_commit_link: /tyleryasaka/TrackCOVID/commit/29752282eeaf6a69d168b79191fb0e934eeb3c69
+              contributors_count: 2
+              contributors_link: 'https://github.com/tyleryasaka/TrackCOVID/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tyleryasaka/TrackCOVID/commit/d60b3b345fd0a5380a2887fe9ebd5e992f4bba3e
+              start_date: '2020-03-19T09:31:38Z'
+            image_data:
+              fileName: track-covid.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-21T20:28:09.000Z
+              latest_tweet_date: 2020-05-12T02:12:20.000Z
       - subcategory:
-        name: SDK
+        name: Other
         items:
           - item:
-            name: FLAAT SDK
+            name: Flaat
             homepage_url: 'https://app.flaat.io/'
             repo_url: 'https://github.com/EQWorks/flaat-sdk-ios'
             logo: flaat.svg
@@ -587,13 +644,316 @@ landscape:
               market_cap: 54466720
               effective_ticker: EQ
             image_data:
-              fileName: flaat-sdk.svg
+              fileName: flaat.svg
               hash: wjTcCFSf5OwK4khWGlwH99mOI5K+Ydyd4+hThc0IwhY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-21T20:28:09.000Z
+  - category:
+    name: Contact Tracing
+    subcategories:
+      - subcategory:
+        name: Contact Tracing
+        items:
+          - item:
+            name: CommCare
+            description: >-
+              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
+              from screening and contact tracing to patient monitoring and post-care support.
+            homepage_url: 'https://www.dimagi.com/covid-19/'
+            logo: commcare.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dimagi'
+            crunchbase_data:
+              name: Dimagi
+              description: 'Dimagi is an award-winning technology company, developing scalable ICT solutions for low-resource settings.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.dimagi.com/'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/dimagi'
+              linkedin: 'https://www.linkedin.com/company/142712'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: comm-care.svg
+              hash: m9UJn4KmFw/8/bIWi3Z58fDQH9lvh3l5bIiA3xgjGKg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-22T16:08:54.000Z
+          - item:
+            name: Conduent Maven
+            description: >-
+              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
+              support and share information during an outbreak crisis.
+            homepage_url: 'https://www.conduent.com/solution/public-health-technology/disease-surveillance-system/'
+            logo: 'https://upload.wikimedia.org/wikipedia/en/f/fa/Conduent_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/conduent'
+            crunchbase_data:
+              name: Conduent
+              description: 'Improving how businesses and governments interact with citizens, patients, customers and employees.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.conduent.com/'
+              city: Florham Park
+              region: New Jersey
+              country: United States
+              twitter: 'https://twitter.com/conduent'
+              linkedin: 'https://www.linkedin.com/company-beta/10794364'
+              acquisitions:
+                - date: '2018-10-31'
+                  acquiree: Health Solutions Plus
+              parents: []
+            image_data:
+              fileName: conduent-maven.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-22T17:00:01.000Z
+          - item:
+            name: NextTrace
+            description: NextTrace is building a contact tracing system to enable public health decisions.
+            homepage_url: 'https://nexttrace.org'
+            repo_url: 'https://github.com/nexttrace/survey-platform'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/nexttrace'
+            crunchbase: 'https://www.crunchbase.com/organization/nexttrace'
+            crunchbase_data:
+              name: NextTrace
+              description: NextTrace is building a contact tracing system to enable public health decisions
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Ruby
+                  value: 100383
+                  color: '#701516'
+                - name: HTML
+                  value: 65883
+                  color: '#e34c26'
+                - name: JavaScript
+                  value: 8559
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 1105
+                  color: '#563d7c'
+                - name: Dockerfile
+                  value: 969
+                  color: '#384d54'
+                - name: Shell
+                  value: 926
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;91;41;61;0;0
+              firstWeek: 2019-06-03Z
+              stars: 1
+              license: Unknown License
+              description: NextTrace Survey Platform
+              latest_commit_date: '2020-05-08T22:29:40Z'
+              latest_commit_link: /nexttrace/survey-platform/commit/727ce75826ebbc735572358031eb308f1344ce40
+              contributors_count: 3
+              contributors_link: 'https://github.com/nexttrace/survey-platform/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nexttrace/survey-platform/commit/2e848045d40fb97fb7fdaa4a310fd44f826c008f
+              start_date: '2020-04-18T07:43:48Z'
+            image_data:
+              fileName: next-trace.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-01T06:53:29.000Z
+          - item:
+            name: Salesforce Emergency Response Management for Public Health
+            description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
+            homepage_url: 'https://www.salesforce.com/editions-pricing/work/public-health/'
+            logo: 'https://landscape.cncf.io/logos/salesforce-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/salesforce'
+            crunchbase_data:
+              name: Salesforce
+              description: Salesforce is a global cloud computing company that develops CRM solutions and provides business software on a subscription basis.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.salesforce.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/salesforce'
+              linkedin: 'https://www.linkedin.com/company/salesforce'
+              acquisitions:
+                - date: '2020-03-02'
+                  acquiree: The CMO Club
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                  price: 1330000000
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                  price: 1350000000
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                  price: 15700000000
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                  price: 213000000
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                  price: 300000000
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                  price: 800000000
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                  price: 6500000000
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2016-10-03'
+                  acquiree: Krux
+                  price: 800000000
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                  price: 110000000
+                - date: '2016-08-01'
+                  acquiree: Quip
+                  price: 750000000
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                  price: 2800000000
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                  price: 32799999
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                  price: 360000000
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                  price: 24200000
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                  price: 390000000
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                  price: 2500000000
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                  price: 20000000
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                  price: 649000000
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2011-12-15'
+                  acquiree: Rypple
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                  price: 7000000
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                  price: 31500000
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2006-04-11'
+                  acquiree: Sendia
+              parents: []
+              ticker: CRM
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 159866699776
+              effective_ticker: CRM
+            image_data:
+              fileName: salesforce-emergency-response-management-for-public-health.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-23T23:30:06.000Z
   - category:
     name: Specifications
     subcategories:
@@ -927,6 +1287,7 @@ landscape:
             homepage_url: 'http://tcn-coalition.org/'
             repo_url: 'https://github.com/TCNCoalition/TCN'
             logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
+            twitter: 'https://twitter.com/tcncoalition'
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             crunchbase_data:
               name: LF Public Health
@@ -967,6 +1328,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T21:51:16.000Z
   - category:
     name: LF Public Health Foundation Member
     subcategories:
@@ -1034,43 +1397,120 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-23T01:51:45.000Z
-  - category:
-    name: LF Public Health Adopter
-    subcategories:
       - subcategory:
-        name: LF Public Health Adopter
+        name: Legal Templates
         items:
           - item:
-            name: xxx 1stdibs (adopter)
-            homepage_url: 'https://www.1stdibs.com'
-            logo: 1stdibs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
+            name: Model Data Protection Agreement (DPA)
+            homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
+            repo_url: 'https://github.com/usdigitalresponse/dpa'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
             crunchbase_data:
-              name: 1stdibs
-              description: '1stdibs is an internet company that offers a marketplace for rare and desirable objects in furniture, fashion, fine art, and jewelry.'
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'http://www.1stdibs.com'
-              city: New York
-              region: New York
+              name: U.S. Digital Response
+              description: USDR helps governments respond as fast as possible to COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.usdigitalresponse.org/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: 'http://twitter.com/1stdibs'
-              linkedin: 'https://www.linkedin.com/company/1stdibs-com/'
-              acquisitions:
-                - date: '2019-05-07'
-                  acquiree: Design Manager
-                - date: '2012-09-18'
-                  acquiree: Online Galleries
+              twitter: 'https://twitter.com/USDResponse'
+              linkedin: 'https://www.linkedin.com/company/usdr/'
+              acquisitions: []
               parents: []
-              kind: funding
-              funding: 253000000
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+              firstWeek: 2019-06-03Z
+              stars: 0
+              license: Creative Commons Zero v1.0 Universal
+              description: Data Protection Agreement
+              latest_commit_date: '2020-05-19T21:10:03Z'
+              latest_commit_link: /usdigitalresponse/dpa/commit/686886d85335783324aef2f3897d136c4c6dd854
+              contributors_count: 1
+              contributors_link: 'https://github.com/usdigitalresponse/dpa/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /usdigitalresponse/dpa/commit/584c1d21141ca32746c3e93749772b86be5eb629
+              start_date: '2020-05-19T19:51:16Z'
             image_data:
-              fileName: xxx-1stdibs-adopter.svg
-              hash: 6lR4gG6HBPVIJqArifzYTnMLY/C8fall8FkRRYYyDGw=
+              fileName: model-data-protection-agreement-dpa.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-24T00:35:03.000Z
+              latest_tweet_date: 2020-05-23T01:51:45.000Z
+  - category:
+    name: LF Public Health Adopter
+    subcategories:
+      - subcategory:
+        name: Implementation
+        items:
+          - item:
+            name: Hamagen
+            homepage_url: 'https://health.gov.il'
+            repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
+            crunchbase_data:
+              name: Israeli Ministry of Health
+              description: Israeli Ministry of Health is a ministry in the Israeli government responsible for formulating health policies.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.health.gov.il'
+              city: Jerusalem
+              region: Yerushalayim
+              country: Israel
+              twitter: 'https://twitter.com/israelmoh'
+              linkedin: 'https://www.linkedin.com/company/ministry-of-health-israel/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 204899
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 36256
+                  color: '#f1e05a'
+                - name: Java
+                  value: 5333
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 3552
+                  color: '#438eff'
+                - name: Ruby
+                  value: 3163
+                  color: '#701516'
+                - name: Starlark
+                  value: 1930
+                - name: Swift
+                  value: 159
+                  color: '#ffac45'
+                - name: C
+                  value: 104
+                  color: '#555555'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;31;9;15;19;37;20;24;0;0
+              firstWeek: 2019-06-03Z
+              stars: 470
+              license: MIT License
+              description: Israel's Ministry of Health's COVID-19 Exposure Prevention App
+              latest_commit_date: '2020-05-07T14:08:23Z'
+              latest_commit_link: /MohGovIL/hamagen-react-native/commit/30954bda7d83b97b3aae300963a49ec2361bbbf3
+              release_date: '2020-05-07T09:56:06Z'
+              release_link: 'https://github.com/MohGovIL/hamagen-react-native/releases'
+              contributors_count: 17
+              contributors_link: 'https://github.com/MohGovIL/hamagen-react-native/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /MohGovIL/hamagen-react-native/commit/c59aa1669deb2c20fbe229f65f6d812aa096df43
+              start_date: '2020-03-22T19:57:12Z'
+            image_data:
+              fileName: hamagen.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T17:12:44.000Z
 twitter_options:
   count: 0
