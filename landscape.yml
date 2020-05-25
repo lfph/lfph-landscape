@@ -181,8 +181,19 @@ landscape:
         name: PHA-Deployed Apps
         items:
           - item:
-            name: Hamagen
+            name: Care19 (North Dakota)
+            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/state-of-north-dakota'
+          - item:
+            name: Hamagen (Israel)
             homepage_url: 'https://health.gov.il'
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
+          - item:
+            name: Healthy Together (Utah)
+            homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            twitter: 'https://twitter.com/UtahCoronavirus'
+            crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
