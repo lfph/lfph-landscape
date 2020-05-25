@@ -1828,19 +1828,18 @@ landscape:
             homepage_url: 'https://virusafe.info/'
             repo_url: 'https://github.com/scalefocus/virusafe-android'
             logo: virusafe-bulgaria.svg
-            twitter: 'https://twitter.com/UtahCoronavirus'
-            crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+            crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
             crunchbase_data:
-              name: State of Utah
-              description: State of Utah provides links to government information sites and departments.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.utah.gov/'
-              city: Salt Lake City
-              region: Utah
-              country: United States
-              twitter: 'https://www.twitter.com/utahdata'
-              linkedin: 'https://www.linkedin.com/company/3357569'
+              name: Bulgaria Ministry of Health
+              description: Ministry of Health for the Republic of Bulgaria
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.mh.government.bg/en/'
+              city: Sofia
+              region: Grad Sofiya
+              country: Bulgaria
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
@@ -1873,8 +1872,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-24T19:36:01.000Z
   - category:
     name: LFPH Member
     subcategories:
