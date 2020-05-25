@@ -4,7 +4,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Corona-Warn-App
@@ -498,7 +498,7 @@ landscape:
             name: TrackCOVID
             homepage_url: 'https://trackcovid.net'
             repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: trackcovid.svg
             crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
             crunchbase_data:
               name: TrackCOVID
@@ -533,79 +533,133 @@ landscape:
               start_date: '2020-03-19T09:31:38Z'
             image_data:
               fileName: track-covid.svg
+              hash: jxi3khbBD/tn3vhynE6RKCsoNluEAvtnxZrHVe8d19E=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-12T02:12:20.000Z
       - subcategory:
-        name: Non-GAEN-Compatible
+        name: Non-GAEN
         items:
           - item:
-            name: Flaat
-            homepage_url: 'https://app.flaat.io/'
-            repo_url: 'https://github.com/EQWorks/flaat-sdk-ios'
-            logo: flaat.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eq-works'
+            name: CovidSafe
+            homepage_url: 'https://covidsafe.cs.washington.edu/'
+            repo_url: 'https://github.com/covidsafe/App-Android'
+            logo: covidsafe.svg
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
             crunchbase_data:
-              name: EQ works
-              description: 'EQ Works is a provider of targeted mobile, web, social, and video advertising and digital marketing solutions.'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.eqworks.com'
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: 'http://twitter.com/eqworkscorp'
-              linkedin: 'https://www.linkedin.com/company/3202191'
-              acquisitions:
-                - date: '2000-03-22'
-                  acquiree: ProCure Treatment Centers
-                - date: '2010-05-18'
-                  acquiree: Tsavo Media
-                - date: '2010-09-14'
-                  acquiree: Surebaby.com
-                - date: '2018-10-15'
-                  acquiree: Tapped Mobile
+              name: University of Washington
+              description: 'University of Washington is an educational institution that provides undergraduate, graduate, and research programs.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.washington.edu/'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: 'https://twitter.com/UW'
+              linkedin: 'https://www.linkedin.com/school/university-of-washington/'
+              acquisitions: []
               parents: []
-              ticker: EQ
-              funding: 4790476
-              stockExchange: tsx
-              kind: market_cap
+              funding: 87530000
+              stockExchange: null
+              kind: funding
             github_data:
               languages:
-                - name: Swift
-                  value: 58343
-                  color: '#ffac45'
-                - name: Ruby
-                  value: 1233
-                  color: '#701516'
-                - name: Objective-C
-                  value: 488
-                  color: '#438eff'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;13;24;3;0;0
+                - name: Java
+                  value: 690247
+                  color: '#b07219'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;143;80;114;104;228;159;4;20;0
               firstWeek: 2019-06-02Z
-              stars: 0
+              stars: 52
               license: MIT License
-              description: FlaatSDK for COVID-19 contact tracing on iOS
-              latest_commit_date: '2020-05-08T18:04:17Z'
-              latest_commit_link: /EQWorks/flaat-sdk-ios/commit/3cbb2258275f230753d2e9e3603c220e543c1493
-              contributors_count: 1
-              contributors_link: 'https://github.com/EQWorks/flaat-sdk-ios/graphs/contributors'
+              description: >-
+                Doctors and researchers at the University of Washington with Microsoft volunteers have built a tool to alert you about highly relevant public
+                health announcements, potential exposure to COVID-19, and to assist public health officials and contact tracing teams without compromising your
+                personal privacy.
+              latest_commit_date: '2020-05-16T07:35:55Z'
+              latest_commit_link: /covidsafe/App-Android/commit/387a7344f4b0be4dad10693350a85677906d8be0
+              contributors_count: 9
+              contributors_link: 'https://github.com/covidsafe/App-Android/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /EQWorks/flaat-sdk-ios/commit/f8735f53663be40b75b1bfb5522a939005d95591
-              start_date: '2020-04-17T15:04:59Z'
-            yahoo_finance_data:
-              market_cap: 54466720
-              effective_ticker: EQ
+              start_commit_link: /covidsafe/App-Android/commit/4353f63012cdc520b0b37e25964ecb1c267506dc
+              start_date: '2020-03-21T00:44:10Z'
             image_data:
-              fileName: flaat.svg
-              hash: wjTcCFSf5OwK4khWGlwH99mOI5K+Ydyd4+hThc0IwhY=
+              fileName: covid-safe.svg
+              hash: jeyQcBFNs4sUclGyK3fnvGX+8I9n2Inw6hI4AHzorgw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-21T20:28:09.000Z
+              latest_tweet_date: 2020-05-25T17:24:13.000Z
+          - item:
+            name: COVID-19 App
+            homepage_url: 'https://github.com/WorldHealthOrganization/app'
+            repo_url: 'https://github.com/WorldHealthOrganization/app'
+            logo: world-health-organization-covid-app.svg
+            crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
+            crunchbase_data:
+              name: World Health Organization (WHO)
+              description: 'World Health Organization, an international organization, directs and coordinates authority for health within the United Nations System.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://who.int/'
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: 'http://twitter.com/who'
+              linkedin: 'https://www.linkedin.com/company/5350'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Dart
+                  value: 331821
+                  color: '#00B4AB'
+                - name: Java
+                  value: 30957
+                  color: '#b07219'
+                - name: Ruby
+                  value: 9822
+                  color: '#701516'
+                - name: Swift
+                  value: 2973
+                  color: '#ffac45'
+                - name: Kotlin
+                  value: 2740
+                  color: '#F18E33'
+                - name: Shell
+                  value: 1641
+                  color: '#89e051'
+                - name: Python
+                  value: 1106
+                  color: '#3572A5'
+                - name: Objective-C
+                  value: 837
+                  color: '#438eff'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91;88;135;43;19;19;15;18;47;4
+              firstWeek: 2019-06-02Z
+              stars: 1807
+              license: Other
+              description: COVID-19 App
+              latest_commit_date: '2020-05-24T16:30:14Z'
+              latest_commit_link: /WorldHealthOrganization/app/commit/190cb41cf4116ff10d4c59fb93d7ee19cfbbd842
+              release_date: '2020-04-06T06:00:25Z'
+              release_link: 'https://github.com/WorldHealthOrganization/app/releases'
+              contributors_count: 51
+              contributors_link: 'https://github.com/WorldHealthOrganization/app/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /WorldHealthOrganization/app/commit/5710ae95f5d48877faa38383f0f566e4a66ac35d
+              start_date: '2020-03-17T16:37:23Z'
+            image_data:
+              fileName: covid-19-app.svg
+              hash: 9xMtEl2POwXu/ORfReRPr0FUfERthJgJDDOb5mAWwlg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T19:21:10.000Z
   - category:
     name: Contact Tracing
     subcategories:
@@ -678,7 +732,7 @@ landscape:
             description: NextTrace is building a contact tracing system to enable public health decisions.
             homepage_url: 'https://nexttrace.org'
             repo_url: 'https://github.com/nexttrace/survey-platform'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: nexttrace.svg
             twitter: 'https://twitter.com/nexttrace'
             crunchbase: 'https://www.crunchbase.com/organization/nexttrace'
             crunchbase_data:
@@ -729,6 +783,7 @@ landscape:
               start_date: '2020-04-18T07:43:48Z'
             image_data:
               fileName: next-trace.svg
+              hash: PJtKHCM+ihL6VMPgDR370ZBbtHt49ty0uuozwCxsTC8=
             best_practice_data:
               badge: false
               percentage: null
@@ -1409,10 +1464,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-22T16:00:07.000Z
   - category:
-    name: Organizations
+    name: Non-Code Contributions
     subcategories:
       - subcategory:
-        name: Civic & Social
+        name: Non-Profit Implementation Assistance
         items:
           - item:
             name: U.S. Digital Response
@@ -1448,7 +1503,7 @@ landscape:
             name: Model Data Protection Agreement (DPA)
             homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
             repo_url: 'https://github.com/usdigitalresponse/dpa'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: mit-privacy.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
             crunchbase_data:
               name: U.S. Digital Response
@@ -1480,6 +1535,7 @@ landscape:
               start_date: '2020-05-19T19:51:16Z'
             image_data:
               fileName: model-data-protection-agreement-dpa.svg
+              hash: YAk2yaml9tItsu5BDYVRvG5dtuRxl50QoewKevZXmU8=
             best_practice_data:
               badge: false
               percentage: null
@@ -1489,7 +1545,7 @@ landscape:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Care19 (North Dakota)
@@ -1568,7 +1624,7 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
-        name: Non-GAEN
+        name: Non-GAEN Bluetooth
         items:
           - item:
             name: COVIDSafe (Australia)
@@ -1688,6 +1744,36 @@ landscape:
         name: GPS-based
         items:
           - item:
+            name: BeAware Bahrain
+            description: >-
+              The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
+              been in contact with someone who is showing symptoms of the COVID-19 virus.
+            homepage_url: >-
+              https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
+            crunchbase_data:
+              name: 'eGovernment Authority, Kingdom of Bahrain'
+              description: 'eGovernment Authority, Kingdom of Bahrain is a government administration office in Bahrain.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://www.bahrain.bh'
+              city: Manama
+              region: Al Manamah
+              country: Bahrain
+              twitter: 'https://www.twitter.com/igabahrain'
+              linkedin: 'https://www.linkedin.com/company/igabahrain'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: be-aware-bahrain.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T07:00:02.000Z
+          - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
@@ -1740,6 +1826,55 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T19:36:01.000Z
+          - item:
+            name: ViruSafe (Bulgaria)
+            homepage_url: 'https://virusafe.info/'
+            repo_url: 'https://github.com/scalefocus/virusafe-android'
+            logo: virusafe-bulgaria.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
+            crunchbase_data:
+              name: Bulgaria Ministry of Health
+              description: Ministry of Health for the Republic of Bulgaria
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.mh.government.bg/en/'
+              city: Sofia
+              region: Grad Sofiya
+              country: Bulgaria
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 195300
+                  color: '#F18E33'
+                - name: Java
+                  value: 2262
+                  color: '#b07219'
+                - name: Shell
+                  value: 379
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;32;31;20;13;4
+              firstWeek: 2019-06-02Z
+              stars: 27
+              license: Apache License 2.0
+              description: The repo for the ViruSafe Android project
+              latest_commit_date: '2020-05-21T06:58:45Z'
+              latest_commit_link: /scalefocus/virusafe-android/commit/bff55d187aab4bee7070d844b691d3b2906a4242
+              contributors_count: 6
+              contributors_link: 'https://github.com/scalefocus/virusafe-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /scalefocus/virusafe-android/commit/35a13a5126e09ef7cd6373f59fdb50154943e58f
+              start_date: '2020-04-13T12:58:26Z'
+            image_data:
+              fileName: viru-safe-bulgaria.svg
+              hash: BZ9RAaagzp3dXu+02h3d/s8ToZjRnsa19Nnnm9H0qHI=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: LFPH Member
     subcategories:

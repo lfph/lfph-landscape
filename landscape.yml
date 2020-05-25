@@ -3,7 +3,7 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Corona-Warn-App
@@ -52,23 +52,23 @@ landscape:
             name: TrackCOVID
             homepage_url: 'https://trackcovid.net'
             repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: trackcovid.svg
             crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
       - subcategory:
-        name: Non-GAEN-Compatible
+        name: Non-GAEN
         items:
           - item:
-            name: NHS Covid-19 App
-            homepage_url: 'https://covid19.nhs.uk'
-            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
+            name: CovidSafe
+            homepage_url: 'https://covidsafe.cs.washington.edu/'
+            repo_url: 'https://github.com/covidsafe/App-Android'
+            logo: covidsafe.svg
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
           - item:
-            name: Flaat
-            homepage_url: 'https://app.flaat.io/'
-            repo_url: 'https://github.com/EQWorks/flaat-sdk-ios'
-            logo: flaat.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eq-works'
+            name: COVID-19 App
+            homepage_url: 'https://github.com/WorldHealthOrganization/app'
+            repo_url: 'https://github.com/WorldHealthOrganization/app'
+            logo: world-health-organization-covid-app.svg
+            crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
   - category:
     name: Contact Tracing
     subcategories:
@@ -96,7 +96,7 @@ landscape:
             description: NextTrace is building a contact tracing system to enable public health decisions.
             homepage_url: 'https://nexttrace.org'
             repo_url: 'https://github.com/nexttrace/survey-platform'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: nexttrace.svg
             twitter: 'https://twitter.com/nexttrace'
             crunchbase: 'https://www.crunchbase.com/organization/nexttrace'
           - item:
@@ -148,10 +148,10 @@ landscape:
             logo: 'https://logoipsum.com/logo/logo-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/mitre'
   - category:
-    name: Organizations
+    name: Non-Code Contributions
     subcategories:
       - subcategory:
-        name: Civic & Social
+        name: Non-Profit Implementation Assistance
         items:
           - item:
             name: U.S. Digital Response
@@ -165,13 +165,13 @@ landscape:
             name: Model Data Protection Agreement (DPA)
             homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
             repo_url: 'https://github.com/usdigitalresponse/dpa'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: us-digital-response-dpa.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
   - category:
     name: PHA-Deployed Apps
     subcategories:
       - subcategory:
-        name: GAEN-Compatible
+        name: GAEN Bluetooth
         items:
           - item:
             name: Care19 (North Dakota)
@@ -189,7 +189,7 @@ landscape:
             logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
       - subcategory:
-        name: Non-GAEN
+        name: Non-GAEN Bluetooth
         items:
           - item:
             name: COVIDSafe (Australia)
@@ -210,6 +210,15 @@ landscape:
         name: GPS-based
         items:
           - item:
+            name: BeAware Bahrain
+            description: >-
+              The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
+              been in contact with someone who is showing symptoms of the COVID-19 virus.
+            homepage_url: >-
+              https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
+          - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
@@ -220,6 +229,18 @@ landscape:
             logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+          - item:
+            name: NHS Covid-19 App (United Kingdom)
+            homepage_url: 'https://covid19.nhs.uk'
+            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
+            logo: united-kingdom.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
+          - item:
+            name: ViruSafe (Bulgaria)
+            homepage_url: 'https://virusafe.info/'
+            repo_url: 'https://github.com/scalefocus/virusafe-android'
+            logo: virusafe-bulgaria.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
   - category:
     name: LFPH Member
     subcategories:
