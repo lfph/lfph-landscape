@@ -353,67 +353,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-23T00:55:43.000Z
           - item:
-            name: ito-app
-            homepage_url: 'https://www.ito-app.org'
-            repo_url: 'https://github.com/ito-org/ito-app'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
-            crunchbase_data:
-              name: ito-App
-              description: ito is a privacy-first contact tracing app to fight SARS-CoV-2 and other pathogens.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: null
-              city: Ober-olm
-              region: Rheinland-Pfalz
-              country: Germany
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: TypeScript
-                  value: 85350
-                  color: '#2b7489'
-                - name: Java
-                  value: 6583
-                  color: '#b07219'
-                - name: Objective-C
-                  value: 4405
-                  color: '#438eff'
-                - name: Ruby
-                  value: 3929
-                  color: '#701516'
-                - name: JavaScript
-                  value: 973
-                  color: '#f1e05a'
-                - name: Starlark
-                  value: 602
-                - name: Shell
-                  value: 596
-                  color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61;47;135;62;31;9;4;0
-              firstWeek: 2019-06-02Z
-              stars: 42
-              license: GNU General Public License v3.0
-              description: A privacy-first contact tracing app
-              latest_commit_date: '2020-05-15T12:42:23Z'
-              latest_commit_link: /ito-org/ito-app/commit/eba629372adf799fe046b40ee53a9f1e0eb29055
-              release_date: '2020-05-04T22:07:17Z'
-              release_link: 'https://github.com/ito-org/ito-app/releases'
-              contributors_count: 20
-              contributors_link: 'https://github.com/ito-org/ito-app/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /ito-org/ito-app/commit/443b9ed15ef6b19c9c533a30dc8e361c86adbf0e
-              start_date: '2020-04-01T18:12:08Z'
-            image_data:
-              fileName: ito-app.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: OHIOH
             homepage_url: 'https://ohioh.de'
             repo_url: 'https://github.com/ohioh/ohioh.de'
@@ -450,48 +389,6 @@ landscape:
             image_data:
               fileName: ohioh.svg
               hash: Z4xa1m+X8FnUz2nXOu9wFgmjnp1RL3YyjwLoO0+IDao=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Pandoa
-            homepage_url: 'https://pandoa.org'
-            repo_url: 'https://github.com/wirewirewirewire/pandoa'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/pandoa'
-            crunchbase_data:
-              name: Pandoa
-              description: The Corona virus tracker app.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://pandoa.org'
-              city: Jena
-              region: Thuringen
-              country: Germany
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 191774
-                  color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72;20;0;0;0;3;0;0;0;0
-              firstWeek: 2019-06-02Z
-              stars: 68
-              license: GNU General Public License v3.0
-              description: 'The app informs you, if you had contact with an infected patient.'
-              latest_commit_date: '2020-04-25T23:42:47Z'
-              latest_commit_link: /wirewirewirewire/pandoa/commit/520de4d7f3c2e6c970b36bba4c0e6b0216328a4a
-              contributors_count: 5
-              contributors_link: 'https://github.com/wirewirewirewire/pandoa/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /wirewirewirewire/pandoa/commit/dbbdcfeb66cae3f9c23db5fb04998a78f315849c
-              start_date: '2020-03-18T14:52:52Z'
-            image_data:
-              fileName: pandoa.svg
             best_practice_data:
               badge: false
               percentage: null
@@ -1360,7 +1257,7 @@ landscape:
             name: CoEpi
             homepage_url: 'https://www.coepi.org'
             repo_url: 'https://github.com/Co-Epi/app-android'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: coepi.svg
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
             crunchbase_data:
               name: CoEpi
@@ -1401,6 +1298,7 @@ landscape:
               start_date: '2020-03-22T08:01:10Z'
             image_data:
               fileName: co-epi.svg
+              hash: xZ7ohT0wWJ99XE928Z84YFjscfKi2F2xY1CGXXKKRtg=
             best_practice_data:
               badge: false
               percentage: null
@@ -1410,7 +1308,7 @@ landscape:
             name: Sara Alert
             homepage_url: 'https://saraalert.org/'
             repo_url: 'https://github.com/SaraAlert/SaraAlert'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: sara-alert.svg
             crunchbase: 'https://www.crunchbase.com/organization/mitre'
             crunchbase_data:
               name: MITRE Corporation
@@ -1460,6 +1358,7 @@ landscape:
               start_date: '2020-01-26T21:26:44Z'
             image_data:
               fileName: sara-alert.svg
+              hash: Yyvr2neryrVfmYf8RTiZdLN/e3g91Qi1t5lUfw9V85U=
             best_practice_data:
               badge: false
               percentage: null
@@ -1552,7 +1451,7 @@ landscape:
           - item:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg'
+            logo: north-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
             crunchbase_data:
               name: North Dakota Department of Health
@@ -1570,6 +1469,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: care19-north-dakota.svg
+              hash: PvH8O2P95+cjYbHVwwzn3jWdSWIRR5BOkQdpxM+3tAE=
             best_practice_data:
               badge: false
               percentage: null
@@ -1578,7 +1478,7 @@ landscape:
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg'
+            logo: south-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
             crunchbase_data:
               name: South Dakota Department of Health
@@ -1596,6 +1496,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: care19-south-dakota.svg
+              hash: 5NM6ZPuoXxdwszTqdU5Mg/7CDfqGTwZfyoL4ZpLNKfM=
             best_practice_data:
               badge: false
               percentage: null
@@ -1604,7 +1505,7 @@ landscape:
           - item:
             name: Stopp Corona (Austria)
             homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
+            logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
             crunchbase_data:
               name: Austrian Red Cross
@@ -1622,6 +1523,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: stopp-corona-austria.svg
+              hash: TW7pB3RVNoyBoapXzcH8o15jl4rnsDq5Gjj1nbVUOLA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1632,7 +1534,7 @@ landscape:
             name: COVIDSafe (Australia)
             homepage_url: 'https://covidsafe.gov.au/'
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg'
+            logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
             crunchbase_data:
               name: Australian Government
@@ -1670,6 +1572,7 @@ landscape:
               start_date: '2020-05-08T05:23:03Z'
             image_data:
               fileName: covid-safe-australia.svg
+              hash: LkjdXQg/QrQQNDU0z1J7jDPtFyyboXwNGgT6Ypr/0Ng=
             best_practice_data:
               badge: false
               percentage: null
@@ -1680,7 +1583,7 @@ landscape:
             name: Hamagen (Israel)
             homepage_url: 'https://health.gov.il'
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: israel.svg
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
             crunchbase_data:
               name: Israeli Ministry of Health
@@ -1737,6 +1640,7 @@ landscape:
               start_date: '2020-03-22T19:57:12Z'
             image_data:
               fileName: hamagen-israel.svg
+              hash: wMW3DQyB2FXW6TgVFGd3X4APWP7lkATUcqJ0m90c1cs=
             best_practice_data:
               badge: false
               percentage: null
@@ -1752,7 +1656,7 @@ landscape:
               been in contact with someone who is showing symptoms of the COVID-19 virus.
             homepage_url: >-
               https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg'
+            logo: bahrain.svg
             crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
             crunchbase_data:
               name: 'eGovernment Authority, Kingdom of Bahrain'
@@ -1770,6 +1674,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: be-aware-bahrain.svg
+              hash: yi7AYgKE31uDrSvfysA9pBCviatAD5wwpTF7hvJ54IY=
             best_practice_data:
               badge: false
               percentage: null
@@ -1778,7 +1683,7 @@ landscape:
           - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
+            logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
             crunchbase_data:
               name: Rhode Island Department of Health
@@ -1796,6 +1701,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: crush-covid-rhode-island.svg
+              hash: abz/SNoX0PP46QklTonpXd+Y2J33yNEgRaZz7pdzhko=
             best_practice_data:
               badge: false
               percentage: null
@@ -1804,7 +1710,7 @@ landscape:
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
+            logo: utah.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
             crunchbase_data:
@@ -1823,6 +1729,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: healthy-together-utah.svg
+              hash: Y87CiLoaUFuUu2TmAAT/sbv2THdkpzixngZs2HrVh4k=
             best_practice_data:
               badge: false
               percentage: null

@@ -31,23 +31,11 @@ landscape:
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
           - item:
-            name: ito-app
-            homepage_url: 'https://www.ito-app.org'
-            repo_url: 'https://github.com/ito-org/ito-app'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
-          - item:
             name: OHIOH
             homepage_url: 'https://ohioh.de'
             repo_url: 'https://github.com/ohioh/ohioh.de'
             logo: ohioh.svg
             crunchbase: 'https://www.crunchbase.com/organization/ohioh'
-          - item:
-            name: Pandoa
-            homepage_url: 'https://pandoa.org'
-            repo_url: 'https://github.com/wirewirewirewire/pandoa'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/pandoa'
           - item:
             name: TrackCOVID
             homepage_url: 'https://trackcovid.net'
@@ -139,13 +127,13 @@ landscape:
             name: CoEpi
             homepage_url: 'https://www.coepi.org'
             repo_url: 'https://github.com/Co-Epi/app-android'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: coepi.svg
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
           - item:
             name: Sara Alert
             homepage_url: 'https://saraalert.org/'
             repo_url: 'https://github.com/SaraAlert/SaraAlert'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: sara-alert.svg
             crunchbase: 'https://www.crunchbase.com/organization/mitre'
   - category:
     name: Non-Code Contributions
@@ -176,17 +164,17 @@ landscape:
           - item:
             name: Care19 (North Dakota)
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg'
+            logo: north-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg'
+            logo: south-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
           - item:
             name: Stopp Corona (Austria)
             homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg'
+            logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
       - subcategory:
         name: Non-GAEN Bluetooth
@@ -195,7 +183,7 @@ landscape:
             name: COVIDSafe (Australia)
             homepage_url: 'https://covidsafe.gov.au/'
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg'
+            logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
       - subcategory:
         name: Self-Tracking
@@ -204,7 +192,7 @@ landscape:
             name: Hamagen (Israel)
             homepage_url: 'https://health.gov.il'
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: israel.svg
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
       - subcategory:
         name: GPS-based
@@ -216,17 +204,17 @@ landscape:
               been in contact with someone who is showing symptoms of the COVID-19 virus.
             homepage_url: >-
               https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg'
+            logo: bahrain.svg
             crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
           - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg'
+            logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg'
+            logo: utah.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
           - item:
