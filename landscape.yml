@@ -143,6 +143,10 @@ landscape:
         items:
           - item:
             name: U.S. Digital Response
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
             homepage_url: 'https://www.usdigitalresponse.org'
             logo: usdigitalresponse.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
@@ -151,6 +155,9 @@ landscape:
         items:
           - item:
             name: Model Data Protection Agreement (DPA)
+            description: >-
+              Amidst all the noise about contact tracing and exposure notification apps, U.S. Digital Response has put together a Model Data Protection
+              Agreement to help ensure an appropriate balance between those who produce data for these apps and those who use data produced by these apps.
             homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
             repo_url: 'https://github.com/usdigitalresponse/dpa'
             logo: us-digital-response-dpa.svg
@@ -163,17 +170,25 @@ landscape:
         items:
           - item:
             name: Care19 (North Dakota)
+            description: >-
+              This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
+              with people who have tested positive.
             homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
             logo: north-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
           - item:
             name: Care19 (South Dakota)
             homepage_url: 'https://covid.sd.gov/care19app.aspx'
+            description: >-
+              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
+              rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
             logo: south-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
           - item:
             name: Stopp Corona (Austria)
             homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
+            description: Together we contribute to interrupting the chain of infection of the corona infections as quickly as possible!
+            repo_url: 'https://github.com/austrianredcross/stopp-corona-android'
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
       - subcategory:
@@ -182,21 +197,22 @@ landscape:
           - item:
             name: COVIDSafe (Australia)
             homepage_url: 'https://covidsafe.gov.au/'
+            description: COVIDSafe helps you and all of our communities. Assist health officials to quickly understand and tackle the spread of Coronavirus (COVID-19).
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
             logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
       - subcategory:
-        name: Self-Tracking
+        name: GPS-based
         items:
           - item:
             name: Hamagen (Israel)
-            homepage_url: 'https://health.gov.il'
+            description: >-
+              HaMagen is an app that is endorsed by the Ministry of Health. It can tell you have been in the presence of anyone who has been diagnosed with
+              coronavirus.
+            homepage_url: 'https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/'
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
             logo: israel.svg
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
-      - subcategory:
-        name: GPS-based
-        items:
           - item:
             name: BeAware Bahrain
             description: >-
@@ -209,17 +225,26 @@ landscape:
           - item:
             name: Crush Covid (Rhode Island)
             homepage_url: 'https://health.ri.gov/covid/crush/'
+            description: >-
+              CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
+              health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
             logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
           - item:
             name: Healthy Together (Utah)
             homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
+            description: >-
+              The Healthy Together app helps you assess your symptoms, find the nearest testing center, view test results, and learn what to do after you've
+              been tested for COVID-19.
             logo: utah.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
           - item:
             name: NHS Covid-19 App (United Kingdom)
             homepage_url: 'https://covid19.nhs.uk'
+            description: >-
+              Developed by the NHS with a team of world-leading scientists and doctors, the NHS COVID-19 app will play an important role in the fight against
+              coronavirus.
             repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
             logo: united-kingdom.svg
             twitter: 'https://twitter.com/NHSCOVID19app'
@@ -227,12 +252,14 @@ landscape:
           - item:
             name: Trace Together (Singapore)
             homepage_url: 'https://www.tracetogether.gov.sg/'
+            description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
             repo_url: 'https://github.com/opentrace-community/opentrace-android'
             logo: singapore.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
           - item:
             name: ViruSafe (Bulgaria)
             homepage_url: 'https://virusafe.info/'
+            description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
             repo_url: 'https://github.com/scalefocus/virusafe-android'
             logo: virusafe-bulgaria.svg
             crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
