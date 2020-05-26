@@ -1571,6 +1571,33 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: SwissCovid (Switzerland)
+            description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
+            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
+            crunchbase_data:
+              name: Federal Office of Public Health (FOPH) Switzerland
+              description: The Federal Office of Public Health (FOPH) is the Swiss federal government’s centre for public health.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.bag.admin.ch'
+              city: Berne
+              region: Bern
+              country: Switzerland
+              twitter: 'https://twitter.com/bag_int'
+              linkedin: 'https://www.linkedin.com/company/bag-ofsp/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: swiss-covid-switzerland.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T09:08:24.000Z
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -1759,6 +1786,54 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-23T00:29:05.000Z
           - item:
+            name: ProteGO (Poland)
+            description: We've started working on an application that will allow you to control and stop the spread of coronavirus.
+            homepage_url: 'https://www.gov.pl/web/cyfryzacja/zycie-po-kwarantannie--przetestuj-protego'
+            repo_url: 'https://github.com/ProteGO-Safe/android'
+            logo: poland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-poland'
+            crunchbase_data:
+              name: Ministry of Health Poland
+              description: Ministry of Health of the Republic of Poland is one of the Ministries of the Republic of Poland.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.gov.pl'
+              city: Warsaw
+              region: Mazowieckie
+              country: Poland
+              twitter: 'https://twitter.com/MZ_GOV_PL'
+              linkedin: 'https://www.linkedin.com/company/ministry-of-the-interior-and-health/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 349229
+                  color: '#F18E33'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14;35;21;1;5;2;3;0;0
+              firstWeek: 2019-06-02Z
+              stars: 124
+              license: GNU General Public License v3.0
+              description: Aplikacja Android
+              latest_commit_date: '2020-05-05T23:32:32Z'
+              latest_commit_link: /ProteGO-Safe/android/commit/835db9221c8c2809c49585323cec0357216fe013
+              release_date: '2020-04-27T21:28:45Z'
+              release_link: 'https://github.com/ProteGO-Safe/android/releases'
+              contributors_count: 13
+              contributors_link: 'https://github.com/ProteGO-Safe/android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /ProteGO-Safe/android/commit/5b3b6bc5e60da60497682e0a2a6b58c7e3cd9f11
+              start_date: '2020-03-26T12:20:58Z'
+            image_data:
+              fileName: prote-go-poland.svg
+              hash: 2ehs+Z6/32AHBhhJvpCRDnQFZRM3mNdGFJCsrR2ZshQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T13:08:40.000Z
+          - item:
             name: StopKorona (North Macedonia)
             description: >-
               StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the Coronavirus. The app is intended to
@@ -1789,6 +1864,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-26T12:00:19.000Z
+          - item:
+            name: TraceCovid (United Arab Emirates)
+            description: 'When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.'
+            homepage_url: 'https://tracecovid.ae/'
+            logo: united-arab-emirates.svg
+            crunchbase: 'https://www.crunchbase.com/organization/united-arab-emirates-ministry-of-health-and-prevention'
+            crunchbase_data:
+              name: United Arab Emirates Ministry of Health and Prevention
+              description: The Ministry of Health and Prevention is responsible for the implementation of health care policy.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://moh.gov.ae'
+              city: Dubai
+              region: Dubai
+              country: United Arab Emirates
+              twitter: 'https://twitter.com/mohapuae'
+              linkedin: 'https://www.linkedin.com/company/ministry-of-health---uae/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: trace-covid-united-arab-emirates.svg
+              hash: 1KkgY7zPP/EjxNrNWAVWRfaN1wktDROucvUzXmLobQ4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T13:04:41.000Z
       - subcategory:
         name: GPS-based
         items:
@@ -1883,6 +1986,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T21:48:02.000Z
+          - item:
+            name: Ehteraz (Qatar)
+            description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
+            homepage_url: >-
+              https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/lVNdU6MwFP0r-NBHJpfv8MgyWulIxVanwEsnQKBxISCk3Y6_3mBdP3a11TwlJ5lz7zn3BKUoRiknO1YRwVpO6vGc2mv3GvsaxjC9jhY-BBdwE0VGuAjBRiuUojTnohMblGy2v9u2Ycofmil5ywXlYgIv4ASaNmM1VQba71hOh1eAdF3N8ueKw8jW5axASeFaWpEBmKVpmYUDGcYkK0lpZY7jGA4ZXw6U9Pnmlu4FSqp-YET2m8h-4YvlwSk5S8oPko6zJLKM847n6tyAYOkFv-bhhQYzHS3fhJiuXWouMVRNtwrVtDVTxTpYqq65plSEM73UThAaxo8JZ_8o_Uh4a4xO6X3oh5WkJWKjMl62KO4oH-QclJzU-bYmou1f54XivyB9gTras7YYmdj9w0PqySCMQ5fTiI8n4S0CjBdsx4otqZWayD2vlI5U482RTibwRScHFy3v0tMCH6bTpeeC59jBLLiLAALz4OLKD9c3d-cL-fr_AH0_f7NTWfrc4c9C_3MHv_WXuqbBRqPG-6hp1vO5miZYYNhbu8cruvLOzp4A-Y5qPA!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?searchText=ehteraz
+            logo: qatar.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
+            crunchbase_data:
+              name: Bulgaria Ministry of Health
+              description: Ministry of Health for the Republic of Bulgaria
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.mh.government.bg/en/'
+              city: Sofia
+              region: Grad Sofiya
+              country: Bulgaria
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: ehteraz-qatar.svg
+              hash: u1eGXohE9pXDOQqA8C5zjWxXnmq0wPbT2P6WJE7zxOQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: GH COVID-19 Tracker (Ghana)
             description: 'Easy to use, digital tool to help you assess and self-report your symptoms for COVID-19'
@@ -1979,6 +2109,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-20T17:12:44.000Z
+          - item:
+            name: Hayat Eve Sığar (Turkey)
+            description: 'With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!'
+            homepage_url: 'https://kayserisehir.saglik.gov.tr/TR,450081/hayat-eve-sigar.html'
+            logo: turkey.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-turkey'
+            crunchbase_data:
+              name: Ministry of Health Turkey
+              description: The Ministry of Health Turkish is responsible for proposing and executing the government policy on health.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.saglik.gov.tr'
+              city: Ankara
+              region: Ankara
+              country: Turkey
+              twitter: 'https://twitter.com/MFATurkey'
+              linkedin: 'https://www.linkedin.com/company/turkish-ministry-of-health/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: hayat-eve-s-ar-turkey.svg
+              hash: +EPJ50uJdS5NIvvw/NA2T4Wm9aGhpbOaOUkZBt1KdLk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T10:54:16.000Z
           - item:
             name: Health Code (China)
             description: Unified national epidemic prevention and control health code based on the national integrated government service platform.
@@ -2120,6 +2278,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-23T13:00:32.000Z
+          - item:
+            name: NZ COVID Tracer (New Zealand)
+            description: 'NZ COVID Tracer helps you protect yourself, your friends, your whānau and your community by enabling faster contact tracing.'
+            homepage_url: >-
+              https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/contact-tracing-covid-19/nz-covid-tracer-app
+            logo: new-zealand.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-new-zealand'
+            crunchbase_data:
+              name: Ministry of Health New Zealand
+              description: Ministry of Health New Zealand
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.health.govt.nz/'
+              city: Auckland
+              region: Auckland
+              country: New Zealand
+              twitter: 'https://twitter.com/minhealthnz'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: nz-covid-tracer-new-zealand.svg
+              hash: sPTvkeua61CPxClmsW+8m3KWHB01jay0+NP83JS63tc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T03:23:31.000Z
           - item:
             name: Rakning C-19 (Iceland)
             description: This app helps to identify individual travels and traces with others' travels when an infection occurs or is suspected of transmission.

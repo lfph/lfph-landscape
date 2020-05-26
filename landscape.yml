@@ -194,6 +194,12 @@ landscape:
             repo_url: 'https://github.com/austrianredcross/stopp-corona-android'
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
+          - item:
+            name: SwissCovid (Switzerland)
+            description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
+            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -237,6 +243,13 @@ landscape:
             logo: malaysia.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-science-technology-and-innovation-malaysia'
           - item:
+            name: ProteGO (Poland)
+            description: We've started working on an application that will allow you to control and stop the spread of coronavirus.
+            homepage_url: 'https://www.gov.pl/web/cyfryzacja/zycie-po-kwarantannie--przetestuj-protego'
+            repo_url: 'https://github.com/ProteGO-Safe/android'
+            logo: poland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-poland'
+          - item:
             name: StopKorona (North Macedonia)
             description: >-
               StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the Coronavirus. The app is intended to
@@ -245,6 +258,12 @@ landscape:
             homepage_url: 'https://stop.koronavirus.gov.mk/en'
             logo: north-macedonia.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-north-macedonia'
+          - item:
+            name: TraceCovid (United Arab Emirates)
+            description: 'When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.'
+            homepage_url: 'https://tracecovid.ae/'
+            logo: united-arab-emirates.svg
+            crunchbase: 'https://www.crunchbase.com/organization/united-arab-emirates-ministry-of-health-and-prevention'
       - subcategory:
         name: GPS-based
         items:
@@ -274,6 +293,13 @@ landscape:
             logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
           - item:
+            name: Ehteraz (Qatar)
+            description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
+            homepage_url: >-
+              https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/lVNdU6MwFP0r-NBHJpfv8MgyWulIxVanwEsnQKBxISCk3Y6_3mBdP3a11TwlJ5lz7zn3BKUoRiknO1YRwVpO6vGc2mv3GvsaxjC9jhY-BBdwE0VGuAjBRiuUojTnohMblGy2v9u2Ycofmil5ywXlYgIv4ASaNmM1VQba71hOh1eAdF3N8ueKw8jW5axASeFaWpEBmKVpmYUDGcYkK0lpZY7jGA4ZXw6U9Pnmlu4FSqp-YET2m8h-4YvlwSk5S8oPko6zJLKM847n6tyAYOkFv-bhhQYzHS3fhJiuXWouMVRNtwrVtDVTxTpYqq65plSEM73UThAaxo8JZ_8o_Uh4a4xO6X3oh5WkJWKjMl62KO4oH-QclJzU-bYmou1f54XivyB9gTras7YYmdj9w0PqySCMQ5fTiI8n4S0CjBdsx4otqZWayD2vlI5U482RTibwRScHFy3v0tMCH6bTpeeC59jBLLiLAALz4OLKD9c3d-cL-fr_AH0_f7NTWfrc4c9C_3MHv_WXuqbBRqPG-6hp1vO5miZYYNhbu8cruvLOzp4A-Y5qPA!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?searchText=ehteraz
+            logo: qatar.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
+          - item:
             name: GH COVID-19 Tracker (Ghana)
             description: 'Easy to use, digital tool to help you assess and self-report your symptoms for COVID-19'
             homepage_url: 'https://ghcovid19.com/'
@@ -288,6 +314,12 @@ landscape:
             repo_url: 'https://github.com/MohGovIL/hamagen-react-native'
             logo: israel.svg
             crunchbase: 'https://www.crunchbase.com/organization/israeli-ministry-of-health'
+          - item:
+            name: Hayat Eve Sığar (Turkey)
+            description: 'With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!'
+            homepage_url: 'https://kayserisehir.saglik.gov.tr/TR,450081/hayat-eve-sigar.html'
+            logo: turkey.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-turkey'
           - item:
             name: Health Code (China)
             description: Unified national epidemic prevention and control health code based on the national integrated government service platform.
@@ -322,6 +354,13 @@ landscape:
             logo: united-kingdom.svg
             twitter: 'https://twitter.com/NHSCOVID19app'
             crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
+          - item:
+            name: NZ COVID Tracer (New Zealand)
+            description: 'NZ COVID Tracer helps you protect yourself, your friends, your whānau and your community by enabling faster contact tracing.'
+            homepage_url: >-
+              https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/contact-tracing-covid-19/nz-covid-tracer-app
+            logo: new-zealand.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-new-zealand'
           - item:
             name: Rakning C-19 (Iceland)
             description: This app helps to identify individual travels and traces with others' travels when an infection occurs or is suspected of transmission.
