@@ -226,6 +226,14 @@ landscape:
         name: GPS-based
         items:
           - item:
+            name: Aarogya Setu (India)
+            description: >-
+              AarogyaSetu is a mobile application developed by the Government of India to connect essential health services with the people of India in our
+              combined fight against COVID-19.
+            homepage_url: 'https://www.mygov.in/aarogya-setu-app/'
+            logo: india.svg
+            crunchbase: 'https://www.crunchbase.com/organization/government-of-india'
+          - item:
             name: BeAware Bahrain
             description: >-
               The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
@@ -242,6 +250,12 @@ landscape:
             homepage_url: 'https://health.ri.gov/covid/crush/'
             logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+          - item:
+            name: GH COVID-19 Tracker (Ghana)
+            description: 'Easy to use, digital tool to help you assess and self-report your symptoms for COVID-19'
+            homepage_url: 'https://ghcovid19.com/'
+            logo: ghana.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ghana-health-services'
           - item:
             name: Hamagen (Israel)
             description: >-
@@ -276,6 +290,12 @@ landscape:
             logo: united-kingdom.svg
             twitter: 'https://twitter.com/NHSCOVID19app'
             crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
+          - item:
+            name: Rakning C-19 (Iceland)
+            description: This app helps to identify individual travels and traces with others' travels when an infection occurs or is suspected of transmission.
+            homepage_url: 'https://www.covid.is/app/is'
+            logo: iceland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-iceland'
           - item:
             name: Trace Together (Singapore)
             description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'

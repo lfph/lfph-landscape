@@ -1706,6 +1706,36 @@ landscape:
         name: GPS-based
         items:
           - item:
+            name: Aarogya Setu (India)
+            description: >-
+              AarogyaSetu is a mobile application developed by the Government of India to connect essential health services with the people of India in our
+              combined fight against COVID-19.
+            homepage_url: 'https://www.mygov.in/aarogya-setu-app/'
+            logo: india.svg
+            crunchbase: 'https://www.crunchbase.com/organization/government-of-india'
+            crunchbase_data:
+              name: Government of India
+              description: India.gov.in is the Indian government’s web portal for citizens. It presents information resources.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.india.gov.in/'
+              city: New Delhi
+              region: Delhi
+              country: India
+              twitter: 'https://www.twitter.com/indiagovin'
+              linkedin: 'https://www.linkedin.com/company/government-of-india/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: aarogya-setu-india.svg
+              hash: lygtqQ6VeUcZL3UQdpMsO+5jnq0GlQn8vT4nAR3vTXg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T07:48:15.000Z
+          - item:
             name: BeAware Bahrain
             description: >-
               The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
@@ -1766,6 +1796,32 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-24T21:48:02.000Z
+          - item:
+            name: GH COVID-19 Tracker (Ghana)
+            description: 'Easy to use, digital tool to help you assess and self-report your symptoms for COVID-19'
+            homepage_url: 'https://ghcovid19.com/'
+            logo: ghana.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ghana-health-services'
+            crunchbase_data:
+              name: Ghana Health Services
+              description: Ghana Health Services
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.ghanahealthservice.org/'
+              city: Accra
+              region: Greater Accra
+              country: Ghana
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: gh-covid-19-tracker-ghana.svg
+              hash: 7onhYAyxMi0GMYZMOp2oyJzGKzGG0UgZYOGBgB/i8+c=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Hamagen (Israel)
             description: >-
@@ -1948,6 +2004,32 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-23T13:00:32.000Z
+          - item:
+            name: Rakning C-19 (Iceland)
+            description: This app helps to identify individual travels and traces with others' travels when an infection occurs or is suspected of transmission.
+            homepage_url: 'https://www.covid.is/app/is'
+            logo: iceland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-iceland'
+            crunchbase_data:
+              name: Ministry of Health Iceland
+              description: Ministry of Health Iceland
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.government.is/ministries/ministry-of-health/'
+              city: Reykjavík
+              region: Gullbringusysla
+              country: Iceland
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: rakning-c-19-iceland.svg
+              hash: vdd3IlnxzHc5jVqZukY/EV9LyedNNAgioOhk0ogIKdA=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Trace Together (Singapore)
             description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
