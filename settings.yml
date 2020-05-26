@@ -86,11 +86,11 @@ big_picture:
     url: landscape
     name: Landscape
     title: LF Public Health Landscape
-    fullscreen_header: See the interactive landscape at l.lfph.io
+    fullscreen_header: See the online landscape at l.lfph.io
     elements:
       - type: HorizontalCategory
         category: Exposure Notification
-        width: 290
+        width: 390
         height: 120
         top: 0
         left: 0
@@ -101,7 +101,7 @@ big_picture:
         width: 150
         height: 120
         top: 0
-        left: 310
+        left: 420
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
@@ -109,12 +109,12 @@ big_picture:
         width: 150
         height: 120
         top: 0
-        left: 480
+        left: 600
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
         category: Symptom Monitoring
-        width: 150
+        width: 200
         height: 100
         top: 140
         left: 0
@@ -122,16 +122,16 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Non-Code Contributions
-        width: 150
+        width: 200
         height: 100
         top: 140
-        left: 170
+        left: 230
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
         category: PHA-Deployed Apps
         rows: 6
-        width: 640
+        width: 750
         height: 120
         top: 260
         left: 0
@@ -141,7 +141,7 @@ big_picture:
         width: 290
         height: 130
         top: 110
-        left: 340
+        left: 460
         children:
           - type: text
             text: |
