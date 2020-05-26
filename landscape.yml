@@ -71,6 +71,9 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
           - item:
             name: Google Apple Exposure Notification (GAEN)
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: 'https://www.apple.com/covid19/contacttracing'
             logo: gaen.svg
             crunchbase: 'https://www.crunchbase.com/organization/apple'
@@ -201,6 +204,24 @@ landscape:
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
             logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
+          - item:
+            name: CovTracer (Cyprus)
+            description: >-
+              Combating the spread of the COVID-19 epidemic requires the rapid identification of people who have come into recent contact with confirmed cases
+              of the SARS-Cov-2 virus. This allows for timely interventions such as evacuation and disinfection of spaces and for assistance in locating people
+              who have been close to a carrier or have been exposed to the virus, so that they too can be appropriately tested or treated.
+            homepage_url: 'https://covid-19.rise.org.cy/en/'
+            logo: cyprus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/research-centre-on-interactive-media-smart-systems-and-emerging-technologies'
+          - item:
+            name: CovTracer (Czech Republic)
+            description: >-
+              Thanks to Bluetooth, the eRouška application remembers other eRouška you have met. This will make it easier for the public health officials to
+              locate risky contacts.
+            homepage_url: 'https://erouska.cz/'
+            repo_url: 'https://github.com/covid19cz/erouska-android'
+            logo: czech-republic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-czech-republic'
       - subcategory:
         name: GPS-based
         items:

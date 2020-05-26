@@ -611,6 +611,9 @@ landscape:
               latest_tweet_date: 2020-05-25T15:05:15.000Z
           - item:
             name: Google Apple Exposure Notification (GAEN)
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: 'https://www.apple.com/covid19/contacttracing'
             logo: gaen.svg
             crunchbase: 'https://www.crunchbase.com/organization/apple'
@@ -1615,6 +1618,87 @@ landscape:
             image_data:
               fileName: covid-safe-australia.svg
               hash: LkjdXQg/QrQQNDU0z1J7jDPtFyyboXwNGgT6Ypr/0Ng=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: CovTracer (Cyprus)
+            description: >-
+              Combating the spread of the COVID-19 epidemic requires the rapid identification of people who have come into recent contact with confirmed cases
+              of the SARS-Cov-2 virus. This allows for timely interventions such as evacuation and disinfection of spaces and for assistance in locating people
+              who have been close to a carrier or have been exposed to the virus, so that they too can be appropriately tested or treated.
+            homepage_url: 'https://covid-19.rise.org.cy/en/'
+            logo: cyprus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/research-centre-on-interactive-media-smart-systems-and-emerging-technologies'
+            crunchbase_data:
+              name: 'Research Centre on Interactive Media, Smart Systems and Emerging Technologies'
+              description: 'Research Centre on Interactive Media, Smart Systems and Emerging Technologies'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.rise.org.cy/en-gb/'
+              city: Nicosia
+              region: Nicosia
+              country: Cyprus
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: cov-tracer-cyprus.svg
+              hash: 29jFpBlRn0vBYrQ9i5NaWHLIyqWeE+B2Zws5rn4VItE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: CovTracer (Czech Republic)
+            description: >-
+              Thanks to Bluetooth, the eRouška application remembers other eRouška you have met. This will make it easier for the public health officials to
+              locate risky contacts.
+            homepage_url: 'https://erouska.cz/'
+            repo_url: 'https://github.com/covid19cz/erouska-android'
+            logo: czech-republic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-czech-republic'
+            crunchbase_data:
+              name: Ministry of Health Czech Republic
+              description: Ministry of Health Czech Republic
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.mzcr.cz/Cizinci/'
+              city: Prague
+              region: Hlavni mesto Praha
+              country: Czech Republic
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 253741
+                  color: '#F18E33'
+                - name: Java
+                  value: 1863
+                  color: '#b07219'
+                - name: Shell
+                  value: 384
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;142;135;78;36;24;5;1;7;1;2
+              firstWeek: 2019-06-02Z
+              stars: 124
+              license: MIT License
+              description: Fighting against COVID-19 via privacy-first Bluetooth tracing
+              latest_commit_date: '2020-05-20T06:49:49Z'
+              latest_commit_link: /covid19cz/erouska-android/commit/9ba922241a076a2b2bfc8f0718f10dc182302f06
+              contributors_count: 15
+              contributors_link: 'https://github.com/covid19cz/erouska-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /covid19cz/erouska-android/commit/e336d91d32a81f254c87757a739a5a12195b0796
+              start_date: '2020-03-16T11:20:59Z'
+            image_data:
+              fileName: cov-tracer-czech-republic.svg
+              hash: qDllgfdF995nQNVS66DcU4przFg6vRHmEVEJXifbxyE=
             best_practice_data:
               badge: false
               percentage: null
