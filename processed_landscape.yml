@@ -1575,6 +1575,34 @@ landscape:
         name: Non-GAEN Bluetooth
         items:
           - item:
+            name: CovidRadar.mx (Mexico)
+            description: >-
+              An application that anonymously registers via Bluetooth the nearby devices that have the app installed and in the event that in the future any
+              user of the app is positive, it allows the authorities to send the corresponding alerts to the users who were in contact.
+            homepage_url: 'http://covidradar.mx/'
+            logo: mexico.svg
+            crunchbase: 'https://www.crunchbase.com/organization/federal-government-of-mexico'
+            crunchbase_data:
+              name: Federal Government of Mexico
+              description: The Federal Government of Mexico is the national government of the state of Mexico.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Mexico City
+              region: Distrito Federal
+              country: Mexico
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-radar-mx-mexico.svg
+              hash: gHHUbOZqfGMdMBBu9uJ/loQXxm6T56VGmWPl7y2H6Kg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: COVIDSafe (Australia)
             description: COVIDSafe helps you and all of our communities. Assist health officials to quickly understand and tackle the spread of Coronavirus (COVID-19).
             homepage_url: 'https://covidsafe.gov.au/'
@@ -1702,6 +1730,65 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: MyTrace (Malaysia)
+            description: A preventive counter measure and contact tracing application for COVID-19
+            homepage_url: 'https://www.mosti.gov.my/web/en/mytrace/'
+            logo: malaysia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-science-technology-and-innovation-malaysia'
+            crunchbase_data:
+              name: Ministry of Science Technology and Innovation Malaysia
+              description: Ministry of Science Technology and Innovation (MOSTI) Malaysia
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.mosti.gov.my/web/en/'
+              city: Kuala Lumpur
+              region: Kuala Lumpur
+              country: Malaysia
+              twitter: 'https://twitter.com/officialmosti'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: my-trace-malaysia.svg
+              hash: CIyQrOxb6n/5POc1EiCB23aom+1sVnihZXQZ8DojmjU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-23T00:29:05.000Z
+          - item:
+            name: StopKorona (North Macedonia)
+            description: >-
+              StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the Coronavirus. The app is intended to
+              trace exposure with potentially infected persons, by the detection of the distance between mobile devices/applications by using Bluetooth
+              technology.
+            homepage_url: 'https://stop.koronavirus.gov.mk/en'
+            logo: north-macedonia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-north-macedonia'
+            crunchbase_data:
+              name: Ministry of Health North Macedonia
+              description: Ministry of Health North Macedonia
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://zdravstvo.gov.mk/'
+              city: Skopje
+              region: Karpos
+              country: Macedonia
+              twitter: 'https://twitter.com/ZdravstvoMK'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: stop-korona-north-macedonia.svg
+              hash: JVfk57DSbT7CwDTePNGacLQgZsci964T2CG7f9MLXJc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T12:00:19.000Z
       - subcategory:
         name: GPS-based
         items:
@@ -1949,6 +2036,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-25T17:34:34.000Z
+          - item:
+            name: Mask (Iran)
+            description: >-
+              In the mask you can see the map of corona in your country, city and place of residence and avoid polluted areas. You can also measure your chances
+              of getting corona by answering the app's questions regularly, and if you're in contact with corona sufferers without knowing it, so you can be
+              more careful not to infect others.
+            homepage_url: 'https://mask.ir/'
+            logo: iran.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-and-medical-education'
+            crunchbase_data:
+              name: Ministry of Health and Medical Education Iran
+              description: Ministry of Health and Medical Education Iran
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://ird.behdasht.gov.ir/'
+              city: Tehran
+              region: Tehran
+              country: Iran
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: mask-iran.svg
+              hash: Z6pJ6wBzF1ggfXWdrMeVDHeCSXbY+Xa4+GUAM++v9WA=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: NHS Covid-19 App (United Kingdom)
             description: >-
