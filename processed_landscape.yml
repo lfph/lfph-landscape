@@ -558,6 +558,68 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-26T01:51:07.000Z
+          - item:
+            name: ito-app
+            homepage_url: 'https://www.ito-app.org'
+            repo_url: 'https://github.com/ito-org/ito-app'
+            logo: ito.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
+            crunchbase_data:
+              name: ito-App
+              description: ito is a privacy-first contact tracing app to fight SARS-CoV-2 and other pathogens.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Ober-olm
+              region: Rheinland-Pfalz
+              country: Germany
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 85350
+                  color: '#2b7489'
+                - name: Java
+                  value: 6583
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 4405
+                  color: '#438eff'
+                - name: Ruby
+                  value: 3929
+                  color: '#701516'
+                - name: JavaScript
+                  value: 973
+                  color: '#f1e05a'
+                - name: Starlark
+                  value: 602
+                - name: Shell
+                  value: 596
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61;68;138;46;31;1;4;0
+              firstWeek: 2019-06-02Z
+              stars: 43
+              license: GNU General Public License v3.0
+              description: A privacy-first contact tracing app
+              latest_commit_date: '2020-05-15T12:42:23Z'
+              latest_commit_link: /ito-org/ito-app/commit/eba629372adf799fe046b40ee53a9f1e0eb29055
+              release_date: '2020-05-04T22:07:17Z'
+              release_link: 'https://github.com/ito-org/ito-app/releases'
+              contributors_count: 20
+              contributors_link: 'https://github.com/ito-org/ito-app/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /ito-org/ito-app/commit/443b9ed15ef6b19c9c533a30dc8e361c86adbf0e
+              start_date: '2020-04-01T18:12:08Z'
+            image_data:
+              fileName: ito-app.svg
+              hash: RYOAVndOFB973YX08XKnHXe5CsAswdCIeeZu9HWjEPE=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Specifications
     subcategories:
