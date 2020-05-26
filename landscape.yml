@@ -46,17 +46,17 @@ landscape:
         name: Non-GAEN
         items:
           - item:
-            name: CovidSafe
-            homepage_url: 'https://covidsafe.cs.washington.edu/'
-            repo_url: 'https://github.com/covidsafe/App-Android'
-            logo: covidsafe.svg
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
-          - item:
             name: COVID-19 App
             homepage_url: 'https://github.com/WorldHealthOrganization/app'
             repo_url: 'https://github.com/WorldHealthOrganization/app'
             logo: world-health-organization-covid-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
+          - item:
+            name: CovidSafe
+            homepage_url: 'https://covidsafe.cs.washington.edu/'
+            repo_url: 'https://github.com/covidsafe/App-Android'
+            logo: covidsafe.svg
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
   - category:
     name: Contact Tracing
     subcategories:
