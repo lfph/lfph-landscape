@@ -559,6 +559,388 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-26T01:51:07.000Z
   - category:
+    name: Specifications
+    subcategories:
+      - subcategory:
+        name: Bluetooth
+        items:
+          - item:
+            name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
+            homepage_url: 'https://github.com/DP-3T/documents'
+            repo_url: 'https://github.com/DP-3T/documents'
+            logo: dp3t.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+            crunchbase_data:
+              name: ETH Zurich
+              description: 'ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'https://www.ethz.ch'
+              city: Zürich
+              region: Zurich
+              country: Switzerland
+              twitter: 'https://twitter.com/eth'
+              linkedin: 'https://www.linkedin.com/school/4923'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Shell
+                  value: 76
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;72;43;42;62;8;8;10
+              firstWeek: 2019-06-02Z
+              stars: 1921
+              license: Unknown License
+              description: Decentralized Privacy-Preserving Proximity Tracing -- Documents
+              latest_commit_date: '2020-05-25T16:02:19Z'
+              latest_commit_link: /DP-3T/documents/commit/08d070fe9fc83ee1672b2ff7728977f7e2e18cce
+              contributors_count: 35
+              contributors_link: 'https://github.com/DP-3T/documents/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
+              start_date: '2020-04-03T16:04:33Z'
+            image_data:
+              fileName: decentralized-privacy-preserving-proximity-tracing-dp-3-t.svg
+              hash: DwZInCMKOexPwcSDDCSDHJuyWgBkein+XeasgIZBn+M=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T15:05:15.000Z
+          - item:
+            name: Google Apple Exposure Notification (GAEN)
+            homepage_url: 'https://www.apple.com/covid19/contacttracing'
+            logo: gaen.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apple'
+            crunchbase_data:
+              name: Apple
+              description: 'Apple is a multinational corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.apple.com'
+              city: Cupertino
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/AppleSupport'
+              linkedin: 'https://www.linkedin.com/company/apple'
+              acquisitions:
+                - date: '1988-03-03'
+                  acquiree: Network Innovations
+                - date: '1988-06-08'
+                  acquiree: Orion Network Systems
+                - date: '1988-06-29'
+                  acquiree: Styleware
+                - date: '1988-07-13'
+                  acquiree: Nashoba Systems
+                - date: '1989-04-01'
+                  acquiree: Coral Software
+                - date: '1996-12-20'
+                  acquiree: NeXT
+                  price: 400000000
+                - date: '1999-01-08'
+                  acquiree: Xemplar Education
+                  price: 5000000
+                - date: '1999-11-02'
+                  acquiree: Raycer Graphics
+                - date: '2000-01-07'
+                  acquiree: NetSelector
+                - date: '2001-03-13'
+                  acquiree: PowerSchool
+                - date: '2001-04-01'
+                  acquiree: Blue Fish Labs
+                - date: '2001-07-09'
+                  acquiree: Spruce Technologies
+                - date: '2002-02-07'
+                  acquiree: Nothing Real
+                - date: '2002-04-04'
+                  acquiree: Zayante
+                - date: '2002-06-20'
+                  acquiree: Propel Software
+                - date: '2002-06-21'
+                  acquiree: Prismo Graphics
+                - date: '2002-07-01'
+                  acquiree: Emagic
+                - date: '2005-01-22'
+                  acquiree: Fingerworks
+                - date: '2005-03-23'
+                  acquiree: SchemaSoft
+                - date: '2006-10-16'
+                  acquiree: Silicon Color
+                - date: '2006-12-05'
+                  acquiree: Proximity
+                - date: '2008-04-23'
+                  acquiree: PA Semi
+                - date: '2009-07-01'
+                  acquiree: Placebase
+                - date: '2009-12-05'
+                  acquiree: Lala
+                  price: 17000000
+                - date: '2010-01-01'
+                  acquiree: RareLight
+                - date: '2010-01-05'
+                  acquiree: Quattro Wireless
+                - date: '2010-04-27'
+                  acquiree: Intrinsity
+                - date: '2010-04-28'
+                  acquiree: Siri
+                - date: '2010-07-01'
+                  acquiree: Poly9
+                - date: '2010-07-01'
+                  acquiree: imsense
+                - date: '2010-09-20'
+                  acquiree: Polar Rose
+                - date: '2011-10-29'
+                  acquiree: C3 Technologies
+                - date: '2011-12-13'
+                  acquiree: Anobit Technologies
+                - date: '2012-02-23'
+                  acquiree: Chomp
+                - date: '2012-05-30'
+                  acquiree: Redmatica
+                - date: '2012-07-02'
+                  acquiree: MOG
+                - date: '2012-07-27'
+                  acquiree: AuthenTec
+                - date: '2012-10-18'
+                  acquiree: Particle
+                - date: '2012-11-12'
+                  acquiree: Color Labs Inc.
+                  price: 7000000
+                - date: '2013-03-25'
+                  acquiree: WiFiSLAM
+                  price: 20000000
+                - date: '2013-07-01'
+                  acquiree: Catch.com
+                - date: '2013-07-18'
+                  acquiree: PrimeSense
+                  price: 360000000
+                - date: '2013-07-19'
+                  acquiree: HopStop.com
+                  price: 1000000000
+                - date: '2013-07-19'
+                  acquiree: Locationary
+                - date: '2013-08-01'
+                  acquiree: Passif Semiconductor
+                - date: '2013-08-13'
+                  acquiree: Matcha
+                - date: '2013-08-22'
+                  acquiree: Embark
+                - date: '2013-08-28'
+                  acquiree: AlgoTrim
+                - date: '2013-10-04'
+                  acquiree: Cue
+                - date: '2013-12-01'
+                  acquiree: Acunu
+                - date: '2013-12-02'
+                  acquiree: Topsy Labs
+                  price: 200000000
+                - date: '2013-12-23'
+                  acquiree: BroadMap
+                - date: '2014-01-04'
+                  acquiree: SnappyLabs
+                - date: '2014-02-21'
+                  acquiree: Burstly
+                - date: '2014-04-04'
+                  acquiree: Novauris
+                - date: '2014-05-02'
+                  acquiree: LuxVue Technology
+                - date: '2014-05-28'
+                  acquiree: Beats Electronics
+                  price: 3000000000
+                - date: '2014-06-06'
+                  acquiree: Spotsetter
+                  price: 10000000
+                - date: '2014-07-25'
+                  acquiree: Booklamp
+                - date: '2014-07-28'
+                  acquiree: Concept.io
+                  price: 30000000
+                - date: '2014-09-23'
+                  acquiree: Prss
+                - date: '2014-11-03'
+                  acquiree: Union Bay Networks
+                - date: '2015-01-21'
+                  acquiree: Semetric
+                - date: '2015-02-24'
+                  acquiree: Camel Audio
+                - date: '2015-03-24'
+                  acquiree: FoundationDB
+                - date: '2015-04-07'
+                  acquiree: OttoCat
+                - date: '2015-04-08'
+                  acquiree: Dryft
+                - date: '2015-04-14'
+                  acquiree: Linx Imaging
+                - date: '2015-05-18'
+                  acquiree: Coherent Navigation
+                - date: '2015-05-28'
+                  acquiree: Metaio
+                - date: '2015-06-26'
+                  acquiree: Privaris
+                - date: '2015-09-15'
+                  acquiree: Mapsense
+                  price: 25000000
+                - date: '2015-10-02'
+                  acquiree: VocalIQ
+                - date: '2015-10-05'
+                  acquiree: Perceptio
+                - date: '2015-11-24'
+                  acquiree: faceshift
+                - date: '2016-01-07'
+                  acquiree: Emotient
+                - date: '2016-01-28'
+                  acquiree: LearnSprout
+                - date: '2016-01-29'
+                  acquiree: Flyby Media
+                - date: '2016-02-03'
+                  acquiree: LegbaCore
+                - date: '2016-08-05'
+                  acquiree: Turi
+                - date: '2016-08-22'
+                  acquiree: Gliimpse
+                  price: 200000000
+                - date: '2016-09-23'
+                  acquiree: tuplejump
+                - date: '2016-12-01'
+                  acquiree: indoor.io
+                - date: '2017-02-19'
+                  acquiree: RealFace
+                  price: 2000000
+                - date: '2017-03-23'
+                  acquiree: Workflow
+                - date: '2017-05-09'
+                  acquiree: Beddit
+                - date: '2017-05-14'
+                  acquiree: Lattice
+                  price: 200000000
+                - date: '2017-06-26'
+                  acquiree: SensoMotoric Instruments (SMI)
+                - date: '2017-09-29'
+                  acquiree: Regaind
+                - date: '2017-10-24'
+                  acquiree: PowerbyProxi
+                - date: '2017-11-09'
+                  acquiree: InVisage Technologies
+                - date: '2017-11-21'
+                  acquiree: Vrvana
+                  price: 30000000
+                - date: '2017-12-01'
+                  acquiree: Spektral
+                  price: 30000000
+                - date: '2017-12-05'
+                  acquiree: Pop Up Archive
+                - date: '2017-12-11'
+                  acquiree: Shazam Entertainment
+                  price: 400000000
+                - date: '2018-03-12'
+                  acquiree: Next Issue Media
+                - date: '2018-03-13'
+                  acquiree: Texture by Next Issue
+                - date: '2018-08-29'
+                  acquiree: Akonia Holographics
+                - date: '2018-10-11'
+                  acquiree: Dialog Semiconductor
+                  price: 600000000
+                - date: '2018-10-14'
+                  acquiree: Asaii
+                - date: '2018-11-20'
+                  acquiree: Silk Labs
+                - date: '2018-12-07'
+                  acquiree: Platoon
+                - date: '2019-02-14'
+                  acquiree: DataTiger
+                - date: '2019-02-15'
+                  acquiree: PullString
+                - date: '2019-03-13'
+                  acquiree: Laserlike
+                - date: '2019-03-21'
+                  acquiree: Stamplay
+                - date: '2019-05-24'
+                  acquiree: Tueo Health
+                - date: '2019-06-06'
+                  acquiree: Drive.ai
+                - date: '2019-10-04'
+                  acquiree: IKinema
+                - date: '2019-12-12'
+                  acquiree: Spectral Edge
+                - date: '2020-01-15'
+                  acquiree: Xnor.ai
+                  price: 200000000
+                - date: '2020-03-31'
+                  acquiree: The Dark Sky Company
+                - date: '2020-04-03'
+                  acquiree: Voysis
+                - date: '2020-04-04'
+                  acquiree: NextVR
+                  price: 100000000
+              parents: []
+              ticker: AAPL
+              funding: 6250250000
+              stockExchange: nasdaq
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1382174556160
+              effective_ticker: AAPL
+            image_data:
+              fileName: google-apple-exposure-notification-gaen.svg
+              hash: iXDkwBZwm1L0aRPkwA1Yp4yQzjbZJ06sFle9gI/5W6c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T03:08:57.000Z
+          - item:
+            name: Temporary Contact Number (TCN)
+            homepage_url: 'http://tcn-coalition.org/'
+            repo_url: 'https://github.com/TCNCoalition/TCN'
+            logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
+            twitter: 'https://twitter.com/tcncoalition'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
+            crunchbase_data:
+              name: LF Public Health
+              description: A newly forming open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.lfph.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Rust
+                  value: 25589
+                  color: '#dea584'
+                - name: Julia
+                  value: 620
+                  color: '#a270ba'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44;34;12;1;0;0;0;0
+              firstWeek: 2019-06-02Z
+              stars: 225
+              license: MIT License
+              description: 'Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.'
+              latest_commit_date: '2020-04-21T02:56:56Z'
+              latest_commit_link: /TCNCoalition/TCN/commit/37add39f7ddb91fade91832bc16903dcb74a487f
+              contributors_count: 12
+              contributors_link: 'https://github.com/TCNCoalition/TCN/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /TCNCoalition/TCN/commit/1b68b920db1fb42709c7c8eb28c3d5e10c76fc3c
+              start_date: '2020-03-31T18:18:06Z'
+            image_data:
+              fileName: temporary-contact-number-tcn.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-20T21:51:16.000Z
+  - category:
     name: Contact Tracing
     subcategories:
       - subcategory:
@@ -867,387 +1249,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-25T23:30:07.000Z
   - category:
-    name: Specifications
-    subcategories:
-      - subcategory:
-        name: Bluetooth
-        items:
-          - item:
-            name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
-            homepage_url: 'https://github.com/DP-3T/documents'
-            repo_url: 'https://github.com/DP-3T/documents'
-            logo: dp3t.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
-            crunchbase_data:
-              name: ETH Zurich
-              description: 'ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.'
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'https://www.ethz.ch'
-              city: Zürich
-              region: Zurich
-              country: Switzerland
-              twitter: 'https://twitter.com/eth'
-              linkedin: 'https://www.linkedin.com/school/4923'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Shell
-                  value: 76
-                  color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;72;43;42;62;8;8;10
-              firstWeek: 2019-06-02Z
-              stars: 1921
-              license: Unknown License
-              description: Decentralized Privacy-Preserving Proximity Tracing -- Documents
-              latest_commit_date: '2020-05-25T16:02:19Z'
-              latest_commit_link: /DP-3T/documents/commit/08d070fe9fc83ee1672b2ff7728977f7e2e18cce
-              contributors_count: 35
-              contributors_link: 'https://github.com/DP-3T/documents/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
-              start_date: '2020-04-03T16:04:33Z'
-            image_data:
-              fileName: decentralized-privacy-preserving-proximity-tracing-dp-3-t.svg
-              hash: DwZInCMKOexPwcSDDCSDHJuyWgBkein+XeasgIZBn+M=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-25T15:05:15.000Z
-          - item:
-            name: Google Apple Exposure Notification (GAEN)
-            homepage_url: 'https://www.apple.com/covid19/contacttracing'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/apple'
-            crunchbase_data:
-              name: Apple
-              description: 'Apple is a multinational corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.apple.com'
-              city: Cupertino
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/AppleSupport'
-              linkedin: 'https://www.linkedin.com/company/apple'
-              acquisitions:
-                - date: '1988-03-03'
-                  acquiree: Network Innovations
-                - date: '1988-06-08'
-                  acquiree: Orion Network Systems
-                - date: '1988-06-29'
-                  acquiree: Styleware
-                - date: '1988-07-13'
-                  acquiree: Nashoba Systems
-                - date: '1989-04-01'
-                  acquiree: Coral Software
-                - date: '1996-12-20'
-                  acquiree: NeXT
-                  price: 400000000
-                - date: '1999-01-08'
-                  acquiree: Xemplar Education
-                  price: 5000000
-                - date: '1999-11-02'
-                  acquiree: Raycer Graphics
-                - date: '2000-01-07'
-                  acquiree: NetSelector
-                - date: '2001-03-13'
-                  acquiree: PowerSchool
-                - date: '2001-04-01'
-                  acquiree: Blue Fish Labs
-                - date: '2001-07-09'
-                  acquiree: Spruce Technologies
-                - date: '2002-02-07'
-                  acquiree: Nothing Real
-                - date: '2002-04-04'
-                  acquiree: Zayante
-                - date: '2002-06-20'
-                  acquiree: Propel Software
-                - date: '2002-06-21'
-                  acquiree: Prismo Graphics
-                - date: '2002-07-01'
-                  acquiree: Emagic
-                - date: '2005-01-22'
-                  acquiree: Fingerworks
-                - date: '2005-03-23'
-                  acquiree: SchemaSoft
-                - date: '2006-10-16'
-                  acquiree: Silicon Color
-                - date: '2006-12-05'
-                  acquiree: Proximity
-                - date: '2008-04-23'
-                  acquiree: PA Semi
-                - date: '2009-07-01'
-                  acquiree: Placebase
-                - date: '2009-12-05'
-                  acquiree: Lala
-                  price: 17000000
-                - date: '2010-01-01'
-                  acquiree: RareLight
-                - date: '2010-01-05'
-                  acquiree: Quattro Wireless
-                - date: '2010-04-27'
-                  acquiree: Intrinsity
-                - date: '2010-04-28'
-                  acquiree: Siri
-                - date: '2010-07-01'
-                  acquiree: Poly9
-                - date: '2010-07-01'
-                  acquiree: imsense
-                - date: '2010-09-20'
-                  acquiree: Polar Rose
-                - date: '2011-10-29'
-                  acquiree: C3 Technologies
-                - date: '2011-12-13'
-                  acquiree: Anobit Technologies
-                - date: '2012-02-23'
-                  acquiree: Chomp
-                - date: '2012-05-30'
-                  acquiree: Redmatica
-                - date: '2012-07-02'
-                  acquiree: MOG
-                - date: '2012-07-27'
-                  acquiree: AuthenTec
-                - date: '2012-10-18'
-                  acquiree: Particle
-                - date: '2012-11-12'
-                  acquiree: Color Labs Inc.
-                  price: 7000000
-                - date: '2013-03-25'
-                  acquiree: WiFiSLAM
-                  price: 20000000
-                - date: '2013-07-01'
-                  acquiree: Catch.com
-                - date: '2013-07-18'
-                  acquiree: PrimeSense
-                  price: 360000000
-                - date: '2013-07-19'
-                  acquiree: HopStop.com
-                  price: 1000000000
-                - date: '2013-07-19'
-                  acquiree: Locationary
-                - date: '2013-08-01'
-                  acquiree: Passif Semiconductor
-                - date: '2013-08-13'
-                  acquiree: Matcha
-                - date: '2013-08-22'
-                  acquiree: Embark
-                - date: '2013-08-28'
-                  acquiree: AlgoTrim
-                - date: '2013-10-04'
-                  acquiree: Cue
-                - date: '2013-12-01'
-                  acquiree: Acunu
-                - date: '2013-12-02'
-                  acquiree: Topsy Labs
-                  price: 200000000
-                - date: '2013-12-23'
-                  acquiree: BroadMap
-                - date: '2014-01-04'
-                  acquiree: SnappyLabs
-                - date: '2014-02-21'
-                  acquiree: Burstly
-                - date: '2014-04-04'
-                  acquiree: Novauris
-                - date: '2014-05-02'
-                  acquiree: LuxVue Technology
-                - date: '2014-05-28'
-                  acquiree: Beats Electronics
-                  price: 3000000000
-                - date: '2014-06-06'
-                  acquiree: Spotsetter
-                  price: 10000000
-                - date: '2014-07-25'
-                  acquiree: Booklamp
-                - date: '2014-07-28'
-                  acquiree: Concept.io
-                  price: 30000000
-                - date: '2014-09-23'
-                  acquiree: Prss
-                - date: '2014-11-03'
-                  acquiree: Union Bay Networks
-                - date: '2015-01-21'
-                  acquiree: Semetric
-                - date: '2015-02-24'
-                  acquiree: Camel Audio
-                - date: '2015-03-24'
-                  acquiree: FoundationDB
-                - date: '2015-04-07'
-                  acquiree: OttoCat
-                - date: '2015-04-08'
-                  acquiree: Dryft
-                - date: '2015-04-14'
-                  acquiree: Linx Imaging
-                - date: '2015-05-18'
-                  acquiree: Coherent Navigation
-                - date: '2015-05-28'
-                  acquiree: Metaio
-                - date: '2015-06-26'
-                  acquiree: Privaris
-                - date: '2015-09-15'
-                  acquiree: Mapsense
-                  price: 25000000
-                - date: '2015-10-02'
-                  acquiree: VocalIQ
-                - date: '2015-10-05'
-                  acquiree: Perceptio
-                - date: '2015-11-24'
-                  acquiree: faceshift
-                - date: '2016-01-07'
-                  acquiree: Emotient
-                - date: '2016-01-28'
-                  acquiree: LearnSprout
-                - date: '2016-01-29'
-                  acquiree: Flyby Media
-                - date: '2016-02-03'
-                  acquiree: LegbaCore
-                - date: '2016-08-05'
-                  acquiree: Turi
-                - date: '2016-08-22'
-                  acquiree: Gliimpse
-                  price: 200000000
-                - date: '2016-09-23'
-                  acquiree: tuplejump
-                - date: '2016-12-01'
-                  acquiree: indoor.io
-                - date: '2017-02-19'
-                  acquiree: RealFace
-                  price: 2000000
-                - date: '2017-03-23'
-                  acquiree: Workflow
-                - date: '2017-05-09'
-                  acquiree: Beddit
-                - date: '2017-05-14'
-                  acquiree: Lattice
-                  price: 200000000
-                - date: '2017-06-26'
-                  acquiree: SensoMotoric Instruments (SMI)
-                - date: '2017-09-29'
-                  acquiree: Regaind
-                - date: '2017-10-24'
-                  acquiree: PowerbyProxi
-                - date: '2017-11-09'
-                  acquiree: InVisage Technologies
-                - date: '2017-11-21'
-                  acquiree: Vrvana
-                  price: 30000000
-                - date: '2017-12-01'
-                  acquiree: Spektral
-                  price: 30000000
-                - date: '2017-12-05'
-                  acquiree: Pop Up Archive
-                - date: '2017-12-11'
-                  acquiree: Shazam Entertainment
-                  price: 400000000
-                - date: '2018-03-12'
-                  acquiree: Next Issue Media
-                - date: '2018-03-13'
-                  acquiree: Texture by Next Issue
-                - date: '2018-08-29'
-                  acquiree: Akonia Holographics
-                - date: '2018-10-11'
-                  acquiree: Dialog Semiconductor
-                  price: 600000000
-                - date: '2018-10-14'
-                  acquiree: Asaii
-                - date: '2018-11-20'
-                  acquiree: Silk Labs
-                - date: '2018-12-07'
-                  acquiree: Platoon
-                - date: '2019-02-14'
-                  acquiree: DataTiger
-                - date: '2019-02-15'
-                  acquiree: PullString
-                - date: '2019-03-13'
-                  acquiree: Laserlike
-                - date: '2019-03-21'
-                  acquiree: Stamplay
-                - date: '2019-05-24'
-                  acquiree: Tueo Health
-                - date: '2019-06-06'
-                  acquiree: Drive.ai
-                - date: '2019-10-04'
-                  acquiree: IKinema
-                - date: '2019-12-12'
-                  acquiree: Spectral Edge
-                - date: '2020-01-15'
-                  acquiree: Xnor.ai
-                  price: 200000000
-                - date: '2020-03-31'
-                  acquiree: The Dark Sky Company
-                - date: '2020-04-03'
-                  acquiree: Voysis
-                - date: '2020-04-04'
-                  acquiree: NextVR
-                  price: 100000000
-              parents: []
-              ticker: AAPL
-              funding: 6250250000
-              stockExchange: nasdaq
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 1382174556160
-              effective_ticker: AAPL
-            image_data:
-              fileName: google-apple-exposure-notification-gaen.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-26T03:08:57.000Z
-          - item:
-            name: Temporary Contact Number (TCN)
-            homepage_url: 'http://tcn-coalition.org/'
-            repo_url: 'https://github.com/TCNCoalition/TCN'
-            logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
-            twitter: 'https://twitter.com/tcncoalition'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
-            crunchbase_data:
-              name: LF Public Health
-              description: A newly forming open source software foundation focused on the needs of public health authorities
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.lfph.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Rust
-                  value: 25589
-                  color: '#dea584'
-                - name: Julia
-                  value: 620
-                  color: '#a270ba'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44;34;12;1;0;0;0;0
-              firstWeek: 2019-06-02Z
-              stars: 225
-              license: MIT License
-              description: 'Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.'
-              latest_commit_date: '2020-04-21T02:56:56Z'
-              latest_commit_link: /TCNCoalition/TCN/commit/37add39f7ddb91fade91832bc16903dcb74a487f
-              contributors_count: 12
-              contributors_link: 'https://github.com/TCNCoalition/TCN/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /TCNCoalition/TCN/commit/1b68b920db1fb42709c7c8eb28c3d5e10c76fc3c
-              start_date: '2020-03-31T18:18:06Z'
-            image_data:
-              fileName: temporary-contact-number-tcn.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-20T21:51:16.000Z
-  - category:
     name: Symptom Monitoring
     subcategories:
       - subcategory:
@@ -1479,7 +1480,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: care19-north-dakota.svg
-              hash: PvH8O2P95+cjYbHVwwzn3jWdSWIRR5BOkQdpxM+3tAE=
+              hash: FFxJtQXVfe4BZJK4gankyft8S8tv1xxTukSIOuKHHxs=
             best_practice_data:
               badge: false
               percentage: null
@@ -1487,10 +1488,10 @@ landscape:
               latest_tweet_date: 2020-05-25T23:00:14.000Z
           - item:
             name: Care19 (South Dakota)
-            homepage_url: 'https://covid.sd.gov/care19app.aspx'
             description: >-
               Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
               rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
+            homepage_url: 'https://covid.sd.gov/care19app.aspx'
             logo: south-dakota.svg
             crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
             crunchbase_data:
@@ -1517,8 +1518,8 @@ landscape:
               latest_tweet_date: 2020-05-25T19:30:10.000Z
           - item:
             name: Stopp Corona (Austria)
-            homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
             description: Together we contribute to interrupting the chain of infection of the corona infections as quickly as possible!
+            homepage_url: 'https://participate.roteskreuz.at/stopp-corona/'
             repo_url: 'https://github.com/austrianredcross/stopp-corona-android'
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
@@ -1572,8 +1573,8 @@ landscape:
         items:
           - item:
             name: COVIDSafe (Australia)
-            homepage_url: 'https://covidsafe.gov.au/'
             description: COVIDSafe helps you and all of our communities. Assist health officials to quickly understand and tackle the spread of Coronavirus (COVID-19).
+            homepage_url: 'https://covidsafe.gov.au/'
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
             logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
@@ -1620,6 +1621,67 @@ landscape:
       - subcategory:
         name: GPS-based
         items:
+          - item:
+            name: BeAware Bahrain
+            description: >-
+              The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
+              been in contact with someone who is showing symptoms of the COVID-19 virus.
+            homepage_url: >-
+              https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+            logo: bahrain.svg
+            crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
+            crunchbase_data:
+              name: 'eGovernment Authority, Kingdom of Bahrain'
+              description: 'eGovernment Authority, Kingdom of Bahrain is a government administration office in Bahrain.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://www.bahrain.bh'
+              city: Manama
+              region: Al Manamah
+              country: Bahrain
+              twitter: 'https://www.twitter.com/igabahrain'
+              linkedin: 'https://www.linkedin.com/company/igabahrain'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: be-aware-bahrain.svg
+              hash: yi7AYgKE31uDrSvfysA9pBCviatAD5wwpTF7hvJ54IY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T07:49:43.000Z
+          - item:
+            name: Crush Covid (Rhode Island)
+            description: >-
+              CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
+              health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
+            homepage_url: 'https://health.ri.gov/covid/crush/'
+            logo: rhode-island.svg
+            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+            crunchbase_data:
+              name: Rhode Island Department of Health
+              description: To prevent disease and protect and promote the health and safety of the people of Rhode Island.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://health.ri.gov/'
+              city: Providence
+              region: Rhode Island
+              country: United States
+              twitter: 'https://twitter.com/rihealth'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: crush-covid-rhode-island.svg
+              hash: abz/SNoX0PP46QklTonpXd+Y2J33yNEgRaZz7pdzhko=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-24T21:48:02.000Z
           - item:
             name: Hamagen (Israel)
             description: >-
@@ -1684,79 +1746,44 @@ landscape:
               start_date: '2020-03-22T19:57:12Z'
             image_data:
               fileName: hamagen-israel.svg
-              hash: wMW3DQyB2FXW6TgVFGd3X4APWP7lkATUcqJ0m90c1cs=
+              hash: bUH5FScFp7s6Acesx5KuE0cNYBQKbBOPAD8GlmBbfVw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-20T17:12:44.000Z
           - item:
-            name: BeAware Bahrain
-            description: >-
-              The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
-              been in contact with someone who is showing symptoms of the COVID-19 virus.
-            homepage_url: >-
-              https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
-            logo: bahrain.svg
-            crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
+            name: Health Code (China)
+            description: Unified national epidemic prevention and control health code based on the national integrated government service platform.
+            homepage_url: 'https://mp.weixin.qq.com/s/amB7fBxLw8KSR9DcUsbTWg'
+            logo: china.svg
+            crunchbase: 'https://www.crunchbase.com/organization/national-health-commission-of-the-people-s-republic-of-china'
             crunchbase_data:
-              name: 'eGovernment Authority, Kingdom of Bahrain'
-              description: 'eGovernment Authority, Kingdom of Bahrain is a government administration office in Bahrain.'
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://www.bahrain.bh'
-              city: Manama
-              region: Al Manamah
-              country: Bahrain
-              twitter: 'https://www.twitter.com/igabahrain'
-              linkedin: 'https://www.linkedin.com/company/igabahrain'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: be-aware-bahrain.svg
-              hash: yi7AYgKE31uDrSvfysA9pBCviatAD5wwpTF7hvJ54IY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-26T07:49:43.000Z
-          - item:
-            name: Crush Covid (Rhode Island)
-            homepage_url: 'https://health.ri.gov/covid/crush/'
-            description: >-
-              CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
-              health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
-            logo: rhode-island.svg
-            crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
-            crunchbase_data:
-              name: Rhode Island Department of Health
-              description: To prevent disease and protect and promote the health and safety of the people of Rhode Island.
+              name: National Health Commission of the People's Republic of China
+              description: National Health Commission of the People's Republic of China
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://health.ri.gov/'
-              city: Providence
-              region: Rhode Island
-              country: United States
-              twitter: 'https://twitter.com/rihealth'
+              homepage: 'http://en.nhc.gov.cn/'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: null
               linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
             image_data:
-              fileName: crush-covid-rhode-island.svg
-              hash: abz/SNoX0PP46QklTonpXd+Y2J33yNEgRaZz7pdzhko=
+              fileName: health-code-china.svg
+              hash: XbKGLC1sszRZZVh/KKHrwMe1ZrbBveO5RrTfaR8sasU=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-24T21:48:02.000Z
           - item:
             name: Healthy Together (Utah)
-            homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
             description: >-
               The Healthy Together app helps you assess your symptoms, find the nearest testing center, view test results, and learn what to do after you've
               been tested for COVID-19.
+            homepage_url: 'https://coronavirus.utah.gov/healthy-together-app/'
             logo: utah.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
@@ -1784,10 +1811,10 @@ landscape:
               latest_tweet_date: 2020-05-25T17:34:34.000Z
           - item:
             name: NHS Covid-19 App (United Kingdom)
-            homepage_url: 'https://covid19.nhs.uk'
             description: >-
               Developed by the NHS with a team of world-leading scientists and doctors, the NHS COVID-19 app will play an important role in the fight against
               coronavirus.
+            homepage_url: 'https://covid19.nhs.uk'
             repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
             logo: united-kingdom.svg
             twitter: 'https://twitter.com/NHSCOVID19app'
@@ -1839,8 +1866,8 @@ landscape:
               latest_tweet_date: 2020-05-23T13:00:32.000Z
           - item:
             name: Trace Together (Singapore)
-            homepage_url: 'https://www.tracetogether.gov.sg/'
             description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
+            homepage_url: 'https://www.tracetogether.gov.sg/'
             repo_url: 'https://github.com/opentrace-community/opentrace-android'
             logo: singapore.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
@@ -1885,8 +1912,8 @@ landscape:
               latest_tweet_date: 2020-05-26T07:19:30.000Z
           - item:
             name: ViruSafe (Bulgaria)
-            homepage_url: 'https://virusafe.info/'
             description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
+            homepage_url: 'https://virusafe.info/'
             repo_url: 'https://github.com/scalefocus/virusafe-android'
             logo: virusafe-bulgaria.svg
             crunchbase: 'https://www.crunchbase.com/organization/bulgaria-ministry-of-health'
