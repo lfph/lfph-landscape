@@ -1788,6 +1788,51 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-23T13:00:32.000Z
           - item:
+            name: Trace Together (Singapore)
+            homepage_url: 'https://www.tracetogether.gov.sg/'
+            repo_url: 'https://github.com/opentrace-community/opentrace-android'
+            logo: singapore.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
+            crunchbase_data:
+              name: Ministry of Health Singapore
+              description: The Ministry of Health is a ministry of the Government of Singapore.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'https://www.moh.gov.sg/'
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: 'https://twitter.com/sporeMOH'
+              linkedin: 'https://www.linkedin.com/company/ministry-of-health-singapore/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 256405
+                  color: '#F18E33'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0
+              firstWeek: 2019-06-02Z
+              stars: 472
+              license: GNU General Public License v3.0
+              description: OpenTrace Android app. Reference implementation of the BlueTrace protocol.
+              latest_commit_date: '2020-05-02T03:53:09Z'
+              latest_commit_link: /opentrace-community/opentrace-android/commit/7e0cdd8f52f4560c4ed9bb37d55a0f820d1cb0ae
+              contributors_count: 1
+              contributors_link: 'https://github.com/opentrace-community/opentrace-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /opentrace-community/opentrace-android/commit/e8b68321d1c567f45898744c7210323c1660df6f
+              start_date: '2020-04-09T12:25:24Z'
+            image_data:
+              fileName: trace-together-singapore.svg
+              hash: 4GiZ+nrxPXsrEEJopKJ7ySkhqmt/JPH+e7aiNoKrlHQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-26T02:04:23.000Z
+          - item:
             name: ViruSafe (Bulgaria)
             homepage_url: 'https://virusafe.info/'
             repo_url: 'https://github.com/scalefocus/virusafe-android'
