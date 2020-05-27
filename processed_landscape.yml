@@ -250,25 +250,48 @@ landscape:
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
-            project: foundationproject
             repo_url: 'https://github.com/CovidShield/mobile'
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
+            crunchbase: 'https://www.crunchbase.com/organization/shopify'
             crunchbase_data:
-              name: LF Public Health
-              description: A newly forming open source software foundation focused on the needs of public health authorities
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.lfph.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
+              name: Shopify
+              description: 'Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.shopify.com'
+              city: Ottawa
+              region: Ontario
+              country: Canada
+              twitter: 'http://twitter.com/shopify'
+              linkedin: 'https://www.linkedin.com/company/shopify'
+              acquisitions:
+                - date: '2012-02-01'
+                  acquiree: Select Start Studios
+                - date: '2013-08-01'
+                  acquiree: Jet Cooper
+                - date: '2016-04-13'
+                  acquiree: Kit
+                - date: '2016-10-03'
+                  acquiree: Boltmade
+                - date: '2016-12-05'
+                  acquiree: Tiny Hearts
+                - date: '2017-05-11'
+                  acquiree: Oberlo
+                  price: 15000000
+                - date: '2018-06-20'
+                  acquiree: Return Magic
+                - date: '2018-11-21'
+                  acquiree: Tictail
+                - date: '2019-05-23'
+                  acquiree: Handshake
+                - date: '2019-09-10'
+                  acquiree: 6 River Systems
+                  price: 450000000
+              parents: []
+              ticker: SHOP
+              funding: 122250000
+              stockExchange: nyse
+              kind: market_cap
             github_data:
               languages:
                 - name: TypeScript
@@ -303,11 +326,16 @@ landscape:
             github_start_commit_data:
               start_commit_link: /CovidShield/mobile/commit/033d9718075d260500aedb8d1d2ee631300ed915
               start_date: '2020-05-18T20:38:12Z'
+            yahoo_finance_data:
+              market_cap: 91945615360
+              effective_ticker: SHOP
             image_data:
               fileName: covid-shield.svg
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-27T02:47:42.000Z
           - item:
             name: Covid Watch
             homepage_url: 'https://www.covid-watch.org'
