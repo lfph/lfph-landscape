@@ -636,7 +636,6 @@ landscape:
             homepage_url: 'https://www.ito-app.org'
             repo_url: 'https://github.com/ito-org/ito-app'
             logo: ito.svg
-            twitter: 'https://twitter.com/itoApp'
             crunchbase: 'https://www.crunchbase.com/organization/ito-app'
             crunchbase_data:
               name: ito-App
@@ -2199,6 +2198,7 @@ landscape:
               AarogyaSetu is a mobile application developed by the Government of India to connect essential health services with the people of India in our
               combined fight against COVID-19.
             homepage_url: 'https://www.mygov.in/aarogya-setu-app/'
+            repo_url: 'https://github.com/nic-delhi/AarogyaSetu_Android'
             logo: india.svg
             crunchbase: 'https://www.crunchbase.com/organization/government-of-india'
             crunchbase_data:
@@ -2215,6 +2215,26 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 197027
+                  color: '#b07219'
+                - name: Kotlin
+                  value: 175197
+                  color: '#F18E33'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+              firstWeek: 2019-06-02Z
+              stars: 1502
+              license: Other
+              description: Aarogya Setu Android app native code
+              latest_commit_date: '2020-05-27T10:56:28Z'
+              latest_commit_link: /nic-delhi/AarogyaSetu_Android/commit/89214652eb93ecae355dc7786f1aba4c2c06e843
+              contributors_count: 8
+              contributors_link: 'https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nic-delhi/AarogyaSetu_Android/commit/24e4b6afd36c57eb30bf604f533ec52492518e48
+              start_date: '2020-05-24T16:36:22Z'
             image_data:
               fileName: india-aarogya-setu.svg
               hash: sr2wcwMdj6OKO05Kf+o6EMEushHdNe8RWzWA+2ZxBXY=
