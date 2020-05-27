@@ -510,6 +510,63 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-12T02:12:20.000Z
+          - item:
+            name: Xamarin Exposure Notification
+            homepage_url: 'https://github.com/xamarin/xamarin.exposurenotification'
+            repo_url: 'https://github.com/xamarin/xamarin.exposurenotification'
+            logo: xamarin.svg
+            twitter: 'https://twitter.com/xamarinhq'
+            crunchbase: 'https://www.crunchbase.com/organization/xamarin'
+            crunchbase_data:
+              name: Xamarin
+              description: 'Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.xamarin.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://mobile.twitter.com/account'
+              linkedin: 'https://touch.www.linkedin.com'
+              acquisitions:
+                - date: '2013-04-16'
+                  acquiree: LessPainful
+                - date: '2015-10-21'
+                  acquiree: RoboVM AB
+              parents:
+                - 'https://www.crunchbase.com/organization/microsoft'
+              ticker: MSFT
+              funding: 82750000
+              stockExchange: null
+              kind: market_cap
+            github_data:
+              languages:
+                - name: 'C#'
+                  value: 183121
+                  color: '#178600'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65;66;35;18
+              firstWeek: 2019-06-02Z
+              stars: 72
+              license: MIT License
+              description: Xamarin Cross Platform Exposure Notification API and Samples
+              latest_commit_date: '2020-05-27T02:31:06Z'
+              latest_commit_link: /xamarin/xamarin.exposurenotification/commit/5ae4496da7dd4f7169c4bcc5a03cb205cacf6e42
+              contributors_count: 6
+              contributors_link: 'https://github.com/xamarin/xamarin.exposurenotification/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /xamarin/xamarin.exposurenotification/commit/c2df9a5814302e68a94b50717311856cf583cb78
+              start_date: '2020-04-29T18:44:16Z'
+            yahoo_finance_data:
+              market_cap: 1341737926656
+              effective_ticker: MSFT
+            image_data:
+              fileName: xamarin-exposure-notification.svg
+              hash: N6IPiCeSHUxbB+NyzJ5D9KH0P8C/p8ZAEAwTKw0lZBw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-22T17:30:07.000Z
       - subcategory:
         name: Non-GAEN
         items:
@@ -561,7 +618,7 @@ landscape:
                   color: '#438eff'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;110;138;78;27;26;16;12;30;35;4
               firstWeek: 2019-06-02Z
-              stars: 1816
+              stars: 1817
               license: Other
               description: COVID-19 App
               latest_commit_date: '2020-05-26T07:23:10Z'
