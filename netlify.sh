@@ -1,1 +1,1 @@
-npm install -g npm && npm ci && npm run build
+npm install -g npm && npm install && npm run build
