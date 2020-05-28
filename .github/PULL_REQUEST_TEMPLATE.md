@@ -2,6 +2,8 @@
 
 *Please check each of these after submitting your pull request:*
 
+* [ ] Is your app/project/product currently shipping?
+* [ ] If an app, does your homepage include links to download the Android and/or iOS apps?
 * [ ] Are you only including a `repo_url` if your project is 100% open source? If so, you need to pick the single best GitHub repository for your project, not a GitHub organization.
 * [ ] Have you picked the single best (existing) category for your project?
 * [ ] Does it follow the other guidelines from the [new entries](https://github.com/cncf/landscape#new-entries) section?

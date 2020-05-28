@@ -32,6 +32,7 @@ Please see [landscape.lfph.io](https://landscape.lfph.io).
 
 ## New Entries
 
+* Your app/project/product must be currently shipping. If an app, does your homepage include links to download the Android and/or iOS apps?
 * Projects that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
