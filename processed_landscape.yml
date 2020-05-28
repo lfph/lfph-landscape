@@ -342,6 +342,8 @@ landscape:
             repo_url: 'https://github.com/covid19risk/covidwatch-android'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+            additional_repos:
+              - repo_url: 'https://github.com/covid19risk/covidwatch-ios'
             crunchbase_data:
               name: Covid Watch
               description: Covid Watch
@@ -358,17 +360,26 @@ landscape:
               stockExchange: null
             github_data:
               languages:
+                - name: Swift
+                  value: 163793
+                  color: '#ffac45'
                 - name: Kotlin
                   value: 77133
                   color: '#F18E33'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;15;17;24;6;70;79;62;16;0;0;0
+                - name: Ruby
+                  value: 9225
+                  color: '#701516'
+                - name: Shell
+                  value: 1602
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;44;12;44;48;245;143;196;15;0;0;0
               firstWeek: 2019-06-02Z
-              stars: 51
+              stars: 90
               license: Apache License 2.0
               description: Covid Watch Android TCN app
               latest_commit_date: '2020-05-02T21:39:11Z'
               latest_commit_link: /covid19risk/covidwatch-android/commit/7bb2464e5aa94842ae71a2150a5357c6c5a9fe22
-              contributors_count: 15
+              contributors_count: 20
               contributors_link: 'https://github.com/covid19risk/covidwatch-android/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /covid19risk/covidwatch-android/commit/06f2332e588e89dd409568fd55e91c17d6f43fe2

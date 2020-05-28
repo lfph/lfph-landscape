@@ -106,7 +106,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Contact Tracing
-        width: 150
+        width: 210
         height: 120
         top: 0
         left: 600
@@ -131,22 +131,23 @@ big_picture:
       - type: HorizontalCategory
         category: PHA-Deployed Apps
         rows: 6
-        width: 750
+        width: 810
         height: 120
         top: 260
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: LandscapeInfo
-        width: 290
-        height: 130
+        width: 350
+        height: 137
         top: 110
         left: 460
         children:
           - type: text
-            text: |
-              This landscape is intended as a map to explore the software that is being developed to combat COVID-19.
-            top: 50
+            text: >-
+              This landscape is intended as a map to explore the software that is being developed to combat COVID-19, and focuses particularly on the Google
+              Apple Exposure Notification (GAEN) API and the apps deployed by public health authorities (PHAs).
+            top: 40
             left: 95
             right: 15
             font_size: 10
@@ -165,15 +166,21 @@ big_picture:
           - type: image
             image: left-logo.svg
             width: 110
-            right: 85
+            right: 145
             top: 10
             title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 60
-            right: 15
+            right: 80
             top: 10
             title: LF Public Health Foundation Logo
+          - type: image
+            image: astho.svg
+            width: 60
+            right: 10
+            top: 12
+            title: ASTHO logo
 anonymous_organization:
   name: Non-Public Unnamed Organization
   homepage: 'https://www.lfph.io'
