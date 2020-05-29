@@ -335,6 +335,32 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-27T21:00:46.000Z
           - item:
+            name: COVID Trace
+            homepage_url: 'https://covidtrace.com/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-trace'
+            crunchbase_data:
+              name: COVID Trace
+              description: COVID Trace warns you if you may have been exposed to COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://covidtrace.com/'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: 'https://twitter.com/dudley'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-trace.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-16T01:38:05.000Z
+          - item:
             name: Covid Watch
             homepage_url: 'https://www.covid-watch.org'
             repo_url: 'https://github.com/covid19risk/covidwatch-android'
@@ -832,6 +858,32 @@ landscape:
             image_data:
               fileName: ito-app.svg
               hash: RYOAVndOFB973YX08XKnHXe5CsAswdCIeeZu9HWjEPE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-13T12:34:32.000Z
+          - item:
+            name: Novid
+            homepage_url: 'https://www.ito-app.org'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
+            crunchbase_data:
+              name: ito-App
+              description: ito is a privacy-first contact tracing app to fight SARS-CoV-2 and other pathogens.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Ober-olm
+              region: Rheinland-Pfalz
+              country: Germany
+              twitter: 'https://twitter.com/itoApp'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: novid.svg
             best_practice_data:
               badge: false
               percentage: null
