@@ -172,8 +172,9 @@ landscape:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
-            logo: covid-safe-paths.svg
+            logo: project-aurora.svg
             crunchbase: 'https://www.crunchbase.com/organization/path-check'
+            allow_duplicate_repo: true
             crunchbase_data:
               name: Path Check
               description: 'open-source, privacy-by-design tools for individuals, public health officials, and larger communities to flatten the curve of COVID-19'
@@ -238,7 +239,7 @@ landscape:
               start_date: '2020-03-01T00:48:27Z'
             image_data:
               fileName: covid-safe-paths.svg
-              hash: RjFhsfsd6GY6J5tZ6nAjl0GyViT1U/9OkRrxqYDcRIA=
+              hash: DO7cAE+Bm8sb9GhpS6JacSRQNUhGXTVw/z/pFZvMdSE=
             best_practice_data:
               badge: false
               percentage: null
@@ -523,7 +524,6 @@ landscape:
             homepage_url: 'https://github.com/xamarin/xamarin.exposurenotification'
             repo_url: 'https://github.com/xamarin/xamarin.exposurenotification'
             logo: xamarin.svg
-            twitter: 'https://twitter.com/xamarinhq'
             crunchbase: 'https://www.crunchbase.com/organization/xamarin'
             crunchbase_data:
               name: Xamarin
@@ -578,6 +578,83 @@ landscape:
       - subcategory:
         name: Non-GAEN
         items:
+          - item:
+            name: Covid Safe Paths
+            homepage_url: 'https://covidsafepaths.org'
+            repo_url: 'https://github.com/Path-Check/covid-safe-paths'
+            logo: covid-safe-paths.svg
+            crunchbase: 'https://www.crunchbase.com/organization/path-check'
+            allow_duplicate_repo: true
+            crunchbase_data:
+              name: Path Check
+              description: 'open-source, privacy-by-design tools for individuals, public health officials, and larger communities to flatten the curve of COVID-19'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://covidsafepaths.org/'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/covidsafepaths'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 314535
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 93210
+                  color: '#e34c26'
+                - name: Kotlin
+                  value: 32521
+                  color: '#F18E33'
+                - name: Swift
+                  value: 29858
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 24070
+                  color: '#701516'
+                - name: Shell
+                  value: 14989
+                  color: '#89e051'
+                - name: Objective-C
+                  value: 9444
+                  color: '#438eff'
+                - name: Java
+                  value: 5541
+                  color: '#b07219'
+                - name: Python
+                  value: 4814
+                  color: '#3572A5'
+                - name: Batchfile
+                  value: 3972
+                  color: '#C1F12E'
+                - name: Starlark
+                  value: 1944
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;33;41;48;75;41;48;51;49;23;29;17;23
+              firstWeek: 2019-06-02Z
+              stars: 409
+              license: MIT License
+              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
+              latest_commit_date: '2020-05-28T10:13:15Z'
+              latest_commit_link: /Path-Check/covid-safe-paths/commit/5777e376c9ed9b36bbd0188d886854ab1fac8756
+              release_date: '2020-04-29T03:39:07Z'
+              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
+              contributors_count: 74
+              contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Path-Check/covid-safe-paths/commit/7dc5d0a15fe788eadcdbad7e38d13fb0193cc67f
+              start_date: '2020-03-01T00:48:27Z'
+            image_data:
+              fileName: covid-safe-paths.svg
+              hash: RjFhsfsd6GY6J5tZ6nAjl0GyViT1U/9OkRrxqYDcRIA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-27T16:12:46.000Z
           - item:
             name: COVID-19 App
             homepage_url: 'https://github.com/WorldHealthOrganization/app'
@@ -1511,6 +1588,33 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-07T23:37:38.000Z
           - item:
+            name: How We Feel
+            homepage_url: 'https://howwefeel.org/'
+            logo: how-we-feel.svg
+            crunchbase: 'https://www.crunchbase.com/organization/how-we-feel'
+            crunchbase_data:
+              name: How We Feel
+              description: 'How We Feel lets you self-report your age, sex, ZIP code, and any health symptoms you experience. It only takes 30 seconds!'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://howwefeel.org/'
+              city: San Leandro
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/howwefeel'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: how-we-feel.svg
+              hash: AdqeCYWecAqhVwIGxEWloYlAjR9CyCOH8h6Nb3bVgX0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-28T21:03:00.000Z
+          - item:
             name: Sara Alert
             homepage_url: 'https://saraalert.org/'
             repo_url: 'https://github.com/SaraAlert/SaraAlert'
@@ -1570,6 +1674,61 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-27T17:37:04.000Z
+      - subcategory:
+        name: Website
+        items:
+          - item:
+            name: Covid Near You
+            homepage_url: 'https://www.covidnearyou.org/#!/'
+            logo: 'https://www.covidnearyou.org/assets/img/covid-near-you-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-near-you'
+            crunchbase_data:
+              name: Covid Near You
+              description: Contribute your health status daily and help track the COVID-19 pandemic
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.covidnearyou.org/#!/'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/COVIDNearYou'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-near-you.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-28T13:14:16.000Z
+          - item:
+            name: TrackMyTemp
+            homepage_url: 'https://trackmytemp.org'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/trackmytemp'
+            crunchbase_data:
+              name: TrackMyTemp
+              description: Aggregate and synthesize human temperature data to better forecast and control the spread of COVID-19 and other infectious diseases
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://trackmytemp.org/'
+              city: Reston
+              region: Virginia
+              country: United States
+              twitter: 'https://twitter.com/TrackMyTemp'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: track-my-temp.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-24T19:41:22.000Z
   - category:
     name: Non-Code Contributions
     subcategories:

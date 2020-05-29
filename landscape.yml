@@ -15,8 +15,9 @@ landscape:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
-            logo: covid-safe-paths.svg
+            logo: project-aurora.svg
             crunchbase: 'https://www.crunchbase.com/organization/path-check'
+            allow_duplicate_repo: true
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
@@ -58,6 +59,13 @@ landscape:
       - subcategory:
         name: Non-GAEN
         items:
+          - item:
+            name: Covid Safe Paths
+            homepage_url: 'https://covidsafepaths.org'
+            repo_url: 'https://github.com/Path-Check/covid-safe-paths'
+            logo: covid-safe-paths.svg
+            crunchbase: 'https://www.crunchbase.com/organization/path-check'
+            allow_duplicate_repo: true
           - item:
             name: COVID-19 App
             homepage_url: 'https://github.com/WorldHealthOrganization/app'
@@ -152,11 +160,29 @@ landscape:
             logo: coepi.svg
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
           - item:
+            name: How We Feel
+            homepage_url: 'https://howwefeel.org/'
+            logo: how-we-feel.svg
+            crunchbase: 'https://www.crunchbase.com/organization/how-we-feel'
+          - item:
             name: Sara Alert
             homepage_url: 'https://saraalert.org/'
             repo_url: 'https://github.com/SaraAlert/SaraAlert'
             logo: sara-alert.svg
             crunchbase: 'https://www.crunchbase.com/organization/mitre'
+      - subcategory:
+        name: Website
+        items:
+          - item:
+            name: Covid Near You
+            homepage_url: 'https://www.covidnearyou.org/#!/'
+            logo: 'https://www.covidnearyou.org/assets/img/covid-near-you-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-near-you'
+          - item:
+            name: TrackMyTemp
+            homepage_url: 'https://trackmytemp.org'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/trackmytemp'
   - category:
     name: Non-Code Contributions
     subcategories:
