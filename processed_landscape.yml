@@ -502,51 +502,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: TrackCOVID
-            homepage_url: 'https://trackcovid.net'
-            repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
-            logo: trackcovid.svg
-            crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
-            crunchbase_data:
-              name: TrackCOVID
-              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: null
-              city: Los Angeles
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/TrackCOVIDApp'
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: R
-                  value: 21598
-                  color: '#198CE7'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;61;86;23;0;25;7;0;8;0;0
-              firstWeek: 2019-06-02Z
-              stars: 14
-              license: MIT License
-              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes
-              latest_commit_date: '2020-05-12T17:19:38Z'
-              latest_commit_link: /tyleryasaka/TrackCOVID/commit/29752282eeaf6a69d168b79191fb0e934eeb3c69
-              contributors_count: 2
-              contributors_link: 'https://github.com/tyleryasaka/TrackCOVID/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /tyleryasaka/TrackCOVID/commit/d60b3b345fd0a5380a2887fe9ebd5e992f4bba3e
-              start_date: '2020-03-19T09:31:38Z'
-            image_data:
-              fileName: track-covid.svg
-              hash: jxi3khbBD/tn3vhynE6RKCsoNluEAvtnxZrHVe8d19E=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-29T23:11:49.000Z
-          - item:
             name: Xamarin Exposure Notification
             homepage_url: 'https://github.com/xamarin/xamarin.exposurenotification'
             repo_url: 'https://github.com/xamarin/xamarin.exposurenotification'
@@ -891,6 +846,51 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-13T12:34:32.000Z
+          - item:
+            name: TrackCOVID
+            homepage_url: 'https://trackcovid.net'
+            repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
+            logo: trackcovid.svg
+            crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
+            crunchbase_data:
+              name: TrackCOVID
+              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Los Angeles
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TrackCOVIDApp'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: R
+                  value: 21598
+                  color: '#198CE7'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;61;86;23;0;25;7;0;8;0;0
+              firstWeek: 2019-06-02Z
+              stars: 14
+              license: MIT License
+              description: An open source project which provides privacy-preserving contact tracing for communities using QR codes
+              latest_commit_date: '2020-05-12T17:19:38Z'
+              latest_commit_link: /tyleryasaka/TrackCOVID/commit/29752282eeaf6a69d168b79191fb0e934eeb3c69
+              contributors_count: 2
+              contributors_link: 'https://github.com/tyleryasaka/TrackCOVID/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tyleryasaka/TrackCOVID/commit/d60b3b345fd0a5380a2887fe9ebd5e992f4bba3e
+              start_date: '2020-03-19T09:31:38Z'
+            image_data:
+              fileName: track-covid.svg
+              hash: jxi3khbBD/tn3vhynE6RKCsoNluEAvtnxZrHVe8d19E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T23:11:49.000Z
   - category:
     name: Specification
     subcategories:
