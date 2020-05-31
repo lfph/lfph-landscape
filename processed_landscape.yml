@@ -464,7 +464,9 @@ landscape:
           - item:
             name: OHIOH
             homepage_url: 'https://ohioh.de'
-            repo_url: 'https://github.com/ohioh/ohioh.de'
+            repo_url: 'https://github.com/https-github-com-ohioh/ohioh-app-kotlin'
+            additional_repos:
+              - repo_url: 'https://github.com/https-github-com-ohioh/ohioh-app-swift'
             logo: ohioh.svg
             crunchbase: 'https://www.crunchbase.com/organization/ohioh'
             crunchbase_data:
@@ -482,19 +484,28 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;1;0
+              languages:
+                - name: Swift
+                  value: 292458
+                  color: '#ffac45'
+                - name: Kotlin
+                  value: 165875
+                  color: '#F18E33'
+                - name: Ruby
+                  value: 5345
+                  color: '#701516'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;30;4
               firstWeek: 2019-06-09Z
               stars: 0
               license: Apache License 2.0
-              description: Our Health In Our Hands
-              latest_commit_date: '2020-05-21T13:46:15Z'
-              latest_commit_link: /ohioh/ohioh.de/commit/e8876d52b583c2961c9237fe7b30deb9d456319f
-              contributors_count: 1
-              contributors_link: 'https://github.com/ohioh/ohioh.de/graphs/contributors'
+              description: null
+              latest_commit_date: '2020-05-21T21:24:32Z'
+              latest_commit_link: /https-github-com-ohioh/ohioh-app-kotlin/commit/4c6bfa84463bde7b683a0eb524c10185c1c9dd58
+              contributors_count: 5
+              contributors_link: 'https://github.com/https-github-com-ohioh/ohioh-app-kotlin/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /ohioh/ohioh.de/commit/ff035af47f0c4af38c4ecdff6ace1450e36e7f6c
-              start_date: '2020-04-08T10:58:32Z'
+              start_commit_link: /https-github-com-ohioh/ohioh-app-kotlin/commit/81d283eded428d9e9332637f49ed1534e125193b
+              start_date: '2020-05-16T06:53:34Z'
             image_data:
               fileName: ohioh.svg
               hash: Z4xa1m+X8FnUz2nXOu9wFgmjnp1RL3YyjwLoO0+IDao=
