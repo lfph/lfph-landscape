@@ -417,6 +417,65 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-01T22:07:13.000Z
           - item:
+            name: DP-3T App
+            homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            logo: dp3t-app.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+            crunchbase_data:
+              name: ETH Zurich
+              description: 'ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'https://www.ethz.ch'
+              city: Zürich
+              region: Zurich
+              country: Switzerland
+              twitter: 'https://twitter.com/eth'
+              linkedin: 'https://www.linkedin.com/school/4923'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Swift
+                  value: 417845
+                  color: '#ffac45'
+                - name: HTML
+                  value: 11914
+                  color: '#e34c26'
+                - name: Objective-C
+                  value: 10424
+                  color: '#438eff'
+                - name: Ruby
+                  value: 7022
+                  color: '#701516'
+                - name: C
+                  value: 180
+                  color: '#555555'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;27;23;45;60;73
+              firstWeek: 2019-06-09Z
+              stars: 70
+              license: Mozilla Public License 2.0
+              description: This is a COVID-19 tracing client using the DP3T iOS SDK.
+              latest_commit_date: '2020-06-01T09:51:12Z'
+              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/1bc47b4c22d6250c97e3e99e8c6fb2dab83b0604
+              release_date: '2020-05-28T21:29:53Z'
+              release_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/releases'
+              contributors_count: 10
+              contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /DP-3T/dp3t-app-ios-ch/commit/2b9990a18dff59afa2a50bd118e6a0d19e0dd978
+              start_date: '2020-04-13T20:34:56Z'
+            image_data:
+              fileName: dp-3-t-app.svg
+              hash: 8503lannu7vYghhsJJuPqJxNA3wGdMwlNjJaYzVryy8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-29T15:02:20.000Z
+          - item:
             name: GAEN Explorer
             homepage_url: 'https://github.com/billpugh/GAEN_Explorer'
             repo_url: 'https://github.com/billpugh/GAEN_Explorer'
@@ -1357,6 +1416,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-01T17:13:55.000Z
           - item:
+            name: Go.Data
+            description: >-
+              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
+              to help responders work smarter.
+            homepage_url: 'https://www.who.int/godata/about'
+            logo: world-health-organization-go-data.svg
+            crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
+            crunchbase_data:
+              name: World Health Organization (WHO)
+              description: 'World Health Organization, an international organization, directs and coordinates authority for health within the United Nations System.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://who.int/'
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: 'http://twitter.com/who'
+              linkedin: 'https://www.linkedin.com/company/5350'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: go-data.svg
+              hash: XQhecrplfl6PQU+OWEUKOmqEO1iUMZTq7ra6EGG3QyI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T22:45:17.000Z
+          - item:
             name: NextTrace
             description: NextTrace is building a contact tracing system to enable public health decisions.
             homepage_url: 'https://nexttrace.org'
@@ -1597,6 +1686,72 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-01T23:20:31.000Z
+          - item:
+            name: Sormas
+            homepage_url: 'https://sormasorg.helmholtz-hzi.de/'
+            repo_url: 'https://github.com/hzi-braunschweig/SORMAS-Project'
+            logo: sormas.svg
+            twitter: 'https://twitter.com/sormas_open'
+            crunchbase: 'https://www.crunchbase.com/organization/helmholtz-centre-for-infection-research'
+            crunchbase_data:
+              name: Helmholtz Centre for Infection Research
+              description: Helmholtz-Zentrum für Infektionsforschung (HZI) ist eine außeruniversitäre Forschungseinrichtung mit über 750 Mitarbeitern.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://www.helmholtz-hzi.de'
+              city: Braunschweig
+              region: Niedersachsen
+              country: Germany
+              twitter: 'https://www.twitter.com/helmholtz_hzi'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 8888507
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 192356
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 65169
+                  color: '#563d7c'
+                - name: Shell
+                  value: 30336
+                  color: '#89e051'
+                - name: R
+                  value: 6688
+                  color: '#198CE7'
+                - name: HTML
+                  value: 6392
+                  color: '#e34c26'
+              contributions: >-
+                16;23;30;33;27;12;39;13;28;52;22;20;52;48;17;50;13;41;21;16;14;12;50;86;13;26;22;38;19;0;6;25;15;20;31;15;46;19;105;88;135;195;114;183;94;210;567;457;231;62;247;39
+              firstWeek: 2019-06-09Z
+              stars: 51
+              license: Other
+              description: >-
+                SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of
+                infectious diseases.
+              latest_commit_date: '2020-06-02T14:29:37Z'
+              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/2d1385385d98d4fd14c4c02b4bfd59a799d1b6ad
+              release_date: '2020-05-29T12:59:40Z'
+              release_link: 'https://github.com/hzi-braunschweig/SORMAS-Project/releases'
+              contributors_count: 17
+              contributors_link: 'https://github.com/hzi-braunschweig/SORMAS-Project/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /hzi-braunschweig/SORMAS-Project/commit/406c6b941ae3fc054f0024e57a463d8ffe9a37d3
+              start_date: '2016-05-31T14:14:14Z'
+            image_data:
+              fileName: sormas.svg
+              hash: 7s46w+DkBWO77TRTPbEbp5zalY5yjmNTT9SRILyTcaw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T17:05:22.000Z
   - category:
     name: Symptom Monitoring
     subcategories:

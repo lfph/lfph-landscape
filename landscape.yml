@@ -38,6 +38,12 @@ landscape:
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
           - item:
+            name: DP-3T App
+            homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            logo: dp3t-app.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+          - item:
             name: GAEN Explorer
             homepage_url: 'https://github.com/billpugh/GAEN_Explorer'
             repo_url: 'https://github.com/billpugh/GAEN_Explorer'
@@ -146,6 +152,14 @@ landscape:
             logo: 'https://upload.wikimedia.org/wikipedia/en/f/fa/Conduent_logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/conduent'
           - item:
+            name: Go.Data
+            description: >-
+              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
+              to help responders work smarter.
+            homepage_url: 'https://www.who.int/godata/about'
+            logo: world-health-organization-go-data.svg
+            crunchbase: 'https://www.crunchbase.com/organization/world-health-organization'
+          - item:
             name: NextTrace
             description: NextTrace is building a contact tracing system to enable public health decisions.
             homepage_url: 'https://nexttrace.org'
@@ -159,6 +173,13 @@ landscape:
             homepage_url: 'https://www.salesforce.com/editions-pricing/work/public-health/'
             logo: 'https://landscape.cncf.io/logos/salesforce-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/salesforce'
+          - item:
+            name: Sormas
+            homepage_url: 'https://sormasorg.helmholtz-hzi.de/'
+            repo_url: 'https://github.com/hzi-braunschweig/SORMAS-Project'
+            logo: sormas.svg
+            twitter: 'https://twitter.com/sormas_open'
+            crunchbase: 'https://www.crunchbase.com/organization/helmholtz-centre-for-infection-research'
   - category:
     name: Symptom Monitoring
     subcategories:
