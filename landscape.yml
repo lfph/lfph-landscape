@@ -277,12 +277,6 @@ landscape:
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
           - item:
-            name: Switzerland (SwissCovid)
-            description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
-            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
-            logo: switzerland.svg
-            crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
-          - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
             homepage_url: 'https://www.immuni.italia.it/'
@@ -292,6 +286,12 @@ landscape:
               - repo_url: 'https://github.com/immuni-app/immuni-backend-exposure-ingestion'
             logo: italy.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-italy'
+          - item:
+            name: Switzerland (SwissCovid)
+            description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
+            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
+            logo: switzerland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -365,22 +365,6 @@ landscape:
       - subcategory:
         name: GPS-based
         items:
-          - item:
-            name: United States - North Dakota (Care19)
-            description: >-
-              This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
-              with people who have tested positive.
-            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: north-dakota.svg
-            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
-          - item:
-            name: United States - South Dakota (Care19)
-            description: >-
-              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
-              rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
-            homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: south-dakota.svg
-            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
           - item:
             name: Bahrain (BeAware)
             description: >-
@@ -480,6 +464,14 @@ landscape:
             twitter: 'https://twitter.com/NHSCOVID19app'
             crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
           - item:
+            name: United States - North Dakota (Care19)
+            description: >-
+              This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
+              with people who have tested positive.
+            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
+            logo: north-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
+          - item:
             name: United States - Rhode Island (Crush Covid)
             description: >-
               CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
@@ -487,6 +479,14 @@ landscape:
             homepage_url: 'https://health.ri.gov/covid/crush/'
             logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
+          - item:
+            name: United States - South Dakota (Care19)
+            description: >-
+              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
+              rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
+            homepage_url: 'https://covid.sd.gov/care19app.aspx'
+            logo: south-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
           - item:
             name: United States - Utah (Healthy Together)
             description: >-
