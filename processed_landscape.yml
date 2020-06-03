@@ -2710,65 +2710,79 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-28T12:51:38.000Z
           - item:
-            name: United States - North Dakota (Care19)
-            description: >-
-              This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
-              with people who have tested positive.
-            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
-            logo: north-dakota.svg
-            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
+            name: Italy (Immuni)
+            description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
+            homepage_url: 'https://www.immuni.italia.it/'
+            repo_url: 'https://github.com/immuni-app/immuni-app-android'
+            additional_repos:
+              - repo_url: 'https://github.com/immuni-app/immuni-app-ios'
+              - repo_url: 'https://github.com/immuni-app/immuni-backend-exposure-ingestion'
+            logo: italy.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-italy'
             crunchbase_data:
-              name: North Dakota Department of Health
-              description: North Dakota Department of Health
+              name: Ministry of Health Italy
+              description: The Ministry of Health is a governmental agency of Italy
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://www.health.nd.gov'
-              city: Bismarck
-              region: North Dakota
-              country: United States
-              twitter: 'https://twitter.com/NDDOH'
+              homepage: 'http://www.salute.gov.it/'
+              city: Rome
+              region: Lazio
+              country: Italy
+              twitter: 'https://twitter.com/ministerosalute'
               linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
+            github_data:
+              languages:
+                - name: Swift
+                  value: 1265986
+                  color: '#ffac45'
+                - name: Kotlin
+                  value: 651498
+                  color: '#F18E33'
+                - name: Python
+                  value: 122618
+                  color: '#3572A5'
+                - name: TypeScript
+                  value: 23618
+                  color: '#2b7489'
+                - name: Ruby
+                  value: 10042
+                  color: '#701516'
+                - name: Objective-C
+                  value: 3372
+                  color: '#438eff'
+                - name: Makefile
+                  value: 1623
+                  color: '#427819'
+                - name: Shell
+                  value: 1295
+                  color: '#89e051'
+                - name: Smarty
+                  value: 200
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;161;329
+              firstWeek: 2019-06-09Z
+              stars: 1092
+              license: GNU Affero General Public License v3.0
+              description: ' Official repository for the Android version of the immuni application '
+              latest_commit_date: '2020-06-01T17:36:00Z'
+              latest_commit_link: /immuni-app/immuni-app-android/commit/36b737659534ad43a3b2a0c3fc7ef30e44d3e7e8
+              release_date: '2020-06-01T17:35:06Z'
+              release_link: 'https://github.com/immuni-app/immuni-app-android/releases'
+              contributors_count: 23
+              contributors_link: 'https://github.com/immuni-app/immuni-app-android/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /immuni-app/immuni-app-android/commit/8c4739b471754977ea42b5cc2090cd28804a141f
+              start_date: '2020-05-24T22:01:00Z'
             image_data:
-              fileName: united-states-north-dakota-care19.svg
-              hash: CzO/UReYVhIRYGmbDCTe0POL4HAX0IMzHKmyvI+uCuw=
+              fileName: italy-immuni.svg
+              hash: JDyxt9+hTXG4BltwztM0hJiZraDqq+qteywbwIxoZjI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-06-01T23:30:07.000Z
-          - item:
-            name: United States - South Dakota (Care19)
-            description: >-
-              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
-              rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
-            homepage_url: 'https://covid.sd.gov/care19app.aspx'
-            logo: south-dakota.svg
-            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
-            crunchbase_data:
-              name: South Dakota Department of Health
-              description: Department of Health for South Dakota
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://doh.sd.gov/'
-              city: Pierre
-              region: South Dakota
-              country: United States
-              twitter: 'https://twitter.com/SDDOH'
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: united-states-south-dakota-care19.svg
-              hash: pBTWQK4GHaCJzd/4ypnHIcm4k38tw9Qx3GJC2OPdzZs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-01T19:30:21.000Z
+              latest_tweet_date: 2020-06-02T16:11:21.000Z
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -3094,6 +3108,66 @@ landscape:
       - subcategory:
         name: GPS-based
         items:
+          - item:
+            name: United States - North Dakota (Care19)
+            description: >-
+              This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
+              with people who have tested positive.
+            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
+            logo: north-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
+            crunchbase_data:
+              name: North Dakota Department of Health
+              description: North Dakota Department of Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.health.nd.gov'
+              city: Bismarck
+              region: North Dakota
+              country: United States
+              twitter: 'https://twitter.com/NDDOH'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: united-states-north-dakota-care19.svg
+              hash: CzO/UReYVhIRYGmbDCTe0POL4HAX0IMzHKmyvI+uCuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T23:30:07.000Z
+          - item:
+            name: United States - South Dakota (Care19)
+            description: >-
+              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
+              rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
+            homepage_url: 'https://covid.sd.gov/care19app.aspx'
+            logo: south-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
+            crunchbase_data:
+              name: South Dakota Department of Health
+              description: Department of Health for South Dakota
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://doh.sd.gov/'
+              city: Pierre
+              region: South Dakota
+              country: United States
+              twitter: 'https://twitter.com/SDDOH'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: united-states-south-dakota-care19.svg
+              hash: pBTWQK4GHaCJzd/4ypnHIcm4k38tw9Qx3GJC2OPdzZs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T19:30:21.000Z
           - item:
             name: Bahrain (BeAware)
             description: >-
