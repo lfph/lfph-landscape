@@ -8,7 +8,10 @@ landscape:
           - item:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app/en/'
-            repo_url: 'https://github.com/corona-warn-app/cwa-server'
+            repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
+            additional_repos:
+              - repo_url: 'https://github.com/corona-warn-app/cwa-app-ios'
+              - repo_url: 'https://github.com/corona-warn-app/cwa-server'
             logo: corona-warn-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
           - item:
@@ -22,6 +25,9 @@ landscape:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
             repo_url: 'https://github.com/CovidShield/mobile'
+            additional_repos:
+              - repo_url: 'https://github.com/CovidShield/server'
+              - repo_url: 'https://github.com/CovidShield/portal'
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
@@ -199,8 +205,11 @@ landscape:
         items:
           - item:
             name: CoEpi
+            description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
             homepage_url: 'https://www.coepi.org'
             repo_url: 'https://github.com/Co-Epi/app-android'
+            additional_repos:
+              - repo_url: 'https://github.com/Co-Epi/app-ios'
             logo: coepi.svg
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
           - item:

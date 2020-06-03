@@ -9,7 +9,10 @@ landscape:
           - item:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app/en/'
-            repo_url: 'https://github.com/corona-warn-app/cwa-server'
+            repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
+            additional_repos:
+              - repo_url: 'https://github.com/corona-warn-app/cwa-app-ios'
+              - repo_url: 'https://github.com/corona-warn-app/cwa-server'
             logo: corona-warn-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
             crunchbase_data:
@@ -134,26 +137,41 @@ landscape:
               kind: market_cap
             github_data:
               languages:
+                - name: C
+                  value: 8822257
+                  color: '#555555'
+                - name: Swift
+                  value: 785600
+                  color: '#ffac45'
                 - name: Java
                   value: 449635
                   color: '#b07219'
+                - name: Kotlin
+                  value: 434691
+                  color: '#F18E33'
                 - name: Shell
-                  value: 8665
+                  value: 9413
                   color: '#89e051'
+                - name: Ruby
+                  value: 7457
+                  color: '#701516'
                 - name: Dockerfile
                   value: 1212
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;30;66;70;63
+                - name: Objective-C
+                  value: 246
+                  color: '#438eff'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;30;66;70;521
               firstWeek: 2019-06-09Z
-              stars: 885
+              stars: 1705
               license: Apache License 2.0
-              description: Backend implementation for the Apple/Google exposure notification API.
-              latest_commit_date: '2020-06-01T22:11:34Z'
-              latest_commit_link: /corona-warn-app/cwa-server/commit/fd114fd04e36c36c8081e0286e3f3fd27170777e
-              release_date: '2020-06-01T21:03:26Z'
-              release_link: 'https://github.com/corona-warn-app/cwa-server/releases'
-              contributors_count: 35
-              contributors_link: 'https://github.com/corona-warn-app/cwa-server/graphs/contributors'
+              description: Native Android app using the Apple/Google exposure notification API.
+              latest_commit_date: '2020-06-02T17:40:58Z'
+              latest_commit_link: /corona-warn-app/cwa-app-android/commit/36921e586e653ad0fc2fc4e67fd5d52dbbfe9618
+              release_date: '2020-06-02T17:41:31Z'
+              release_link: 'https://github.com/corona-warn-app/cwa-app-android/releases'
+              contributors_count: 47
+              contributors_link: 'https://github.com/corona-warn-app/cwa-app-android/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /corona-warn-app/cwa-server/commit/a25c5fde50c4536ca1b39b889b93f3c94fcbc15b
               start_date: '2020-05-02T15:07:32Z'
@@ -249,6 +267,9 @@ landscape:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
             repo_url: 'https://github.com/CovidShield/mobile'
+            additional_repos:
+              - repo_url: 'https://github.com/CovidShield/server'
+              - repo_url: 'https://github.com/CovidShield/portal'
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
             crunchbase_data:
@@ -293,37 +314,57 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 134826
+                  value: 135392
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 119032
+                  value: 130064
                   color: '#f1e05a'
+                - name: Ruby
+                  value: 101756
+                  color: '#701516'
+                - name: Go
+                  value: 55171
+                  color: '#00ADD8'
+                - name: HCL
+                  value: 42701
+                - name: HTML
+                  value: 29490
+                  color: '#e34c26'
                 - name: Kotlin
                   value: 20271
                   color: '#F18E33'
                 - name: Objective-C
                   value: 16684
                   color: '#438eff'
-                - name: Ruby
-                  value: 7937
-                  color: '#701516'
+                - name: CSS
+                  value: 13180
+                  color: '#563d7c'
                 - name: Java
                   value: 6421
                   color: '#b07219'
+                - name: Makefile
+                  value: 2922
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 2525
+                  color: '#384d54'
+                - name: Shell
+                  value: 613
+                  color: '#89e051'
                 - name: Starlark
                   value: 602
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;63;48
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;65;194;60
               firstWeek: 2019-06-09Z
-              stars: 261
+              stars: 337
               license: Apache License 2.0
               description: React Native client application for COVID Shield on iOS and Android
-              latest_commit_date: '2020-06-01T12:31:47Z'
-              latest_commit_link: /CovidShield/mobile/commit/9de4528f0e7ac3409f58bbc1cedc57b88d1318e6
-              contributors_count: 15
+              latest_commit_date: '2020-06-02T23:26:30Z'
+              latest_commit_link: /CovidShield/mobile/commit/2d054ec2b6a39ee11c0a6f49fc73b7780957ad7a
+              contributors_count: 29
               contributors_link: 'https://github.com/CovidShield/mobile/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /CovidShield/mobile/commit/033d9718075d260500aedb8d1d2ee631300ed915
-              start_date: '2020-05-18T20:38:12Z'
+              start_commit_link: /CovidShield/server/commit/ca905dab42a8a65b8d8432e271a0515426dffbdb
+              start_date: '2020-04-22T15:30:03Z'
             yahoo_finance_data:
               market_cap: 90713653248
               effective_ticker: SHOP
@@ -2296,8 +2337,11 @@ landscape:
         items:
           - item:
             name: CoEpi
+            description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
             homepage_url: 'https://www.coepi.org'
             repo_url: 'https://github.com/Co-Epi/app-android'
+            additional_repos:
+              - repo_url: 'https://github.com/Co-Epi/app-ios'
             logo: coepi.svg
             crunchbase: 'https://www.crunchbase.com/organization/coepi'
             crunchbase_data:
@@ -2317,22 +2361,28 @@ landscape:
             github_data:
               languages:
                 - name: Kotlin
-                  value: 255293
+                  value: 257462
                   color: '#F18E33'
+                - name: Swift
+                  value: 254865
+                  color: '#ffac45'
                 - name: Java
                   value: 86847
                   color: '#b07219'
                 - name: Shell
                   value: 964
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;23;28;19;9;18;3;9;13;4;6
+                - name: Objective-C
+                  value: 132
+                  color: '#438eff'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25;53;52;32;11;40;4;13;17;10;18
               firstWeek: 2019-06-09Z
-              stars: 27
+              stars: 48
               license: MIT License
               description: 'Android implementation of CoEpi '
-              latest_commit_date: '2020-06-01T13:30:46Z'
-              latest_commit_link: /Co-Epi/app-android/commit/1e1ce086c71905b2d8ecfb1c5a6a0d4479055a91
-              contributors_count: 11
+              latest_commit_date: '2020-06-03T03:34:22Z'
+              latest_commit_link: /Co-Epi/app-android/commit/1e4f690c59443ad9bbeb7db30b820e200246e1ce
+              contributors_count: 18
               contributors_link: 'https://github.com/Co-Epi/app-android/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /Co-Epi/app-android/commit/801182d53ef4a033cbd41ff0be12859aefef9b8a
