@@ -420,6 +420,8 @@ landscape:
             name: DP-3T App
             homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
             repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            additional_repos:
+              - repo_url: 'https://github.com/DP-3T/dp3t-app-android-ch'
             logo: dp3t-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
             crunchbase_data:
@@ -441,8 +443,11 @@ landscape:
                 - name: Swift
                   value: 417845
                   color: '#ffac45'
+                - name: Java
+                  value: 232768
+                  color: '#b07219'
                 - name: HTML
-                  value: 11914
+                  value: 23702
                   color: '#e34c26'
                 - name: Objective-C
                   value: 10424
@@ -453,16 +458,16 @@ landscape:
                 - name: C
                   value: 180
                   color: '#555555'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;27;23;45;60;73
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;67;33;81;108;81
               firstWeek: 2019-06-09Z
-              stars: 70
+              stars: 168
               license: Mozilla Public License 2.0
               description: This is a COVID-19 tracing client using the DP3T iOS SDK.
               latest_commit_date: '2020-06-01T09:51:12Z'
               latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/1bc47b4c22d6250c97e3e99e8c6fb2dab83b0604
               release_date: '2020-05-28T21:29:53Z'
               release_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/releases'
-              contributors_count: 10
+              contributors_count: 13
               contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /DP-3T/dp3t-app-ios-ch/commit/2b9990a18dff59afa2a50bd118e6a0d19e0dd978
