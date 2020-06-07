@@ -117,7 +117,7 @@ You can install and run locally with the [install directions](INSTALL.md). It's 
 
 ## Vulnerability reporting
 
-Please open an [issue](https://github.com/cncf/landscape/issues/new) or, for sensitive information, email info@cncf.io.
+Please open an [issue](https://github.com/lfph/lfph-landscape/issues/new) or, for sensitive information, email info@lfph.io.
 
 ## Adjusting the Landscape View
 The file src/components/MainContent2.js describes the key elements of a
