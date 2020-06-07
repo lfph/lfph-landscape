@@ -379,33 +379,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-05T18:31:34.000Z
           - item:
-            name: COVID Trace
-            homepage_url: 'https://covidtrace.com/'
-            logo: covid-trace.svg
-            crunchbase: 'https://www.crunchbase.com/organization/covid-trace'
-            crunchbase_data:
-              name: COVID Trace
-              description: COVID Trace warns you if you may have been exposed to COVID-19.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://covidtrace.com/'
-              city: Seattle
-              region: Washington
-              country: United States
-              twitter: 'https://twitter.com/dudley'
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: covid-trace.svg
-              hash: cExqDfQmLSC92LuRdTpvsJ5CHXanFQd5oTYXMs6tuL4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-16T01:38:05.000Z
-          - item:
             name: Covid Watch
             homepage_url: 'https://www.covid-watch.org'
             repo_url: 'https://github.com/covid19risk/covidwatch-android'
@@ -680,6 +653,33 @@ landscape:
         name: Non-GAEN
         items:
           - item:
+            name: Coalition App
+            description: 'Coalition is a global, privacy-first tracing app to help stop the spread of COVID-19.'
+            homepage_url: 'https://www.coalitionnetwork.org/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/coalition-network'
+            crunchbase_data:
+              name: Coalition Network
+              description: 'Coalition is a global, privacy-first contact tracing app to help stop the spread of COVID-19.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.coalitionnetwork.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/coalition_app'
+              linkedin: 'https://www.linkedin.com/company/coalitionapp/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: coalition-app.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-05T14:52:11.000Z
+          - item:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
@@ -878,6 +878,33 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-06T20:00:01.000Z
           - item:
+            name: Healthy Together
+            description: >-
+              Our COVID-19 response technology helps accelerate the time between detecting COVID-19 symptoms and notifying those at risk thereby slowing the
+              spread and keeping our communities safe.
+            homepage_url: 'https://www.healthytogether.io/'
+            logo: 'https://uploads-ssl.webflow.com/5e8ea89d9112fd4849fcff70/5e9fae84ac88fbb9bfdd0a6a_logo-nav.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/insite-applications-llc'
+            crunchbase_data:
+              name: Twenty
+              description: Twenty aims to drive more human connection by making it easier than ever to make plans and create new opportunities for friends to meet up.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://twenty.co/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/twentyapp'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: healthy-together.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: ito-app
             homepage_url: 'https://www.ito-app.org'
             repo_url: 'https://github.com/ito-org/ito-app'
@@ -943,23 +970,26 @@ landscape:
               latest_tweet_date: 2020-05-13T12:34:32.000Z
           - item:
             name: Novid
-            homepage_url: 'https://www.ito-app.org'
+            homepage_url: 'https://www.novid.org/'
             logo: novid.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
+            twitter: 'https://twitter.com/NOVIDApp'
+            crunchbase: 'https://www.crunchbase.com/organization/expii-inc'
             crunchbase_data:
-              name: ito-App
-              description: ito is a privacy-first contact tracing app to fight SARS-CoV-2 and other pathogens.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: null
-              city: Ober-olm
-              region: Rheinland-Pfalz
-              country: Germany
-              twitter: 'https://twitter.com/itoApp'
-              linkedin: null
+              name: 'Expii, Inc.'
+              description: Crowdsourced interactive learning
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.expii.com'
+              city: Pittsburgh
+              region: Pennsylvania
+              country: United States
+              twitter: 'http://twitter.com/ExpiiInc'
+              linkedin: 'https://www.linkedin.com/company/expii-inc-'
               acquisitions: []
               parents: []
+              funding: 1310000
               stockExchange: null
+              kind: funding
             image_data:
               fileName: novid.svg
               hash: G66Gs5cudQiFwffl8Vix4hbQefqaSp+zjS6G3gPyTLc=
@@ -967,7 +997,34 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-05-13T12:34:32.000Z
+              latest_tweet_date: 2020-06-02T18:42:32.000Z
+          - item:
+            name: ShareTrace
+            description: We help individuals and organisations understand the risk that Covid-19 is spreading through their social networks.
+            homepage_url: 'https://www.sharetrace.org/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sharetrace'
+            crunchbase_data:
+              name: ShareTrace
+              description: We help individuals and organisations understand the risk that Covid-19 is spreading through their social networks.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.sharetrace.org/'
+              city: Cleveland
+              region: Ohio
+              country: United States
+              twitter: 'https://twitter.com/sharetrace_app'
+              linkedin: 'https://www.linkedin.com/company/sharetrace/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: share-trace.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-14T18:34:04.000Z
           - item:
             name: TrackCOVID
             homepage_url: 'https://trackcovid.net'

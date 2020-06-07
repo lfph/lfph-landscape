@@ -31,11 +31,6 @@ landscape:
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
-            name: COVID Trace
-            homepage_url: 'https://covidtrace.com/'
-            logo: covid-trace.svg
-            crunchbase: 'https://www.crunchbase.com/organization/covid-trace'
-          - item:
             name: Covid Watch
             homepage_url: 'https://www.covid-watch.org'
             repo_url: 'https://github.com/covid19risk/covidwatch-android'
@@ -75,6 +70,12 @@ landscape:
         name: Non-GAEN
         items:
           - item:
+            name: Coalition App
+            description: 'Coalition is a global, privacy-first tracing app to help stop the spread of COVID-19.'
+            homepage_url: 'https://www.coalitionnetwork.org/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/coalition-network'
+          - item:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
@@ -94,6 +95,14 @@ landscape:
             logo: covidsafe.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
           - item:
+            name: Healthy Together
+            description: >-
+              Our COVID-19 response technology helps accelerate the time between detecting COVID-19 symptoms and notifying those at risk thereby slowing the
+              spread and keeping our communities safe.
+            homepage_url: 'https://www.healthytogether.io/'
+            logo: 'https://uploads-ssl.webflow.com/5e8ea89d9112fd4849fcff70/5e9fae84ac88fbb9bfdd0a6a_logo-nav.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/insite-applications-llc'
+          - item:
             name: ito-app
             homepage_url: 'https://www.ito-app.org'
             repo_url: 'https://github.com/ito-org/ito-app'
@@ -101,9 +110,16 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ito-app'
           - item:
             name: Novid
-            homepage_url: 'https://www.ito-app.org'
+            homepage_url: 'https://www.novid.org/'
             logo: novid.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ito-app'
+            twitter: 'https://twitter.com/NOVIDApp'
+            crunchbase: 'https://www.crunchbase.com/organization/expii-inc'
+          - item:
+            name: ShareTrace
+            description: We help individuals and organisations understand the risk that Covid-19 is spreading through their social networks.
+            homepage_url: 'https://www.sharetrace.org/'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/sharetrace'
           - item:
             name: TrackCOVID
             homepage_url: 'https://trackcovid.net'
