@@ -381,9 +381,9 @@ landscape:
           - item:
             name: Covid Watch
             homepage_url: 'https://www.covid-watch.org'
-            repo_url: 'https://github.com/covid19risk/covidwatch-android'
+            repo_url: 'https://github.com/covid19risk/covidwatch-android-en'
             additional_repos:
-              - repo_url: 'https://github.com/covid19risk/covidwatch-ios'
+              - repo_url: 'https://github.com/covid19risk/covidwatch-ios-en'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
             crunchbase_data:
@@ -403,28 +403,25 @@ landscape:
             github_data:
               languages:
                 - name: Swift
-                  value: 163793
+                  value: 214929
                   color: '#ffac45'
                 - name: Kotlin
-                  value: 77133
+                  value: 163631
                   color: '#F18E33'
-                - name: Ruby
-                  value: 9225
-                  color: '#701516'
-                - name: Shell
-                  value: 1602
-                  color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24;28;27;33;138;208;180;111;0;0;0;0;0
+                - name: Java
+                  value: 10429
+                  color: '#b07219'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;24;16;13;35;88;64;50;33;28;13;18;22
               firstWeek: 2019-06-16Z
-              stars: 91
+              stars: 5
               license: Apache License 2.0
-              description: Covid Watch Android TCN app
-              latest_commit_date: '2020-05-02T21:39:11Z'
-              latest_commit_link: /covid19risk/covidwatch-android/commit/7bb2464e5aa94842ae71a2150a5357c6c5a9fe22
-              contributors_count: 20
-              contributors_link: 'https://github.com/covid19risk/covidwatch-android/graphs/contributors'
+              description: Covid Watch Android Exposure Notification app
+              latest_commit_date: '2020-06-06T17:45:49Z'
+              latest_commit_link: /covid19risk/covidwatch-android-en/commit/5abb9b8c80ec69f6c9eec9bd828a25e7b7ff31c4
+              contributors_count: 15
+              contributors_link: 'https://github.com/covid19risk/covidwatch-android-en/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /covid19risk/covidwatch-android/commit/06f2332e588e89dd409568fd55e91c17d6f43fe2
+              start_commit_link: /covid19risk/covidwatch-android-en/commit/06f2332e588e89dd409568fd55e91c17d6f43fe2
               start_date: '2020-03-09T17:08:20Z'
             image_data:
               fileName: covid-watch.svg
