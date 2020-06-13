@@ -92,7 +92,7 @@ big_picture:
         category: Exposure Notification
         width: 390
         height: 120
-        top: 0
+        top: 130
         left: 0
         color: 'rgb(4,81,49)'
         fit_width: true
@@ -100,7 +100,7 @@ big_picture:
         category: Specification
         width: 150
         height: 120
-        top: 0
+        top: 130
         left: 420
         color: 'rgb(7,136,62)'
         fit_width: true
@@ -108,7 +108,7 @@ big_picture:
         category: Contact Tracing
         width: 150
         height: 120
-        top: 0
+        top: 130
         left: 600
         color: 'rgb(79,121,13)'
         fit_width: true
@@ -116,7 +116,7 @@ big_picture:
         category: Symptom Monitoring
         width: 200
         height: 100
-        top: 140
+        top: 270
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
@@ -124,7 +124,7 @@ big_picture:
         category: Non-Code Contribution
         width: 200
         height: 100
-        top: 140
+        top: 270
         left: 230
         color: 'rgb(143,88,61)'
         fit_width: true
@@ -133,14 +133,14 @@ big_picture:
         rows: 6
         width: 750
         height: 120
-        top: 260
+        top: 0
         left: 0
         color: 'rgb(179,77,77)'
         fit_width: true
       - type: LandscapeInfo
         width: 290
         height: 130
-        top: 110
+        top: 240
         left: 460
         children:
           - type: text
