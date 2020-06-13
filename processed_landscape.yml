@@ -2681,8 +2681,34 @@ landscape:
     name: Non-Code Contribution
     subcategories:
       - subcategory:
-        name: Non-Profit Assistance
+        name: Non-Profit Implementers
         items:
+          - item:
+            name: Covid Watch Implementation Team
+            homepage_url: 'https://www.covidwatch.org'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+            crunchbase_data:
+              name: Covid Watch
+              description: Covid Watch
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.covid-watch.org/'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/CovidWatch'
+              linkedin: 'https://www.linkedin.com/company/covidwatch/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-watch-implementation-team.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-11T16:30:00.000Z
           - item:
             name: U.S. Digital Response
             description: >-
