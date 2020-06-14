@@ -2388,6 +2388,69 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-12T21:16:33.000Z
           - item:
+            name: Sara Alert
+            homepage_url: 'https://saraalert.org/'
+            repo_url: 'https://github.com/SaraAlert/SaraAlert'
+            logo: sara-alert.svg
+            crunchbase: 'https://www.crunchbase.com/organization/mitre'
+            crunchbase_data:
+              name: MITRE Corporation
+              description: MITRE is a not-for-profit organization that operates research and development centers.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.mitre.org'
+              city: Bedford
+              region: Massachusetts
+              country: United States
+              twitter: 'http://twitter.com/MITREcorp'
+              linkedin: 'https://www.linkedin.com/company/mitre'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Ruby
+                  value: 718065
+                  color: '#701516'
+                - name: JavaScript
+                  value: 611095
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 137104
+                  color: '#e34c26'
+                - name: CSS
+                  value: 31370
+                  color: '#563d7c'
+                - name: Dockerfile
+                  value: 2944
+                  color: '#384d54'
+                - name: Shell
+                  value: 94
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72;54;36;104;13;47;85;98;99;57;93;42;151;121;84;115;64;63;66;50
+              firstWeek: 2019-06-23Z
+              stars: 11
+              license: Apache License 2.0
+              description: Sara Alert is an open source application built to allow public health officials to monitor disease outbreaks.
+              latest_commit_date: '2020-06-13T11:03:40Z'
+              latest_commit_link: /SaraAlert/SaraAlert/commit/55866ebb50bbcde43eb2a72b7440b37f63765308
+              contributors_count: 13
+              contributors_link: 'https://github.com/SaraAlert/SaraAlert/graphs/contributors'
+            repos:
+              - url: 'https://github.com/SaraAlert/SaraAlert'
+                stars: 11
+            github_start_commit_data:
+              start_commit_link: /SaraAlert/SaraAlert/commit/d451109da880db913e96e217a1d36d43d7fe2ed8
+              start_date: '2020-01-26T21:26:44Z'
+            image_data:
+              fileName: sara-alert.svg
+              hash: Yyvr2neryrVfmYf8RTiZdLN/e3g91Qi1t5lUfw9V85U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-12T21:00:18.000Z
+          - item:
             name: Sormas
             homepage_url: 'https://sormasorg.helmholtz-hzi.de/'
             repo_url: 'https://github.com/hzi-braunschweig/SORMAS-Project'
@@ -2563,69 +2626,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-10T03:15:16.000Z
-          - item:
-            name: Sara Alert
-            homepage_url: 'https://saraalert.org/'
-            repo_url: 'https://github.com/SaraAlert/SaraAlert'
-            logo: sara-alert.svg
-            crunchbase: 'https://www.crunchbase.com/organization/mitre'
-            crunchbase_data:
-              name: MITRE Corporation
-              description: MITRE is a not-for-profit organization that operates research and development centers.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.mitre.org'
-              city: Bedford
-              region: Massachusetts
-              country: United States
-              twitter: 'http://twitter.com/MITREcorp'
-              linkedin: 'https://www.linkedin.com/company/mitre'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Ruby
-                  value: 718065
-                  color: '#701516'
-                - name: JavaScript
-                  value: 611095
-                  color: '#f1e05a'
-                - name: HTML
-                  value: 137104
-                  color: '#e34c26'
-                - name: CSS
-                  value: 31370
-                  color: '#563d7c'
-                - name: Dockerfile
-                  value: 2944
-                  color: '#384d54'
-                - name: Shell
-                  value: 94
-                  color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72;54;36;104;13;47;85;98;99;57;93;42;151;121;84;115;64;63;66;50
-              firstWeek: 2019-06-23Z
-              stars: 11
-              license: Apache License 2.0
-              description: Sara Alert is an open source application built to allow public health officials to monitor disease outbreaks.
-              latest_commit_date: '2020-06-13T11:03:40Z'
-              latest_commit_link: /SaraAlert/SaraAlert/commit/55866ebb50bbcde43eb2a72b7440b37f63765308
-              contributors_count: 13
-              contributors_link: 'https://github.com/SaraAlert/SaraAlert/graphs/contributors'
-            repos:
-              - url: 'https://github.com/SaraAlert/SaraAlert'
-                stars: 11
-            github_start_commit_data:
-              start_commit_link: /SaraAlert/SaraAlert/commit/d451109da880db913e96e217a1d36d43d7fe2ed8
-              start_date: '2020-01-26T21:26:44Z'
-            image_data:
-              fileName: sara-alert.svg
-              hash: Yyvr2neryrVfmYf8RTiZdLN/e3g91Qi1t5lUfw9V85U=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-12T21:00:18.000Z
       - subcategory:
         name: Website
         items:
