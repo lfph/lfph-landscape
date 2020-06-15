@@ -1157,6 +1157,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-12T02:12:20.000Z
+      - subcategory:
+        name: Hardware
+        items:
+          - item:
+            name: Nodle M1
+            description: The Nodle M1 is a smart wearable device that buzzes workers when they get too close to one another.
+            homepage_url: 'https://m1.nodle.io/'
+            logo: 'https://uploads-ssl.webflow.com/5ebd4cadb9bd2d9c6184831b/5ebd9fed9f6d43c3f81c55e2_Logo-NodleM1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodle-io'
+            crunchbase_data:
+              name: Nodle.io
+              description: Nodle offers low cost and low energy connectivity service for the Internet of things using smartphones as a base station.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://nodle.io/#/landing'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/NodleTeam'
+              linkedin: 'https://www.linkedin.com/company/nodle/'
+              acquisitions:
+                - date: '2020-03-02'
+                  acquiree: Brickchain
+              parents: []
+              funding: 6500000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: nodle-m1.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-14T16:21:44.000Z
   - category:
     name: Specification
     subcategories:
@@ -1550,6 +1584,62 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-06-12T16:51:20.000Z
+          - item:
+            name: Whisper Tracing
+            homepage_url: 'https://github.com/NodleCode/libwhisper-android'
+            repo_url: 'https://github.com/NodleCode/libwhisper-android'
+            logo: 'https://uploads-ssl.webflow.com/5ebd4cadb9bd2d9c6184831b/5ebd9fed9f6d43c3f81c55e2_Logo-NodleM1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodle-io'
+            crunchbase_data:
+              name: Nodle.io
+              description: Nodle offers low cost and low energy connectivity service for the Internet of things using smartphones as a base station.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://nodle.io/#/landing'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/NodleTeam'
+              linkedin: 'https://www.linkedin.com/company/nodle/'
+              acquisitions:
+                - date: '2020-03-02'
+                  acquiree: Brickchain
+              parents: []
+              funding: 6500000
+              stockExchange: null
+              kind: funding
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 114382
+                  color: '#F18E33'
+                - name: Java
+                  value: 17097
+                  color: '#b07219'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0
+              firstWeek: 2019-06-24Z
+              stars: 1
+              license: GNU General Public License v3.0
+              description: 'Android implementation of the Whisper Tracing protocol https://www.coalitionnetwork.org/'
+              latest_commit_date: '2020-05-23T07:41:27Z'
+              latest_commit_link: /NodleCode/libwhisper-android/commit/cee632d15c9d34631f1bcff271ab86ea7069de3b
+              release_date: '2020-05-23T07:42:57Z'
+              release_link: 'https://github.com/NodleCode/libwhisper-android/releases'
+              contributors_count: 1
+              contributors_link: 'https://github.com/NodleCode/libwhisper-android/graphs/contributors'
+            repos:
+              - url: 'https://github.com/NodleCode/libwhisper-android'
+                stars: 1
+            github_start_commit_data:
+              start_commit_link: /NodleCode/libwhisper-android/commit/e361a3b31c0d5de60bc6589ad10db85f20d63953
+              start_date: '2020-04-29T14:58:39Z'
+            image_data:
+              fileName: whisper-tracing.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-14T16:21:44.000Z
   - category:
     name: Contact Tracing
     subcategories:

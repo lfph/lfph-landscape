@@ -130,6 +130,15 @@ landscape:
             repo_url: 'https://github.com/tyleryasaka/TrackCOVID'
             logo: trackcovid.svg
             crunchbase: 'https://www.crunchbase.com/organization/trackcovid'
+      - subcategory:
+        name: Hardware
+        items:
+          - item:
+            name: Nodle M1
+            description: The Nodle M1 is a smart wearable device that buzzes workers when they get too close to one another.
+            homepage_url: 'https://m1.nodle.io/'
+            logo: 'https://uploads-ssl.webflow.com/5ebd4cadb9bd2d9c6184831b/5ebd9fed9f6d43c3f81c55e2_Logo-NodleM1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodle-io'
   - category:
     name: Specification
     subcategories:
@@ -157,6 +166,12 @@ landscape:
             logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
             twitter: 'https://twitter.com/tcncoalition'
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
+          - item:
+            name: Whisper Tracing
+            homepage_url: 'https://github.com/NodleCode/libwhisper-android'
+            repo_url: 'https://github.com/NodleCode/libwhisper-android'
+            logo: 'https://uploads-ssl.webflow.com/5ebd4cadb9bd2d9c6184831b/5ebd9fed9f6d43c3f81c55e2_Logo-NodleM1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nodle-io'
   - category:
     name: Contact Tracing
     subcategories:
