@@ -9,11 +9,10 @@ landscape:
             name: Corona-Warn-App
             homepage_url: 'https://www.coronawarn.app/en/'
             repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
-            additional_repos:
-              - repo_url: 'https://github.com/corona-warn-app/cwa-app-ios'
-              - repo_url: 'https://github.com/corona-warn-app/cwa-server'
+            project_org: 'https://github.com/corona-warn-app'
             logo: corona-warn-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/sap'
+            allow_duplicate_repo: true
           - item:
             name: Covid Safe Paths Project Aurora
             homepage_url: 'https://covidsafepaths.org'
@@ -329,6 +328,15 @@ landscape:
             repo_url: 'https://github.com/austrianredcross/stopp-corona-android'
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
+          - item:
+            name: Germany (Corona-Warn-App)
+            description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
+            homepage_url: 'https://www.coronawarn.app/en/'
+            repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
+            project_org: 'https://github.com/corona-warn-app'
+            logo: germany.svg
+            crunchbase: 'https://www.crunchbase.com/organization/robert-koch-foundation'
+            allow_duplicate_repo: true
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
