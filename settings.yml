@@ -17,7 +17,7 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
     hide_license_for_categories:
-      - LF Public Health Adopter
+      - Implementers
   membership: LFPH Member
 twitter:
   search: landscape.lfph.io
@@ -114,18 +114,26 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Symptom Monitoring
-        width: 200
+        width: 160
         height: 100
         top: 270
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: Non-Code Contribution
-        width: 200
+        category: Non-Code Offerings
+        width: 100
         height: 100
         top: 270
-        left: 230
+        left: 180
+        color: 'rgb(143,88,61)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Implementers
+        width: 140
+        height: 100
+        top: 270
+        left: 300
         color: 'rgb(143,88,61)'
         fit_width: true
       - type: HorizontalCategory

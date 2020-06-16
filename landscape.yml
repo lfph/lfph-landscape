@@ -284,25 +284,8 @@ landscape:
             logo: track-my-temp.svg
             crunchbase: 'https://www.crunchbase.com/organization/trackmytemp'
   - category:
-    name: Non-Code Contribution
+    name: Non-Code Offerings
     subcategories:
-      - subcategory:
-        name: Non-Profit Implementers
-        items:
-          - item:
-            name: Covid Watch Implementation Team
-            homepage_url: 'https://www.covidwatch.org'
-            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
-          - item:
-            name: U.S. Digital Response
-            description: >-
-              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
-              you within hours.
-            homepage_url: 'https://www.usdigitalresponse.org'
-            logo: usdigitalresponse.svg
-            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
       - subcategory:
         name: Legal Template
         items:
@@ -314,6 +297,29 @@ landscape:
             homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
             repo_url: 'https://github.com/usdigitalresponse/dpa'
             logo: us-digital-response-dpa.svg
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
+  - category:
+    name: Implementers
+    subcategories:
+      - subcategory:
+        name: Non-Profit
+        items:
+          - item:
+            name: Covid Watch Implementation Team
+            description: >-
+              Covid Watch is actively working with universities and public health departments to integrate the Covid Watch app and customizable verification
+              portal with public health systems, preserving the anonymity of app users.
+            homepage_url: 'https://www.covidwatch.org'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+          - item:
+            name: U.S. Digital Response
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
+            homepage_url: 'https://www.usdigitalresponse.org'
+            logo: usdigitalresponse.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
   - category:
     name: PHA-Deployed App

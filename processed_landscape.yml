@@ -2849,13 +2849,70 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-05-24T19:41:22.000Z
   - category:
-    name: Non-Code Contribution
+    name: Non-Code Offerings
     subcategories:
       - subcategory:
-        name: Non-Profit Implementers
+        name: Legal Template
+        items:
+          - item:
+            name: Model Data Protection Agreement (DPA)
+            description: >-
+              Amidst all the noise about contact tracing and exposure notification apps, U.S. Digital Response has put together a Model Data Protection
+              Agreement to help ensure an appropriate balance between those who produce data for these apps and those who use data produced by these apps.
+            homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
+            repo_url: 'https://github.com/usdigitalresponse/dpa'
+            logo: us-digital-response-dpa.svg
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
+            crunchbase_data:
+              name: U.S. Digital Response
+              description: USDR helps governments respond as fast as possible to COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.usdigitalresponse.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/USDResponse'
+              linkedin: 'https://www.linkedin.com/company/usdr/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;0;0;0
+              firstWeek: 2019-06-23Z
+              stars: 0
+              license: Creative Commons Zero v1.0 Universal
+              description: Data Protection Agreement
+              latest_commit_date: '2020-05-19T21:10:03Z'
+              latest_commit_link: /usdigitalresponse/dpa/commit/686886d85335783324aef2f3897d136c4c6dd854
+              contributors_count: 1
+              contributors_link: 'https://github.com/usdigitalresponse/dpa/graphs/contributors'
+            repos:
+              - url: 'https://github.com/usdigitalresponse/dpa'
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /usdigitalresponse/dpa/commit/584c1d21141ca32746c3e93749772b86be5eb629
+              start_date: '2020-05-19T19:51:16Z'
+            image_data:
+              fileName: model-data-protection-agreement-dpa.svg
+              hash: CbFJ/kCugT0vJ3o8po2InwYNTaQKCoE8esmEsjWMMmw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-15T16:22:08.000Z
+  - category:
+    name: Implementers
+    subcategories:
+      - subcategory:
+        name: Non-Profit
         items:
           - item:
             name: Covid Watch Implementation Team
+            description: >-
+              Covid Watch is actively working with universities and public health departments to integrate the Covid Watch app and customizable verification
+              portal with public health systems, preserving the anonymity of app users.
             homepage_url: 'https://www.covidwatch.org'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
@@ -2906,57 +2963,6 @@ landscape:
             image_data:
               fileName: u-s-digital-response.svg
               hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-15T16:22:08.000Z
-      - subcategory:
-        name: Legal Template
-        items:
-          - item:
-            name: Model Data Protection Agreement (DPA)
-            description: >-
-              Amidst all the noise about contact tracing and exposure notification apps, U.S. Digital Response has put together a Model Data Protection
-              Agreement to help ensure an appropriate balance between those who produce data for these apps and those who use data produced by these apps.
-            homepage_url: 'https://law.mit.edu/pub/modeldpaforgovernment/release/1'
-            repo_url: 'https://github.com/usdigitalresponse/dpa'
-            logo: us-digital-response-dpa.svg
-            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
-            crunchbase_data:
-              name: U.S. Digital Response
-              description: USDR helps governments respond as fast as possible to COVID-19.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.usdigitalresponse.org/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/USDResponse'
-              linkedin: 'https://www.linkedin.com/company/usdr/'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;0;0;0
-              firstWeek: 2019-06-23Z
-              stars: 0
-              license: Creative Commons Zero v1.0 Universal
-              description: Data Protection Agreement
-              latest_commit_date: '2020-05-19T21:10:03Z'
-              latest_commit_link: /usdigitalresponse/dpa/commit/686886d85335783324aef2f3897d136c4c6dd854
-              contributors_count: 1
-              contributors_link: 'https://github.com/usdigitalresponse/dpa/graphs/contributors'
-            repos:
-              - url: 'https://github.com/usdigitalresponse/dpa'
-                stars: 0
-            github_start_commit_data:
-              start_commit_link: /usdigitalresponse/dpa/commit/584c1d21141ca32746c3e93749772b86be5eb629
-              start_date: '2020-05-19T19:51:16Z'
-            image_data:
-              fileName: model-data-protection-agreement-dpa.svg
-              hash: CbFJ/kCugT0vJ3o8po2InwYNTaQKCoE8esmEsjWMMmw=
             best_practice_data:
               badge: false
               percentage: null
