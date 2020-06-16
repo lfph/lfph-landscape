@@ -633,8 +633,8 @@ landscape:
               percentage: null
           - item:
             name: Xamarin Exposure Notification
-            homepage_url: 'https://github.com/xamarin/xamarin.exposurenotification'
-            repo_url: 'https://github.com/xamarin/xamarin.exposurenotification'
+            homepage_url: 'https://github.com/xamarin/ExposureNotification.Sample'
+            repo_url: 'https://github.com/xamarin/ExposureNotification.Sample'
             logo: xamarin.svg
             crunchbase: 'https://www.crunchbase.com/organization/xamarin'
             crunchbase_data:
@@ -673,12 +673,12 @@ landscape:
               latest_commit_date: '2020-06-10T14:42:49Z'
               latest_commit_link: /xamarin/ExposureNotification.Sample/commit/66d7511eec2455fcde754d1e53ff3bd921ec917d
               contributors_count: 8
-              contributors_link: 'https://github.com/xamarin/xamarin.exposurenotification/graphs/contributors'
+              contributors_link: 'https://github.com/xamarin/ExposureNotification.Sample/graphs/contributors'
             repos:
-              - url: 'https://github.com/xamarin/xamarin.exposurenotification'
+              - url: 'https://github.com/xamarin/ExposureNotification.Sample'
                 stars: 82
             github_start_commit_data:
-              start_commit_link: /xamarin/xamarin.exposurenotification/commit/c2df9a5814302e68a94b50717311856cf583cb78
+              start_commit_link: /xamarin/ExposureNotification.Sample/commit/c2df9a5814302e68a94b50717311856cf583cb78
               start_date: '2020-04-29T18:44:16Z'
             yahoo_finance_data:
               market_cap: 1432815140864
@@ -1794,7 +1794,7 @@ landscape:
             description: >-
               Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for up to
               six months.
-            homepage_url: 'https://dynamics.microsoft.com/en-us/covid-19-offer/'
+            homepage_url: 'https://dynamics.microsoft.com/en-us/'
             logo: microsoft-dynamics365.svg
             twitter: 'https://twitter.com/msftdynamics365'
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
