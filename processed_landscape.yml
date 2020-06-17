@@ -426,6 +426,7 @@ landscape:
             name: Covid Watch
             homepage_url: 'https://www.covidwatch.org'
             repo_url: 'https://github.com/covid19risk/covidwatch-android-en'
+            project_org: 'https://github.com/covid19risk'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
             crunchbase_data:
@@ -443,33 +444,103 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: 'We put the power to help stop COVID-19 in the palm of your hand. Open source, notprofit, totally anonymous.'
+              contributors_count: 61
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;14;41;116;59;88;54;382;347;443;371;383;297;205;88;94;78
+              stars: 126
               languages:
                 - name: Swift
-                  value: 235504
+                  value: 477496
                   color: '#ffac45'
+                - name: Go
+                  value: 445103
+                  color: '#00ADD8'
                 - name: Kotlin
-                  value: 189923
+                  value: 321892
                   color: '#F18E33'
+                - name: Jupyter Notebook
+                  value: 252872
+                  color: '#DA5B0B'
+                - name: JavaScript
+                  value: 150210
+                  color: '#f1e05a'
+                - name: Vue
+                  value: 120843
+                  color: '#2c3e50'
+                - name: R
+                  value: 71409
+                  color: '#198CE7'
+                - name: TypeScript
+                  value: 62577
+                  color: '#2b7489'
+                - name: PLpgSQL
+                  value: 37956
+                - name: HCL
+                  value: 28543
+                - name: Python
+                  value: 25464
+                  color: '#3572A5'
+                - name: CSS
+                  value: 21827
+                  color: '#563d7c'
+                - name: Shell
+                  value: 20158
+                  color: '#89e051'
                 - name: Java
                   value: 10429
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9;23;13;12;68;77;49;46;48;12;19;20;18;13
-              firstWeek: 2019-06-23Z
-              stars: 5
-              license: Apache License 2.0
-              description: Covid Watch Android Exposure Notification app
-              latest_commit_date: '2020-06-14T17:23:12Z'
+                - name: Ruby
+                  value: 9679
+                  color: '#701516'
+                - name: Rust
+                  value: 7744
+                  color: '#dea584'
+                - name: Dockerfile
+                  value: 5953
+                  color: '#384d54'
+                - name: HTML
+                  value: 4305
+                  color: '#e34c26'
+                - name: TSQL
+                  value: 3034
+                - name: Makefile
+                  value: 2242
+                  color: '#427819'
               latest_commit_link: /covid19risk/covidwatch-android-en/commit/495cc2278052805fbbb3fbdccddafb6adcff273e
-              contributors_count: 16
+              latest_commit_date: '2020-06-14T17:23:12Z'
+              firstWeek: 2019-06-24Z
+              license: Apache License 2.0
               contributors_link: 'https://github.com/covid19risk/covidwatch-android-en/graphs/contributors'
             repos:
               - url: 'https://github.com/covid19risk/covidwatch-android-en'
                 stars: 3
+              - url: 'https://github.com/covid19risk/covidwatch-android'
+                stars: 53
+              - url: 'https://github.com/covid19risk/covidwatch-ios'
+                stars: 39
+              - url: 'https://github.com/covid19risk/proof'
+                stars: 8
+              - url: 'https://github.com/covid19risk/permission-portal'
+                stars: 5
+              - url: 'https://github.com/covid19risk/covidwatch-android-minimal'
+                stars: 3
+              - url: 'https://github.com/covid19risk/exposure-notifications-server'
+                stars: 3
+              - url: 'https://github.com/covid19risk/impact-sim'
+                stars: 2
+              - url: 'https://github.com/covid19risk/covidwatch-cloud-functions'
+                stars: 2
+              - url: 'https://github.com/covid19risk/tcn-node'
+                stars: 2
+              - url: 'https://github.com/covid19risk/covidwatch-ios-minimal'
+                stars: 2
+              - url: 'https://github.com/covid19risk/website'
+                stars: 2
               - url: 'https://github.com/covid19risk/covidwatch-ios-en'
                 stars: 2
             github_start_commit_data:
-              start_commit_link: /covid19risk/covidwatch-android-en/commit/06f2332e588e89dd409568fd55e91c17d6f43fe2
-              start_date: '2020-03-09T17:08:20Z'
+              start_commit_link: /covid19risk/impact-sim/commit/95ae461fefc1b341b69a059188a23c227d2a3478
+              start_date: '2020-02-19T21:45:58Z'
             image_data:
               fileName: covid-watch.svg
             best_practice_data:
@@ -481,6 +552,7 @@ landscape:
             name: DP-3T App
             homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
             repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            project_org: 'https://github.com/DP-3T'
             logo: dp3t-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
             crunchbase_data:
@@ -498,53 +570,78 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: Decentralized Privacy-Preserving Proximity Tracing
+              contributors_count: 44
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;120;231;344;275;133;212;259;158;137;245
+              stars: 3431
               languages:
-                - name: Swift
-                  value: 448980
-                  color: '#ffac45'
                 - name: Java
-                  value: 251683
+                  value: 1054824
                   color: '#b07219'
+                - name: Swift
+                  value: 1018173
+                  color: '#ffac45'
                 - name: HTML
-                  value: 55577
+                  value: 55727
                   color: '#e34c26'
+                - name: Python
+                  value: 52915
+                  color: '#3572A5'
                 - name: Objective-C
-                  value: 10424
+                  value: 19894
                   color: '#438eff'
                 - name: Ruby
-                  value: 7022
+                  value: 15027
                   color: '#701516'
-                - name: Python
-                  value: 1842
-                  color: '#3572A5'
                 - name: Dockerfile
-                  value: 701
+                  value: 1512
                   color: '#384d54'
-                - name: C
-                  value: 180
-                  color: '#555555'
+                - name: Makefile
+                  value: 1484
+                  color: '#427819'
                 - name: Shell
-                  value: 41
+                  value: 826
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;60;37;65;111;97;30;123
-              firstWeek: 2019-06-23Z
-              stars: 190
+                - name: PLpgSQL
+                  value: 374
+                - name: C
+                  value: 360
+                  color: '#555555'
+              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/0a1cafaedbc43eb28dc82b002c1333b30b6d373e
+              latest_commit_date: '2020-06-16T11:20:29Z'
+              firstWeek: 2019-06-24Z
               license: Mozilla Public License 2.0
-              description: This is a COVID-19 tracing client using the DP3T iOS SDK.
-              latest_commit_date: '2020-06-16T06:22:57Z'
-              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/2e692b502d296c2cf52dc30f4be6809ff86cd8fa
-              release_date: '2020-06-12T22:22:32Z'
-              release_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/releases'
-              contributors_count: 14
               contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
             repos:
               - url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
                 stars: 83
+              - url: 'https://github.com/DP-3T/documents'
+                stars: 2015
+              - url: 'https://github.com/DP-3T/dp3t-app-android'
+                stars: 333
+              - url: 'https://github.com/DP-3T/dp3t-app-ios-demo'
+                stars: 246
+              - url: 'https://github.com/DP-3T/dp3t-sdk-android'
+                stars: 208
+              - url: 'https://github.com/DP-3T/dp3t-sdk-backend'
+                stars: 153
+              - url: 'https://github.com/DP-3T/dp3t-sdk-ios'
+                stars: 134
+              - url: 'https://github.com/DP-3T/reference_implementation'
+                stars: 122
               - url: 'https://github.com/DP-3T/dp3t-app-android-ch'
-                stars: 107
+                stars: 108
+              - url: 'https://github.com/DP-3T/dp3t-discovery'
+                stars: 11
+              - url: 'https://github.com/DP-3T/dp-3t.github.io'
+                stars: 11
+              - url: 'https://github.com/DP-3T/dp3t-config-backend-ch'
+                stars: 4
+              - url: 'https://github.com/DP-3T/dp3t-ux-screenflows-ch'
+                stars: 3
             github_start_commit_data:
-              start_commit_link: /DP-3T/dp3t-app-ios-ch/commit/2b9990a18dff59afa2a50bd118e6a0d19e0dd978
-              start_date: '2020-04-13T20:34:56Z'
+              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
+              start_date: '2020-04-03T16:04:33Z'
             image_data:
               fileName: dp-3-t-app.svg
               hash: 8503lannu7vYghhsJJuPqJxNA3wGdMwlNjJaYzVryy8=
@@ -750,6 +847,7 @@ landscape:
             name: Covid Safe Paths
             homepage_url: 'https://covidsafepaths.org'
             repo_url: 'https://github.com/Path-Check/covid-safe-paths'
+            project_org: 'https://github.com/Path-Check'
             logo: covid-safe-paths.svg
             crunchbase: 'https://www.crunchbase.com/organization/path-check'
             allow_duplicate_repo: true
@@ -768,59 +866,91 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 39
+              contributions: 0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;29;53;61;103;46;58;85;202;112;95;62;94;68;169;184
+              stars: 474
               languages:
+                - name: HTML
+                  value: 959571
+                  color: '#e34c26'
                 - name: JavaScript
-                  value: 325389
+                  value: 803830
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 259788
                   color: '#2b7489'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Java
-                  value: 109797
+                  value: 214478
                   color: '#b07219'
                 - name: Swift
                   value: 78340
                   color: '#ffac45'
+                - name: CSS
+                  value: 48484
+                  color: '#563d7c'
+                - name: Python
+                  value: 42146
+                  color: '#3572A5'
                 - name: Kotlin
                   value: 36340
                   color: '#F18E33'
                 - name: Ruby
-                  value: 24361
+                  value: 25313
                   color: '#701516'
                 - name: Objective-C
-                  value: 18566
+                  value: 23197
                   color: '#438eff'
                 - name: Shell
-                  value: 15353
+                  value: 20478
                   color: '#89e051'
-                - name: Python
-                  value: 4814
-                  color: '#3572A5'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2366
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;29;45;32;85;37;51;50;47;31;18;29;23;18;24;52
-              firstWeek: 2019-06-23Z
-              stars: 433
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-15T22:06:31Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
               latest_commit_link: /Path-Check/covid-safe-paths/commit/d9124bc20d23386fe43cd963ff6a595e97957355
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 83
+              latest_commit_date: '2020-06-15T22:06:31Z'
+              firstWeek: 2019-06-23Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 433
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 17
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 14
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 6
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /Path-Check/covid-safe-paths/commit/7dc5d0a15fe788eadcdbad7e38d13fb0193cc67f
-              start_date: '2020-03-01T00:48:27Z'
+              start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
+              start_date: '2018-08-02T21:14:14Z'
             image_data:
               fileName: covid-safe-paths.svg
               hash: RjFhsfsd6GY6J5tZ6nAjl0GyViT1U/9OkRrxqYDcRIA=
@@ -925,11 +1055,31 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 690247
+                  value: 696588
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;147;100;84;158;176;158;1;22;0;10;0;0
-              firstWeek: 2019-06-23Z
-              stars: 55
+                - name: JavaScript
+                  value: 175623
+                  color: '#f1e05a'
+                - name: Swift
+                  value: 18634
+                  color: '#ffac45'
+                - name: Objective-C
+                  value: 8430
+                  color: '#438eff'
+                - name: Ruby
+                  value: 3513
+                  color: '#701516'
+                - name: Python
+                  value: 1613
+                  color: '#3572A5'
+                - name: Starlark
+                  value: 602
+                - name: Shell
+                  value: 173
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36;153;159;88;229;249;227;59;51;21;32;11;2
+              firstWeek: 2019-06-24Z
+              stars: 66
               license: MIT License
               description: >-
                 Doctors and researchers at the University of Washington with Microsoft volunteers have built a tool to alert you about highly relevant public
@@ -937,11 +1087,13 @@ landscape:
                 personal privacy.
               latest_commit_date: '2020-05-30T05:32:06Z'
               latest_commit_link: /covidsafe/App-Android/commit/a621babad52d1d93ffc580bc68b24690bdfe0c87
-              contributors_count: 9
+              contributors_count: 12
               contributors_link: 'https://github.com/covidsafe/App-Android/graphs/contributors'
             repos:
               - url: 'https://github.com/covidsafe/App-Android'
                 stars: 55
+              - url: 'https://github.com/covidsafe/App-iOS'
+                stars: 11
             github_start_commit_data:
               start_commit_link: /covidsafe/App-Android/commit/4353f63012cdc520b0b37e25964ecb1c267506dc
               start_date: '2020-03-21T00:44:10Z'
