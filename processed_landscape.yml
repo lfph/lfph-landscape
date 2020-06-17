@@ -1578,56 +1578,88 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 38
+              contributions: 0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;33;51;71;98;43;62;88;199;108;93;62;95;69;178;183
+              stars: 475
               languages:
+                - name: HTML
+                  value: 959571
+                  color: '#e34c26'
                 - name: JavaScript
-                  value: 308973
+                  value: 787414
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 268906
                   color: '#2b7489'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Java
-                  value: 109796
+                  value: 214477
                   color: '#b07219'
                 - name: Swift
                   value: 79887
                   color: '#ffac45'
+                - name: CSS
+                  value: 48484
+                  color: '#563d7c'
+                - name: Python
+                  value: 42146
+                  color: '#3572A5'
                 - name: Kotlin
                   value: 36340
                   color: '#F18E33'
                 - name: Ruby
-                  value: 24330
+                  value: 25282
                   color: '#701516'
                 - name: Objective-C
-                  value: 19977
+                  value: 24608
                   color: '#438eff'
                 - name: Shell
-                  value: 15350
+                  value: 20475
                   color: '#89e051'
-                - name: Python
-                  value: 4814
-                  color: '#3572A5'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2366
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;33;43;42;80;34;55;53;44;27;16;29;24;19;33;51
-              firstWeek: 2019-06-23Z
-              stars: 434
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-17T01:01:07Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
               latest_commit_link: /Path-Check/covid-safe-paths/commit/e7ebfc665115dba520fbb304c7d7c66b0ea4e85a
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 85
+              latest_commit_date: '2020-06-17T01:01:07Z'
+              firstWeek: 2019-06-23Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 434
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 17
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 14
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 6
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -2375,6 +2407,7 @@ landscape:
             name: CovidSafe
             homepage_url: 'https://covidsafe.cs.washington.edu/'
             repo_url: 'https://github.com/covidsafe/App-Android'
+            project_org: 'https://github.com/covidsafe'
             logo: covidsafe.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
             crunchbase_data:
@@ -2394,47 +2427,71 @@ landscape:
               stockExchange: null
               kind: funding
             github_data:
+              description: 'A tool to alert you about highly relevant public health announcements, potential exposure to COVID-19, and to assist public health officials.'
+              contributors_count: 37
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36;269;228;167;280;267;256;61;56;122;100;69;44
+              stars: 89
               languages:
                 - name: Java
-                  value: 696588
+                  value: 702664
                   color: '#b07219'
                 - name: JavaScript
-                  value: 175623
+                  value: 370860
                   color: '#f1e05a'
+                - name: C#
+                  value: 273247
+                  color: '#178600'
+                - name: TypeScript
+                  value: 155130
+                  color: '#2b7489'
+                - name: Kotlin
+                  value: 25642
+                  color: '#F18E33'
+                - name: Objective-C
+                  value: 25439
+                  color: '#438eff'
                 - name: Swift
                   value: 18634
                   color: '#ffac45'
-                - name: Objective-C
-                  value: 8430
-                  color: '#438eff'
                 - name: Ruby
-                  value: 3513
+                  value: 11450
                   color: '#701516'
+                - name: CSS
+                  value: 9803
+                  color: '#563d7c'
+                - name: HTML
+                  value: 9749
+                  color: '#e34c26'
                 - name: Python
-                  value: 1613
+                  value: 9168
                   color: '#3572A5'
                 - name: Starlark
-                  value: 602
+                  value: 1204
                 - name: Shell
-                  value: 173
+                  value: 287
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36;153;159;88;229;249;227;59;51;21;32;11;2
-              firstWeek: 2019-06-23Z
-              stars: 66
-              license: MIT License
-              description: >-
-                Doctors and researchers at the University of Washington with Microsoft volunteers have built a tool to alert you about highly relevant public
-                health announcements, potential exposure to COVID-19, and to assist public health officials and contact tracing teams without compromising your
-                personal privacy.
-              latest_commit_date: '2020-05-30T05:32:06Z'
               latest_commit_link: /covidsafe/App-Android/commit/a621babad52d1d93ffc580bc68b24690bdfe0c87
-              contributors_count: 12
+              latest_commit_date: '2020-05-30T05:32:06Z'
+              firstWeek: 2019-06-23Z
+              license: MIT License
               contributors_link: 'https://github.com/covidsafe/App-Android/graphs/contributors'
             repos:
               - url: 'https://github.com/covidsafe/App-Android'
                 stars: 55
+              - url: 'https://github.com/covidsafe/Backend'
+                stars: 16
               - url: 'https://github.com/covidsafe/App-iOS'
                 stars: 11
+              - url: 'https://github.com/covidsafe/PublicHealth-Dashboard'
+                stars: 3
+              - url: 'https://github.com/covidsafe/proto'
+                stars: 2
+              - url: 'https://github.com/covidsafe/Backend-Test'
+                stars: 1
+              - url: 'https://github.com/covidsafe/hcp-tools'
+                stars: 1
+              - url: 'https://github.com/covidsafe/CovidShieldExposure'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /covidsafe/App-Android/commit/4353f63012cdc520b0b37e25964ecb1c267506dc
               start_date: '2020-03-21T00:44:10Z'
