@@ -89,6 +89,15 @@ big_picture:
     fullscreen_header: See the online landscape at l.lfph.io
     elements:
       - type: HorizontalCategory
+        category: PHA-Deployed App
+        rows: 6
+        width: 750
+        height: 120
+        top: 0
+        left: 0
+        color: 'rgb(179,77,77)'
+        fit_width: true
+      - type: HorizontalCategory
         category: Exposure Notification
         width: 390
         height: 120
@@ -135,15 +144,6 @@ big_picture:
         top: 270
         left: 300
         color: 'rgb(143,88,61)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: PHA-Deployed App
-        rows: 6
-        width: 750
-        height: 120
-        top: 0
-        left: 0
-        color: 'rgb(179,77,77)'
         fit_width: true
       - type: LandscapeInfo
         width: 290
