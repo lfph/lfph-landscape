@@ -1590,56 +1590,100 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 0;1;5;1;1;0;0;11;6;28;0;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;37;54;90;67;58;70;138;193;68;93;71;77;155;180;245
+              stars: 483
               languages:
+                - name: HTML
+                  value: 959571
+                  color: '#e34c26'
+                - name: Java
+                  value: 924141
+                  color: '#b07219'
                 - name: JavaScript
-                  value: 308954
+                  value: 891579
                   color: '#f1e05a'
+                - name: Objective-C
+                  value: 889018
+                  color: '#438eff'
                 - name: TypeScript
                   value: 285340
                   color: '#2b7489'
-                - name: Java
-                  value: 216441
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 81171
                   color: '#ffac45'
+                - name: CSS
+                  value: 51321
+                  color: '#563d7c'
                 - name: Kotlin
                   value: 42899
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24330
-                  color: '#701516'
-                - name: Objective-C
-                  value: 19201
-                  color: '#438eff'
-                - name: Shell
-                  value: 15350
-                  color: '#89e051'
                 - name: Python
-                  value: 4814
+                  value: 42146
                   color: '#3572A5'
+                - name: Ruby
+                  value: 25853
+                  color: '#701516'
+                - name: Shell
+                  value: 25609
+                  color: '#89e051'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2366
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;34;34;71;45;55;51;52;33;21;30;21;16;28;39;54
-              firstWeek: 2019-06-30Z
-              stars: 436
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-20T20:26:10Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/1934f083b659de03516ae6d7dbf47386540b7374
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 85
+              latest_commit_date: '2020-06-20T20:26:10Z'
+              firstWeek: 2019-06-30Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 436
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 15
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -3268,6 +3312,7 @@ landscape:
               Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
               from screening and contact tracing to patient monitoring and post-care support.
             homepage_url: 'https://www.dimagi.com/covid-19/'
+            repo_url: 'https://github.com/dimagi/commcare-hq'
             logo: commcare.svg
             crunchbase: 'https://www.crunchbase.com/organization/dimagi'
             crunchbase_data:
@@ -3284,6 +3329,56 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+            github_data:
+              languages:
+                - name: Python
+                  value: 23061175
+                  color: '#3572A5'
+                - name: JavaScript
+                  value: 3255807
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 2754513
+                  color: '#e34c26'
+                - name: CSS
+                  value: 286513
+                  color: '#563d7c'
+                - name: PLpgSQL
+                  value: 79640
+                - name: TSQL
+                  value: 71138
+                - name: Shell
+                  value: 49005
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 2312
+                  color: '#384d54'
+                - name: PHP
+                  value: 2232
+                  color: '#4F5D95'
+                - name: Makefile
+                  value: 1886
+                  color: '#427819'
+              contributions: >-
+                220;256;247;312;209;215;231;225;236;307;307;281;309;241;357;235;233;327;253;284;464;347;303;272;438;389;101;141;178;251;399;283;337;285;253;176;256;245;299;445;387;308;467;393;327;350;436;331;325;371;327;266
+              firstWeek: 2019-06-30Z
+              stars: 418
+              license: Other
+              description: >-
+                CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust Offline First mobile
+                applications to frontline workers worldwide
+              latest_commit_date: '2020-06-19T19:48:52Z'
+              latest_commit_link: /dimagi/commcare-hq/commit/42c40ad5881485d5192aab3dea5696942ee40810
+              release_date: '2018-03-20T18:42:17Z'
+              release_link: 'https://github.com/dimagi/commcare-hq/releases'
+              contributors_count: 111
+              contributors_link: 'https://github.com/dimagi/commcare-hq/graphs/contributors'
+            repos:
+              - url: 'https://github.com/dimagi/commcare-hq'
+                stars: 418
+            github_start_commit_data:
+              start_commit_link: /dimagi/commcare-hq/commit/5bba33c00e26276b80f1121a50743348ce9e0fde
+              start_date: '2009-03-10T18:31:39Z'
             image_data:
               fileName: comm-care.svg
               hash: m9UJn4KmFw/8/bIWi3Z58fDQH9lvh3l5bIiA3xgjGKg=
