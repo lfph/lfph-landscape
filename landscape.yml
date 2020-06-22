@@ -470,6 +470,10 @@ landscape:
               from screening and contact tracing to patient monitoring and post-care support.
             homepage_url: 'https://www.dimagi.com/covid-19/'
             repo_url: 'https://github.com/dimagi/commcare-hq'
+            additional_repos:
+              - repo_url: 'https://github.com/dimagi/commcare-cloud'
+              - repo_url: 'https://github.com/dimagi/commcare-android'
+              - repo_url: 'https://github.com/dimagi/formplayer'
             logo: commcare.svg
             crunchbase: 'https://www.crunchbase.com/organization/dimagi'
           - item:
