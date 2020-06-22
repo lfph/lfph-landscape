@@ -47,6 +47,15 @@ landscape:
             twitter: 'https://twitter.com/apturicovid'
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-latvia'
           - item:
+            name: Saudia Arabia (Tabaud)
+            description: >-
+              Tabaud app for smartphones is one of the latest government efforts in Saudi Arabia to combat and contain the coronavirus (COVID-19) pandemic via
+              Apple/Google Exposure Notification API.
+            homepage_url: 'https://tabaud.sdaia.gov.sa/IndexEn'
+            logo: saudi-arabia.svg
+            twitter: 'https://twitter.com/TabaudApp'
+            crunchbase: 'https://www.crunchbase.com/organization/saudi-arabia-ministry-of-health'
+          - item:
             name: Switzerland (SwissCovid)
             description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
             homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
@@ -128,6 +137,7 @@ landscape:
             description: We've started working on an application that will allow you to control and stop the spread of coronavirus.
             homepage_url: 'https://www.gov.pl/web/cyfryzacja/zycie-po-kwarantannie--przetestuj-protego'
             repo_url: 'https://github.com/ProteGO-Safe/android'
+            project_org: 'https://github.com/ProteGO-Safe'
             logo: poland.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-poland'
           - item:
