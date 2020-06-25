@@ -1683,56 +1683,100 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 0;1;5;1;1;0;10;3;15;17;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;33;51;71;98;43;62;88;199;108;93;62;95;69;184;210;225
+              stars: 485
               languages:
+                - name: HTML
+                  value: 941413
+                  color: '#e34c26'
+                - name: Java
+                  value: 924141
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 889104
+                  color: '#438eff'
                 - name: JavaScript
-                  value: 303564
+                  value: 785612
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 288583
                   color: '#2b7489'
-                - name: Java
-                  value: 216441
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 84303
                   color: '#ffac45'
+                - name: CSS
+                  value: 50633
+                  color: '#563d7c'
                 - name: Kotlin
                   value: 42899
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24351
-                  color: '#701516'
-                - name: Objective-C
-                  value: 19287
-                  color: '#438eff'
-                - name: Shell
-                  value: 15665
-                  color: '#89e051'
                 - name: Python
-                  value: 4814
+                  value: 42146
                   color: '#3572A5'
+                - name: Ruby
+                  value: 25874
+                  color: '#701516'
+                - name: Shell
+                  value: 25726
+                  color: '#89e051'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2418
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;33;43;42;80;34;55;53;44;27;16;29;24;19;33;51;47
-              firstWeek: 2019-06-30Z
-              stars: 438
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-23T22:17:49Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/c9401c8156acd6596fb74a33b944caf74b87855b
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 86
+              latest_commit_date: '2020-06-23T22:17:49Z'
+              firstWeek: 2019-06-30Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 438
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 15
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -2487,11 +2531,11 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-23T20:05:14.000Z
           - item:
-            name: CovidSafe
+            name: CommonCircle
             homepage_url: 'https://covidsafe.cs.washington.edu/'
             repo_url: 'https://github.com/covidsafe/App-Android'
             project_org: 'https://github.com/covidsafe'
-            logo: covidsafe.svg
+            logo: common-circle.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
             crunchbase_data:
               name: University of Washington
@@ -2579,8 +2623,8 @@ landscape:
               start_commit_link: /covidsafe/App-Android/commit/4353f63012cdc520b0b37e25964ecb1c267506dc
               start_date: '2020-03-21T00:44:10Z'
             image_data:
-              fileName: covid-safe.svg
-              hash: jeyQcBFNs4sUclGyK3fnvGX+8I9n2Inw6hI4AHzorgw=
+              fileName: common-circle.svg
+              hash: cZ+sn9PWl3nYo7UhT2uktT3S63WIjs+nUNdITjp0gXU=
             best_practice_data:
               badge: false
               percentage: null
