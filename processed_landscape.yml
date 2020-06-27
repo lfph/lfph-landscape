@@ -790,8 +790,7 @@ landscape:
             description: >-
               The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
               been in contact with someone who is showing symptoms of the COVID-19 virus.
-            homepage_url: >-
-              https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+            homepage_url: 'https://apps.bahrain.bh/CMSWebApplication/action/ShowAppDetailsAction?selectedAppID=321&appLanguage=en'
             logo: bahrain.svg
             crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
             crunchbase_data:
@@ -1159,8 +1158,7 @@ landscape:
           - item:
             name: Qatar (Ehteraz)
             description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
-            homepage_url: >-
-              https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/lVNdU6MwFP0r-NBHJpfv8MgyWulIxVanwEsnQKBxISCk3Y6_3mBdP3a11TwlJ5lz7zn3BKUoRiknO1YRwVpO6vGc2mv3GvsaxjC9jhY-BBdwE0VGuAjBRiuUojTnohMblGy2v9u2Ycofmil5ywXlYgIv4ASaNmM1VQba71hOh1eAdF3N8ueKw8jW5axASeFaWpEBmKVpmYUDGcYkK0lpZY7jGA4ZXw6U9Pnmlu4FSqp-YET2m8h-4YvlwSk5S8oPko6zJLKM847n6tyAYOkFv-bhhQYzHS3fhJiuXWouMVRNtwrVtDVTxTpYqq65plSEM73UThAaxo8JZ_8o_Uh4a4xO6X3oh5WkJWKjMl62KO4oH-QclJzU-bYmou1f54XivyB9gTras7YYmdj9w0PqySCMQ5fTiI8n4S0CjBdsx4otqZWayD2vlI5U482RTibwRScHFy3v0tMCH6bTpeeC59jBLLiLAALz4OLKD9c3d-cL-fr_AH0_f7NTWfrc4c9C_3MHv_WXuqbBRqPG-6hp1vO5miZYYNhbu8cruvLOzp4A-Y5qPA!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?searchText=ehteraz
+            homepage_url: 'https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/?searchText=ehteraz'
             logo: qatar.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-public-health-moph-qatar'
             crunchbase_data:
@@ -1683,56 +1681,100 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 1;4;2;1;0;0;11;6;28;0;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;27;61;79;76;58;69;122;214;60;96;76;76;131;201;259;126
+              stars: 493
               languages:
+                - name: HTML
+                  value: 941413
+                  color: '#e34c26'
+                - name: Java
+                  value: 927421
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 899264
+                  color: '#438eff'
+                - name: JavaScript
+                  value: 782958
+                  color: '#f1e05a'
                 - name: TypeScript
                   value: 300543
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 293763
-                  color: '#f1e05a'
-                - name: Java
-                  value: 219721
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 86593
                   color: '#ffac45'
+                - name: CSS
+                  value: 50942
+                  color: '#563d7c'
                 - name: Kotlin
                   value: 42899
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24352
-                  color: '#701516'
-                - name: Objective-C
-                  value: 18556
-                  color: '#438eff'
-                - name: Shell
-                  value: 15665
-                  color: '#89e051'
                 - name: Python
-                  value: 4814
+                  value: 42146
                   color: '#3572A5'
+                - name: Ruby
+                  value: 25875
+                  color: '#701516'
+                - name: Shell
+                  value: 25726
+                  color: '#89e051'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2468
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;26;39;60;57;53;50;55;34;17;33;23;16;28;36;56;36
-              firstWeek: 2019-06-30Z
-              stars: 442
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-26T19:58:49Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/d53d2a1e325960660da6fda3bc06a205418d63c0
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 88
+              latest_commit_date: '2020-06-26T19:58:49Z'
+              firstWeek: 2019-06-30Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 442
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 19
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 16
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
