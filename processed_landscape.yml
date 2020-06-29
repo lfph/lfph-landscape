@@ -363,8 +363,11 @@ landscape:
             name: Switzerland (SwissCovid)
             description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
             homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
+            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            project_org: 'https://github.com/DP-3T'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
+            allow_duplicate_repo: true
             crunchbase_data:
               name: Federal Office of Public Health (FOPH) Switzerland
               description: The Federal Office of Public Health (FOPH) is the Swiss federal government’s centre for public health.
@@ -379,6 +382,77 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+            github_data:
+              description: Decentralized Privacy-Preserving Proximity Tracing
+              contributors_count: 44
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;71;202;299;297;203;151;296;205;75;276;265;76
+              stars: 3569
+              languages:
+                - name: Java
+                  value: 1091403
+                  color: '#b07219'
+                - name: Swift
+                  value: 1037602
+                  color: '#ffac45'
+                - name: HTML
+                  value: 88998
+                  color: '#e34c26'
+                - name: Python
+                  value: 52915
+                  color: '#3572A5'
+                - name: Objective-C
+                  value: 19894
+                  color: '#438eff'
+                - name: Ruby
+                  value: 14527
+                  color: '#701516'
+                - name: Dockerfile
+                  value: 1512
+                  color: '#384d54'
+                - name: Makefile
+                  value: 1484
+                  color: '#427819'
+                - name: Shell
+                  value: 826
+                  color: '#89e051'
+                - name: PLpgSQL
+                  value: 374
+                - name: C
+                  value: 360
+                  color: '#555555'
+              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/29b8f47661bef2d010621a5cc2facd352ae2279a
+              latest_commit_date: '2020-06-25T07:09:06Z'
+              firstWeek: 2019-07-07Z
+              license: Mozilla Public License 2.0
+              contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
+            repos:
+              - url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+                stars: 104
+              - url: 'https://github.com/DP-3T/documents'
+                stars: 2068
+              - url: 'https://github.com/DP-3T/dp3t-app-android-demo'
+                stars: 334
+              - url: 'https://github.com/DP-3T/dp3t-app-ios-demo'
+                stars: 245
+              - url: 'https://github.com/DP-3T/dp3t-sdk-android'
+                stars: 215
+              - url: 'https://github.com/DP-3T/dp3t-sdk-backend'
+                stars: 162
+              - url: 'https://github.com/DP-3T/dp3t-app-android-ch'
+                stars: 162
+              - url: 'https://github.com/DP-3T/dp3t-sdk-ios'
+                stars: 138
+              - url: 'https://github.com/DP-3T/reference_implementation'
+                stars: 122
+              - url: 'https://github.com/DP-3T/dp3t-discovery'
+                stars: 11
+              - url: 'https://github.com/DP-3T/dp3t-config-backend-ch'
+                stars: 5
+              - url: 'https://github.com/DP-3T/dp3t-ux-screenflows-ch'
+                stars: 3
+            github_start_commit_data:
+              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
+              start_date: '2020-04-03T16:04:33Z'
             image_data:
               fileName: switzerland-swiss-covid.svg
               hash: hE5ResKRbgJEbnVNOSjB+GsicURjfZrAmPCvKaph9G0=
@@ -2072,6 +2146,7 @@ landscape:
             project_org: 'https://github.com/DP-3T'
             logo: dp3t-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+            allow_duplicate_repo: true
             crunchbase_data:
               name: ETH Zurich
               description: 'ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.'

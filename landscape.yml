@@ -65,8 +65,11 @@ landscape:
             name: Switzerland (SwissCovid)
             description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
             homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
+            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+            project_org: 'https://github.com/DP-3T'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
+            allow_duplicate_repo: true
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -337,6 +340,7 @@ landscape:
             project_org: 'https://github.com/DP-3T'
             logo: dp3t-app.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
+            allow_duplicate_repo: true
           - item:
             name: GAEN Explorer
             homepage_url: 'https://github.com/billpugh/GAEN_Explorer'
