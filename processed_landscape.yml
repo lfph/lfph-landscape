@@ -62,6 +62,32 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Denmark (Smittestop)
+            description: Smittestop allows all of us to help stop the spread of COVID-19.
+            homepage_url: 'https://smittestop.dk/'
+            logo: denmark.svg
+            crunchbase: 'https://www.crunchbase.com/organization/denmark-ministry-of-health'
+            crunchbase_data:
+              name: Denmark Ministry of Health
+              description: Denmark Ministry of Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://sum.dk/English.aspx'
+              city: Copenhagen
+              region: Hovedstaden
+              country: Denmark
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: denmark-smittestop.svg
+              hash: Ii5tntrQcv/2U9L3bcA//OEk5dBvzYylpBJcICtISjQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Germany (Corona-Warn-App)
             description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
             homepage_url: 'https://www.coronawarn.app/en/'
@@ -1681,56 +1707,100 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 1;5;1;1;0;0;13;4;28;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;46;57;100;52;54;74;157;171;69;89;78;69;165;171;256;129
+              stars: 494
               languages:
+                - name: HTML
+                  value: 941413
+                  color: '#e34c26'
+                - name: Java
+                  value: 927421
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 899433
+                  color: '#438eff'
+                - name: JavaScript
+                  value: 781258
+                  color: '#f1e05a'
                 - name: TypeScript
                   value: 309537
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 293828
-                  color: '#f1e05a'
-                - name: Java
-                  value: 219721
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 87277
                   color: '#ffac45'
+                - name: CSS
+                  value: 50942
+                  color: '#563d7c'
                 - name: Kotlin
                   value: 42899
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24352
-                  color: '#701516'
-                - name: Objective-C
-                  value: 18725
-                  color: '#438eff'
-                - name: Shell
-                  value: 15665
-                  color: '#89e051'
                 - name: Python
-                  value: 4814
+                  value: 42146
                   color: '#3572A5'
+                - name: Ruby
+                  value: 25875
+                  color: '#701516'
+                - name: Shell
+                  value: 25726
+                  color: '#89e051'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2732
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;39;38;83;31;51;47;56;32;19;30;23;13;27;42;53;36
-              firstWeek: 2019-07-07Z
-              stars: 443
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-06-27T21:23:06Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/5348e0528392a251cd8f494d8ef68594661edc05
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 88
+              latest_commit_date: '2020-06-27T21:23:06Z'
+              firstWeek: 2019-07-07Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 443
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 19
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 16
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
