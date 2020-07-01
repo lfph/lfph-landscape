@@ -1288,6 +1288,7 @@ landscape:
             description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
             homepage_url: 'https://www.tracetogether.gov.sg/'
             repo_url: 'https://github.com/opentrace-community/opentrace-android'
+            project_org: 'https://github.com/opentrace-community'
             logo: singapore.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
             crunchbase_data:
@@ -1305,25 +1306,43 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: 'OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19'
+              contributors_count: 10
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;4;0;9;0;2;0;0;0;0;0;0
+              stars: 1281
               languages:
                 - name: Kotlin
                   value: 256405
                   color: '#F18E33'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0;0;0;0;0
-              firstWeek: 2019-07-07Z
-              stars: 533
-              license: GNU General Public License v3.0
-              description: OpenTrace Android app. Reference implementation of the BlueTrace protocol.
-              latest_commit_date: '2020-05-02T03:53:09Z'
+                - name: Swift
+                  value: 138408
+                  color: '#ffac45'
+                - name: TypeScript
+                  value: 28679
+                  color: '#2b7489'
+                - name: Ruby
+                  value: 5349
+                  color: '#701516'
+                - name: Shell
+                  value: 920
+                  color: '#89e051'
               latest_commit_link: /opentrace-community/opentrace-android/commit/7e0cdd8f52f4560c4ed9bb37d55a0f820d1cb0ae
-              contributors_count: 1
+              latest_commit_date: '2020-05-02T03:53:09Z'
+              firstWeek: 2019-07-07Z
+              license: GNU General Public License v3.0
               contributors_link: 'https://github.com/opentrace-community/opentrace-android/graphs/contributors'
             repos:
               - url: 'https://github.com/opentrace-community/opentrace-android'
-                stars: 533
+                stars: 535
+              - url: 'https://github.com/opentrace-community/opentrace-ios'
+                stars: 386
+              - url: 'https://github.com/opentrace-community/opentrace-cloud-functions'
+                stars: 252
+              - url: 'https://github.com/opentrace-community/opentrace-calibration'
+                stars: 108
             github_start_commit_data:
-              start_commit_link: /opentrace-community/opentrace-android/commit/e8b68321d1c567f45898744c7210323c1660df6f
-              start_date: '2020-04-09T12:25:24Z'
+              start_commit_link: /opentrace-community/opentrace-cloud-functions/commit/e92bf02d4a080134aea6b11dc976437d76dd2b78
+              start_date: '2020-04-09T11:28:02Z'
             image_data:
               fileName: singapore-trace-together.svg
               hash: 2dD4ISwGWvWOqORM+Lpn7WJade27tUASLykvvZawywY=
