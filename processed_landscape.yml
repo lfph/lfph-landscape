@@ -11,6 +11,7 @@ landscape:
             description: Together we contribute to interrupting the chain of infection of the corona infections as quickly as possible!
             homepage_url: 'https://www.stopp-corona.at'
             repo_url: 'https://github.com/austrianredcross/stopp-corona-android'
+            project_org: 'https://github.com/austrianredcross'
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
             crunchbase_data:
@@ -28,33 +29,48 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: Aus Liebe zum Menschen
+              contributors_count: 18
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;5;52;42;63;134;165;368;169;33
+              stars: 387
               languages:
                 - name: Kotlin
                   value: 717090
                   color: '#F18E33'
+                - name: Swift
+                  value: 452062
+                  color: '#ffac45'
                 - name: HTML
-                  value: 206599
+                  value: 413198
                   color: '#e34c26'
+                - name: Java
+                  value: 131649
+                  color: '#b07219'
                 - name: Shell
-                  value: 1977
+                  value: 2062
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;0;32;26;22;53;67;201;155;52
-              firstWeek: 2019-07-07Z
-              stars: 239
-              license: Apache License 2.0
-              description: Android Source Code
-              latest_commit_date: '2020-06-29T13:28:47Z'
+                - name: Ruby
+                  value: 902
+                  color: '#701516'
               latest_commit_link: /austrianredcross/stopp-corona-android/commit/87b13d69066376a83cfeb6d34c598a73478727ff
-              release_date: '2020-05-05T20:47:47Z'
-              release_link: 'https://github.com/austrianredcross/stopp-corona-android/releases'
-              contributors_count: 12
+              latest_commit_date: '2020-06-29T13:28:47Z'
+              firstWeek: 2019-07-07Z
+              license: Apache License 2.0
               contributors_link: 'https://github.com/austrianredcross/stopp-corona-android/graphs/contributors'
             repos:
               - url: 'https://github.com/austrianredcross/stopp-corona-android'
-                stars: 239
+                stars: 240
+              - url: 'https://github.com/austrianredcross/stopp-corona-ios'
+                stars: 141
+              - url: 'https://github.com/austrianredcross/meta'
+                stars: 3
+              - url: 'https://github.com/austrianredcross/RCA-CoronaApp-Backend'
+                stars: 3
+              - url: 'https://github.com/austrianredcross/stopp-corona-documentation'
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /austrianredcross/stopp-corona-android/commit/444b80943969b9a612ed0c76785d2f9dfc2db126
-              start_date: '2020-04-23T10:59:03Z'
+              start_commit_link: /austrianredcross/stopp-corona-ios/commit/01748107c25eb224968f9296648c84f7d9a8b236
+              start_date: '2020-04-23T10:17:57Z'
             image_data:
               fileName: austria-stopp-corona.svg
               hash: 3/wAXUzgcGkuALwplet/Rqu7Ya/gi8s/Ldlxq3hwEjQ=
