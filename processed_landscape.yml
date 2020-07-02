@@ -2049,8 +2049,8 @@ landscape:
           - item:
             name: Covid Watch
             homepage_url: 'https://www.covidwatch.org'
-            repo_url: 'https://github.com/covid19risk/covidwatch-android-en'
-            project_org: 'https://github.com/covid19risk'
+            repo_url: 'https://github.com/covidwatchorg/covidwatch-android-en'
+            project_org: 'https://github.com/covidwatchorg'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
             crunchbase_data:
@@ -2068,10 +2068,10 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
-              description: 'Together, we have the power to help stop COVID-19.'
+              description: 'Together, we have the power to stop COVID-19.'
               contributors_count: 61
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;14;31;103;82;51;65;347;362;367;439;387;327;188;120;80;155;150;80
-              stars: 129
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;16;44;138;32;96;71;422;322;433;381;410;257;209;85;96;157;134;82
+              stars: 130
               languages:
                 - name: Go
                   value: 612370
@@ -2080,16 +2080,16 @@ landscape:
                   value: 489317
                   color: '#ffac45'
                 - name: Kotlin
-                  value: 348039
+                  value: 351492
                   color: '#F18E33'
                 - name: Jupyter Notebook
                   value: 252872
                   color: '#DA5B0B'
                 - name: JavaScript
-                  value: 150802
+                  value: 151317
                   color: '#f1e05a'
                 - name: Vue
-                  value: 126222
+                  value: 135939
                   color: '#2c3e50'
                 - name: R
                   value: 71409
@@ -2107,12 +2107,12 @@ landscape:
                 - name: Python
                   value: 25464
                   color: '#3572A5'
-                - name: CSS
-                  value: 23166
-                  color: '#563d7c'
                 - name: HTML
                   value: 21468
                   color: '#e34c26'
+                - name: CSS
+                  value: 21046
+                  color: '#563d7c'
                 - name: Java
                   value: 10738
                   color: '#b07219'
@@ -2130,42 +2130,42 @@ landscape:
                   color: '#427819'
                 - name: TSQL
                   value: 3034
-              latest_commit_link: /covid19risk/covidwatch-android-en/commit/4de662e2179eedd665efa6561bf2fb7616ecd6e1
-              latest_commit_date: '2020-06-28T15:20:28Z'
+              latest_commit_link: /covidwatchorg/covidwatch-android-en/commit/20e09648da6cde64ba5f96b87d0175798f183f02
+              latest_commit_date: '2020-07-01T17:09:28Z'
               firstWeek: 2019-07-07Z
               license: Apache License 2.0
-              contributors_link: 'https://github.com/covid19risk/covidwatch-android-en/graphs/contributors'
+              contributors_link: 'https://github.com/covidwatchorg/covidwatch-android-en/graphs/contributors'
             repos:
-              - url: 'https://github.com/covid19risk/covidwatch-android-en'
+              - url: 'https://github.com/covidwatchorg/covidwatch-android-en'
                 stars: 4
-              - url: 'https://github.com/covid19risk/covidwatch-android'
+              - url: 'https://github.com/covidwatchorg/covidwatch-android'
                 stars: 53
-              - url: 'https://github.com/covid19risk/covidwatch-ios'
+              - url: 'https://github.com/covidwatchorg/covidwatch-ios'
                 stars: 39
-              - url: 'https://github.com/covid19risk/proof'
+              - url: 'https://github.com/covidwatchorg/proof'
                 stars: 8
-              - url: 'https://github.com/covid19risk/permission-portal'
+              - url: 'https://github.com/covidwatchorg/permission-portal'
                 stars: 6
-              - url: 'https://github.com/covid19risk/covidwatch-android-minimal'
+              - url: 'https://github.com/covidwatchorg/website'
+                stars: 4
+              - url: 'https://github.com/covidwatchorg/covidwatch-android-minimal'
                 stars: 3
-              - url: 'https://github.com/covid19risk/website'
+              - url: 'https://github.com/covidwatchorg/exposure-notifications-server'
                 stars: 3
-              - url: 'https://github.com/covid19risk/exposure-notifications-server'
-                stars: 3
-              - url: 'https://github.com/covid19risk/impact-sim'
+              - url: 'https://github.com/covidwatchorg/impact-sim'
                 stars: 2
-              - url: 'https://github.com/covid19risk/covidwatch-cloud-functions'
+              - url: 'https://github.com/covidwatchorg/covidwatch-cloud-functions'
                 stars: 2
-              - url: 'https://github.com/covid19risk/tcn-node'
+              - url: 'https://github.com/covidwatchorg/tcn-node'
                 stars: 2
-              - url: 'https://github.com/covid19risk/covidwatch-ios-minimal'
+              - url: 'https://github.com/covidwatchorg/covidwatch-ios-minimal'
                 stars: 2
-              - url: 'https://github.com/covid19risk/covidwatch-ios-en'
+              - url: 'https://github.com/covidwatchorg/covidwatch-ios-en'
                 stars: 2
-              - url: 'https://github.com/covid19risk/exposure-notifications-verification-server'
+              - url: 'https://github.com/covidwatchorg/exposure-notifications-verification-server'
                 stars: 0
             github_start_commit_data:
-              start_commit_link: /covid19risk/impact-sim/commit/95ae461fefc1b341b69a059188a23c227d2a3478
+              start_commit_link: /covidwatchorg/impact-sim/commit/95ae461fefc1b341b69a059188a23c227d2a3478
               start_date: '2020-02-19T21:45:58Z'
             image_data:
               fileName: covid-watch.svg
