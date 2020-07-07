@@ -213,6 +213,104 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-02T10:16:59.000Z
           - item:
+            name: Ireland (COVID Tracker)
+            description: COVID Tracker is a free app for your mobile phone. It will help us to protect each other and slow the spread of coronavirus (COVID-19) in Ireland.
+            homepage_url: 'https://covidtracker.gov.ie/'
+            repo_url: 'https://github.com/HSEIreland/covid-tracker-app'
+            project_org: 'https://github.com/HSEIreland'
+            logo: ireland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ireland-health-service-executive'
+            crunchbase_data:
+              name: Ireland Health Service Executive
+              description: Ireland Health Service Executive
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.hse.ie/eng/'
+              city: Dublin
+              region: Dublin
+              country: Ireland
+              twitter: 'http://www.twitter.com/hselive'
+              linkedin: 'https://www.linkedin.com/company/health-service-executive'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              description: Health Service Executive
+              contributors_count: 2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;2
+              stars: 124
+              languages:
+                - name: TypeScript
+                  value: 364074
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 116045
+                  color: '#f1e05a'
+                - name: HCL
+                  value: 111494
+                - name: Swift
+                  value: 74230
+                  color: '#ffac45'
+                - name: Java
+                  value: 64874
+                  color: '#b07219'
+                - name: Kotlin
+                  value: 53829
+                  color: '#F18E33'
+                - name: Objective-C
+                  value: 9707
+                  color: '#438eff'
+                - name: Ruby
+                  value: 9598
+                  color: '#701516'
+                - name: Makefile
+                  value: 5363
+                  color: '#427819'
+                - name: Shell
+                  value: 4688
+                  color: '#89e051'
+                - name: Starlark
+                  value: 2512
+                - name: Smarty
+                  value: 1890
+                - name: Dockerfile
+                  value: 1090
+                  color: '#384d54'
+                - name: C
+                  value: 122
+                  color: '#555555'
+              latest_commit_link: /HSEIreland/covid-tracker-app/commit/44da0f76c1bff75b81e2118cc81b109768187cc6
+              latest_commit_date: '2020-06-27T14:20:46Z'
+              firstWeek: 2019-07-15Z
+              license: MIT License
+              contributors_link: 'https://github.com/HSEIreland/covid-tracker-app/graphs/contributors'
+            repos:
+              - url: 'https://github.com/HSEIreland/covid-tracker-app'
+                stars: 62
+              - url: 'https://github.com/HSEIreland/covid-tracker-infra'
+                stars: 21
+              - url: 'https://github.com/HSEIreland/covidtracker-documentation'
+                stars: 13
+              - url: 'https://github.com/HSEIreland/covid-tracker-backend-api'
+                stars: 13
+              - url: 'https://github.com/HSEIreland/covid-tracker-lambdas'
+                stars: 6
+              - url: 'https://github.com/HSEIreland/react-native-exposure-notification-service'
+                stars: 5
+              - url: 'https://github.com/HSEIreland/covid-tracker-push-api'
+                stars: 4
+            github_start_commit_data:
+              start_commit_link: /HSEIreland/covidtracker-documentation/commit/606aae03aa7eba087a6bff73438c4ede8f7f80c9
+              start_date: '2020-06-26T08:50:29Z'
+            image_data:
+              fileName: ireland-covid-tracker.svg
+              hash: WQA9F3Y36sMK6KbCquv/5aQFmIbjVxOEli541C6Gh3M=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-06T15:26:00.000Z
+          - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
             homepage_url: 'https://www.immuni.italia.it/'
@@ -1822,56 +1920,102 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 5;1;1;0;0;13;4;28;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;46;57;100;52;54;74;157;171;69;89;78;69;165;183;278;154;132
+              stars: 500
               languages:
+                - name: HTML
+                  value: 941443
+                  color: '#e34c26'
+                - name: Java
+                  value: 934632
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 899676
+                  color: '#438eff'
+                - name: JavaScript
+                  value: 793636
+                  color: '#f1e05a'
                 - name: TypeScript
                   value: 341034
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 274236
-                  color: '#f1e05a'
-                - name: Java
-                  value: 226932
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 92206
                   color: '#ffac45'
+                - name: CSS
+                  value: 54119
+                  color: '#563d7c'
+                - name: Python
+                  value: 45383
+                  color: '#3572A5'
                 - name: Kotlin
                   value: 42899
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24502
-                  color: '#701516'
-                - name: Objective-C
-                  value: 18968
-                  color: '#438eff'
                 - name: Shell
-                  value: 16021
+                  value: 26320
                   color: '#89e051'
-                - name: Python
-                  value: 4814
-                  color: '#3572A5'
+                - name: Ruby
+                  value: 26025
+                  color: '#701516'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2805
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;39;38;83;31;51;47;56;32;19;30;23;13;27;42;53;36;31
-              firstWeek: 2019-07-14Z
-              stars: 448
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-04T14:26:49Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/f4f5346e5de35eff26b93d1789900a2b12b85695
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 92
+              latest_commit_date: '2020-07-04T14:26:49Z'
+              firstWeek: 2019-07-14Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 448
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 16
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
