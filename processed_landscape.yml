@@ -1920,56 +1920,102 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 1;1;0;0;11;6;28;0;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;37;54;90;67;58;70;138;193;68;93;71;77;158;196;265;165;145;139
+              stars: 504
               languages:
+                - name: HTML
+                  value: 941443
+                  color: '#e34c26'
+                - name: Java
+                  value: 937849
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 899413
+                  color: '#438eff'
+                - name: JavaScript
+                  value: 789662
+                  color: '#f1e05a'
                 - name: TypeScript
                   value: 384230
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 264349
-                  color: '#f1e05a'
-                - name: Java
-                  value: 230149
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 96978
                   color: '#ffac45'
+                - name: CSS
+                  value: 47221
+                  color: '#563d7c'
+                - name: Python
+                  value: 45383
+                  color: '#3572A5'
                 - name: Kotlin
                   value: 42731
                   color: '#F18E33'
-                - name: Ruby
-                  value: 24502
-                  color: '#701516'
-                - name: Objective-C
-                  value: 18705
-                  color: '#438eff'
                 - name: Shell
-                  value: 16597
+                  value: 26896
                   color: '#89e051'
-                - name: Python
-                  value: 4814
-                  color: '#3572A5'
+                - name: Ruby
+                  value: 26025
+                  color: '#701516'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 2808
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27;34;34;71;45;55;51;52;33;21;30;21;16;28;39;55;37;31;42
-              firstWeek: 2019-07-21Z
-              stars: 451
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-11T23:21:22Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/cb2b1dcdf0d9c00afa921f39025984fac6c44f71
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 95
+              latest_commit_date: '2020-07-11T23:21:22Z'
+              firstWeek: 2019-07-21Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 451
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 17
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -4390,6 +4436,35 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: SaferMe
+            homepage_url: 'https://www.safer.me/'
+            logo: saferme.svg
+            crunchbase: 'https://www.crunchbase.com/organization/thundermaps'
+            crunchbase_data:
+              name: SaferMe
+              description: 'SaferMe mobilizes the world’s hazard data to make people safer, driving the digital transformation of safety within complex organisations.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.safer.me'
+              city: Wellington
+              region: Wellington
+              country: New Zealand
+              twitter: 'https://twitter.com/SaferMeGlobal'
+              linkedin: 'https://www.linkedin.com/company/thundermaps'
+              acquisitions: []
+              parents: []
+              funding: 2901265
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: safer-me.svg
+              hash: 3a45cVtwmw+VINMdLLjFpgBgG7lz+qrnoqxFtD3ycds=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-05T23:51:22.000Z
           - item:
             name: Salesforce Emergency Response Management for Public Health
             description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
