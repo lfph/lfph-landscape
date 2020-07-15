@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/lfph/lfph-landscape.svg?style=flat-square)](https://david-dm.io/lfph/lfph-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/f10af739-2511-4295-9a8c-ed65416144ea/deploy-status)](https://app.netlify.com/sites/tars-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/lfph/lfph-landscape.svg?style=flat-square)](https://david-dm.io/lfph/lfph-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/1f52a10d-b6bd-4e53-8bb3-e0785f8a356e/deploy-status)](https://app.netlify.com/sites/lfph/deploys)
 
 # LF Public Health Landscape
 
