@@ -27,7 +27,6 @@ landscape:
             project_org: 'https://github.com/corona-warn-app'
             logo: germany.svg
             crunchbase: 'https://www.crunchbase.com/organization/robert-koch-foundation'
-            allow_duplicate_repo: true
           - item:
             name: Gibraltar (Beat COVID)
             description: >-
@@ -44,6 +43,7 @@ landscape:
             project_org: 'https://github.com/HSEIreland'
             logo: ireland.svg
             crunchbase: 'https://www.crunchbase.com/organization/ireland-health-service-executive'
+            allow_duplicate_repo: true
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
@@ -86,7 +86,6 @@ landscape:
             project_org: 'https://github.com/DP-3T'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
-            allow_duplicate_repo: true
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -332,15 +331,16 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Based
+        name: Production GAEN
         items:
           - item:
-            name: Corona-Warn-App
-            homepage_url: 'https://www.coronawarn.app/en/'
-            repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
-            project_org: 'https://github.com/corona-warn-app'
-            logo: corona-warn-app.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sap'
+            name: COVID Green
+            homepage_url: 'https://github.com/HSEIreland/covid-tracker-app'
+            project: foundationproject
+            repo_url: 'https://github.com/HSEIreland/covid-tracker-app'
+            project_org: 'https://github.com/HSEIreland'
+            logo: covidgreen.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             allow_duplicate_repo: true
           - item:
             name: Covid Safe Paths Project Aurora
@@ -352,10 +352,11 @@ landscape:
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
+            project: foundationproject
             repo_url: 'https://github.com/CovidShield/mobile'
             project_org: 'https://github.com/CovidShield'
             logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
           - item:
             name: Covid Watch
             homepage_url: 'https://www.covidwatch.org'
@@ -363,14 +364,9 @@ landscape:
             project_org: 'https://github.com/covidwatchorg'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
-          - item:
-            name: DP-3T App
-            homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            project_org: 'https://github.com/DP-3T'
-            logo: dp3t-app.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
-            allow_duplicate_repo: true
+      - subcategory:
+        name: Experimental GAEN
+        items:
           - item:
             name: GAEN Explorer
             homepage_url: 'https://github.com/billpugh/GAEN_Explorer'
@@ -385,12 +381,6 @@ landscape:
               - repo_url: 'https://github.com/https-github-com-ohioh/ohioh-app-swift'
             logo: ohioh.svg
             crunchbase: 'https://www.crunchbase.com/organization/ohioh'
-          - item:
-            name: Xamarin Exposure Notification
-            homepage_url: 'https://github.com/xamarin/ExposureNotification.Sample'
-            repo_url: 'https://github.com/xamarin/ExposureNotification.Sample'
-            logo: xamarin.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xamarin'
       - subcategory:
         name: Non-GAEN
         items:
@@ -496,13 +486,23 @@ landscape:
             logo: dp3t.svg
             crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
           - item:
-            name: Google Apple Exposure Notification (GAEN)
+            name: Google Apple Exposure Notification (GAEN) - Apple
             description: >-
               Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
               COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: 'https://www.apple.com/covid19/contacttracing'
             logo: gaen.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
+          - item:
+            name: Google Apple Exposure Notification (GAEN) - Google
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
+            homepage_url: 'https://www.google.com/covid19/exposurenotifications/'
+            logo: gaen.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: Safe2 Protocol
             description: 'This document describes the communication between Safe2 clients and Safe2 servers, and between servers. '
@@ -679,8 +679,55 @@ landscape:
             logo: usdigitalresponse.svg
             crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
   - category:
-    name: LFPH Member
+    name: LFPH Members
     subcategories:
       - subcategory:
-        name: General
-        items: []
+        name: Premier
+        items:
+          - item:
+            name: Cisco (member)
+            homepage_url: 'https://www.cisco.com/'
+            logo: 'https://landscape.cncf.io/logos/cisco-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+          - item:
+            name: doc.ai (member)
+            homepage_url: 'https://doc.ai/'
+            logo: 'https://landscape.cncf.io/logos/doc-ai-supporter.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/doc-ai'
+          - item:
+            name: Geometer (member)
+            homepage_url: 'https://www.geometer.io/'
+            logo: geometer.svg
+            crunchbase: 'https://www.crunchbase.com/organization/geometer'
+          - item:
+            name: IBM (member)
+            homepage_url: 'https://www.ibm.com/us-en/'
+            logo: 'https://landscape.lfai.foundation/logos/ibm.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Nearform (member)
+            homepage_url: 'https://www.nearform.com/'
+            logo: 'https://landscape.openjsf.org/logos/nearform-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+          - item:
+            name: Tencent (member)
+            homepage_url: 'https://www.tencent.com/en-us/'
+            logo: 'https://landscape.tarscloud.org/logos/tencent-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+          - item:
+            name: VMware (member)
+            homepage_url: 'https://www.vmware.com/'
+            logo: 'https://landscape.cncf.io/logos/v-mware-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: U.S. Digital Response (member)
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
+            homepage_url: 'https://www.usdigitalresponse.org'
+            logo: usdigitalresponse.svg
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
