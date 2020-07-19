@@ -99,7 +99,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: denmark-smittestop.svg
-              hash: Ii5tntrQcv/2U9L3bcA//OEk5dBvzYylpBJcICtISjQ=
+              hash: a7Eo5WJNJZ8r8yFC4hdgK0Q0jTd/c69UHhkziDfjpcc=
             best_practice_data:
               badge: false
               percentage: null
@@ -1581,64 +1581,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-17T18:50:38.000Z
-          - item:
-            name: United Kingdom (NHS Covid-19 App)
-            description: >-
-              Developed by the NHS with a team of world-leading scientists and doctors, the NHS COVID-19 app will play an important role in the fight against
-              coronavirus.
-            homepage_url: 'https://covid19.nhs.uk'
-            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
-            logo: united-kingdom.svg
-            twitter: 'https://twitter.com/NHSCOVID19app'
-            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
-            crunchbase_data:
-              name: National Health Service
-              description: NHS is the UK’s biggest health website which employs people with a wide range of skills from software development to journalism.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.nhs.uk'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://twitter.com/nhsuk'
-              linkedin: 'https://www.linkedin.com/company/nhs/about/'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Kotlin
-                  value: 732827
-                  color: '#F18E33'
-                - name: Shell
-                  value: 6512
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 3432
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;18;65;87;75;74;101;181;93;31;69;96;87;88;27;3;0;0;0
-              firstWeek: 2019-07-21Z
-              stars: 794
-              license: MIT License
-              description: Source code of the Beta of the NHS COVID-19 Android app
-              latest_commit_date: '2020-06-26T11:18:03Z'
-              latest_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/ebcb3221b89333d9f555592aebc934d06608d784
-              contributors_count: 19
-              contributors_link: 'https://github.com/nhsx/COVID-19-app-Android-BETA/graphs/contributors'
-            repos:
-              - url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
-                stars: 794
-            github_start_commit_data:
-              start_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/981adccfa22d135d0e0589c1450a56a6149496df
-              start_date: '2020-05-05T16:20:22Z'
-            image_data:
-              fileName: united-kingdom-nhs-covid-19-app.svg
-              hash: 3mNk1RW2rkCs+ACloEjzqWpkqo1oEM7RQGwOEEmUtcA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-27T09:02:06.000Z
           - item:
             name: United States - North Dakota (Care19)
             description: >-
