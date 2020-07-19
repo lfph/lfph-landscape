@@ -329,7 +329,7 @@ landscape:
             project: foundationproject
             repo_url: 'https://github.com/HSEIreland/covid-tracker-app'
             project_org: 'https://github.com/HSEIreland'
-            logo: covidgreen.svg
+            logo: covid-green.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             allow_duplicate_repo: true
           - item:
@@ -712,6 +712,14 @@ landscape:
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Covid Watch (member)
+            description: >-
+              Together, we have the power to stop COVID-19. Use your smartphone to protect yourself, your family and your community with anonymous exposure
+              alerts.
+            homepage_url: 'https://www.covidwatch.org'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
           - item:
             name: Kiel University of Applied Sciences (member)
             description: >-

@@ -1714,7 +1714,7 @@ landscape:
             project: foundationproject
             repo_url: 'https://github.com/HSEIreland/covid-tracker-app'
             project_org: 'https://github.com/HSEIreland'
-            logo: covidgreen.svg
+            logo: covid-green.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             allow_duplicate_repo: true
             crunchbase_data:
@@ -1802,7 +1802,7 @@ landscape:
               start_date: '2020-06-26T08:50:29Z'
             image_data:
               fileName: covid-green.svg
-              hash: yCoFxpITjfIiJ7Z8ZaU6i0fX19HsWsbq3MUddg8+1t8=
+              hash: opH6eEnzUguPmXSEZMHTUoQOedWDB1PLvNDrTvdFzng=
             best_practice_data:
               badge: false
               percentage: null
@@ -6676,6 +6676,35 @@ landscape:
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Covid Watch (member)
+            description: >-
+              Together, we have the power to stop COVID-19. Use your smartphone to protect yourself, your family and your community with anonymous exposure
+              alerts.
+            homepage_url: 'https://www.covidwatch.org'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+            crunchbase_data:
+              name: Covid Watch
+              description: Covid Watch
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.covidwatch.org'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/CovidWatch'
+              linkedin: 'https://www.linkedin.com/company/covidwatch/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-watch-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-18T00:05:08.000Z
           - item:
             name: Kiel University of Applied Sciences (member)
             description: >-
