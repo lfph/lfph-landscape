@@ -18,7 +18,8 @@ global:
   flags:
     hide_license_for_categories:
       - Implementers
-  membership: LFPH Member
+      - LFPH Members
+  membership: LFPH Members
 twitter:
   search: landscape.lfph.io
   url: 'https://landscape.lfph.io'
@@ -28,16 +29,16 @@ relation:
   url: LF Public Health
   values:
     - id: hosted
-      label: LF Public Health Foundation Projects
+      label: LFPH Projects
       children:
         - id: foundationproject
-          label: LF Public Health Foundation Projects
-          prefix: LF Public Health
+          label: LFPH Projects
+          prefix: LFPH
           tag: Foundation Project
-          color: '#3570af'
+          color: '#d1f7ff'
           big_picture_order: 1
-          big_picture_label: LF Public Health Foundation Project
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_label: LFPH Project
+          big_picture_color: 'rgb(108, 165, 209)'
     - id: member
       label: LFPH Member Products/Projects
       tag: LF Public Health Foundation Member
@@ -45,10 +46,15 @@ relation:
       label: Non-LFPH Member Products/Projects
       url: 'no'
 membership:
-  General:
+  Premier:
     name: LF Public Health
     label: Member
-    funding: General
+    funding: Premier
+    is_large: true
+  Associate:
+    name: LF Public Health
+    label: Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
@@ -70,10 +76,10 @@ ads:
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
-  - url: /license=apache-license-2-0
-    label: Apache-2.0 landscape
   - url: /format=card-mode&grouping=category
     label: Cards in categories
+  - url: /category=lfph-members&format=card-mode&grouping=category
+    label: Member cards
   - url: /format=card-mode&grouping=no&sort=stars
     label: Cards by stars
   - url: /format=card-mode&grouping=headquarters
@@ -91,95 +97,103 @@ big_picture:
       - type: HorizontalCategory
         category: PHA-Deployed App
         rows: 6
-        width: 750
-        height: 120
+        width: 1100
+        height: 150
         top: 0
         left: 0
         color: 'rgb(179,77,77)'
         fit_width: true
       - type: HorizontalCategory
         category: Exposure Notification
-        width: 390
-        height: 120
-        top: 130
+        width: 460
+        height: 170
+        top: 170
         left: 0
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
         category: Specification
         width: 150
-        height: 120
-        top: 130
-        left: 420
+        height: 170
+        top: 170
+        left: 490
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
         category: Contact Tracing
-        width: 150
-        height: 120
-        top: 130
-        left: 600
+        width: 200
+        height: 170
+        top: 170
+        left: 670
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
         category: Symptom Monitoring
         width: 200
-        height: 100
-        top: 270
-        left: 0
+        height: 170
+        top: 170
+        left: 900
         color: 'rgb(126,115,14)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: LFPH Members
+        width: 550
+        height: 160
+        top: 360
+        left: 0
+        color: 'rgb(47,116,190)'
         fit_width: true
       - type: HorizontalCategory
         category: Non-Code Offerings
         width: 100
-        height: 100
-        top: 270
-        left: 220
+        height: 160
+        top: 360
+        left: 590
         color: 'rgb(143,88,61)'
         fit_width: true
       - type: HorizontalCategory
         category: Implementers
         width: 100
-        height: 100
-        top: 270
-        left: 340
-        color: 'rgb(143,88,61)'
+        height: 160
+        top: 360
+        left: 720
+        color: 'rgb(109,61,143)'
         fit_width: true
       - type: LandscapeInfo
-        width: 290
-        height: 130
-        top: 240
-        left: 460
+        width: 250
+        height: 160
+        top: 360
+        left: 850
         children:
           - type: text
             text: >-
               This landscape is a map to explore the software that is being developed to combat COVID-19, and focuses particularly on Google Apple Exposure
               Notification (GAEN) implementations and the apps deployed by public health authorities (PHAs).
             top: 30
-            left: 95
+            left: 90
             right: 10
             font_size: 9
           - type: image
             image: qr.svg
-            top: 5
+            top: 25
             left: 10
-            width: 80
-            height: 80
+            width: 70
+            height: 70
             title: QR Code
           - type: title
             title: l.lfph.io
-            top: 87
+            top: 97
             left: 20
             font_size: 16
           - type: image
             image: left-logo.svg
-            width: 80
-            right: 110
+            width: 70
+            right: 90
             top: 5
             title: Landscape Logo
           - type: image
             image: right-logo.svg
-            width: 80
+            width: 70
             right: 15
             top: 5
             title: LF Public Health Foundation Logo

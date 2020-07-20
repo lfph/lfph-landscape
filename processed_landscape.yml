@@ -99,7 +99,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: denmark-smittestop.svg
-              hash: Ii5tntrQcv/2U9L3bcA//OEk5dBvzYylpBJcICtISjQ=
+              hash: a7Eo5WJNJZ8r8yFC4hdgK0Q0jTd/c69UHhkziDfjpcc=
             best_practice_data:
               badge: false
               percentage: null
@@ -111,7 +111,6 @@ landscape:
             project_org: 'https://github.com/corona-warn-app'
             logo: germany.svg
             crunchbase: 'https://www.crunchbase.com/organization/robert-koch-foundation'
-            allow_duplicate_repo: true
             crunchbase_data:
               name: Robert Koch Foundation
               description: The Robert Koch Institute is a Federal Institute within the portfolio of the Federal Ministry of Health.
@@ -500,7 +499,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: saudi-arabia-tabaud.svg
-              hash: NXAckjt4Ree4cKEsenZxued4ACbCxX4nkTdU2Rr0VFU=
+              hash: UuhY32Kb9ysRD+btVxWFT4Q9QGHLZsEEnMGNAB104Jo=
             best_practice_data:
               badge: false
               percentage: null
@@ -514,7 +513,6 @@ landscape:
             project_org: 'https://github.com/DP-3T'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
-            allow_duplicate_repo: true
             crunchbase_data:
               name: Federal Office of Public Health (FOPH) Switzerland
               description: The Federal Office of Public Health (FOPH) is the Swiss federal government’s centre for public health.
@@ -1583,64 +1581,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-19T15:42:23.000Z
           - item:
-            name: United Kingdom (NHS Covid-19 App)
-            description: >-
-              Developed by the NHS with a team of world-leading scientists and doctors, the NHS COVID-19 app will play an important role in the fight against
-              coronavirus.
-            homepage_url: 'https://covid19.nhs.uk'
-            repo_url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
-            logo: united-kingdom.svg
-            twitter: 'https://twitter.com/NHSCOVID19app'
-            crunchbase: 'https://www.crunchbase.com/organization/nhs-choices'
-            crunchbase_data:
-              name: National Health Service
-              description: NHS is the UK’s biggest health website which employs people with a wide range of skills from software development to journalism.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.nhs.uk'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://twitter.com/nhsuk'
-              linkedin: 'https://www.linkedin.com/company/nhs/about/'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Kotlin
-                  value: 732827
-                  color: '#F18E33'
-                - name: Shell
-                  value: 6512
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 3432
-                  color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;22;61;87;75;80;109;178;82;31;69;114;80;77;27;3;0;0;0
-              firstWeek: 2019-07-28Z
-              stars: 794
-              license: MIT License
-              description: Source code of the Beta of the NHS COVID-19 Android app
-              latest_commit_date: '2020-06-26T11:18:03Z'
-              latest_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/ebcb3221b89333d9f555592aebc934d06608d784
-              contributors_count: 19
-              contributors_link: 'https://github.com/nhsx/COVID-19-app-Android-BETA/graphs/contributors'
-            repos:
-              - url: 'https://github.com/nhsx/COVID-19-app-Android-BETA'
-                stars: 794
-            github_start_commit_data:
-              start_commit_link: /nhsx/COVID-19-app-Android-BETA/commit/981adccfa22d135d0e0589c1450a56a6149496df
-              start_date: '2020-05-05T16:20:22Z'
-            image_data:
-              fileName: united-kingdom-nhs-covid-19-app.svg
-              hash: 3mNk1RW2rkCs+ACloEjzqWpkqo1oEM7RQGwOEEmUtcA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-27T09:02:06.000Z
-          - item:
             name: United States - North Dakota (Care19)
             description: >-
               This app will help the NDDoH reduce the spread of COVID-19 by more efficiently and effectively identifying individuals who may have had contact
@@ -1765,225 +1705,84 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: GAEN-Based
+        name: Production GAEN
         items:
           - item:
-            name: Corona-Warn-App
-            homepage_url: 'https://www.coronawarn.app/en/'
-            repo_url: 'https://github.com/corona-warn-app/cwa-app-android'
-            project_org: 'https://github.com/corona-warn-app'
-            logo: corona-warn-app.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sap'
-            allow_duplicate_repo: true
+            name: COVID Green
+            homepage_url: 'https://github.com/covidgreen/covid-green-app'
+            project: foundationproject
+            repo_url: 'https://github.com/covidgreen/covid-green-app'
+            project_org: 'https://github.com/covidgreen'
+            logo: covid-green.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             crunchbase_data:
-              name: SAP
-              description: SAP is a technology company that develops enterprise application software for companies and industries across diverse sectors.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.sap.com/'
-              city: Walldorf
-              region: Baden-Wurttemberg
-              country: Germany
-              twitter: 'http://twitter.com/SAP'
-              linkedin: 'https://www.linkedin.com/company/sap'
-              acquisitions:
-                - date: '2001-03-30'
-                  acquiree: TopTier Software
-                  price: 400000000
-                - date: '2005-06-22'
-                  acquiree: Lighthammer Software
-                - date: '2005-09-19'
-                  acquiree: Triversity
-                - date: '2005-11-30'
-                  acquiree: Khimetrics
-                - date: '2006-04-05'
-                  acquiree: Virsa Systems
-                - date: '2006-05-17'
-                  acquiree: Frictionless Commerce
-                - date: '2006-12-07'
-                  acquiree: Factory Logic
-                - date: '2007-02-14'
-                  acquiree: 'Pilot Software, Inc.'
-                - date: '2007-05-08'
-                  acquiree: OutlookSoft
-                - date: '2007-05-14'
-                  acquiree: MaXware
-                - date: '2007-05-14'
-                  acquiree: Wicom Communications
-                - date: '2007-10-07'
-                  acquiree: Business Objects
-                  price: 6800000000
-                - date: '2008-06-17'
-                  acquiree: Visiprise
-                - date: '2009-02-19'
-                  acquiree: Coghead
-                - date: '2009-05-06'
-                  acquiree: Highdeal
-                - date: '2009-05-11'
-                  acquiree: Clear Standards
-                - date: '2009-07-23'
-                  acquiree: SAF
-                - date: '2010-05-12'
-                  acquiree: Sybase
-                  price: 5800000000
-                - date: '2011-01-12'
-                  acquiree: SECUDE - Software Security Products and Assets
-                - date: '2011-09-06'
-                  acquiree: Right Hemisphere
-                - date: '2011-09-20'
-                  acquiree: Crossgate
-                - date: '2011-12-03'
-                  acquiree: SuccessFactors
-                  price: 3400000000
-                - date: '2012-04-10'
-                  acquiree: Syclo
-                - date: '2012-05-22'
-                  acquiree: Ariba
-                  price: 4300000000
-                - date: '2013-01-31'
-                  acquiree: Ticket-Web
-                - date: '2013-02-22'
-                  acquiree: SmartOps
-                - date: '2013-03-07'
-                  acquiree: Camilion Solutions
-                - date: '2013-05-01'
-                  acquiree: Kms Software
-                - date: '2013-06-06'
-                  acquiree: hybris
-                  price: 1400000000
-                - date: '2013-09-10'
-                  acquiree: KXEN
-                - date: '2014-03-26'
-                  acquiree: Fieldglass
-                  price: 1000000000
-                - date: '2014-05-20'
-                  acquiree: SeeWhy
-                - date: '2014-08-10'
-                  acquiree: OpTier
-                  price: 10000000
-                - date: '2014-09-18'
-                  acquiree: SAP Concur
-                  price: 8300000000
-                - date: '2015-10-14'
-                  acquiree: Multiposting
-                - date: '2016-02-17'
-                  acquiree: Roambi
-                - date: '2016-08-25'
-                  acquiree: Altiscale
-                  price: 125000000
-                - date: '2016-09-28'
-                  acquiree: PLAT.ONE
-                - date: '2016-12-14'
-                  acquiree: Abakus
-                - date: '2017-09-24'
-                  acquiree: Gigya
-                  price: 350000000
-                - date: '2018-01-22'
-                  acquiree: Recast.AI
-                - date: '2018-01-29'
-                  acquiree: CallidusCloud
-                  price: 2400000000
-                - date: '2018-06-05'
-                  acquiree: Coresystems
-                - date: '2018-11-10'
-                  acquiree: Qualtrics
-                  price: 8000000000
-                - date: '2018-11-19'
-                  acquiree: Contextor
-              parents: []
-              ticker: SAP
-              funding: 1301371240
-              stockExchange: nyse
-              kind: market_cap
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.lfph.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/lfph'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
-              description: The official COVID-19 exposure notification app for Germany.
-              contributors_count: 228
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;34;107;263;370;1551;1320;389;243;206;213;136
-              stars: 8793
+              description: Open Source COVID-19 GAEN app
+              contributors_count: 2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;10
+              stars: 1
               languages:
+                - name: TypeScript
+                  value: 364072
+                  color: '#2b7489'
                 - name: Swift
-                  value: 1298278
+                  value: 74230
                   color: '#ffac45'
                 - name: Java
-                  value: 884015
+                  value: 64874
                   color: '#b07219'
                 - name: Kotlin
-                  value: 841534
+                  value: 53829
                   color: '#F18E33'
-                - name: HTML
-                  value: 669459
-                  color: '#e34c26'
-                - name: CSS
-                  value: 215505
-                  color: '#563d7c'
-                - name: JavaScript
-                  value: 17611
-                  color: '#f1e05a'
-                - name: Ruby
-                  value: 13808
-                  color: '#701516'
-                - name: FreeMarker
-                  value: 12191
-                  color: '#0050b2'
-                - name: Shell
-                  value: 11861
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 4277
-                  color: '#384d54'
-                - name: TeX
-                  value: 4262
-                  color: '#3D6117'
-                - name: Python
-                  value: 377
-                  color: '#3572A5'
                 - name: Objective-C
-                  value: 246
+                  value: 9707
                   color: '#438eff'
-              latest_commit_link: /corona-warn-app/cwa-app-android/commit/9272210e066b81c27042826010ba0733af60aa60
-              latest_commit_date: '2020-07-17T14:44:29Z'
-              firstWeek: 2019-07-28Z
-              license: Apache License 2.0
-              contributors_link: 'https://github.com/corona-warn-app/cwa-app-android/graphs/contributors'
+                - name: Ruby
+                  value: 9598
+                  color: '#701516'
+                - name: JavaScript
+                  value: 4354
+                  color: '#f1e05a'
+                - name: Starlark
+                  value: 2512
+                - name: C
+                  value: 122
+                  color: '#555555'
+              latest_commit_link: /covidgreen/covid-green-app/commit/fbeb8dd409691be6f3694592194ada1e6ef15256
+              latest_commit_date: '2020-07-19T22:30:38Z'
+              firstWeek: 2019-07-29Z
+              license: Other
+              contributors_link: 'https://github.com/covidgreen/covid-green-app/graphs/contributors'
             repos:
-              - url: 'https://github.com/corona-warn-app/cwa-app-android'
-                stars: 1742
-              - url: 'https://github.com/corona-warn-app/cwa-documentation'
-                stars: 3283
-              - url: 'https://github.com/corona-warn-app/cwa-server'
-                stars: 1553
-              - url: 'https://github.com/corona-warn-app/cwa-app-ios'
-                stars: 1262
-              - url: 'https://github.com/corona-warn-app/cwa-website'
-                stars: 426
-              - url: 'https://github.com/corona-warn-app/cwa-verification-server'
-                stars: 303
-              - url: 'https://github.com/corona-warn-app/cwa-verification-portal'
-                stars: 82
-              - url: 'https://github.com/corona-warn-app/cwa-testresult-server'
-                stars: 73
-              - url: 'https://github.com/corona-warn-app/cwa-verification-iam'
-                stars: 41
-              - url: 'https://github.com/corona-warn-app/cwa-wishlist'
-                stars: 18
-              - url: 'https://github.com/corona-warn-app/cwa-backlog'
-                stars: 7
-              - url: 'https://github.com/corona-warn-app/cwa-hotline'
-                stars: 3
+              - url: 'https://github.com/covidgreen/covid-green-app'
+                stars: 1
+              - url: 'https://github.com/covidgreen/react-native-exposure-notification-service'
+                stars: 0
+              - url: 'https://github.com/covidgreen/covid-green-assets'
+                stars: 0
             github_start_commit_data:
-              start_commit_link: /corona-warn-app/cwa-server/commit/a25c5fde50c4536ca1b39b889b93f3c94fcbc15b
-              start_date: '2020-05-02T15:07:32Z'
-            yahoo_finance_data:
-              market_cap: 185966936064
-              effective_ticker: SAP
+              start_commit_link: /covidgreen/covid-green-app/commit/44da0f76c1bff75b81e2118cc81b109768187cc6
+              start_date: '2020-06-27T14:20:46Z'
             image_data:
-              fileName: corona-warn-app.svg
-              hash: uC1EuJN/08loVgbYSpH9XQWbFJGoJD+F5PTm9ZRnU50=
+              fileName: covid-green.svg
+              hash: opH6eEnzUguPmXSEZMHTUoQOedWDB1PLvNDrTvdFzng=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-19T22:13:00.000Z
           - item:
             name: Covid Safe Paths Project Aurora
             homepage_url: 'https://pathcheck.org'
@@ -2006,56 +1805,106 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 69
+              contributions: 1;0;0;13;4;28;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;46;57;100;52;54;74;157;171;69;89;78;69;170;186;293;167;157;160;106
+              stars: 508
               languages:
+                - name: HTML
+                  value: 941443
+                  color: '#e34c26'
+                - name: Java
+                  value: 939016
+                  color: '#b07219'
+                - name: Objective-C
+                  value: 901903
+                  color: '#438eff'
+                - name: JavaScript
+                  value: 774663
+                  color: '#f1e05a'
                 - name: TypeScript
                   value: 406902
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 236451
-                  color: '#f1e05a'
-                - name: Java
-                  value: 231316
-                  color: '#b07219'
-                - name: HTML
-                  value: 139489
-                  color: '#e34c26'
                 - name: Swift
                   value: 119329
                   color: '#ffac45'
+                - name: CSS
+                  value: 48001
+                  color: '#563d7c'
+                - name: Python
+                  value: 45383
+                  color: '#3572A5'
                 - name: Kotlin
                   value: 43840
                   color: '#F18E33'
                 - name: Ruby
-                  value: 26298
+                  value: 27821
                   color: '#701516'
-                - name: Objective-C
-                  value: 21195
-                  color: '#438eff'
                 - name: Shell
-                  value: 15706
+                  value: 26005
                   color: '#89e051'
-                - name: Python
-                  value: 4814
-                  color: '#3572A5'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Batchfile
                   value: 3972
                   color: '#C1F12E'
+                - name: Dockerfile
+                  value: 3147
+                  color: '#384d54'
                 - name: Starlark
                   value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;39;38;83;31;51;47;56;32;19;30;23;13;27;42;53;36;31;42;34
-              firstWeek: 2019-07-28Z
-              stars: 455
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-17T23:31:45Z'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/967cda9b0bd783d902f20dc81c2901779d8f3063
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 97
+              latest_commit_date: '2020-07-17T23:31:45Z'
+              firstWeek: 2019-07-28Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 455
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 17
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -2070,49 +1919,26 @@ landscape:
           - item:
             name: COVID Shield
             homepage_url: 'https://www.covidshield.app/'
+            project: foundationproject
             repo_url: 'https://github.com/CovidShield/mobile'
             project_org: 'https://github.com/CovidShield'
-            logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
+            logo: covidshield.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
             crunchbase_data:
-              name: Shopify
-              description: 'Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.shopify.com'
-              city: Ottawa
-              region: Ontario
-              country: Canada
-              twitter: 'http://twitter.com/shopify'
-              linkedin: 'https://www.linkedin.com/company/shopify'
-              acquisitions:
-                - date: '2012-02-01'
-                  acquiree: Select Start Studios
-                - date: '2013-08-01'
-                  acquiree: Jet Cooper
-                - date: '2016-04-13'
-                  acquiree: Kit
-                - date: '2016-10-03'
-                  acquiree: Boltmade
-                - date: '2016-12-05'
-                  acquiree: Tiny Hearts
-                - date: '2017-05-11'
-                  acquiree: Oberlo
-                  price: 15000000
-                - date: '2018-06-20'
-                  acquiree: Return Magic
-                - date: '2018-11-21'
-                  acquiree: Tictail
-                - date: '2019-05-23'
-                  acquiree: Handshake
-                - date: '2019-09-10'
-                  acquiree: 6 River Systems
-                  price: 450000000
-              parents: []
-              ticker: SHOP
-              funding: 122250000
-              stockExchange: nyse
-              kind: market_cap
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.lfph.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/lfph'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               description: >-
                 An open source exposure notification solution built with privacy as its top priority. Uses the exposure notification technology provided by
@@ -2182,16 +2008,12 @@ landscape:
             github_start_commit_data:
               start_commit_link: /CovidShield/server/commit/ca905dab42a8a65b8d8432e271a0515426dffbdb
               start_date: '2020-04-22T15:30:03Z'
-            yahoo_finance_data:
-              market_cap: 111255871488
-              effective_ticker: SHOP
             image_data:
               fileName: covid-shield.svg
+              hash: Ekrxk2uJ+FGEmf6zkKusz+2MyGSiLSymftDg5Ry+0n0=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T00:38:31.000Z
           - item:
             name: Covid Watch
             homepage_url: 'https://www.covidwatch.org'
@@ -2322,107 +2144,9 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-18T00:05:08.000Z
-          - item:
-            name: DP-3T App
-            homepage_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            project_org: 'https://github.com/DP-3T'
-            logo: dp3t-app.svg
-            crunchbase: 'https://www.crunchbase.com/organization/eth-zurich'
-            allow_duplicate_repo: true
-            crunchbase_data:
-              name: ETH Zurich
-              description: 'ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.'
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'https://www.ethz.ch'
-              city: Zürich
-              region: Zurich
-              country: Switzerland
-              twitter: 'https://twitter.com/eth'
-              linkedin: 'https://www.linkedin.com/school/4923'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              description: Decentralized Privacy-Preserving Proximity Tracing
-              contributors_count: 51
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;71;202;299;297;203;151;296;205;76;276;272;94;46;114;124
-              stars: 3638
-              languages:
-                - name: Java
-                  value: 1136237
-                  color: '#b07219'
-                - name: Swift
-                  value: 1069379
-                  color: '#ffac45'
-                - name: HTML
-                  value: 92639
-                  color: '#e34c26'
-                - name: Python
-                  value: 52915
-                  color: '#3572A5'
-                - name: Objective-C
-                  value: 19894
-                  color: '#438eff'
-                - name: Ruby
-                  value: 14549
-                  color: '#701516'
-                - name: Makefile
-                  value: 1550
-                  color: '#427819'
-                - name: Dockerfile
-                  value: 1512
-                  color: '#384d54'
-                - name: Shell
-                  value: 826
-                  color: '#89e051'
-                - name: PLpgSQL
-                  value: 374
-                - name: C
-                  value: 360
-                  color: '#555555'
-              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/944cd50682ce1a7a6d880f49daa7505722b857af
-              latest_commit_date: '2020-07-17T08:10:39Z'
-              firstWeek: 2019-07-28Z
-              license: Mozilla Public License 2.0
-              contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
-            repos:
-              - url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-                stars: 110
-              - url: 'https://github.com/DP-3T/documents'
-                stars: 2097
-              - url: 'https://github.com/DP-3T/dp3t-app-android-demo'
-                stars: 332
-              - url: 'https://github.com/DP-3T/dp3t-app-ios-demo'
-                stars: 243
-              - url: 'https://github.com/DP-3T/dp3t-sdk-android'
-                stars: 220
-              - url: 'https://github.com/DP-3T/dp3t-app-android-ch'
-                stars: 183
-              - url: 'https://github.com/DP-3T/dp3t-sdk-backend'
-                stars: 169
-              - url: 'https://github.com/DP-3T/dp3t-sdk-ios'
-                stars: 140
-              - url: 'https://github.com/DP-3T/reference_implementation'
-                stars: 125
-              - url: 'https://github.com/DP-3T/dp3t-discovery'
-                stars: 11
-              - url: 'https://github.com/DP-3T/dp3t-config-backend-ch'
-                stars: 5
-              - url: 'https://github.com/DP-3T/dp3t-ux-screenflows-ch'
-                stars: 3
-            github_start_commit_data:
-              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
-              start_date: '2020-04-03T16:04:33Z'
-            image_data:
-              fileName: dp-3-t-app.svg
-              hash: 8503lannu7vYghhsJJuPqJxNA3wGdMwlNjJaYzVryy8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-17T11:36:51.000Z
+      - subcategory:
+        name: Experimental GAEN
+        items:
           - item:
             name: GAEN Explorer
             homepage_url: 'https://github.com/billpugh/GAEN_Explorer'
@@ -2525,66 +2249,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Xamarin Exposure Notification
-            homepage_url: 'https://github.com/xamarin/ExposureNotification.Sample'
-            repo_url: 'https://github.com/xamarin/ExposureNotification.Sample'
-            logo: xamarin.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xamarin'
-            crunchbase_data:
-              name: Xamarin
-              description: 'Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.'
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'http://www.xamarin.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/xamarinhq'
-              linkedin: 'https://www.linkedin.com/company/xamarin/'
-              acquisitions:
-                - date: '2013-04-16'
-                  acquiree: LessPainful
-                - date: '2015-10-21'
-                  acquiree: RoboVM AB
-              parents:
-                - 'https://www.crunchbase.com/organization/microsoft'
-                - 'https://www.crunchbase.com/organization/snaptube-appz'
-              ticker: MSFT
-              funding: 82750000
-              stockExchange: null
-              kind: market_cap
-            github_data:
-              languages:
-                - name: C#
-                  value: 160219
-                  color: '#178600'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46;50;70;0;88;20;8;0;1;0;0;0
-              firstWeek: 2019-07-28Z
-              stars: 93
-              license: MIT License
-              description: A sample cross-platform mobile app and server for exposure notifications.
-              latest_commit_date: '2020-06-25T19:47:28Z'
-              latest_commit_link: /xamarin/ExposureNotification.Sample/commit/32767bf13d26e3cff6e0e332b8c6a0bf0d1603aa
-              contributors_count: 8
-              contributors_link: 'https://github.com/xamarin/ExposureNotification.Sample/graphs/contributors'
-            repos:
-              - url: 'https://github.com/xamarin/ExposureNotification.Sample'
-                stars: 93
-            github_start_commit_data:
-              start_commit_link: /xamarin/ExposureNotification.Sample/commit/c2df9a5814302e68a94b50717311856cf583cb78
-              start_date: '2020-04-29T18:44:16Z'
-            yahoo_finance_data:
-              market_cap: 1538528378880
-              effective_ticker: MSFT
-            image_data:
-              fileName: xamarin-exposure-notification.svg
-              hash: N6IPiCeSHUxbB+NyzJ5D9KH0P8C/p8ZAEAwTKw0lZBw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-18T20:00:01.000Z
       - subcategory:
         name: Non-GAEN
         items:
@@ -3324,12 +2988,13 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-17T11:36:51.000Z
           - item:
-            name: Google Apple Exposure Notification (GAEN)
+            name: Google Apple Exposure Notification (GAEN) - Apple
             description: >-
               Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
               COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: 'https://www.apple.com/covid19/contacttracing'
             logo: gaen.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
             crunchbase_data:
               name: Apple
@@ -3605,13 +3270,572 @@ landscape:
               market_cap: 1670060572672
               effective_ticker: AAPL
             image_data:
-              fileName: google-apple-exposure-notification-gaen.svg
+              fileName: google-apple-exposure-notification-gaen-apple.svg
               hash: iXDkwBZwm1L0aRPkwA1Yp4yQzjbZJ06sFle9gI/5W6c=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-20T01:20:04.000Z
+          - item:
+            name: Google Apple Exposure Notification (GAEN) - Google
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
+            homepage_url: 'https://www.google.com/covid19/exposurenotifications/'
+            logo: gaen.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              acquisitions:
+                - date: '2001-02-12'
+                  acquiree: Deja
+                - date: '2001-09-20'
+                  acquiree: Outride
+                - date: '2003-02-17'
+                  acquiree: Pyra Labs
+                - date: '2003-04-28'
+                  acquiree: Applied Semantics
+                  price: 102000000
+                - date: '2003-06-04'
+                  acquiree: Neotonic Software
+                - date: '2003-09-30'
+                  acquiree: Kaltix
+                - date: '2003-10-07'
+                  acquiree: Genius Labs
+                - date: '2003-10-23'
+                  acquiree: Sprinks
+                - date: '2004-05-10'
+                  acquiree: Ignite Logic
+                - date: '2004-09-10'
+                  acquiree: ZipDash
+                - date: '2004-10-09'
+                  acquiree: Where2
+                - date: '2004-10-27'
+                  acquiree: Keyhole Inc.
+                - date: '2005-01-01'
+                  acquiree: Reqwireless
+                - date: '2005-03-28'
+                  acquiree: Urchin Software
+                - date: '2005-05-12'
+                  acquiree: Dodgeball
+                - date: '2005-08-16'
+                  acquiree: Android
+                  price: 50000000
+                - date: '2005-11-09'
+                  acquiree: Skia
+                - date: '2005-11-17'
+                  acquiree: Akwan Information Technologies
+                - date: '2005-12-27'
+                  acquiree: Phatbits
+                - date: '2005-12-31'
+                  acquiree: allPAY
+                - date: '2005-12-31'
+                  acquiree: bruNET
+                - date: '2006-01-01'
+                  acquiree: dMarc Broadcasting
+                  price: 102000000
+                - date: '2006-02-14'
+                  acquiree: Measure Map
+                - date: '2006-03-09'
+                  acquiree: Upstartle
+                - date: '2006-03-14'
+                  acquiree: '@Last Software'
+                - date: '2006-04-09'
+                  acquiree: Orion
+                - date: '2006-06-06'
+                  acquiree: 2Web Technologies
+                - date: '2006-08-15'
+                  acquiree: Neven Vision
+                - date: '2006-10-01'
+                  acquiree: YouTube
+                  price: 1650000000
+                - date: '2006-10-31'
+                  acquiree: JotSpot
+                - date: '2006-12-18'
+                  acquiree: Endoxon
+                  price: 28000000
+                - date: '2007-02-16'
+                  acquiree: Adscape
+                  price: 23000000
+                - date: '2007-03-16'
+                  acquiree: Trendalyzer
+                - date: '2007-04-17'
+                  acquiree: Tonic Systems
+                - date: '2007-04-19'
+                  acquiree: Marratech
+                - date: '2007-05-23'
+                  acquiree: Kosiso - store
+                  price: 100000000
+                - date: '2007-05-29'
+                  acquiree: GreenBorder
+                - date: '2007-05-31'
+                  acquiree: Panoramio
+                - date: '2007-06-05'
+                  acquiree: PeakStream
+                  price: 20300000
+                - date: '2007-06-19'
+                  acquiree: Zenter
+                - date: '2007-07-01'
+                  acquiree: GrandCentral
+                  price: 60000000
+                - date: '2007-07-09'
+                  acquiree: Postini
+                - date: '2007-07-20'
+                  acquiree: 'Image America, Inc.'
+                - date: '2007-08-20'
+                  acquiree: Tianya.cn
+                - date: '2007-09-27'
+                  acquiree: Zingku
+                - date: '2007-10-09'
+                  acquiree: Jaiku
+                  price: 12000000
+                - date: '2008-03-11'
+                  acquiree: DoubleClick
+                - date: '2008-07-18'
+                  acquiree: ZAO Begun
+                  price: 140000000
+                - date: '2008-07-30'
+                  acquiree: Omnisio
+                - date: '2008-09-12'
+                  acquiree: TNC
+                - date: '2009-02-19'
+                  acquiree: On2 Technologies
+                  price: 130000000
+                - date: '2009-09-16'
+                  acquiree: reCAPTCHA
+                - date: '2009-11-09'
+                  acquiree: AdMob
+                - date: '2009-11-09'
+                  acquiree: Gizmofive
+                  price: 30000000
+                - date: '2009-11-23'
+                  acquiree: Teracent
+                - date: '2009-12-04'
+                  acquiree: AppJet
+                - date: '2009-12-05'
+                  acquiree: DocVerse
+                - date: '2010-01-25'
+                  acquiree: SayNow
+                - date: '2010-02-11'
+                  acquiree: Aardvark
+                - date: '2010-02-17'
+                  acquiree: reMail
+                - date: '2010-03-01'
+                  acquiree: Picnik
+                - date: '2010-04-02'
+                  acquiree: Episodic
+                - date: '2010-04-12'
+                  acquiree: Plink Search
+                - date: '2010-04-12'
+                  acquiree: Plink Solutions
+                - date: '2010-04-20'
+                  acquiree: Agnilux
+                - date: '2010-04-27'
+                  acquiree: LabPixies
+                - date: '2010-05-02'
+                  acquiree: BumpTop
+                - date: '2010-05-18'
+                  acquiree: Global IP Solutions
+                - date: '2010-05-20'
+                  acquiree: Simplify Media
+                - date: '2010-05-21'
+                  acquiree: Ruba
+                - date: '2010-06-02'
+                  acquiree: Invite Media
+                  price: 81000000
+                - date: '2010-07-16'
+                  acquiree: Metaweb Technologies
+                - date: '2010-07-16'
+                  acquiree: john kenneth rosel
+                - date: '2010-08-04'
+                  acquiree: Instantiations
+                - date: '2010-08-06'
+                  acquiree: Slide
+                  price: 182000000
+                - date: '2010-08-09'
+                  acquiree: Jambool
+                - date: '2010-08-13'
+                  acquiree: Zetawire
+                - date: '2010-08-20'
+                  acquiree: Like.com
+                - date: '2010-08-27'
+                  acquiree: Angstro
+                - date: '2010-08-30'
+                  acquiree: SocialDeck
+                - date: '2010-09-12'
+                  acquiree: MentorWave Technologies
+                  price: 12000000
+                - date: '2010-09-14'
+                  acquiree: Quiksee
+                - date: '2010-09-28'
+                  acquiree: Plannr
+                - date: '2010-10-01'
+                  acquiree: BlindType
+                - date: '2010-12-03'
+                  acquiree: Phonetic Arts
+                - date: '2010-12-03'
+                  acquiree: Widevine Technologies
+                  price: 160000000
+                - date: '2011-01-12'
+                  acquiree: eBook Technologies
+                - date: '2011-01-25'
+                  acquiree: fflick
+                - date: '2011-03-01'
+                  acquiree: zynamics
+                - date: '2011-03-07'
+                  acquiree: BeatThatQuote.com
+                  price: 61208155
+                - date: '2011-03-15'
+                  acquiree: Green Parrot Pictures
+                - date: '2011-04-08'
+                  acquiree: PushLife
+                - date: '2011-04-13'
+                  acquiree: ITA Software
+                  price: 700000000
+                - date: '2011-04-25'
+                  acquiree: Numovis Inc
+                - date: '2011-04-25'
+                  acquiree: TalkBin
+                - date: '2011-05-20'
+                  acquiree: modu
+                  price: 4900000
+                - date: '2011-05-23'
+                  acquiree: Sparkbuy
+                - date: '2011-06-01'
+                  acquiree: Admeld
+                  price: 411556083
+                - date: '2011-06-03'
+                  acquiree: PostRank
+                - date: '2011-06-19'
+                  acquiree: SageTV
+                - date: '2011-07-11'
+                  acquiree: Punchd
+                - date: '2011-07-20'
+                  acquiree: JustSpotted
+                - date: '2011-07-21'
+                  acquiree: Fridge
+                - date: '2011-07-22'
+                  acquiree: PittPatt
+                - date: '2011-08-01'
+                  acquiree: The Dealmap
+                - date: '2011-09-02'
+                  acquiree: Zave Networks
+                - date: '2011-09-19'
+                  acquiree: DailyDeal
+                - date: '2011-10-10'
+                  acquiree: SocialGrapple
+                - date: '2011-10-26'
+                  acquiree: Zagat
+                  price: 151000000
+                - date: '2011-11-10'
+                  acquiree: Apture
+                - date: '2011-11-10'
+                  acquiree: Katango
+                - date: '2011-12-09'
+                  acquiree: RightsFlow
+                - date: '2011-12-13'
+                  acquiree: Clever Sense
+                - date: '2012-03-16'
+                  acquiree: Milk
+                - date: '2012-04-02'
+                  acquiree: TxVia
+                - date: '2012-05-22'
+                  acquiree: Motorola Mobility
+                  price: 12500000000
+                - date: '2012-06-01'
+                  acquiree: KikScore
+                - date: '2012-06-04'
+                  acquiree: Meebo
+                  price: 100000000
+                - date: '2012-06-05'
+                  acquiree: Quickoffice
+                - date: '2012-07-20'
+                  acquiree: Sparrow
+                - date: '2012-07-31'
+                  acquiree: Wildfire
+                  price: 350000000
+                - date: '2012-08-13'
+                  acquiree: Frommer's
+                - date: '2012-09-07'
+                  acquiree: VirusTotal
+                - date: '2012-09-17'
+                  acquiree: 'Nik Software, Inc.'
+                - date: '2012-11-28'
+                  acquiree: Incentive Targeting
+                - date: '2012-11-30'
+                  acquiree: BufferBox
+                - date: '2013-02-06'
+                  acquiree: Channel Intelligence
+                - date: '2013-03-12'
+                  acquiree: DNNresearch
+                - date: '2013-03-15'
+                  acquiree: Talaria
+                - date: '2013-04-18'
+                  acquiree: Behavio
+                - date: '2013-04-24'
+                  acquiree: Wavii
+                  price: 30000000
+                - date: '2013-06-11'
+                  acquiree: Waze
+                  price: 1300000000
+                - date: '2013-08-31'
+                  acquiree: WIMM Labs
+                - date: '2013-09-16'
+                  acquiree: Bump Technologies
+                  price: 30000000
+                - date: '2013-10-02'
+                  acquiree: Flutter
+                - date: '2013-10-22'
+                  acquiree: FlexyCore
+                  price: 23000000
+                - date: '2013-12-02'
+                  acquiree: Schaft
+                  price: 20000000
+                - date: '2013-12-04'
+                  acquiree: Industrial Pereception Inc.
+                - date: '2013-12-04'
+                  acquiree: Redwood Robotics
+                - date: '2013-12-05'
+                  acquiree: Meka Robotics
+                - date: '2013-12-06'
+                  acquiree: Holomni
+                - date: '2013-12-07'
+                  acquiree: Bot & Dolly
+                - date: '2013-12-08'
+                  acquiree: Autofuss
+                - date: '2013-12-13'
+                  acquiree: Boston Dynamics
+                - date: '2014-01-01'
+                  acquiree: Nest Labs
+                  price: 3200000000
+                - date: '2014-01-16'
+                  acquiree: Impermium
+                - date: '2014-01-26'
+                  acquiree: DeepMind
+                  price: 500000000
+                - date: '2014-02-16'
+                  acquiree: SlickLogin
+                - date: '2014-02-21'
+                  acquiree: Spider.io
+                - date: '2014-03-12'
+                  acquiree: Green Throttle Games
+                - date: '2014-04-14'
+                  acquiree: Titan Aerospace
+                - date: '2014-05-02'
+                  acquiree: Rangespan
+                - date: '2014-05-06'
+                  acquiree: Adometry By Google
+                - date: '2014-05-07'
+                  acquiree: Appetas
+                - date: '2014-05-07'
+                  acquiree: Stackdriver
+                - date: '2014-05-16'
+                  acquiree: Quest Visual
+                - date: '2014-05-20'
+                  acquiree: Divide
+                  price: 120000000
+                - date: '2014-06-10'
+                  acquiree: Terra Bella
+                  price: 500000000
+                - date: '2014-06-19'
+                  acquiree: Alpental Technologies
+                - date: '2014-06-19'
+                  acquiree: mDialog
+                - date: '2014-06-25'
+                  acquiree: Appurify
+                - date: '2014-07-02'
+                  acquiree: Songza
+                - date: '2014-07-14'
+                  acquiree: CiiNOW
+                - date: '2014-07-23'
+                  acquiree: drawElements
+                - date: '2014-08-01'
+                  acquiree: Directr
+                - date: '2014-08-06'
+                  acquiree: Emu Messenger
+                - date: '2014-08-15'
+                  acquiree: Jetpac
+                - date: '2014-08-22'
+                  acquiree: Gecko Design Inc.
+                - date: '2014-08-26'
+                  acquiree: Zync Render
+                - date: '2014-09-11'
+                  acquiree: Lift Labs
+                - date: '2014-09-11'
+                  acquiree: Polar
+                - date: '2014-10-21'
+                  acquiree: Firebase
+                - date: '2014-10-23'
+                  acquiree: Dark Blue Labs
+                - date: '2014-10-23'
+                  acquiree: Vision Factory
+                - date: '2014-11-18'
+                  acquiree: RelativeWave
+                - date: '2015-01-23'
+                  acquiree: Granata Decision Systems
+                - date: '2015-02-03'
+                  acquiree: Launchpad Toys
+                - date: '2015-02-08'
+                  acquiree: Odysee
+                - date: '2015-02-24'
+                  acquiree: Toro
+                - date: '2015-03-01'
+                  acquiree: Apportable
+                - date: '2015-03-04'
+                  acquiree: Softcard
+                - date: '2015-04-16'
+                  acquiree: Skillman & Hackett
+                - date: '2015-04-16'
+                  acquiree: Thrive Audio
+                - date: '2015-05-04'
+                  acquiree: Timeful
+                - date: '2015-05-28'
+                  acquiree: Pulse.io
+                - date: '2015-06-18'
+                  acquiree: Agawi Inc
+                - date: '2015-07-21'
+                  acquiree: Pixate
+                - date: '2015-09-21'
+                  acquiree: Oyster
+                  price: 30000000
+                - date: '2015-09-30'
+                  acquiree: Jibe Mobile
+                - date: '2015-10-13'
+                  acquiree: Divshot
+                - date: '2015-10-17'
+                  acquiree: Digisfera
+                - date: '2015-11-06'
+                  acquiree: Fly Labs
+                - date: '2015-11-19'
+                  acquiree: Bebop
+                  price: 380200000
+                - date: '2016-02-18'
+                  acquiree: Pie
+                - date: '2016-05-01'
+                  acquiree: Synergyse
+                - date: '2016-06-22'
+                  acquiree: Webpass
+                - date: '2016-07-06'
+                  acquiree: Moodstocks
+                - date: '2016-07-07'
+                  acquiree: Anvato
+                - date: '2016-07-12'
+                  acquiree: Kifi
+                - date: '2016-07-27'
+                  acquiree: LaunchKit
+                - date: '2016-08-08'
+                  acquiree: 'Orbitera, Inc.'
+                - date: '2016-09-08'
+                  acquiree: Apigee
+                  price: 625000000
+                - date: '2016-09-15'
+                  acquiree: Urban Engines
+                - date: '2016-09-19'
+                  acquiree: Dialogflow
+                - date: '2016-10-01'
+                  acquiree: Undecidable Labs
+                - date: '2016-10-11'
+                  acquiree: FameBit
+                - date: '2016-10-24'
+                  acquiree: Eyefluence
+                - date: '2016-11-07'
+                  acquiree: LeapDroid
+                - date: '2016-11-21'
+                  acquiree: Qwiklabs
+                - date: '2016-12-12'
+                  acquiree: Cronologics Corporation
+                - date: '2017-01-06'
+                  acquiree: Limes Audio
+                - date: '2017-01-18'
+                  acquiree: Crashlytics
+                - date: '2017-01-18'
+                  acquiree: Fastlane
+                - date: '2017-03-07'
+                  acquiree: Kaggle
+                - date: '2017-03-09'
+                  acquiree: AppBridge
+                - date: '2017-05-10'
+                  acquiree: Owlchemy Labs
+                - date: '2017-07-12'
+                  acquiree: Halli Labs
+                - date: '2017-08-06'
+                  acquiree: Redux ST
+                - date: '2017-08-14'
+                  acquiree: Senosis Health
+                - date: '2017-08-16'
+                  acquiree: AIMatter
+                - date: '2017-09-21'
+                  acquiree: HTC - Pixel Phone Division
+                  price: 1100000000
+                - date: '2017-10-09'
+                  acquiree: Relay Media
+                - date: '2017-10-11'
+                  acquiree: 60dB
+                - date: '2018-02-15'
+                  acquiree: Xively
+                  price: 50000000
+                - date: '2018-03-27'
+                  acquiree: Tenor Inc
+                - date: '2018-05-09'
+                  acquiree: Velostrata
+                - date: '2018-05-15'
+                  acquiree: Cask
+                - date: '2018-08-06'
+                  acquiree: GraphicsFuzz
+                - date: '2018-10-02'
+                  acquiree: Onward
+                - date: '2018-11-28'
+                  acquiree: Workbench Platform
+                - date: '2018-12-10'
+                  acquiree: Where Is My Train
+                - date: '2018-12-20'
+                  acquiree: DevOps Research and Assessment
+                - date: '2019-02-19'
+                  acquiree: Alooma
+                - date: '2019-06-06'
+                  acquiree: Looker
+                  price: 2600000000
+                - date: '2019-07-09'
+                  acquiree: Elastifile
+                - date: '2019-08-17'
+                  acquiree: Socratic
+                - date: '2019-11-01'
+                  acquiree: Fitbit
+                  price: 2100000000
+                - date: '2019-12-12'
+                  acquiree: Typhoon Studios
+                - date: '2020-01-14'
+                  acquiree: Pointy
+                  price: 163000000
+                - date: '2020-01-15'
+                  acquiree: AppSheet
+                - date: '2020-06-29'
+                  acquiree: North
+                  price: 180000000
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              funding: 36100000
+              stockExchange: nasdaq
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1033479323648
+              effective_ticker: GOOG
+            image_data:
+              fileName: google-apple-exposure-notification-gaen-google.svg
+              hash: iXDkwBZwm1L0aRPkwA1Yp4yQzjbZJ06sFle9gI/5W6c=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Safe2 Protocol
             description: 'This document describes the communication between Safe2 clients and Safe2 servers, and between servers. '
@@ -5111,11 +5335,1415 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-17T19:05:44.000Z
   - category:
-    name: LFPH Member
+    name: LFPH Members
     subcategories:
       - subcategory:
-        name: General
-        items: []
+        name: Premier
+        items:
+          - item:
+            name: Cisco (member)
+            homepage_url: 'https://www.cisco.com/'
+            logo: 'https://landscape.cncf.io/logos/cisco-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+            crunchbase_data:
+              name: Cisco
+              description: 'Cisco develops, manufactures, and sells networking hardware, telecommunications equipment, and other high-technology services and products.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.cisco.com'
+              city: San Jose
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/cisco'
+              linkedin: 'https://www.linkedin.com/company/cisco'
+              acquisitions:
+                - date: '1993-09-24'
+                  acquiree: Crescendo Communications
+                - date: '1994-07-12'
+                  acquiree: Newport Systems Solutions
+                  price: 90800000
+                - date: '1994-10-24'
+                  acquiree: Kalpana
+                - date: '1994-12-08'
+                  acquiree: LightStream Corporation
+                  price: 120000000
+                - date: '1995-08-10'
+                  acquiree: Combinet
+                - date: '1995-09-06'
+                  acquiree: Internet Junction
+                - date: '1995-09-28'
+                  acquiree: Grand Junction Networks
+                  price: 348000000
+                - date: '1995-10-27'
+                  acquiree: Network Translation
+                - date: '1996-01-23'
+                  acquiree: TGV Software
+                  price: 115000000
+                - date: '1996-04-09'
+                  acquiree: Granite Systems
+                - date: '1996-04-22'
+                  acquiree: StrataCom
+                  price: 4000000000
+                - date: '1996-07-23'
+                  acquiree: Telebit
+                  price: 200000000
+                - date: '1996-08-06'
+                  acquiree: Nashoba Networks
+                  price: 100000000
+                - date: '1996-10-14'
+                  acquiree: NetSys Technologies
+                  price: 79000000
+                - date: '1996-11-22'
+                  acquiree: Metaplex
+                - date: '1997-03-27'
+                  acquiree: Telesend
+                - date: '1997-06-09'
+                  acquiree: Skystone Systems
+                  price: 89000000
+                - date: '1997-06-24'
+                  acquiree: Ardent Communications
+                  price: 156000000
+                - date: '1997-06-24'
+                  acquiree: Global Internet Software Group
+                  price: 40250000
+                - date: '1997-07-29'
+                  acquiree: DAGAZ Technologies
+                  price: 126000000
+                - date: '1997-12-22'
+                  acquiree: LightSpeed International
+                  price: 160000000
+                - date: '1998-02-18'
+                  acquiree: WheelGroup
+                  price: 124000000
+                - date: '1998-03-10'
+                  acquiree: NetSpeed
+                  price: 236000000
+                - date: '1998-03-11'
+                  acquiree: Precept Software
+                  price: 84000000
+                - date: '1998-05-04'
+                  acquiree: CLASS Data Systems
+                  price: 50000000
+                - date: '1998-07-28'
+                  acquiree: Summa Four
+                  price: 116000000
+                - date: '1998-08-21'
+                  acquiree: American Internet Corporation
+                  price: 56000000
+                - date: '1998-09-15'
+                  acquiree: Clarity Wireless
+                  price: 157000000
+                - date: '1998-12-02'
+                  acquiree: PipeLinks
+                  price: 126000000
+                - date: '1999-02-24'
+                  acquiree: Selsius Systems
+                  price: 145000000
+                - date: '1999-04-08'
+                  acquiree: Fibex Systems
+                  price: 320000000
+                - date: '1999-04-08'
+                  acquiree: Sentient Networks
+                  price: 125000000
+                - date: '1999-04-13'
+                  acquiree: GeoTel Communications
+                  price: 2000000000
+                - date: '1999-04-28'
+                  acquiree: Amteva Technologies
+                  price: 170000000
+                - date: '1999-06-17'
+                  acquiree: TransMedia Communications
+                  price: 407000000
+                - date: '1999-06-29'
+                  acquiree: StratumOne Communications
+                  price: 435000000
+                - date: '1999-08-16'
+                  acquiree: CALISTA
+                  price: 55000000
+                - date: '1999-08-18'
+                  acquiree: Maxcomm Technologies
+                  price: 143000000
+                - date: '1999-08-26'
+                  acquiree: Cerent
+                  price: 6900000000
+                - date: '1999-08-26'
+                  acquiree: MONTEREY NETWORKS
+                  price: 500000000
+                - date: '1999-09-15'
+                  acquiree: Cocom
+                  price: 65599999
+                - date: '1999-09-22'
+                  acquiree: WebLine Communications
+                  price: 325000000
+                - date: '1999-10-26'
+                  acquiree: Tasmania Network Systems
+                  price: 25000000
+                - date: '1999-11-09'
+                  acquiree: Aironet Wireless Communications
+                  price: 799000000
+                - date: '1999-11-11'
+                  acquiree: V-Bits
+                  price: 128000000
+                - date: '1999-12-16'
+                  acquiree: Worldwide Data Systems
+                - date: '1999-12-17'
+                  acquiree: Internet Engineering Group
+                  price: 25000000
+                - date: '1999-12-20'
+                  acquiree: Pirelli Optical Systems
+                  price: 2000000000
+                - date: '2000-01-19'
+                  acquiree: Altiga Networks
+                - date: '2000-01-20'
+                  acquiree: Compatible Systems
+                - date: '2000-02-16'
+                  acquiree: Growth Networks
+                  price: 355000000
+                - date: '2000-03-01'
+                  acquiree: Atlantech Technologies
+                  price: 180000000
+                - date: '2000-03-16'
+                  acquiree: JetCell
+                  price: 200000000
+                - date: '2000-03-17'
+                  acquiree: InfoGear Technology
+                  price: 301000000
+                - date: '2000-03-19'
+                  acquiree: SightPath
+                  price: 800000000
+                - date: '2000-04-11'
+                  acquiree: Pentacom
+                  price: 118000000
+                - date: '2000-04-12'
+                  acquiree: Seagull Semiconductor
+                - date: '2000-05-05'
+                  acquiree: ArrowPoint Communications
+                  price: 5700000000
+                - date: '2000-05-12'
+                  acquiree: Qeyton Systems
+                  price: 800000000
+                - date: '2000-06-05'
+                  acquiree: HyNEX
+                  price: 127000000
+                - date: '2000-07-07'
+                  acquiree: Netiverse
+                  price: 210000000
+                - date: '2000-07-25'
+                  acquiree: Komodo Technology
+                  price: 175000000
+                - date: '2000-07-27'
+                  acquiree: NuSpeed Internet Systems
+                  price: 450000000
+                - date: '2000-08-01'
+                  acquiree: IPmobile
+                  price: 425000000
+                - date: '2000-08-31'
+                  acquiree: PixStream
+                  price: 369000000
+                - date: '2000-09-28'
+                  acquiree: IPCell Technologies
+                  price: 369000000
+                - date: '2000-09-28'
+                  acquiree: Vovida Networks
+                  price: 369000000
+                - date: '2000-10-20'
+                  acquiree: CAIS Software Solutions
+                  price: 170000000
+                - date: '2000-11-10'
+                  acquiree: Active Voice Corporation
+                  price: 300000000
+                - date: '2000-11-13'
+                  acquiree: Radiata
+                  price: 295000000
+                - date: '2000-12-14'
+                  acquiree: ExiO Communications
+                - date: '2001-07-16'
+                  acquiree: AuroraNetics
+                  price: 150000000
+                - date: '2001-07-27'
+                  acquiree: Allegro Systems
+                  price: 181000000
+                - date: '2002-05-01'
+                  acquiree: Hammerhead Networks
+                  price: 173000000
+                - date: '2002-05-01'
+                  acquiree: Navarro Networks
+                  price: 85000000
+                - date: '2002-07-25'
+                  acquiree: AYR Networks
+                - date: '2002-08-20'
+                  acquiree: Andiamo Systems
+                - date: '2002-10-22'
+                  acquiree: Psionic Software
+                  price: 12000000
+                - date: '2003-01-24'
+                  acquiree: Okena
+                  price: 154000000
+                - date: '2003-03-19'
+                  acquiree: SignalWorks
+                  price: 13500000
+                - date: '2003-03-20'
+                  acquiree: The Linksys Group
+                  price: 500000000
+                - date: '2003-11-12'
+                  acquiree: Latitude Communications
+                  price: 80000000
+                - date: '2004-03-12'
+                  acquiree: Twingo Systems
+                - date: '2004-03-23'
+                  acquiree: Riverhead Networks
+                  price: 39000000
+                - date: '2004-06-18'
+                  acquiree: Procket Networks
+                  price: 89000000
+                - date: '2004-06-29'
+                  acquiree: Actona Technologies
+                  price: 82000000
+                - date: '2004-07-08'
+                  acquiree: Parc Technologies
+                  price: 9000000
+                - date: '2004-08-23'
+                  acquiree: P-Cube
+                  price: 200000000
+                - date: '2004-09-09'
+                  acquiree: NetSolve
+                - date: '2004-09-13'
+                  acquiree: DynamicSoft
+                  price: 55000000
+                - date: '2004-10-21'
+                  acquiree: Perfigo
+                  price: 74000000
+                - date: '2004-11-17'
+                  acquiree: Jahi Networks
+                - date: '2004-12-09'
+                  acquiree: BCN Systems
+                  price: 34000000
+                - date: '2004-12-20'
+                  acquiree: Protego Networks
+                  price: 65000000
+                - date: '2005-03-23'
+                  acquiree: Airespace
+                  price: 450000000
+                - date: '2005-04-14'
+                  acquiree: Topspin Communications
+                  price: 250000000
+                - date: '2005-04-26'
+                  acquiree: Sipura Technology
+                  price: 68000000
+                - date: '2005-05-23'
+                  acquiree: Vihana
+                - date: '2005-05-26'
+                  acquiree: FineGround Networks
+                - date: '2005-06-14'
+                  acquiree: M. I. Secure Corporation
+                - date: '2005-06-27'
+                  acquiree: NetSift
+                  price: 30000000
+                - date: '2005-07-22'
+                  acquiree: KiSS Technology
+                  price: 61000000
+                - date: '2005-07-26'
+                  acquiree: Sheer Networks
+                - date: '2005-09-30'
+                  acquiree: Nemo Systems
+                - date: '2005-11-18'
+                  acquiree: Scientific Atlanta
+                  price: 6900000000
+                - date: '2005-11-29'
+                  acquiree: Intellishield Alert Manager
+                - date: '2006-03-07'
+                  acquiree: Sypixx Networks
+                  price: 51000000
+                - date: '2006-06-08'
+                  acquiree: Audium
+                - date: '2006-06-28'
+                  acquiree: Metreos Corporation
+                  price: 28000000
+                - date: '2006-07-06'
+                  acquiree: Meetinghouse Data Communications
+                  price: 43700000
+                - date: '2006-08-21'
+                  acquiree: Arroyo Video Solutions
+                - date: '2006-10-10'
+                  acquiree: Ashley Laurent
+                - date: '2006-10-25'
+                  acquiree: Orative Corporation
+                - date: '2006-11-13'
+                  acquiree: Greenfield Networks
+                - date: '2006-12-15'
+                  acquiree: Tivella
+                - date: '2007-01-01'
+                  acquiree: Qovia
+                - date: '2007-01-04'
+                  acquiree: IronPort Systems
+                  price: 830000000
+                - date: '2007-02-08'
+                  acquiree: FiveAcross
+                - date: '2007-02-21'
+                  acquiree: Reactivity
+                  price: 135000000
+                - date: '2007-03-02'
+                  acquiree: Tribe
+                - date: '2007-03-13'
+                  acquiree: NeoPath Networks
+                - date: '2007-03-15'
+                  acquiree: WebEx
+                  price: 3200000000
+                - date: '2007-03-28'
+                  acquiree: Spans Logic
+                - date: '2007-05-22'
+                  acquiree: BroadWare Technologies
+                - date: '2007-09-18'
+                  acquiree: Cognio
+                - date: '2007-09-27'
+                  acquiree: Latigent
+                - date: '2007-10-23'
+                  acquiree: Navini Networks
+                  price: 330000000
+                - date: '2007-11-01'
+                  acquiree: Securent
+                - date: '2008-05-01'
+                  acquiree: Fast Data Technology
+                - date: '2008-05-01'
+                  acquiree: Nuova Systems
+                - date: '2008-06-10'
+                  acquiree: DiviTech A/S
+                - date: '2008-07-22'
+                  acquiree: Pure Networks
+                  price: 120000000
+                - date: '2008-08-27'
+                  acquiree: PostPath
+                  price: 215000000
+                - date: '2008-09-19'
+                  acquiree: Jabber
+                - date: '2009-01-27'
+                  acquiree: Richards-Zeta Building Intelligence
+                - date: '2009-03-19'
+                  acquiree: Pure Digital Technologies
+                  price: 590000000
+                - date: '2009-05-20'
+                  acquiree: Tidal Software
+                  price: 105000000
+                - date: '2009-10-01'
+                  acquiree: Tandberg
+                  price: 3400000000
+                - date: '2009-10-27'
+                  acquiree: ScanSafe
+                  price: 183000000
+                - date: '2009-11-02'
+                  acquiree: DVN - set-top box business
+                  price: 44500000
+                - date: '2009-12-18'
+                  acquiree: Starent Networks
+                  price: 2900000000
+                - date: '2010-01-05'
+                  acquiree: Rohati Systems
+                - date: '2010-05-18'
+                  acquiree: MOTO Development Group
+                - date: '2010-05-20'
+                  acquiree: CoreOptics
+                  price: 99000000
+                - date: '2010-08-26'
+                  acquiree: ExtendMedia
+                  price: 80000000
+                - date: '2010-09-20'
+                  acquiree: Arch Rock Corporation
+                - date: '2010-12-13'
+                  acquiree: LineSider Technologies
+                - date: '2011-02-04'
+                  acquiree: Inlet Technologies
+                - date: '2011-03-02'
+                  acquiree: Pari Networks
+                - date: '2011-03-29'
+                  acquiree: newScale
+                - date: '2011-08-22'
+                  acquiree: Axioss
+                - date: '2011-08-25'
+                  acquiree: AXIOM Systems
+                  price: 31000000
+                - date: '2011-08-29'
+                  acquiree: Versly
+                - date: '2011-10-20'
+                  acquiree: BNI Video
+                  price: 99000000
+                - date: '2012-02-24'
+                  acquiree: Lightwire
+                  price: 271000000
+                - date: '2012-03-15'
+                  acquiree: NDS
+                - date: '2012-03-15'
+                  acquiree: NDS Group
+                  price: 5019096092
+                - date: '2012-03-29'
+                  acquiree: ClearAccess
+                - date: '2012-05-04'
+                  acquiree: Truviso
+                - date: '2012-07-16'
+                  acquiree: Virtuata
+                - date: '2012-09-26'
+                  acquiree: ThinkSmart Technologies
+                - date: '2012-10-04'
+                  acquiree: vCider
+                - date: '2012-11-15'
+                  acquiree: Cloupia
+                  price: 125000000
+                - date: '2012-11-20'
+                  acquiree: Meraki
+                  price: 1200000000
+                - date: '2012-11-29'
+                  acquiree: Cariden Technologies
+                  price: 141000000
+                - date: '2012-12-18'
+                  acquiree: BroadHop
+                - date: '2013-01-23'
+                  acquiree: Intucell
+                  price: 475000000
+                - date: '2013-01-29'
+                  acquiree: Cognitive Security
+                - date: '2013-03-25'
+                  acquiree: SolveDirect Service Management
+                - date: '2013-04-03'
+                  acquiree: Ubiquisys
+                  price: 310000000
+                - date: '2013-05-29'
+                  acquiree: JouleX
+                  price: 107000000
+                - date: '2013-06-20'
+                  acquiree: Composite Software
+                  price: 180000000
+                - date: '2013-07-23'
+                  acquiree: Sourcefire
+                  price: 2700000000
+                - date: '2013-09-11'
+                  acquiree: WhipTail
+                  price: 415000000
+                - date: '2013-10-07'
+                  acquiree: Pioneer SourceFire
+                - date: '2013-11-06'
+                  acquiree: Insieme
+                - date: '2013-12-17'
+                  acquiree: Collaborate.com
+                - date: '2014-05-21'
+                  acquiree: ThreatGRID
+                - date: '2014-06-17'
+                  acquiree: Tail-f Systems
+                  price: 175000000
+                - date: '2014-07-27'
+                  acquiree: Assemblage
+                - date: '2014-09-17'
+                  acquiree: Metacloud
+                - date: '2014-09-18'
+                  acquiree: Memoir Systems
+                - date: '2014-12-10'
+                  acquiree: Neohapsis
+                - date: '2015-04-01'
+                  acquiree: Embrane
+                - date: '2015-05-29'
+                  acquiree: Tropo
+                - date: '2015-06-12'
+                  acquiree: 'Piston Cloud Computing, Inc.'
+                - date: '2015-06-30'
+                  acquiree: OpenDNS
+                  price: 635000000
+                - date: '2015-07-07'
+                  acquiree: MaintenanceNet
+                  price: 139000000
+                - date: '2015-10-01'
+                  acquiree: Portcullis
+                - date: '2015-10-12'
+                  acquiree: Pawaa Software
+                - date: '2015-10-26'
+                  acquiree: ParStream
+                - date: '2015-10-27'
+                  acquiree: Lancope
+                  price: 452500000
+                - date: '2015-10-28'
+                  acquiree: 1 Mainstream
+                - date: '2015-11-20'
+                  acquiree: Acano
+                  price: 700000000
+                - date: '2016-02-03'
+                  acquiree: Jasper Technologies
+                  price: 1400000000
+                - date: '2016-03-01'
+                  acquiree: CliQr Technologies
+                  price: 260000000
+                - date: '2016-03-02'
+                  acquiree: Leaba Semiconductor
+                  price: 320000000
+                - date: '2016-03-08'
+                  acquiree: Synata
+                - date: '2016-06-28'
+                  acquiree: CloudLock
+                  price: 293000000
+                - date: '2016-08-30'
+                  acquiree: ContainerX
+                - date: '2016-10-17'
+                  acquiree: Worklife
+                - date: '2017-01-24'
+                  acquiree: AppDynamics
+                  price: 3700000000
+                - date: '2017-05-01'
+                  acquiree: Viptela
+                  price: 610000000
+                - date: '2017-05-11'
+                  acquiree: MindMeld
+                  price: 125000000
+                - date: '2017-07-13'
+                  acquiree: Observable Networks
+                - date: '2017-08-23'
+                  acquiree: Springpath
+                  price: 320000000
+                - date: '2017-10-19'
+                  acquiree: Perspica
+                - date: '2017-10-23'
+                  acquiree: BroadSoft
+                  price: 1900000000
+                - date: '2017-12-07'
+                  acquiree: Cmpute.io
+                - date: '2018-01-24'
+                  acquiree: Skyport Systems
+                - date: '2018-05-01'
+                  acquiree: Accompany
+                  price: 270000000
+                - date: '2018-06-19'
+                  acquiree: July Systems
+                - date: '2018-08-02'
+                  acquiree: Duo Security
+                  price: 2350000000
+                - date: '2018-11-21'
+                  acquiree: Ensoft Ltd.
+                - date: '2018-12-18'
+                  acquiree: Luxtera
+                  price: 660000000
+                - date: '2019-01-30'
+                  acquiree: Singularity Networks
+                - date: '2019-06-06'
+                  acquiree: Sentryo
+                - date: '2019-07-09'
+                  acquiree: Acacia
+                  price: 2600000000
+                - date: '2019-08-07'
+                  acquiree: Voicea
+                - date: '2019-08-26'
+                  acquiree: CloudCherry
+                - date: '2019-09-12'
+                  acquiree: Wrappup
+                - date: '2019-12-16'
+                  acquiree: Exablaze
+                - date: '2020-04-06'
+                  acquiree: Fluidmesh Networks
+                - date: '2020-05-28'
+                  acquiree: ThousandEyes
+                  price: 1000000000
+              parents: []
+              ticker: CSCO
+              funding: 2500000
+              stockExchange: nasdaq
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 197392515072
+              effective_ticker: CSCO
+            image_data:
+              fileName: cisco-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-20T00:24:00.000Z
+          - item:
+            name: doc.ai (member)
+            homepage_url: 'https://doc.ai/'
+            logo: 'https://landscape.cncf.io/logos/doc-ai-supporter.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/doc-ai'
+            crunchbase_data:
+              name: doc.ai
+              description: doc.ai is a digital health company designed for a new generation of medical research.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.doc.ai'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://www.twitter.com/_doc_ai'
+              linkedin: 'https://www.linkedin.com/company/doc.ai'
+              acquisitions:
+                - date: '2018-11-02'
+                  acquiree: Crestle.ai
+              parents: []
+              funding: 41000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: doc-ai-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-16T16:58:17.000Z
+          - item:
+            name: Geometer (member)
+            homepage_url: 'https://www.geometer.io/'
+            logo: geometer.svg
+            crunchbase: 'https://www.crunchbase.com/organization/geometer'
+            crunchbase_data:
+              name: Geometer
+              description: Geometer is entirely focused on helping with the current Covid-19 crisis.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://geometer.io/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: geometer-member.svg
+              hash: wc3LEoTJrMhDOqFbLcIeZpipifXMvGqvGried05gEB0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: IBM (member)
+            homepage_url: 'https://www.ibm.com/us-en/'
+            logo: 'https://landscape.lfai.foundation/logos/ibm.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase_data:
+              name: IBM
+              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.ibm.com/'
+              city: Armonk
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/IBM'
+              linkedin: 'https://www.linkedin.com/company/ibm/'
+              acquisitions:
+                - date: '1923-01-01'
+                  acquiree: Dehomag
+                - date: '1930-01-01'
+                  acquiree: The Automatic Accounting Scale Company
+                - date: '1932-01-01'
+                  acquiree: National Counting Scale Company
+                - date: '1941-01-01'
+                  acquiree: Munitions Manufacturing Corporation
+                - date: '1964-01-01'
+                  acquiree: Science Research Associates
+                - date: '1974-01-01'
+                  acquiree: Satellite Business Systems
+                - date: '1984-09-26'
+                  acquiree: ROLM Corporation
+                - date: '1994-08-01'
+                  acquiree: Transarc
+                - date: '1995-07-06'
+                  acquiree: Lotus Development Corporation
+                  price: 3500000000
+                - date: '1996-02-01'
+                  acquiree: Tivoli Systems
+                  price: 743000000
+                - date: '1999-06-09'
+                  acquiree: Whistle Communications
+                - date: '1999-07-12'
+                  acquiree: Sequent Computer Systems Inc
+                - date: '1999-07-27'
+                  acquiree: Mylex
+                  price: 240000000
+                - date: '1999-09-22'
+                  acquiree: Dascom
+                - date: '2001-06-07'
+                  acquiree: Mainspring
+                - date: '2002-01-14'
+                  acquiree: CrossWorlds Software
+                  price: 129000000
+                - date: '2002-06-25'
+                  acquiree: Metamerge
+                - date: '2002-08-29'
+                  acquiree: TrelliSoft
+                - date: '2002-09-03'
+                  acquiree: Access360
+                - date: '2002-09-12'
+                  acquiree: HOLOSOFX
+                - date: '2002-10-02'
+                  acquiree: PwC Consulting
+                  price: 3500000000
+                - date: '2002-10-07'
+                  acquiree: EADS Matra Datavision
+                - date: '2002-11-04'
+                  acquiree: Tarian Software
+                - date: '2003-02-20'
+                  acquiree: Rational Software
+                - date: '2003-05-14'
+                  acquiree: Think Dynamics
+                - date: '2003-07-15'
+                  acquiree: Presence Online
+                - date: '2003-10-14'
+                  acquiree: CrossAccess
+                - date: '2003-11-13'
+                  acquiree: Productivity Solutions
+                - date: '2003-12-17'
+                  acquiree: Green Pasture Software
+                - date: '2004-03-09'
+                  acquiree: Trigo Technologies
+                - date: '2004-04-07'
+                  acquiree: Daksh Infosoft
+                - date: '2004-04-07'
+                  acquiree: Daksh eServices
+                - date: '2004-06-07'
+                  acquiree: Candle Corporation
+                - date: '2004-07-14'
+                  acquiree: AlphaBlox
+                - date: '2004-07-29'
+                  acquiree: Cyanea Systems
+                - date: '2004-08-17'
+                  acquiree: Maersk Data
+                - date: '2004-08-26'
+                  acquiree: Venetica
+                - date: '2004-10-12'
+                  acquiree: Systemcorp A.L.G.
+                - date: '2004-11-23'
+                  acquiree: Liberty Insurance Services
+                - date: '2004-12-13'
+                  acquiree: KeyMRO
+                - date: '2005-01-07'
+                  acquiree: SRD
+                - date: '2005-01-07'
+                  acquiree: Systems Research & Development
+                - date: '2005-01-25'
+                  acquiree: Corio
+                  price: 182000000
+                - date: '2005-02-02'
+                  acquiree: Equitant
+                - date: '2005-05-02'
+                  acquiree: Ascential Software
+                - date: '2005-05-10'
+                  acquiree: Gluecode Software
+                - date: '2005-06-23'
+                  acquiree: Meiosys
+                - date: '2005-07-27'
+                  acquiree: Isogon Corporation
+                - date: '2005-08-02'
+                  acquiree: DWL
+                - date: '2005-08-05'
+                  acquiree: PureEdge Solutions
+                - date: '2005-10-18'
+                  acquiree: DataPower Technology
+                - date: '2005-11-01'
+                  acquiree: iPhrase Technologies
+                - date: '2005-11-09'
+                  acquiree: Network Solutions Private Limited
+                - date: '2005-11-16'
+                  acquiree: Collation
+                - date: '2005-12-20'
+                  acquiree: Bowstreet
+                - date: '2005-12-21'
+                  acquiree: Micromuse
+                - date: '2006-01-25'
+                  acquiree: CIMS Lab
+                - date: '2006-01-27'
+                  acquiree: ARGUS Semiconductor Software
+                - date: '2006-02-08'
+                  acquiree: Viacore
+                - date: '2006-03-16'
+                  acquiree: Language Analysis Systems
+                - date: '2006-05-02'
+                  acquiree: BuildForge
+                - date: '2006-05-08'
+                  acquiree: Unicorn Solutions
+                - date: '2006-05-18'
+                  acquiree: Rembo Technology
+                - date: '2006-08-02'
+                  acquiree: Webify
+                - date: '2006-09-06'
+                  acquiree: Global Value Solutions
+                - date: '2006-09-30'
+                  acquiree: Valchemy
+                - date: '2006-10-05'
+                  acquiree: MRO Software
+                - date: '2006-10-12'
+                  acquiree: FileNet Corporation
+                  price: 1600000000
+                - date: '2006-10-20'
+                  acquiree: Internet Security Systems
+                - date: '2006-11-10'
+                  acquiree: Palisades Technology Partners
+                - date: '2006-12-05'
+                  acquiree: Consul Risk Management International
+                - date: '2007-02-14'
+                  acquiree: Vallent Corporation
+                - date: '2007-03-01'
+                  acquiree: Softek Storage Solutions
+                - date: '2007-04-20'
+                  acquiree: Unicible
+                - date: '2007-06-11'
+                  acquiree: Telelogic
+                  price: 745000000
+                - date: '2007-07-23'
+                  acquiree: Watchfire
+                - date: '2007-08-03'
+                  acquiree: Princeton Softech
+                - date: '2007-08-22'
+                  acquiree: Webdialogs
+                - date: '2007-09-04'
+                  acquiree: DataMirror
+                - date: '2007-10-24'
+                  acquiree: NovusCG
+                - date: '2007-12-06'
+                  acquiree: Arsenal Digital Solutions
+                - date: '2007-12-21'
+                  acquiree: Solid Information Technology
+                - date: '2008-01-02'
+                  acquiree: XIV
+                - date: '2008-01-18'
+                  acquiree: Net Integration Technologies
+                - date: '2008-01-23'
+                  acquiree: AptSoft
+                - date: '2008-01-31'
+                  acquiree: Cognos
+                - date: '2008-03-12'
+                  acquiree: Encentuate
+                - date: '2008-04-10'
+                  acquiree: FilesX
+                - date: '2008-04-22'
+                  acquiree: Diligent
+                - date: '2008-04-29'
+                  acquiree: InfoDyne Corporation
+                - date: '2008-07-02'
+                  acquiree: Platform Solutions
+                - date: '2008-07-28'
+                  acquiree: ILOG
+                - date: '2008-11-18'
+                  acquiree: Transitive
+                - date: '2009-04-16'
+                  acquiree: Outblaze
+                - date: '2009-05-05'
+                  acquiree: Exeros
+                - date: '2009-07-28'
+                  acquiree: Ounce Labs
+                - date: '2009-07-28'
+                  acquiree: SPSS
+                - date: '2009-09-22'
+                  acquiree: RedPill Solutions
+                - date: '2009-11-30'
+                  acquiree: Guardium
+                  price: 225000000
+                - date: '2009-12-16'
+                  acquiree: Lombardi Software
+                - date: '2010-01-20'
+                  acquiree: National Interest Security Company
+                - date: '2010-02-03'
+                  acquiree: Initiate Systems
+                - date: '2010-02-16'
+                  acquiree: Intelliden
+                - date: '2010-05-03'
+                  acquiree: Cast Iron Systems
+                - date: '2010-05-24'
+                  acquiree: Sterling Commerce
+                - date: '2010-06-14'
+                  acquiree: Storwize
+                  price: 140000000
+                - date: '2010-06-15'
+                  acquiree: Coremetrics
+                - date: '2010-07-01'
+                  acquiree: BigFix
+                - date: '2010-08-10'
+                  acquiree: Datacap
+                - date: '2010-08-13'
+                  acquiree: Unica
+                  price: 480000000
+                - date: '2010-09-15'
+                  acquiree: OpenPages
+                - date: '2010-09-20'
+                  acquiree: Netezza
+                  price: 1800000000
+                - date: '2010-09-27'
+                  acquiree: BLADE Network Technologies
+                - date: '2010-10-13'
+                  acquiree: PSS Systems
+                - date: '2010-10-21'
+                  acquiree: Clarity Systems
+                - date: '2011-04-14'
+                  acquiree: TRIRIGA
+                - date: '2011-08-31'
+                  acquiree: i2
+                - date: '2011-09-01'
+                  acquiree: Algorithmics
+                  price: 380200000
+                - date: '2011-10-04'
+                  acquiree: Q1 Labs
+                - date: '2011-10-11'
+                  acquiree: Platform Computing
+                - date: '2011-12-08'
+                  acquiree: DemandTec
+                  price: 440000000
+                - date: '2011-12-15'
+                  acquiree: Emptoris
+                - date: '2011-12-20'
+                  acquiree: Cúram Software
+                - date: '2012-01-04'
+                  acquiree: Green Hat
+                - date: '2012-01-31'
+                  acquiree: Worklight
+                  price: 70000000
+                - date: '2012-04-13'
+                  acquiree: Varicent Software
+                - date: '2012-04-25'
+                  acquiree: Vivisimo
+                - date: '2012-05-02'
+                  acquiree: Tealeaf
+                - date: '2012-07-01'
+                  acquiree: Cibecs
+                - date: '2012-08-16'
+                  acquiree: Texas Memory Systems
+                - date: '2012-08-28'
+                  acquiree: Kenexa
+                - date: '2012-09-24'
+                  acquiree: Butterfly Software
+                - date: '2013-02-07'
+                  acquiree: StoredIQ
+                - date: '2013-03-20'
+                  acquiree: Star Analytics
+                - date: '2013-04-22'
+                  acquiree: Urbancode
+                - date: '2013-06-04'
+                  acquiree: SoftLayer
+                  price: 2000000000
+                - date: '2013-07-10'
+                  acquiree: CSL International
+                - date: '2013-08-15'
+                  acquiree: Trusteer
+                - date: '2013-09-19'
+                  acquiree: Daeja Image Systems
+                - date: '2013-10-03'
+                  acquiree: Xtify
+                - date: '2013-10-29'
+                  acquiree: The Now Factory
+                - date: '2013-12-18'
+                  acquiree: Fiberlink
+                  price: 375000000
+                - date: '2013-12-19'
+                  acquiree: Aspera
+                - date: '2014-02-24'
+                  acquiree: Cloudant
+                - date: '2014-04-10'
+                  acquiree: Silverpop
+                  price: 270000000
+                - date: '2014-05-20'
+                  acquiree: Cognea
+                - date: '2014-07-31'
+                  acquiree: CrossIdeas
+                - date: '2015-03-04'
+                  acquiree: AlchemyAPI
+                - date: '2015-03-27'
+                  acquiree: Blekko
+                - date: '2015-04-16'
+                  acquiree: Explorys
+                - date: '2015-05-04'
+                  acquiree: Phytel
+                - date: '2015-06-03'
+                  acquiree: Blue Box
+                - date: '2015-07-23'
+                  acquiree: Compose
+                - date: '2015-08-06'
+                  acquiree: Merge Healthcare
+                  price: 1000000000
+                - date: '2015-09-10'
+                  acquiree: StrongLoop
+                - date: '2015-09-28'
+                  acquiree: Meteorix
+                - date: '2015-10-05'
+                  acquiree: Cleversafe
+                  price: 1300000000
+                - date: '2015-10-28'
+                  acquiree: The Weather Company
+                - date: '2015-11-03'
+                  acquiree: Gravitant
+                - date: '2015-12-08'
+                  acquiree: Clearleap
+                - date: '2016-01-15'
+                  acquiree: IRIS Analytics
+                - date: '2016-01-21'
+                  acquiree: Ustream
+                - date: '2016-01-28'
+                  acquiree: Resource/Ammirati
+                - date: '2016-02-02'
+                  acquiree: Aperto
+                - date: '2016-02-03'
+                  acquiree: Ecx.io
+                - date: '2016-02-18'
+                  acquiree: Truven Health Analytics
+                  price: 2600000000
+                - date: '2016-02-29'
+                  acquiree: IBM Resilient
+                - date: '2016-03-17'
+                  acquiree: Optevia
+                - date: '2016-03-30'
+                  acquiree: Bluewolf
+                  price: 200000000
+                - date: '2016-06-01'
+                  acquiree: EZSource
+                - date: '2016-09-29'
+                  acquiree: Promontory Financial Group
+                - date: '2016-10-27'
+                  acquiree: Sanovi Technologies
+                - date: '2016-11-01'
+                  acquiree: Expert Personal Shopper (XPS)
+                - date: '2017-01-23'
+                  acquiree: Agile 3 Solutions
+                - date: '2017-05-02'
+                  acquiree: Verizon - Cloud services
+                - date: '2017-09-24'
+                  acquiree: Cloudigo
+                - date: '2017-10-04'
+                  acquiree: Vivant
+                - date: '2018-05-03'
+                  acquiree: Armanta
+                - date: '2018-06-15'
+                  acquiree: Oniqua Inc.
+                - date: '2018-10-28'
+                  acquiree: Red Hat
+                  price: 34000000000
+                - date: '2019-01-14'
+                  acquiree: T-Systems - Mainframe Services business
+                - date: '2020-06-15'
+                  acquiree: Spanugo
+                - date: '2020-07-08'
+                  acquiree: WDG Automation
+              parents: []
+              ticker: IBM
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 111084167168
+              effective_ticker: IBM
+            image_data:
+              fileName: ibm-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-17T18:50:27.000Z
+          - item:
+            name: Nearform (member)
+            homepage_url: 'https://www.nearform.com/'
+            logo: 'https://landscape.openjsf.org/logos/nearform-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nearform'
+            crunchbase_data:
+              name: NearForm
+              description: 'NearForm is a software platform that delivers consulting, co-development, products, training and support for large enterprises.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.nearform.com'
+              city: Waterford
+              region: Waterford
+              country: Ireland
+              twitter: 'http://twitter.com/nearform'
+              linkedin: 'https://www.linkedin.com/company/nearform'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: nearform-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-17T21:42:50.000Z
+          - item:
+            name: Tencent (member)
+            homepage_url: 'https://www.tencent.com/en-us/'
+            logo: 'https://landscape.tarscloud.org/logos/tencent-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+            crunchbase_data:
+              name: Tencent Holdings
+              description: 'Tencent is an internet service portal offering value-added internet, mobile, telecom, and online advertising services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.tencent.com/en-us/'
+              city: Shenzhen
+              region: Guangdong
+              country: China
+              twitter: 'https://twitter.com/tencentglobal'
+              linkedin: 'https://www.linkedin.com/company/166328/'
+              acquisitions:
+                - date: '2010-04-20'
+                  acquiree: Shenzhen Domain Networks
+                - date: '2010-08-23'
+                  acquiree: Comsenz
+                - date: '2011-02-01'
+                  acquiree: Riot Games
+                  price: 400000000
+                - date: '2012-03-01'
+                  acquiree: Zam
+                - date: '2014-01-26'
+                  acquiree: Linktech Navi
+                - date: '2015-01-27'
+                  acquiree: Cloudary
+                - date: '2015-02-18'
+                  acquiree: Miniclip
+                - date: '2016-06-21'
+                  acquiree: Supercell
+                  price: 8600000000
+                - date: '2016-07-14'
+                  acquiree: Tencent Music Entertainment
+                  price: 2700000000
+                - date: '2016-12-22'
+                  acquiree: Sanook
+                - date: '2018-05-21'
+                  acquiree: Grinding Gear Games
+                - date: '2018-08-22'
+                  acquiree: Cat Cake
+                - date: '2019-05-21'
+                  acquiree: Sharkmob
+                - date: '2020-06-24'
+                  acquiree: iflix
+              parents: []
+              ticker: 0700.HK
+              funding: 6576770000
+              stockExchange: hkg
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 641863717902
+              effective_ticker: 0700.HK
+            image_data:
+              fileName: tencent-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-10T04:04:33.000Z
+          - item:
+            name: VMware (member)
+            homepage_url: 'https://www.vmware.com/'
+            logo: 'https://landscape.cncf.io/logos/v-mware-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+            crunchbase_data:
+              name: VMware
+              description: VMware is a software company providing cloud and virtualization services that powers complex digital infrastructure.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.vmware.com'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/VMware'
+              linkedin: 'https://www.linkedin.com/company/vmware'
+              acquisitions:
+                - date: '2006-06-18'
+                  acquiree: Akimbi Systems
+                - date: '2007-08-06'
+                  acquiree: Determina
+                - date: '2007-09-11'
+                  acquiree: Dunes Technologies
+                - date: '2008-01-15'
+                  acquiree: Thinstall inc
+                - date: '2008-05-28'
+                  acquiree: B-hive Networks
+                - date: '2008-11-30'
+                  acquiree: Blue Lane Technologies
+                - date: '2009-08-10'
+                  acquiree: SpringSource
+                  price: 362000000
+                - date: '2010-08-31'
+                  acquiree: Integrien
+                - date: '2010-08-31'
+                  acquiree: TriCipher
+                  price: 100000000
+                - date: '2011-03-08'
+                  acquiree: WaveMaker
+                - date: '2011-04-26'
+                  acquiree: SlideRocket
+                - date: '2011-05-16'
+                  acquiree: Shavlik Technologies
+                - date: '2011-05-31'
+                  acquiree: Socialcast
+                - date: '2011-06-13'
+                  acquiree: Digital Fuel
+                - date: '2011-08-01'
+                  acquiree: Packetmotion
+                - date: '2012-05-22'
+                  acquiree: Wanova
+                - date: '2012-07-02'
+                  acquiree: DynamicOps
+                - date: '2012-07-23'
+                  acquiree: Nicira Networks
+                  price: 1260000000
+                - date: '2013-02-11'
+                  acquiree: Virsto Software
+                - date: '2013-10-15'
+                  acquiree: Desktone
+                - date: '2014-01-22'
+                  acquiree: AirWatch
+                  price: 1540000000
+                - date: '2014-08-20'
+                  acquiree: CloudVolumes
+                - date: '2015-02-03'
+                  acquiree: Immidio
+                - date: '2015-10-14'
+                  acquiree: Boxer
+                - date: '2016-06-13'
+                  acquiree: Arkin
+                - date: '2016-12-20'
+                  acquiree: PLUMgrid
+                - date: '2017-04-12'
+                  acquiree: Wavefront
+                  price: 375000000
+                - date: '2017-05-15'
+                  acquiree: Apteligent
+                  price: 50000000
+                - date: '2017-11-02'
+                  acquiree: VeloCloud
+                - date: '2018-02-14'
+                  acquiree: CloudCoreo
+                - date: '2018-02-22'
+                  acquiree: CloudVelox
+                - date: '2018-03-28'
+                  acquiree: E8 Security
+                - date: '2018-08-27'
+                  acquiree: CloudHealth Technologies
+                - date: '2018-11-06'
+                  acquiree: Heptio
+                  price: 550000000
+                - date: '2019-02-05'
+                  acquiree: AetherPal
+                - date: '2019-05-15'
+                  acquiree: Bitnami
+                - date: '2019-06-14'
+                  acquiree: Avi Networks
+                - date: '2019-07-18'
+                  acquiree: Bitfusion.io
+                - date: '2019-07-25'
+                  acquiree: Uhana
+                - date: '2019-08-16'
+                  acquiree: Veriflow
+                - date: '2019-08-20'
+                  acquiree: Intrinsic
+                - date: '2019-08-22'
+                  acquiree: Pivotal
+                  price: 2700000000
+                - date: '2019-10-08'
+                  acquiree: Carbon Black
+                  price: 2100000000
+                - date: '2020-01-21'
+                  acquiree: Nyansa
+                - date: '2020-05-13'
+                  acquiree: Octarine
+                - date: '2020-06-04'
+                  acquiree: Lastline
+                - date: '2020-07-02'
+                  acquiree: Datrium
+              parents:
+                - 'https://www.crunchbase.com/organization/dell-technologies'
+              ticker: VMW
+              funding: 393500000
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 58637660160
+              effective_ticker: VMW
+            image_data:
+              fileName: v-mware-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-20T01:17:08.000Z
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: Covid Watch (member)
+            description: >-
+              Together, we have the power to stop COVID-19. Use your smartphone to protect yourself, your family and your community with anonymous exposure
+              alerts.
+            homepage_url: 'https://www.covidwatch.org'
+            logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+            crunchbase_data:
+              name: Covid Watch
+              description: Covid Watch
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.covidwatch.org'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/CovidWatch'
+              linkedin: 'https://www.linkedin.com/company/covidwatch/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: covid-watch-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-18T00:05:08.000Z
+          - item:
+            name: Kiel University of Applied Sciences (member)
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+              Sciences in Schleswig-Holstein
+            homepage_url: 'https://www.fh-kiel.de/index.php'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/86/FH_Kiel_Logo_-_englisch.svg'
+            twitter: 'https://www.twitter.com/vielfhkiel'
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-applied-sciences-kiel'
+            crunchbase_data:
+              name: University of Applied Sciences Kiel
+              description: University
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.fh-kiel.de/'
+              city: Kiel
+              region: Schleswig-Holstein
+              country: Germany
+              twitter: 'https://www.twitter.com/vielfhkiel'
+              linkedin: 'https://www.linkedin.com/school/fachhochschule-kiel/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: kiel-university-of-applied-sciences-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-19T19:28:21.000Z
+          - item:
+            name: U.S. Digital Response (member)
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
+            homepage_url: 'https://www.usdigitalresponse.org'
+            logo: usdigitalresponse.svg
+            crunchbase: 'https://www.crunchbase.com/organization/u-s-digital-response'
+            crunchbase_data:
+              name: U.S. Digital Response
+              description: USDR helps governments respond as fast as possible to COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.usdigitalresponse.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/USDResponse'
+              linkedin: 'https://www.linkedin.com/company/usdr/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: u-s-digital-response-member.svg
+              hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-17T19:05:44.000Z
 twitter_options:
   count: 3
   since_id: '1282593579177836545'
