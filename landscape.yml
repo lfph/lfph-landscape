@@ -43,7 +43,6 @@ landscape:
             project_org: 'https://github.com/HSEIreland'
             logo: ireland.svg
             crunchbase: 'https://www.crunchbase.com/organization/ireland-health-service-executive'
-            allow_duplicate_repo: true
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
@@ -325,13 +324,12 @@ landscape:
         items:
           - item:
             name: COVID Green
-            homepage_url: 'https://github.com/HSEIreland/covid-tracker-app'
+            homepage_url: 'https://github.com/covidgreen/covid-green-app'
             project: foundationproject
-            repo_url: 'https://github.com/HSEIreland/covid-tracker-app'
-            project_org: 'https://github.com/HSEIreland'
+            repo_url: 'https://github.com/covidgreen/covid-green-app'
+            project_org: 'https://github.com/covidgreen'
             logo: covid-green.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
-            allow_duplicate_repo: true
           - item:
             name: Covid Safe Paths Project Aurora
             homepage_url: 'https://pathcheck.org'
@@ -345,7 +343,7 @@ landscape:
             project: foundationproject
             repo_url: 'https://github.com/CovidShield/mobile'
             project_org: 'https://github.com/CovidShield'
-            logo: 'https://github.com/CovidShield/rationale/blob/master/assets/covid-shield-logo.svg'
+            logo: covidshield.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-public-health'
           - item:
             name: Covid Watch
