@@ -1829,56 +1829,108 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 157
+              contributions: 0;0;11;6;28;0;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24;69;99;114;167;93;116;159;272;82;130;77;114;123;249;330;246;214;175;166;146
+              stars: 518
               languages:
-                - name: TypeScript
-                  value: 349854
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 237820
-                  color: '#f1e05a'
-                - name: Java
-                  value: 231461
-                  color: '#b07219'
                 - name: HTML
-                  value: 139489
+                  value: 1080932
                   color: '#e34c26'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 45586
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 25756
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
+                - name: Java
+                  value: 1058368
+                  color: '#b07219'
                 - name: Objective-C
-                  value: 9901
+                  value: 905044
                   color: '#438eff'
+                - name: JavaScript
+                  value: 824879
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 694137
+                  color: '#2b7489'
+                - name: Swift
+                  value: 152601
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 60616
+                  color: '#701516'
+                - name: Kotlin
+                  value: 52969
+                  color: '#F18E33'
+                - name: CSS
+                  value: 48386
+                  color: '#563d7c'
                 - name: Python
-                  value: 4814
+                  value: 45383
                   color: '#3572A5'
+                - name: Shell
+                  value: 41006
+                  color: '#89e051'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;34;40;47;73;44;52;47;47;21;31;16;21;23;36;54;46;33;38;32;30
-              firstWeek: 2019-07-28Z
-              stars: 461
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-23T18:02:09Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3145
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/43d4b5da8840aa8b5eb3927e938bba050818bfe3
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-07-23T18:02:09Z'
+              firstWeek: 2019-07-28Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 461
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 3
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -2912,6 +2964,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-23T23:24:46.000Z
+          - item:
+            name: Tended
+            description: Minimise the effect of COVID-19 on your business. Wearable solutions to help maintain social distancing.
+            homepage_url: 'https://www.tended.co.uk/social-distancing-solution'
+            logo: tended.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tended'
+            crunchbase_data:
+              name: Tended
+              description: Tended creates intelligent personal safety systems and accident detection wearables for both consumers and businesses.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.tended.co'
+              city: Lincoln
+              region: Lincolnshire
+              country: United Kingdom
+              twitter: 'https://twitter.com/tended'
+              linkedin: 'https://www.linkedin.com/company/18223690/'
+              acquisitions: []
+              parents: []
+              funding: 1684949
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: tended.svg
+              hash: EfMUyEI65c7srPxuR/dmDZWmIBIE/88P8vB1W9RU2x8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-24T13:42:40.000Z
   - category:
     name: Specification
     subcategories:
