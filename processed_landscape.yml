@@ -104,6 +104,34 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Uruguay (Coronavirus UY)
+            description: 'Information, medical attention, and alerts of exposure to COVID-19 for residents of Uruguay.'
+            homepage_url: 'https://www.gub.uy/ministerio-salud-publica/coronavirus'
+            logo: uruguay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/uruguay-ministry-of-public-health'
+            crunchbase_data:
+              name: Uruguay Ministry of Public Health
+              description: Uruguay Ministry of Public Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.gub.uy/ministerio-salud-publica/'
+              city: Montevideo
+              region: NA - Uruguay
+              country: Uruguay
+              twitter: 'https://twitter.com/MSPUruguay'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: uruguay-coronavirus-uy.svg
+              hash: eiCtbZU180KowWBJ54NDT/mt9ATra/oJO6MyL7X5hzk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-26T23:35:37.000Z
+          - item:
             name: Germany (Corona-Warn-App)
             description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
             homepage_url: 'https://www.coronawarn.app/en/'
@@ -1829,56 +1857,108 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 157
+              contributions: 0;0;13;4;28;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;56;85;95;183;83;105;121;213;203;88;119;101;82;197;228;346;203;188;202;170;105
+              stars: 519
               languages:
-                - name: TypeScript
-                  value: 350083
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 237859
-                  color: '#f1e05a'
-                - name: Java
-                  value: 231461
-                  color: '#b07219'
                 - name: HTML
-                  value: 139489
+                  value: 1080932
                   color: '#e34c26'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 45586
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 25756
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
+                - name: Java
+                  value: 1058368
+                  color: '#b07219'
                 - name: Objective-C
-                  value: 9901
+                  value: 905316
                   color: '#438eff'
+                - name: JavaScript
+                  value: 854075
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 701645
+                  color: '#2b7489'
+                - name: Swift
+                  value: 153418
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 60616
+                  color: '#701516'
+                - name: Kotlin
+                  value: 52969
+                  color: '#F18E33'
+                - name: CSS
+                  value: 48386
+                  color: '#563d7c'
                 - name: Python
-                  value: 4814
+                  value: 45383
                   color: '#3572A5'
+                - name: Shell
+                  value: 41006
+                  color: '#89e051'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;39;38;83;31;51;47;56;32;19;30;23;13;27;42;53;36;31;42;34;24
-              firstWeek: 2019-08-04Z
-              stars: 461
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-24T16:58:27Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3145
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/60231f29d7f26a553bd285857df99fea0aff5966
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-07-24T16:58:27Z'
+              firstWeek: 2019-08-04Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 461
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 4
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
