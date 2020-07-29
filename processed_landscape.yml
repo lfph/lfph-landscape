@@ -1084,6 +1084,74 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-27T16:00:01.000Z
           - item:
+            name: Singapore (Trace Together)
+            description: 'Join 2,100,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
+            homepage_url: 'https://www.tracetogether.gov.sg/'
+            repo_url: 'https://github.com/opentrace-community/opentrace-android'
+            project_org: 'https://github.com/opentrace-community'
+            logo: singapore.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
+            crunchbase_data:
+              name: Ministry of Health Singapore
+              description: The Ministry of Health is a ministry of the Government of Singapore.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'https://www.moh.gov.sg/'
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: 'https://twitter.com/sporeMOH'
+              linkedin: 'https://www.linkedin.com/company/ministry-of-health-singapore/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              description: 'OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19'
+              contributors_count: 10
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;6;0;9;0;2;0;0;0;0;0;0;0;0;0;0
+              stars: 1294
+              languages:
+                - name: Kotlin
+                  value: 256405
+                  color: '#F18E33'
+                - name: Swift
+                  value: 138408
+                  color: '#ffac45'
+                - name: TypeScript
+                  value: 28679
+                  color: '#2b7489'
+                - name: Ruby
+                  value: 5349
+                  color: '#701516'
+                - name: Shell
+                  value: 920
+                  color: '#89e051'
+              latest_commit_link: /opentrace-community/opentrace-android/commit/7e0cdd8f52f4560c4ed9bb37d55a0f820d1cb0ae
+              latest_commit_date: '2020-05-02T03:53:09Z'
+              firstWeek: 2019-08-04Z
+              license: GNU General Public License v3.0
+              contributors_link: 'https://github.com/opentrace-community/opentrace-android/graphs/contributors'
+            repos:
+              - url: 'https://github.com/opentrace-community/opentrace-android'
+                stars: 541
+              - url: 'https://github.com/opentrace-community/opentrace-ios'
+                stars: 389
+              - url: 'https://github.com/opentrace-community/opentrace-cloud-functions'
+                stars: 256
+              - url: 'https://github.com/opentrace-community/opentrace-calibration'
+                stars: 108
+            github_start_commit_data:
+              start_commit_link: /opentrace-community/opentrace-cloud-functions/commit/e92bf02d4a080134aea6b11dc976437d76dd2b78
+              start_date: '2020-04-09T11:28:02Z'
+            image_data:
+              fileName: singapore-trace-together.svg
+              hash: 2dD4ISwGWvWOqORM+Lpn7WJade27tUASLykvvZawywY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-27T14:55:51.000Z
+          - item:
             name: United Arab Emirates (TraceCovid)
             description: 'When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.'
             homepage_url: 'https://tracecovid.ae/'
@@ -1513,74 +1581,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-27T13:59:57.000Z
           - item:
-            name: Singapore (Trace Together)
-            description: 'Join 1,500,000 users in stopping the spread of COVID-19 through community-driven contact tracing'
-            homepage_url: 'https://www.tracetogether.gov.sg/'
-            repo_url: 'https://github.com/opentrace-community/opentrace-android'
-            project_org: 'https://github.com/opentrace-community'
-            logo: singapore.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-singapore'
-            crunchbase_data:
-              name: Ministry of Health Singapore
-              description: The Ministry of Health is a ministry of the Government of Singapore.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'https://www.moh.gov.sg/'
-              city: Singapore
-              region: Central Region
-              country: Singapore
-              twitter: 'https://twitter.com/sporeMOH'
-              linkedin: 'https://www.linkedin.com/company/ministry-of-health-singapore/'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              description: 'OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19'
-              contributors_count: 10
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;6;0;9;0;2;0;0;0;0;0;0;0;0;0;0
-              stars: 1294
-              languages:
-                - name: Kotlin
-                  value: 256405
-                  color: '#F18E33'
-                - name: Swift
-                  value: 138408
-                  color: '#ffac45'
-                - name: TypeScript
-                  value: 28679
-                  color: '#2b7489'
-                - name: Ruby
-                  value: 5349
-                  color: '#701516'
-                - name: Shell
-                  value: 920
-                  color: '#89e051'
-              latest_commit_link: /opentrace-community/opentrace-android/commit/7e0cdd8f52f4560c4ed9bb37d55a0f820d1cb0ae
-              latest_commit_date: '2020-05-02T03:53:09Z'
-              firstWeek: 2019-08-04Z
-              license: GNU General Public License v3.0
-              contributors_link: 'https://github.com/opentrace-community/opentrace-android/graphs/contributors'
-            repos:
-              - url: 'https://github.com/opentrace-community/opentrace-android'
-                stars: 541
-              - url: 'https://github.com/opentrace-community/opentrace-ios'
-                stars: 389
-              - url: 'https://github.com/opentrace-community/opentrace-cloud-functions'
-                stars: 256
-              - url: 'https://github.com/opentrace-community/opentrace-calibration'
-                stars: 108
-            github_start_commit_data:
-              start_commit_link: /opentrace-community/opentrace-cloud-functions/commit/e92bf02d4a080134aea6b11dc976437d76dd2b78
-              start_date: '2020-04-09T11:28:02Z'
-            image_data:
-              fileName: singapore-trace-together.svg
-              hash: 2dD4ISwGWvWOqORM+Lpn7WJade27tUASLykvvZawywY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-27T14:55:51.000Z
-          - item:
             name: Turkey (Hayat Eve Sığar)
             description: 'With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!'
             homepage_url: 'https://kayserisehir.saglik.gov.tr/TR,450081/hayat-eve-sigar.html'
@@ -1857,56 +1857,108 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 158
+              contributions: 0;0;13;4;28;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;58;97;93;181;91;105;138;229;163;91;105;126;75;202;251;329;208;205;194;154;100
+              stars: 519
               languages:
-                - name: TypeScript
-                  value: 345149
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 237419
-                  color: '#f1e05a'
                 - name: HTML
-                  value: 139489
+                  value: 1080932
                   color: '#e34c26'
                 - name: Java
-                  value: 106035
+                  value: 935002
                   color: '#b07219'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 38203
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 24646
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
                 - name: Objective-C
-                  value: 9901
+                  value: 905170
                   color: '#438eff'
+                - name: JavaScript
+                  value: 855149
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 706721
+                  color: '#2b7489'
+                - name: Swift
+                  value: 153418
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 59506
+                  color: '#701516'
+                - name: CSS
+                  value: 50640
+                  color: '#563d7c'
+                - name: Kotlin
+                  value: 45586
+                  color: '#F18E33'
                 - name: Python
-                  value: 4814
+                  value: 45383
                   color: '#3572A5'
+                - name: Shell
+                  value: 41006
+                  color: '#89e051'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;29;45;32;85;37;51;50;47;31;18;29;23;18;24;53;46;39;32;37;32;27
-              firstWeek: 2019-08-04Z
-              stars: 461
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-27T20:57:43Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3145
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/af08f6a66dd92bc990e25c32c7d576a1ca78ca47
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-07-27T20:57:43Z'
+              firstWeek: 2019-08-04Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 461
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 20
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 4
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
