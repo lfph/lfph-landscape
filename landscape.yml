@@ -14,6 +14,17 @@ landscape:
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
           - item:
+            name: Canada (COVID Alert)
+            description: >-
+              Together, let's limit the spread of COVID-19 and prevent future outbreaks. COVID Alert helps us break the cycle of infection. The app can let
+              people know of possible exposures before any symptoms appear.
+            homepage_url: 'https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html'
+            repo_url: 'https://github.com/cds-snc/covid-alert-app'
+            additional_repos:
+              - repo_url: 'https://github.com/cds-snc/covid-alert-portal'
+            logo: canada.svg
+            crunchbase: 'https://www.crunchbase.com/organization/health-canada'
+          - item:
             name: Denmark (Smittestop)
             description: Smittestop allows all of us to help stop the spread of COVID-19.
             homepage_url: 'https://smittestop.dk/'
@@ -68,6 +79,13 @@ landscape:
             logo: latvia.svg
             twitter: 'https://twitter.com/apturicovid'
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-latvia'
+          - item:
+            name: Northern Ireland (StopCOVID NI)
+            description: 'This app, from our health service, tells you automatically if you’ve been near someone who tests positive for COVID-19.'
+            homepage_url: 'https://covid-19.hscni.net/stop-covid-ni-mobile-app/'
+            logo: northern-ireland.svg
+            twitter: 'https://twitter.com/HSCInnovations'
+            crunchbase: 'https://www.crunchbase.com/organization/health-and-social-care-northern-ireland'
           - item:
             name: Saudi Arabia (Tabaud)
             description: >-
@@ -208,6 +226,15 @@ landscape:
             logo: bahrain.svg
             crunchbase: 'https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain'
           - item:
+            name: Brunei (BruHealth)
+            description: >-
+              BruHealth is developed by the Government of Brunei to engage its residents during the COVID-19 pandemic. The app provides residents of Brunei
+              updates on COVID-19 development and related policy measures, monitors health conditions of residents of Brunei through the self-assessment feature
+              and tracks risk exposure of residents of Brunei using the Bluetooth and GPS tracking features.
+            homepage_url: 'https://www.gov.bn/Lists/Mobile%20Apps/NewDisplayForm.aspx?ID=27'
+            logo: brunei.svg
+            crunchbase: 'https://www.crunchbase.com/organization/brunei-e-government-national-centre'
+          - item:
             name: Bulgaria (ViruSafe)
             description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
             homepage_url: 'https://virusafe.info/'
@@ -278,8 +305,14 @@ landscape:
             logo: new-zealand.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-new-zealand'
           - item:
+            name: Philippines (StaySafe PH)
+            description: 'Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing system.'
+            homepage_url: 'https://www.staysafe.ph/'
+            logo: philippines.svg
+            crunchbase: 'https://www.crunchbase.com/organization/philippines-department-of-health'
+          - item:
             name: Qatar (Ehteraz)
-            description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
+            description: This app enables all segments of the Qatari community from citizens and residents to follow up with the latest updates of the Coronavirus.
             homepage_url: 'https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/?searchText=ehteraz'
             logo: qatar.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-public-health-moph-qatar'

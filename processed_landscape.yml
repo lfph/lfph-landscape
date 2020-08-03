@@ -78,6 +78,93 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Canada (COVID Alert)
+            description: >-
+              Together, let's limit the spread of COVID-19 and prevent future outbreaks. COVID Alert helps us break the cycle of infection. The app can let
+              people know of possible exposures before any symptoms appear.
+            homepage_url: 'https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html'
+            repo_url: 'https://github.com/cds-snc/covid-alert-app'
+            logo: canada.svg
+            crunchbase: 'https://www.crunchbase.com/organization/health-canada'
+            crunchbase_data:
+              name: Health Canada
+              description: Health Canada is the federal department responsible for helping Canadians maintain and improve their health.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://hc-sc.gc.ca/index-eng.php'
+              city: Ottawa
+              region: Ontario
+              country: Canada
+              twitter: 'https://twitter.com/healthcanada'
+              linkedin: 'https://www.linkedin.com/company/health-canada'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 281139
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 183441
+                  color: '#f1e05a'
+                - name: Python
+                  value: 131866
+                  color: '#3572A5'
+                - name: HTML
+                  value: 41708
+                  color: '#e34c26'
+                - name: Kotlin
+                  value: 41075
+                  color: '#F18E33'
+                - name: Objective-C
+                  value: 18785
+                  color: '#438eff'
+                - name: Ruby
+                  value: 17303
+                  color: '#701516'
+                - name: CSS
+                  value: 15862
+                  color: '#563d7c'
+                - name: Java
+                  value: 6700
+                  color: '#b07219'
+                - name: Shell
+                  value: 1714
+                  color: '#89e051'
+                - name: Starlark
+                  value: 602
+                - name: Dockerfile
+                  value: 503
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57;73;57;39;258;534;334;416;337;263;136
+              firstWeek: 2019-08-11Z
+              stars: 361
+              license: Apache License 2.0
+              description: Exposure notification client application / Application client de notification d'exposition
+              latest_commit_date: '2020-07-31T15:41:21Z'
+              latest_commit_link: /cds-snc/covid-alert-app/commit/0562dc40135ab66227c5b517ad01b0c31ffaf44b
+              release_date: '2020-07-28T23:39:54Z'
+              release_link: 'https://github.com/cds-snc/covid-alert-app/releases'
+              contributors_count: 49
+              contributors_link: 'https://github.com/cds-snc/covid-alert-app/graphs/contributors'
+            repos:
+              - url: 'https://github.com/cds-snc/covid-alert-app'
+                stars: 349
+              - url: 'https://github.com/cds-snc/covid-alert-portal'
+                stars: 12
+            github_start_commit_data:
+              start_commit_link: /cds-snc/covid-alert-app/commit/033d9718075d260500aedb8d1d2ee631300ed915
+              start_date: '2020-05-18T20:38:12Z'
+            image_data:
+              fileName: canada-covid-alert.svg
+              hash: EEuzSvCt0s+v7wi68M7wrmL7ztl7HLh1vMlHPzHicLQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-11-09T19:19:31.000Z
+          - item:
             name: Denmark (Smittestop)
             description: Smittestop allows all of us to help stop the spread of COVID-19.
             homepage_url: 'https://smittestop.dk/'
@@ -474,6 +561,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-31T08:48:37.000Z
+          - item:
+            name: Northern Ireland (StopCOVID NI)
+            description: 'This app, from our health service, tells you automatically if you’ve been near someone who tests positive for COVID-19.'
+            homepage_url: 'https://covid-19.hscni.net/stop-covid-ni-mobile-app/'
+            logo: northern-ireland.svg
+            twitter: 'https://twitter.com/HSCInnovations'
+            crunchbase: 'https://www.crunchbase.com/organization/health-and-social-care-northern-ireland'
+            crunchbase_data:
+              name: Health and Social Care Northern Ireland
+              description: Health and Social Care Northern Ireland
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://online.hscni.net/'
+              city: Belfast
+              region: Belfast
+              country: United Kingdom
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: northern-ireland-stop-covid-ni.svg
+              hash: +Y+IMuJ9GJn7W9qyI5kMQFJl2vvOUJos3++XKlYk5es=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-31T16:20:39.000Z
           - item:
             name: Saudi Arabia (Tabaud)
             description: >-
@@ -1213,6 +1329,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-08-02T08:16:52.000Z
           - item:
+            name: Brunei (BruHealth)
+            description: >-
+              BruHealth is developed by the Government of Brunei to engage its residents during the COVID-19 pandemic. The app provides residents of Brunei
+              updates on COVID-19 development and related policy measures, monitors health conditions of residents of Brunei through the self-assessment feature
+              and tracks risk exposure of residents of Brunei using the Bluetooth and GPS tracking features.
+            homepage_url: 'https://www.gov.bn/Lists/Mobile%20Apps/NewDisplayForm.aspx?ID=27'
+            logo: brunei.svg
+            crunchbase: 'https://www.crunchbase.com/organization/brunei-e-government-national-centre'
+            crunchbase_data:
+              name: Brunei E-Government National Centre
+              description: Brunei E-Government National Centre
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.egnc.gov.bn/SitePages/Home.aspx'
+              city: Bandar Seri Begawan
+              region: Brunei and Muara
+              country: Brunei Darussalam
+              twitter: 'https://twitter.com/EGNCTweet'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: brunei-bru-health.svg
+              hash: o2lCUFrjiKLfoyMHEUu2l0PWKTUq2aSS/elKMXCojR8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-31T22:49:11.000Z
+          - item:
             name: Bulgaria (ViruSafe)
             description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
             homepage_url: 'https://virusafe.info/'
@@ -1553,8 +1700,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-08-03T01:27:21.000Z
           - item:
+            name: Philippines (StaySafe PH)
+            description: 'Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing system.'
+            homepage_url: 'https://www.staysafe.ph/'
+            logo: philippines.svg
+            crunchbase: 'https://www.crunchbase.com/organization/philippines-department-of-health'
+            crunchbase_data:
+              name: Philippines Department of Health
+              description: Philippines Department of Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.doh.gov.ph/'
+              city: Manila
+              region: Manila
+              country: Philippines
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: philippines-stay-safe-ph.svg
+              hash: RiQNb/Y73FVzqkGgelYL0/L9YMVssiY8a8xbkvmLEFg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Qatar (Ehteraz)
-            description: 'ViruSafe is an application, which aims to help in solving the equation of how to overcome COVID-19 successfully.'
+            description: This app enables all segments of the Qatari community from citizens and residents to follow up with the latest updates of the Coronavirus.
             homepage_url: 'https://portal.www.gov.qa/wps/portal/MobileServices/mobile%20applications/!ut/p/a1/?searchText=ehteraz'
             logo: qatar.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-public-health-moph-qatar'
@@ -1863,53 +2036,110 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 161
+              contributions: 0;13;4;28;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;56;85;95;183;83;105;121;213;203;88;119;101;82;197;228;346;203;188;202;170;105;129
+              stars: 521
               languages:
-                - name: TypeScript
-                  value: 332827
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 185559
-                  color: '#f1e05a'
                 - name: HTML
-                  value: 139489
+                  value: 1080932
                   color: '#e34c26'
                 - name: Java
-                  value: 106035
+                  value: 939464
                   color: '#b07219'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 38203
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 24646
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
                 - name: Objective-C
-                  value: 9901
+                  value: 905170
                   color: '#438eff'
+                - name: JavaScript
+                  value: 838583
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 722955
+                  color: '#2b7489'
+                - name: Swift
+                  value: 153441
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 58511
+                  color: '#701516'
+                - name: CSS
+                  value: 56410
+                  color: '#563d7c'
+                - name: Kotlin
+                  value: 47600
+                  color: '#F18E33'
+                - name: Python
+                  value: 44182
+                  color: '#3572A5'
+                - name: Shell
+                  value: 41702
+                  color: '#89e051'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;28;39;38;83;31;51;47;56;32;19;30;23;13;27;42;53;36;31;42;34;24;13
-              firstWeek: 2019-08-11Z
-              stars: 461
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-07-31T14:55:01Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3199
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/275758940c05cf1cd319eb4e116aacf0373a2bf8
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-07-31T14:55:01Z'
+              firstWeek: 2019-08-11Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 461
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 22
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security-GPS'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 4
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
+              - url: 'https://github.com/Path-Check/privacy-security-GAEN'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
