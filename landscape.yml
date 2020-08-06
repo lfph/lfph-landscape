@@ -104,6 +104,12 @@ landscape:
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
           - item:
+            name: United States - Virginia (COVIDWISE)
+            description: Download Virginia’s free COVIDWISE Exposure Notifications app to help protect your community while protecting your privacy.
+            homepage_url: 'https://www.vdh.virginia.gov/covidwise/'
+            logo: virginia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virginia-department-of-health'
+          - item:
             name: Uruguay (Coronavirus UY)
             description: 'Information, medical attention, and alerts of exposure to COVID-19 for residents of Uruguay.'
             homepage_url: 'https://www.gub.uy/ministerio-salud-publica/coronavirus'
@@ -393,6 +399,11 @@ landscape:
             project_org: 'https://github.com/covidwatchorg'
             logo: 'https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-watch'
+          - item:
+            name: SpringML
+            homepage_url: 'https://springml.com/blog/springmls-covid-19-exposure-notification-solution/'
+            logo: 'https://www.mulesoft.com/sites/default/files/2019-07/springML-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/springml'
       - subcategory:
         name: Experimental GAEN
         items:

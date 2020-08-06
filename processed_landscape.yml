@@ -725,6 +725,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-08-04T07:14:11.000Z
           - item:
+            name: United States - Virginia (COVIDWISE)
+            description: Download Virginia’s free COVIDWISE Exposure Notifications app to help protect your community while protecting your privacy.
+            homepage_url: 'https://www.vdh.virginia.gov/covidwise/'
+            logo: virginia.svg
+            crunchbase: 'https://www.crunchbase.com/organization/virginia-department-of-health'
+            crunchbase_data:
+              name: Virginia Department of Health
+              description: Virginia Department of Health
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.vdh.virginia.gov/'
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: 'https://twitter.com/vdhgov'
+              linkedin: 'https://www.linkedin.com/'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: united-states-virginia-covidwise.svg
+              hash: 9UPvgXnr/+tSMrK4MYBBSOE60YtWaunWIYlO4CLS1KY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-08-06T13:30:58.000Z
+          - item:
             name: Uruguay (Coronavirus UY)
             description: 'Information, medical attention, and alerts of exposure to COVID-19 for residents of Uruguay.'
             homepage_url: 'https://www.gub.uy/ministerio-salud-publica/coronavirus'
@@ -2040,53 +2068,116 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 163
+              contributions: >-
+                11;6;12;16;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;66;96;122;170;88;101;149;279;101;126;67;125;124;196;319;297;191;193;174;149;109;138
+              stars: 522
               languages:
-                - name: TypeScript
-                  value: 340584
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 186294
-                  color: '#f1e05a'
                 - name: HTML
-                  value: 139489
+                  value: 1080932
                   color: '#e34c26'
                 - name: Java
-                  value: 106035
+                  value: 941102
                   color: '#b07219'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 38203
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 24646
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
                 - name: Objective-C
-                  value: 9901
+                  value: 905097
                   color: '#438eff'
+                - name: JavaScript
+                  value: 843340
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 737246
+                  color: '#2b7489'
+                - name: Swift
+                  value: 154714
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 59223
+                  color: '#701516'
+                - name: CSS
+                  value: 57074
+                  color: '#563d7c'
+                - name: Kotlin
+                  value: 47705
+                  color: '#F18E33'
+                - name: Shell
+                  value: 41833
+                  color: '#89e051'
+                - name: Python
+                  value: 41202
+                  color: '#3572A5'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;33;41;48;75;41;48;51;49;23;29;17;23;23;30;51;50;38;32;32;34;14;13
-              firstWeek: 2019-08-11Z
-              stars: 462
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-08-05T13:03:34Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3210
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Go
+                  value: 166
+                  color: '#00ADD8'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/1a6cbaa6f132618de0369667eee3f37598b2b89f
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-08-05T13:03:34Z'
+              firstWeek: 2019-08-11Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 462
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 22
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security-GPS'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 4
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
+              - url: 'https://github.com/Path-Check/privacy-security-GAEN'
+                stars: 0
+              - url: 'https://github.com/Path-Check/Scoring-Service'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'
@@ -2324,6 +2415,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-08-05T21:40:57.000Z
+          - item:
+            name: SpringML
+            homepage_url: 'https://springml.com/blog/springmls-covid-19-exposure-notification-solution/'
+            logo: 'https://www.mulesoft.com/sites/default/files/2019-07/springML-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/springml'
+            crunchbase_data:
+              name: SpringML
+              description: SpringML is a data analytics company that helps it's customers make informed decisions through seamless machine learning integrations.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.springml.com'
+              city: Pleasanton
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/springmlinc'
+              linkedin: 'https://www.linkedin.com/company/springml'
+              acquisitions: []
+              parents: []
+              funding: 1270188
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: spring-ml.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-08-05T19:41:25.000Z
       - subcategory:
         name: Experimental GAEN
         items:
