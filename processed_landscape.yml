@@ -626,9 +626,9 @@ landscape:
           - item:
             name: Switzerland (SwissCovid)
             description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
-            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
-            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            project_org: 'https://github.com/DP-3T'
+            homepage_url: >-
+              https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing.html
+            repo_url: 'https://github.com/DP-3T/dp3t-app-android-ch'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
             crunchbase_data:
@@ -646,73 +646,78 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
-              description: Decentralized Privacy-Preserving Proximity Tracing
-              contributors_count: 54
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25;191;315;301;189;172;261;239;115;195;294;158;36;73;164;118;120;50
-              stars: 3690
               languages:
                 - name: Java
-                  value: 1146402
+                  value: 2213767
                   color: '#b07219'
                 - name: Swift
-                  value: 1100610
+                  value: 1384093
                   color: '#ffac45'
                 - name: HTML
-                  value: 319015
+                  value: 485996
                   color: '#e34c26'
+                - name: TypeScript
+                  value: 62285
+                  color: '#2b7489'
                 - name: Python
-                  value: 52915
+                  value: 54757
                   color: '#3572A5'
+                - name: Ruby
+                  value: 22330
+                  color: '#701516'
                 - name: Objective-C
                   value: 19894
                   color: '#438eff'
-                - name: Ruby
-                  value: 14549
-                  color: '#701516'
                 - name: Makefile
-                  value: 1951
+                  value: 3902
                   color: '#427819'
                 - name: Dockerfile
-                  value: 1512
+                  value: 3024
                   color: '#384d54'
+                - name: CSS
+                  value: 2588
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 2169
+                  color: '#f1e05a'
                 - name: Shell
-                  value: 826
+                  value: 1576
                   color: '#89e051'
                 - name: PLpgSQL
-                  value: 374
+                  value: 1017
                 - name: C
                   value: 360
                   color: '#555555'
-              latest_commit_link: /DP-3T/dp3t-app-ios-ch/commit/b920cc672fb4a640ccc4ffea3233809567f5e0d7
-              latest_commit_date: '2020-08-06T08:25:23Z'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25;303;602;561;340;320;466;394;215;341;503;290;54;126;264;190;197;86
               firstWeek: 2019-08-11Z
+              stars: 4447
               license: Mozilla Public License 2.0
-              contributors_link: 'https://github.com/DP-3T/dp3t-app-ios-ch/graphs/contributors'
+              description: This is a COVID-19 tracing client using the DP3T Android SDK.
+              latest_commit_date: '2020-07-28T11:43:23Z'
+              latest_commit_link: /DP-3T/dp3t-app-android-ch/commit/adae3b1b4c673d7d12104d98c396ca1c23a95b9d
+              release_date: '2020-07-28T11:54:07Z'
+              release_link: 'https://github.com/DP-3T/dp3t-app-android-ch/releases'
+              contributors_count: 46
+              contributors_link: 'https://github.com/DP-3T/dp3t-app-android-ch/graphs/contributors'
             repos:
+              - url: 'https://github.com/DP-3T/dp3t-app-android-ch'
+                stars: 195
               - url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-                stars: 118
-              - url: 'https://github.com/DP-3T/documents'
-                stars: 2112
-              - url: 'https://github.com/DP-3T/dp3t-app-android-demo'
-                stars: 333
-              - url: 'https://github.com/DP-3T/dp3t-app-ios-demo'
-                stars: 242
+                stars: 3690
               - url: 'https://github.com/DP-3T/dp3t-sdk-android'
                 stars: 228
-              - url: 'https://github.com/DP-3T/dp3t-app-android-ch'
-                stars: 196
               - url: 'https://github.com/DP-3T/dp3t-sdk-backend'
                 stars: 174
               - url: 'https://github.com/DP-3T/dp3t-sdk-ios'
                 stars: 142
-              - url: 'https://github.com/DP-3T/reference_implementation'
-                stars: 125
-              - url: 'https://github.com/DP-3T/dp3t-discovery'
-                stars: 11
               - url: 'https://github.com/DP-3T/dp3t-config-backend-ch'
                 stars: 6
-              - url: 'https://github.com/DP-3T/dp3t-ux-screenflows-ch'
-                stars: 3
+              - url: 'https://github.com/admin-ch/CovidCode-Service'
+                stars: 6
+              - url: 'https://github.com/admin-ch/CovidCode-UI'
+                stars: 5
+              - url: 'https://github.com/admin-ch/PT-System-Documents'
+                stars: 1
             github_start_commit_data:
               start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
               start_date: '2020-04-03T16:04:33Z'
@@ -2068,53 +2073,121 @@ landscape:
               parents: []
               stockExchange: null
             github_data:
+              description: null
+              contributors_count: 197
+              contributions: >-
+                11;6;28;0;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24;69;99;114;167;93;116;159;272;82;155;123;120;143;266;345;261;215;180;182;152;133;110
+              stars: 524
               languages:
-                - name: TypeScript
-                  value: 340584
-                  color: '#2b7489'
-                - name: JavaScript
-                  value: 186294
-                  color: '#f1e05a'
                 - name: HTML
-                  value: 139489
+                  value: 1088002
                   color: '#e34c26'
                 - name: Java
-                  value: 106035
+                  value: 943034
                   color: '#b07219'
-                - name: Swift
-                  value: 65375
-                  color: '#ffac45'
-                - name: Kotlin
-                  value: 38203
-                  color: '#F18E33'
-                - name: Ruby
-                  value: 24646
-                  color: '#701516'
-                - name: Shell
-                  value: 15706
-                  color: '#89e051'
                 - name: Objective-C
-                  value: 9901
+                  value: 906226
                   color: '#438eff'
+                - name: JavaScript
+                  value: 840836
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 764293
+                  color: '#2b7489'
+                - name: Swift
+                  value: 154714
+                  color: '#ffac45'
+                - name: Ruby
+                  value: 59224
+                  color: '#701516'
+                - name: CSS
+                  value: 57201
+                  color: '#563d7c'
+                - name: Kotlin
+                  value: 47705
+                  color: '#F18E33'
+                - name: Shell
+                  value: 41833
+                  color: '#89e051'
+                - name: Python
+                  value: 41202
+                  color: '#3572A5'
                 - name: Batchfile
-                  value: 3972
+                  value: 7944
                   color: '#C1F12E'
+                - name: RAML
+                  value: 5833
+                  color: '#77d9fb'
+                - name: TeX
+                  value: 4262
+                  color: '#3D6117'
                 - name: Starlark
-                  value: 1944
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;34;40;47;73;44;52;47;47;21;31;16;21;23;36;54;46;33;38;32;30;14;9
-              firstWeek: 2019-08-11Z
-              stars: 464
-              license: MIT License
-              description: COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
-              latest_commit_date: '2020-08-05T13:03:34Z'
+                  value: 3888
+                - name: Dockerfile
+                  value: 3210
+                  color: '#384d54'
+                - name: Perl
+                  value: 1166
+                  color: '#0298c3'
+                - name: Makefile
+                  value: 809
+                  color: '#427819'
+                - name: Raku
+                  value: 483
+                - name: C
+                  value: 473
+                  color: '#555555'
+                - name: Go
+                  value: 166
+                  color: '#00ADD8'
               latest_commit_link: /Path-Check/covid-safe-paths/commit/1a6cbaa6f132618de0369667eee3f37598b2b89f
-              release_date: '2020-04-29T03:39:07Z'
-              release_link: 'https://github.com/Path-Check/covid-safe-paths/releases'
-              contributors_count: 98
+              latest_commit_date: '2020-08-05T13:03:34Z'
+              firstWeek: 2019-08-11Z
+              license: MIT License
               contributors_link: 'https://github.com/Path-Check/covid-safe-paths/graphs/contributors'
             repos:
               - url: 'https://github.com/Path-Check/covid-safe-paths'
                 stars: 464
+              - url: 'https://github.com/Path-Check/safeplaces-frontend'
+                stars: 22
+              - url: 'https://github.com/Path-Check/safeplaces-backend'
+                stars: 18
+              - url: 'https://github.com/Path-Check/privacy-security-GPS'
+                stars: 10
+              - url: 'https://github.com/Path-Check/gaen-mobile'
+                stars: 4
+              - url: 'https://github.com/Path-Check/safeplaces-backend-ingest'
+                stars: 2
+              - url: 'https://github.com/Path-Check/test-nearly-safe-paths'
+                stars: 1
+              - url: 'https://github.com/Path-Check/private-kit-service'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-backend-translation'
+                stars: 1
+              - url: 'https://github.com/Path-Check/safeplaces-data-layer'
+                stars: 1
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation-firebase'
+                stars: 0
+              - url: 'https://github.com/Path-Check/trusted-authorities'
+                stars: 0
+              - url: 'https://github.com/Path-Check/react-native-background-geolocation'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-ios'
+                stars: 0
+              - url: 'https://github.com/Path-Check/background-geolocation-android'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-backend-lib'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-auth'
+                stars: 0
+              - url: 'https://github.com/Path-Check/safeplaces-docs'
+                stars: 0
+              - url: 'https://github.com/Path-Check/privacy-security-GAEN'
+                stars: 0
+              - url: 'https://github.com/Path-Check/Scoring-Service'
+                stars: 0
+              - url: 'https://github.com/Path-Check/cwa-documentation'
+                stars: 0
             github_start_commit_data:
               start_commit_link: /Path-Check/react-native-background-geolocation-firebase/commit/643a853f2e1d075fac67264c13cc1e05047450ca
               start_date: '2018-08-02T21:14:14Z'

@@ -98,9 +98,18 @@ landscape:
           - item:
             name: Switzerland (SwissCovid)
             description: 'The app provides information on suspected infections. In this way, the chain of infection can be broken.'
-            homepage_url: 'https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t'
-            repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
-            project_org: 'https://github.com/DP-3T'
+            homepage_url: >-
+              https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing.html
+            repo_url: 'https://github.com/DP-3T/dp3t-app-android-ch'
+            additional_repos:
+              - repo_url: 'https://github.com/DP-3T/dp3t-app-ios-ch'
+              - repo_url: 'https://github.com/DP-3T/dp3t-sdk-android'
+              - repo_url: 'https://github.com/DP-3T/dp3t-sdk-ios'
+              - repo_url: 'https://github.com/DP-3T/dp3t-sdk-backend'
+              - repo_url: 'https://github.com/DP-3T/dp3t-config-backend-ch'
+              - repo_url: 'https://github.com/admin-ch/CovidCode-UI'
+              - repo_url: 'https://github.com/admin-ch/CovidCode-Service'
+              - repo_url: 'https://github.com/admin-ch/PT-System-Documents'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
           - item:
