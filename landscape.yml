@@ -389,6 +389,30 @@ landscape:
             logo: utah.svg
             twitter: 'https://twitter.com/UtahCoronavirus'
             crunchbase: 'https://www.crunchbase.com/organization/state-of-utah'
+          - item:
+            name: United States - North Dakota (Care19 Diary)
+            description: >-
+              Care19 Diary is a digital diary that can help you remember where you have been over the last 14 days. It is official app for the states of North
+              Dakota, South Dakota and Wyoming.
+            homepage_url: 'https://ndresponse.gov/covid-19-resources/care19'
+            logo: north-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/north-dakota-department-of-health'
+          - item:
+            name: United States - South Dakota (Care19 Diary)
+            description: >-
+              Care19 Diary is a digital diary that can help you remember where you have been over the last 14 days. It is official app for the states of North
+              Dakota, South Dakota and Wyoming.
+            homepage_url: 'https://covid.sd.gov/care19app.aspx'
+            logo: south-dakota.svg
+            crunchbase: 'https://www.crunchbase.com/organization/south-dakota-department-of-health'
+          - item:
+            name: United States - Wyoming (Care19 Diary)
+            description: >-
+              Care19 Diary is a digital diary that can help you remember where you have been over the last 14 days. It is official app for the states of North
+              Dakota, South Dakota and Wyoming.
+            homepage_url: 'https://covid19.wyo.gov/care19-app'
+            logo: wyoming.svg
+            crunchbase: 'https://www.crunchbase.com/organization/wyoming-department-of-health'
   - category:
     name: Exposure Notification
     subcategories:
@@ -431,6 +455,10 @@ landscape:
             homepage_url: 'https://springml.com'
             logo: 'https://www.mulesoft.com/sites/default/files/2019-07/springML-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/springml'
+          - item:
+            name: Care19 Alert
+            homepage_url: 'https://care19.app/alert/Privacy'
+            logo: care19-alert.svg
       - subcategory:
         name: Experimental GAEN
         items:
