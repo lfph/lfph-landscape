@@ -34,6 +34,11 @@ landscape:
             name: Finland (Koronavilkku)
             description: Koronavilkku is a contact tracing app produced by the Finnish Institute for Health and Welfare (THL) to help you find out whether you may have been exposed to coronavirus.
             homepage_url: 'https://https://koronavilkku.fi/en/'
+            repo_url: 'https://github.com/THLfi/koronavilkku-ios'
+            project_org: 'https://github.com/THLfi'
+            additional_repos:
+              - repo_url: 'https://github.com/THLfi/koronavilkku-android'
+              - repo_url: 'https://github.com/THLfi/koronavilkku-backend'
             logo: finland.svg
             crunchbase: 'https://www.crunchbase.com/organization/finnish-institute-for-health-and-welfare'
           - item:
