@@ -37,6 +37,18 @@ landscape:
             logo: estonia.svg
             crunchbase: 'https://www.crunchbase.com/organization/tehik'
           - item:
+            name: Finland (Koronavilkku)
+            description: >-
+              Koronavilkku is a contact tracing app produced by the Finnish Institute for Health and Welfare (THL) to help you find out whether you may have
+              been exposed to coronavirus.
+            homepage_url: 'https://koronavilkku.fi/en/'
+            repo_url: 'https://github.com/THLfi/koronavilkku-ios'
+            additional_repos:
+              - repo_url: 'https://github.com/THLfi/koronavilkku-android'
+              - repo_url: 'https://github.com/THLfi/koronavilkku-backend'
+            logo: finland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/finnish-institute-for-health-and-welfare'
+          - item:
             name: Germany (Corona-Warn-App)
             description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
             homepage_url: 'https://www.coronawarn.app/en/'
@@ -86,13 +98,6 @@ landscape:
             twitter: 'https://twitter.com/apturicovid'
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-latvia'
           - item:
-            name: Northern Ireland (StopCOVID NI)
-            description: 'This app, from our health service, tells you automatically if you’ve been near someone who tests positive for COVID-19.'
-            homepage_url: 'https://covid-19.hscni.net/stop-covid-ni-mobile-app/'
-            logo: northern-ireland.svg
-            twitter: 'https://twitter.com/HSCInnovations'
-            crunchbase: 'https://www.crunchbase.com/organization/health-and-social-care-northern-ireland'
-          - item:
             name: Saudi Arabia (Tabaud)
             description: >-
               Tabaud app for smartphones is one of the latest government efforts in Saudi Arabia to combat and contain the coronavirus (COVID-19) pandemic via
@@ -118,6 +123,22 @@ landscape:
               - repo_url: 'https://github.com/admin-ch/PT-System-Documents'
             logo: switzerland.svg
             crunchbase: 'https://www.crunchbase.com/organization/federal-office-of-public-health-foph-switzerland'
+          - item:
+            name: United Kingdom - Northern Ireland (StopCOVID NI)
+            description: 'This app, from our health service, tells you automatically if you’ve been near someone who tests positive for COVID-19.'
+            homepage_url: 'https://covid-19.hscni.net/stop-covid-ni-mobile-app/'
+            logo: northern-ireland.svg
+            twitter: 'https://twitter.com/HSCInnovations'
+            crunchbase: 'https://www.crunchbase.com/organization/health-and-social-care-northern-ireland'
+          - item:
+            name: United Kingdom - Scotland (Protect Scotland)
+            description: >-
+              The Protect Scotland app from NHS Scotland’s Test and Protect is a free, mobile phone app designed to help us protect each other, reduce the
+              spread of coronavirus and avoid further lockdowns.
+            homepage_url: 'https://protect.scot/'
+            repo_url: 'https://github.com/NES-Digital-Service/protect-scotland'
+            logo: scotland.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nhs-education-for-scotland'
           - item:
             name: United States - Alabama (GuideSafe)
             description: Protect Your Community. Protect Your Privacy. Protect Your Life. Stop the Spread of COVID in Alabama.
@@ -348,8 +369,7 @@ landscape:
           - item:
             name: New Zealand (NZ COVID Tracer)
             description: 'NZ COVID Tracer helps you protect yourself, your friends, your whānau and your community by enabling faster contact tracing.'
-            homepage_url: >-
-              https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-resources-and-tools/nz-covid-tracer-app
+            homepage_url: 'https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-and-tools/nz-covid-tracer-app'
             logo: new-zealand.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-health-new-zealand'
           - item:
@@ -575,7 +595,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/safe2'
           - item:
             name: Temporary Contact Number (TCN)
-            homepage_url: 'https://tcn-coalition.org/'
+            homepage_url: 'https://www.lfph.io/tcn-coalition'
             repo_url: 'https://github.com/TCNCoalition/TCN'
             logo: 'https://raw.githubusercontent.com/TCNCoalition/website/0fe5e1c3fa1c43c2648a75d922c3ff69ab37281e/static/images/logo/200505WVV.TCN_Logo_1.svg'
             twitter: 'https://twitter.com/tcncoalition'
