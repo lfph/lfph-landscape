@@ -14,6 +14,12 @@ landscape:
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
           - item:
+            name: Brazil (Coronavírus-SUS)
+            description: 'The Ministry of Health of Brazil launches the Coronavírus-SUS app with the objective of raising awareness about the Corona Virus COVID-19.'
+            homepage_url: 'https://coronavirus.saude.gov.br'
+            logo: brazil.svg
+            crunchbase: 'https://www.crunchbase.com/organization/brazilgovernment'
+          - item:
             name: Canada (COVID Alert)
             description: >-
               Together, let's limit the spread of COVID-19 and prevent future outbreaks. COVID Alert helps us break the cycle of infection. The app can let
@@ -106,12 +112,7 @@ landscape:
               contact with persons infected with the COVID-19 virus.
             homepage_url: 'https://covidalert.gov.mt'
             repo_url: 'https://github.com/GOVMT-MITA/dp3t-admin-ui-mt'
-            additional_repos:
-              - repo_url: 'https://github.com/GOVMT-MITA/dp3t-app-ios-ch'
-              - repo_url: 'https://github.com/GOVMT-MITA/dp3t-app-android-ch'
-              - repo_url: 'https://github.com/GOVMT-MITA/dp3t-authz-backend-mt'
-              - repo_url: 'https://github.com/GOVMT-MITA/dp3t-config-backend-ch'
-              - repo_url: 'https://github.com/GOVMT-MITA/dp3t-sdk-backend'
+            project_org: 'https://github.com/GOVMT-MITA'
             logo: malta.svg
             twitter: 'https://twitter.com/MaltaGov'
             crunchbase: 'https://www.crunchbase.com/organization/government-of-malta'
