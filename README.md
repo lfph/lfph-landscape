@@ -53,6 +53,13 @@ The following rules will produce the most readable and attractive logos:
 1. Match the item name to the English words in the logos. So an Acme Rocket logo that shows "Rocket" should have product name "Rocket", while if the logo shows "Acme Rocket", the product name should be "Acme Rocket". Otherwise, logos looks out of place when you sort alphabetically.
 1. Google images is often the best way to find a good version of the logo (but ensure it's the up-to-date version). Search for [grpc logo filetype:svg](https://www.google.com/search?q=grpc+logo&tbs=ift:svg,imgo:1&tbm=isch) but substitute your project or product name for grpc.
 1. You can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+1. For state and country flags, you can find a quick tutorial on [Youtube](https://youtu.be/A7jTXKwyxuE).
+    * Use the [Autocrop](https://autocrop.cncf.io/) tool
+    * Find the state or country flag in SVG format (usually Wikimedia)
+    * The label should have the country name and the app name in parenthesis. If a state within a country, then it should follow the format [country name - state - (App name)]
+    * Use the default 80% 
+    * Enter the SVG URL
+    * Download
 
 ## Proper SVGs
 
