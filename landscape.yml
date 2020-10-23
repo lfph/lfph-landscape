@@ -301,11 +301,17 @@ landscape:
         name: GAEN EN Express
         items:
           - item:
-            name: United States- California (California COVID Notify)
+            name: United States - California (California COVID Notify)
             description: 'California COVID Notify will help to contain the spread of COVID-19. It complements ongoing contact tracing programs carried out by the local health jurisdictions and enhances the State’s COVID prevention efforts.'
             homepage_url: 'https://covid19.ca.gov/notify/'
             logo: california.svg
-            crunchbase: 'https://www.crunchbase.com/organization/california-department-of-technology'        
+            crunchbase: 'https://www.crunchbase.com/organization/california-department-of-technology'
+          - item:
+            name: United States - District of Columbia (DC CAN)
+            description: "Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy."
+            homepage_url: 'https://coronavirus.dc.gov/dccan/'
+            logo: dc.svg
+            crunchbase: 'https://www.crunchbase.com/organization/district-of-columbia'  
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
