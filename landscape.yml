@@ -625,12 +625,6 @@ landscape:
             homepage_url: 'https://springml.com'
             logo: 'https://www.mulesoft.com/sites/default/files/2019-07/springML-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/springml'
-          - item:
-            name: Corona Contact Tracing Germany
-            homepage_url: 'https://codeberg.org/corona-contact-tracing-germany/cwa-android'
-            repo_url: 'https://codeberg.org/corona-contact-tracing-germany/cwa-android'
-            project_org: 'https://codeberg.org/corona-contact-tracing-germany'
-            logo: 'corona-contract-tracing-germany.svg'
       - subcategory:
         name: Experimental GAEN
         items:
@@ -640,6 +634,12 @@ landscape:
             repo_url: 'https://github.com/billpugh/GAEN_Explorer'
             logo: gaen-explorer.svg
             crunchbase: 'https://www.crunchbase.com/organization/gaen-explorer'
+          - item:
+            name: Corona Contact Tracing Germany
+            homepage_url: 'https://codeberg.org/corona-contact-tracing-germany/cwa-android'
+            description: >-
+              Fork of CWA without proprietary dependencies. While the German Corona Warn App itself is Free Software, it depends on Google's proprietary Exposure Notification Framework. This fork instead uses the drop-in compatible microg implementation.
+            logo: 'corona-contract-tracing-germany.svg'
       - subcategory:
         name: Non-GAEN
         items:
