@@ -363,9 +363,11 @@ landscape:
         items:
           - item:
             name: Australia (COVIDSafe)
-            description: COVIDSafe helps you and all of our communities. Assist health officials to quickly understand and tackle the spread of Coronavirus (COVID-19).
+            description: COVIDSafe helps you and all of our communities. Assist health officials to quickly understand and tackle the spread of Coronavirus (COVID-19). V2.0 uses Herald.
             homepage_url: 'https://covidsafe.gov.au/'
             repo_url: 'https://github.com/AU-COVIDSafe/mobile-android'
+            additional_repos:
+              - repo_url: 'https://github.com/AU-COVIDSafe/mobile-ios'
             logo: australia.svg
             crunchbase: 'https://www.crunchbase.com/organization/australian-government'
           - item:
@@ -694,16 +696,17 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/insite-applications-llc'
           - item:
             name: Herald
-            description: 'Reliable Bluetooth communication and range finding across a wide range of mobile devices.'
+            description: 'Reliable Bluetooth communication and range finding across a wide range of mobile devices, wearables, and beacons.'
             homepage_url: 'https://vmware.github.io/herald/'
-            repo_url: 'https://github.com/vmware/herald'
+            repo_url: 'https://github.com/vmware/herald-for-android'
             additional_repos:
-              - repo_url: 'https://github.com/vmware/herald-for-android'
               - repo_url: 'https://github.com/vmware/herald-for-ios'
+              - repo_url: 'https://github.com/vmware/herald-for-cpp'
               - repo_url: 'https://github.com/vmware/herald-analysis'
               - repo_url: 'https://github.com/vmware/herald-calibration'
+              - repo_url: 'https://github.com/vmware/herald'
             logo: 'herald.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'          
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: ito-app
             homepage_url: 'https://www.ito-app.org'
@@ -773,6 +776,33 @@ landscape:
             logo: gaen.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Herald International Interoperability Specification
+            description: >-
+              A protocol and payload independent way to describe the exchange 
+              of contact information and pass exposure events between
+              apps and countries to provide international interoperability.
+            homepage_url: 'https://vmware.github.io/herald/specs/payload-interop'
+            logo: herald.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
+            name: Herald Simple Payload Specification
+            description: >-
+              A decentralised and privacy preserving payload Specification
+              that supports international interoperability.
+            homepage_url: 'https://vmware.github.io/herald/specs/payload-simple'
+            logo: herald.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
+            name: Herald Secured Payload Specification
+            description: >-
+              A hybrid decentralised and privacy preserving exposure 
+              notification with centralised anonymous epidemiological 
+              transmission graph payload Specification
+              that supports international interoperability.
+            homepage_url: 'https://vmware.github.io/herald/specs/payload-secured'
+            logo: herald.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: Safe2 Protocol
             description: 'This document describes the communication between Safe2 clients and Safe2 servers, and between servers. '
