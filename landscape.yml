@@ -14,17 +14,19 @@ landscape:
             logo: austria.svg
             crunchbase: 'https://www.crunchbase.com/organization/austrian-red-cross'
           - item:
+            name: Bermuda (WeHealth Bermuda)
+            description: >-
+              a new, free smartphone application that provides anonymous COVID-19 exposure notifications. It is one of the most sophisticated apps available
+              anywhere in the world for helping to control the spread of COVID-19.
+            homepage_url: 'https://www.gov.bm/wehealth-bermuda'
+            logo: bermuda.svg
+            crunchbase: 'https://www.crunchbase.com/organization/bermuda-ministry-of-health'
+          - item:
             name: Brazil (Coronavírus-SUS)
             description: The Ministry of Health of Brazil launches the Coronavírus-SUS app with the objective of raising awareness about the Corona Virus COVID-19.
             homepage_url: 'https://coronavirus.saude.gov.br'
             logo: brazil.svg
             crunchbase: 'https://www.crunchbase.com/organization/brazilgovernment'
-          - item:
-            name: Bermuda (WeHealth Bermuda)
-            description: a new, free smartphone application that provides anonymous COVID-19 exposure notifications. It is one of the most sophisticated apps available anywhere in the world for helping to control the spread of COVID-19.
-            homepage_url: 'https://www.gov.bm/wehealth-bermuda'
-            logo: bermuda.svg
-            crunchbase: 'https://www.crunchbase.com/organization/bermuda-ministry-of-health'
           - item:
             name: Canada (COVID Alert)
             description: >-
@@ -58,8 +60,8 @@ landscape:
           - item:
             name: Ecuador (ASI)
             description: >-
-              We take care of your well-being and that of your loved ones by tracking digital contacts.
-              This contact record is done via Bluetooth, and does not use Geolocation or have access to any personal data on your cell phone.
+              We take care of your well-being and that of your loved ones by tracking digital contacts. This contact record is done via Bluetooth, and does not
+              use Geolocation or have access to any personal data on your cell phone.
             homepage_url: 'https://asiecuador.com/'
             logo: ecuador.svg
             crunchbase: 'https://www.crunchbase.com/organization/ministry-of-telecommunications-and-the-information-society-ecuador'
@@ -189,9 +191,8 @@ landscape:
           - item:
             name: Spain (Radar COVID)
             description: >-
-              With the official application of the Government of Spain you can receive notifications if you have been
-              in contact with someone who was diagnosed positive for COVID-19.
-              All anonymously, securely, confidentially and voluntarily.
+              With the official application of the Government of Spain you can receive notifications if you have been in contact with someone who was diagnosed
+              positive for COVID-19. All anonymously, securely, confidentially and voluntarily.
             homepage_url: 'https://radarcovid.gob.es/'
             repo_url: 'https://github.com/RadarCOVID/radar-covid-android'
             project_org: 'https://github.com/RadarCOVID'
@@ -257,14 +258,15 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/delaware-health-and-social-services'
           - item:
             name: United States - Michigan (MI COVID Alert)
-            description: 'MI COVID Alert is a free app for your mobile phone. It will help us to notify each other and slow the spread of coronavirus (COVID-19) in Michigan.'
+            description: >-
+              MI COVID Alert is a free app for your mobile phone. It will help us to notify each other and slow the spread of coronavirus (COVID-19) in
+              Michigan.
             homepage_url: 'https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592---,00.html'
             logo: michigan.svg
-            twitter: 'https://twitter.com/MI_DTMB'
             crunchbase: 'https://www.crunchbase.com/organization/michigan-department-of-technology-management-and-budget'
           - item:
             name: United States - Minnesota (COVIDaware MN)
-            description: 'COVIDaware MN uses COVID-19 exposure notification technology developed by Apple and Google in partnership with the PathCheck Foundation.'
+            description: COVIDaware MN uses COVID-19 exposure notification technology developed by Apple and Google in partnership with the PathCheck Foundation.
             homepage_url: 'https://covidawaremn.com/'
             logo: minnesota.svg
             crunchbase: 'https://www.crunchbase.com/organization/state-of-minnesota'
@@ -338,31 +340,37 @@ landscape:
         items:
           - item:
             name: United States - California (California COVID Notify)
-            description: 'California COVID Notify will help to contain the spread of COVID-19. It complements ongoing contact tracing programs carried out by the local health jurisdictions and enhances the State’s COVID prevention efforts.'
-            homepage_url: 'https://covid19.ca.gov/notify/'
+            description: >-
+              California COVID Notify will help to contain the spread of COVID-19. It complements ongoing contact tracing programs carried out by the local
+              health jurisdictions and enhances the State’s COVID prevention efforts.
+            homepage_url: 'https://canotify.ca.gov'
             logo: california.svg
             crunchbase: 'https://www.crunchbase.com/organization/california-department-of-technology'
           - item:
             name: United States - Colorado (CO Exposure Notifications)
-            description: 'Exposure Notifications is a voluntary new service available on both iPhone and Android phones that helps slow the spread of COVID-19.'
+            description: Exposure Notifications is a voluntary new service available on both iPhone and Android phones that helps slow the spread of COVID-19.
             homepage_url: 'https://covid19.colorado.gov/Exposure-notifications'
             logo: colorado.svg
             crunchbase: 'https://www.crunchbase.com/organization/colorado-department-of-public-health-environment'
           - item:
             name: United States - District of Columbia (DC CAN)
-            description: "Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy."
+            description: Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy.
             homepage_url: 'https://coronavirus.dc.gov/dccan/'
             logo: dc.svg
             crunchbase: 'https://www.crunchbase.com/organization/district-of-columbia'
           - item:
             name: United States - Maryland (MD COVID Alert)
-            description: "MD COVID Alert pairs seamlessly with Maryland’s traditional contact tracing efforts by using Exposure Notifications technology to notify users who may have been exposed to an infected person."
+            description: >-
+              MD COVID Alert pairs seamlessly with Maryland’s traditional contact tracing efforts by using Exposure Notifications technology to notify users who
+              may have been exposed to an infected person.
             homepage_url: 'https://covidlink.maryland.gov/content/mdcovidalert/'
             logo: maryland.svg
-            crunchbase: 'https://www.crunchbase.com/organization/maryland-department-of-health'  
+            crunchbase: 'https://www.crunchbase.com/organization/maryland-department-of-health'
           - item:
             name: United States - Washington (WA Notify)
-            description: "Washington Exposure Notifications (also known as WA Notify) is a new tool that works through smartphones, without sharing any personal information, to alert users if they may have been exposed to COVID-19."
+            description: >-
+              Washington Exposure Notifications (also known as WA Notify) is a new tool that works through smartphones, without sharing any personal
+              information, to alert users if they may have been exposed to COVID-19.
             homepage_url: 'https://wanotify.uw.edu/index.html'
             logo: washington.svg
             crunchbase: 'https://www.crunchbase.com/organization/washington-state-department-of-health'
@@ -415,7 +423,7 @@ landscape:
           - item:
             name: France (StopCovid)
             description: StopCovid is an application that is part of the government's overall deconfinement plan in the context of the Covid-19 epidemic.
-            homepage_url: 'https://www.economie.gouv.fr/stopcovid'
+            homepage_url: 'https://www.economie.gouv.fr/tousanticovid'
             logo: france.svg
             crunchbase: 'https://www.crunchbase.com/organization/government-of-france'
           - item:
@@ -572,7 +580,7 @@ landscape:
             description: >-
               CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
               health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
-            homepage_url: 'https://health.ri.gov/covid/crush/'
+            homepage_url: 'https://covid.ri.gov/protect-your-household/crush-covid-ri'
             logo: rhode-island.svg
             crunchbase: 'https://www.crunchbase.com/organization/rhode-island-department-of-health'
           - item:
@@ -671,7 +679,7 @@ landscape:
           - item:
             name: Covid Safe Paths
             homepage_url: 'https://pathcheck.org'
-            repo_url: 'https://github.com/Path-Check/covid-safe-paths'
+            repo_url: 'https://github.com/Path-Check/safeplaces-dct-app'
             project_org: 'https://github.com/Path-Check'
             logo: covid-safe-paths.svg
             crunchbase: 'https://www.crunchbase.com/organization/path-check'
@@ -697,7 +705,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/insite-applications-llc'
           - item:
             name: Herald
-            description: 'Reliable Bluetooth communication and range finding across a wide range of mobile devices.'
+            description: Reliable Bluetooth communication and range finding across a wide range of mobile devices.
             homepage_url: 'https://vmware.github.io/herald/'
             repo_url: 'https://github.com/vmware/herald'
             additional_repos:
@@ -705,8 +713,8 @@ landscape:
               - repo_url: 'https://github.com/vmware/herald-for-ios'
               - repo_url: 'https://github.com/vmware/herald-analysis'
               - repo_url: 'https://github.com/vmware/herald-calibration'
-            logo: 'herald.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'          
+            logo: herald.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
           - item:
             name: ito-app
             homepage_url: 'https://www.ito-app.org'
@@ -887,7 +895,7 @@ landscape:
         items:
           - item:
             name: Covid Near You
-            homepage_url: 'https://www.covidnearyou.org/us/en-US/'
+            homepage_url: 'https://outbreaksnearme.org'
             logo: 'https://www.covidnearyou.org/assets/img/covid-near-you-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/covid-near-you'
           - item:
@@ -997,7 +1005,7 @@ landscape:
         items:
           - item:
             name: MotionMobs (member)
-            homepage_url: 'http://www.motionmobs.com/'
+            homepage_url: 'https://motionmobs.com'
             logo: motionmobs.svg
             crunchbase: 'https://www.crunchbase.com/organization/motionmobs'
           - item:
