@@ -45,7 +45,7 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           branch-suffix: timestamp
-          path: ./master
+          path: ./landscape
           title: Update members
           labels: automated-build
           commit-message: Update members
