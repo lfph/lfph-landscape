@@ -13,7 +13,7 @@ jobs:
       - name: Checkout landscape
         uses: actions/checkout@v2
         with:
-          path: master
+          path: landscape
       - name: Checkout landscape-tools
         uses: actions/checkout@v2
         with:
@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r landscape-tools/requirements.txt
       - name: Run build
-        working-directory: ./master
+        working-directory: ./landscape
         env:
           SF_USERNAME: ${{ secrets.SF_USERNAME }}
           SF_PASSWORD: ${{ secrets.SF_PASSWORD }}
@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: missing-members 
-          path: ./master/missing.csv
+          path: ./landscape/missing.csv
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
