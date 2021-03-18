@@ -3607,11 +3607,11 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-08-21T14:35:15.000Z
           - item:
-            name: Covid Watch
+            name: Covid Watch (app)
             homepage_url: https://www.covidwatch.org
             repo_url: https://github.com/covidwatchorg/covidwatch-android-en
             project_org: https://github.com/covidwatchorg
-            logo: https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg
+            logo: covid_watch.svg
             crunchbase: https://www.crunchbase.com/organization/covid-watch
             crunchbase_data:
               name: Covid Watch
@@ -3731,7 +3731,8 @@ landscape:
               start_commit_link: /covidwatchorg/impact-sim/commit/95ae461fefc1b341b69a059188a23c227d2a3478
               start_date: '2020-02-19T21:45:58Z'
             image_data:
-              fileName: covid-watch.svg
+              fileName: covid-watch-app.svg
+              hash: Q7vyjDTliXhZ4XPDTYOMNEAMRFd8b9GucT34NcxMFjo=
             best_practice_data:
               badge: false
               percentage: null
@@ -4292,132 +4293,22 @@ landscape:
             project: foundationproject
             repo_url: https://github.com/vmware/herald
             logo: herald.svg
-            crunchbase: https://www.crunchbase.com/organization/vmware
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
             crunchbase_data:
-              name: VMware
-              description: VMware is a software company providing cloud and virtualization services that powers complex digital infrastructure.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.vmware.com
-              city: Palo Alto
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.lfph.io
+              city: San Francisco
               region: California
               country: United States
-              twitter: http://twitter.com/VMware
-              linkedin: https://www.linkedin.com/company/vmware
-              acquisitions:
-                - date: '2003-12-16'
-                  acquiree: Emic Networks
-                - date: '2006-06-18'
-                  acquiree: Akimbi Systems
-                - date: '2007-08-06'
-                  acquiree: Determina
-                - date: '2007-09-11'
-                  acquiree: Dunes Technologies
-                - date: '2008-01-15'
-                  acquiree: Thinstall inc
-                - date: '2008-05-28'
-                  acquiree: B-hive Networks
-                - date: '2008-11-30'
-                  acquiree: Blue Lane Technologies
-                - date: '2009-08-10'
-                  acquiree: Spring
-                  price: 362000000
-                - date: '2010-08-31'
-                  acquiree: Integrien
-                - date: '2010-08-31'
-                  acquiree: TriCipher
-                  price: 100000000
-                - date: '2011-03-08'
-                  acquiree: WaveMaker
-                - date: '2011-04-26'
-                  acquiree: SlideRocket
-                - date: '2011-05-16'
-                  acquiree: Shavlik Technologies
-                - date: '2011-05-31'
-                  acquiree: Socialcast
-                - date: '2011-06-13'
-                  acquiree: Digital Fuel
-                - date: '2011-08-01'
-                  acquiree: Packetmotion
-                - date: '2012-05-22'
-                  acquiree: Wanova
-                - date: '2012-07-02'
-                  acquiree: DynamicOps
-                - date: '2012-07-23'
-                  acquiree: Nicira Networks
-                  price: 1260000000
-                - date: '2013-02-11'
-                  acquiree: Virsto Software
-                - date: '2013-10-15'
-                  acquiree: Desktone
-                - date: '2014-01-22'
-                  acquiree: AirWatch
-                  price: 1540000000
-                - date: '2014-08-20'
-                  acquiree: CloudVolumes
-                - date: '2015-02-03'
-                  acquiree: Immidio
-                - date: '2015-10-14'
-                  acquiree: Boxer
-                - date: '2016-06-13'
-                  acquiree: Arkin
-                - date: '2016-12-20'
-                  acquiree: PLUMgrid
-                - date: '2017-04-12'
-                  acquiree: Wavefront
-                  price: 375000000
-                - date: '2017-05-15'
-                  acquiree: Apteligent
-                  price: 50000000
-                - date: '2017-11-02'
-                  acquiree: VeloCloud
-                - date: '2018-02-14'
-                  acquiree: CloudCoreo
-                - date: '2018-02-22'
-                  acquiree: CloudVelox
-                - date: '2018-03-28'
-                  acquiree: E8 Security
-                - date: '2018-08-27'
-                  acquiree: CloudHealth Technologies
-                - date: '2018-11-06'
-                  acquiree: Heptio
-                  price: 550000000
-                - date: '2019-02-05'
-                  acquiree: AetherPal
-                - date: '2019-05-15'
-                  acquiree: Bitnami
-                - date: '2019-06-14'
-                  acquiree: Avi Networks
-                - date: '2019-07-18'
-                  acquiree: Bitfusion.io
-                - date: '2019-07-25'
-                  acquiree: Uhana
-                - date: '2019-08-16'
-                  acquiree: Veriflow
-                - date: '2019-08-20'
-                  acquiree: Intrinsic
-                - date: '2019-08-22'
-                  acquiree: Pivotal
-                  price: 2700000000
-                - date: '2019-10-08'
-                  acquiree: Carbon Black
-                  price: 2100000000
-                - date: '2020-01-21'
-                  acquiree: Nyansa
-                - date: '2020-05-13'
-                  acquiree: Octarine
-                - date: '2020-06-04'
-                  acquiree: Lastline
-                - date: '2020-07-02'
-                  acquiree: Datrium
-                - date: '2020-09-29'
-                  acquiree: SaltStack
+              twitter: https://twitter.com/lfpubhealth
+              linkedin: https://www.linkedin.com/company/lfph
+              acquisitions: []
               parents:
-                - https://www.crunchbase.com/organization/dell-technologies
-              ticker: VMW
-              funding: 393500000
-              stockExchange: nyse
-              kind: market_cap
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
             github_data:
               languages:
                 - name: HTML
@@ -7102,7 +6993,7 @@ landscape:
               Covid Watch is actively working with universities and public health departments to integrate the Covid Watch app and customizable verification
               portal with public health systems, preserving the anonymity of app users.
             homepage_url: https://www.covidwatch.org
-            logo: https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg
+            logo: covid_watch.svg
             crunchbase: https://www.crunchbase.com/organization/covid-watch
             crunchbase_data:
               name: Covid Watch
@@ -7120,13 +7011,14 @@ landscape:
               stockExchange: null
             image_data:
               fileName: covid-watch-implementation-team.svg
+              hash: Q7vyjDTliXhZ4XPDTYOMNEAMRFd8b9GucT34NcxMFjo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-12T21:20:32.000Z
           - item:
-            name: U.S. Digital Response
+            name: U.S. Digital Response (implimenter)
             description: >-
               Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
               deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
@@ -7149,7 +7041,7 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: u-s-digital-response.svg
+              fileName: u-s-digital-response-implimenter.svg
               hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
             best_practice_data:
               badge: false
@@ -7163,9 +7055,10 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Cisco (member)
-            homepage_url: https://www.cisco.com/
-            logo: https://landscape.cncf.io/logos/cisco-member.svg
+            name: Cisco Systems Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
             crunchbase_data:
               name: Cisco
@@ -7785,16 +7678,18 @@ landscape:
               market_cap: 208640851968
               effective_ticker: CSCO
             image_data:
-              fileName: cisco-member.svg
+              fileName: cisco-systems-inc.svg
+              hash: UwZJD7sW0stks2mGRqjpboPsjxnGBPTv7PrqpTi/wkA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-18T01:08:06.000Z
           - item:
-            name: doc.ai (member)
+            name: Doc.ai
             homepage_url: https://doc.ai/
-            logo: https://landscape.cncf.io/logos/doc-ai-supporter.svg
+            logo: docai.svg
+            twitter: https://twitter.com/_doc_ai
             crunchbase: https://www.crunchbase.com/organization/doc-ai
             crunchbase_data:
               name: doc.ai
@@ -7817,41 +7712,18 @@ landscape:
               stockExchange: null
               kind: funding
             image_data:
-              fileName: doc-ai-member.svg
+              fileName: doc-ai.svg
+              hash: 5Gh0dL/GRowNdFGMIVv/kEOeb7dsgbHE4gqlai7CNPs=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-11T22:14:14.000Z
           - item:
-            name: Geometer (member)
-            homepage_url: https://www.geometer.io/
-            logo: geometer.svg
-            crunchbase: https://www.crunchbase.com/organization/geometer
-            crunchbase_data:
-              name: Geometer
-              description: Geometer is entirely focused on helping with the current Covid-19 crisis.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://geometer.io/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            image_data:
-              fileName: geometer-member.svg
-              hash: wc3LEoTJrMhDOqFbLcIeZpipifXMvGqvGried05gEB0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: IBM (member)
-            homepage_url: https://www.ibm.com/us-en/
-            logo: https://landscape.lfai.foundation/logos/ibm.svg
+            name: International Business Machines Corporation (IBM)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation_ibm.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
@@ -8282,16 +8154,18 @@ landscape:
               market_cap: 115300433920
               effective_ticker: IBM
             image_data:
-              fileName: ibm-member.svg
+              fileName: international-business-machines-corporation-ibm.svg
+              hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-17T20:18:14.000Z
           - item:
-            name: Nearform (member)
-            homepage_url: https://www.nearform.com/
-            logo: https://landscape.openjsf.org/logos/nearform-member.svg
+            name: NearForm
+            homepage_url: https://nearform.com/
+            logo: nearform.svg
+            twitter: https://twitter.com/NearForm
             crunchbase: https://www.crunchbase.com/organization/nearform
             crunchbase_data:
               name: NearForm
@@ -8308,16 +8182,43 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: nearform-member.svg
+              fileName: near-form.svg
+              hash: eh6dHUYMp24Br/rlJzI5hhxxkKKOobzpi4WfwAEC9X8=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-03-17T21:44:59.000Z
+              latest_tweet_date: 2021-03-18T11:00:19.000Z
           - item:
-            name: Tencent (member)
-            homepage_url: https://www.tencent.com/en-us/
-            logo: https://landscape.tarscloud.org/logos/tencent-member.svg
+            name: Ratio
+            homepage_url: https://ratiopbc.com/
+            logo: ratio.svg
+            crunchbase: https://www.crunchbase.com/organization/ratio-d20a
+            crunchbase_data:
+              name: Ratio Public Benefit Corp.
+              description: Public Health, Government, and Healthcare Technology Consulting
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://ratiopbc.com
+              city: Portland
+              region: Oregon
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: ratio.svg
+              hash: +Z3FjCAK8QSkxRoJMzJGkwO1RJ4quxjdLhVQeugryNM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
             crunchbase_data:
               name: Tencent Holdings
@@ -8381,16 +8282,18 @@ landscape:
               market_cap: 797417028531
               effective_ticker: 0700.HK
             image_data:
-              fileName: tencent-member.svg
+              fileName: tencent-holdings-limited.svg
+              hash: PQiZ4cqkLJF8BJP9/4KUaBPUCLxjn6OqqYJcZZdR/TY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-17T08:53:05.000Z
           - item:
-            name: VMware (member)
-            homepage_url: https://www.vmware.com/
-            logo: https://landscape.cncf.io/logos/v-mware-member.svg
+            name: VMware, Inc.
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
             crunchbase_data:
               name: VMware
@@ -8521,7 +8424,8 @@ landscape:
               market_cap: 62832705536
               effective_ticker: VMW
             image_data:
-              fileName: v-mware-member.svg
+              fileName: v-mware-inc.svg
+              hash: 7gVris1FCx5z4YHo5+L3moavB2dGiY/uBWT2wA7fCik=
             best_practice_data:
               badge: false
               percentage: null
@@ -8531,9 +8435,10 @@ landscape:
         name: General
         items:
           - item:
-            name: MotionMobs (member)
-            homepage_url: https://motionmobs.com
+            name: MotionMobs
+            homepage_url: https://motionmobs.com/
             logo: motionmobs.svg
+            twitter: https://twitter.com/motionmobs
             crunchbase: https://www.crunchbase.com/organization/motionmobs
             crunchbase_data:
               name: MotionMobs
@@ -8550,7 +8455,7 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: motion-mobs-member.svg
+              fileName: motion-mobs.svg
               hash: Ov1Xg8KyKyK9AbMTLRWQ1gyfYv3IdLXzMl+cudsHcOM=
             best_practice_data:
               badge: false
@@ -8558,9 +8463,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-03-16T14:24:03.000Z
           - item:
-            name: WeHealth (member)
-            homepage_url: https://www.wehealth.org/
-            logo: wehealth.svg
+            name: WeHealth Solutions PBC
+            homepage_url: https://wehealth.org/
+            logo: wehealth_solutions_pbc.svg
+            twitter: https://twitter.com/WeHealthOrg
             crunchbase: https://www.crunchbase.com/organization/wehealth-solutions
             crunchbase_data:
               name: WeHealth Solutions
@@ -8577,7 +8483,7 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: we-health-member.svg
+              fileName: we-health-solutions-pbc.svg
               hash: EKOH7/xhbO4B+PZCBU9TwZK1Z1lBx9loTzCR1sdGGRw=
             best_practice_data:
               badge: false
@@ -8588,9 +8494,10 @@ landscape:
         name: Associate
         items:
           - item:
-            name: Boston Public Health Commission (member)
-            homepage_url: https://bphc.org/Pages/default.aspx
-            logo: boston-public-health-commission.svg
+            name: Boston Public Health Commission
+            homepage_url: https://bphc.org/
+            logo: boston_public_health_commission.svg
+            twitter: https://twitter.com/HealthyBoston
             crunchbase: https://www.crunchbase.com/organization/boston-public-health-commission
             crunchbase_data:
               name: Boston Public Health Commission
@@ -8607,7 +8514,7 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: boston-public-health-commission-member.svg
+              fileName: boston-public-health-commission.svg
               hash: h6CqZX8QZvgyL2+AiLC6wMfOkDHMQMXd6iXH5mC1iDc=
             best_practice_data:
               badge: false
@@ -8615,36 +8522,62 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-03-17T21:00:40.000Z
           - item:
-            name: Colorado Department of Public Health and Environment (member)
-            homepage_url: https://cdphe.colorado.gov/
-            logo: colorado-dept-of-pub-health.svg
-            crunchbase: https://www.crunchbase.com/organization/colorado-department-of-public-health-environment
+            name: China Academy of Information and Communications Technology (CAICT)
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
             crunchbase_data:
-              name: Colorado Department of Public Health & Environment
-              description: Our mission is to protect and improve the health of Colorado's people and the quality of its environment.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.colorado.gov/cdphe
-              city: Denver
-              region: Colorado
-              country: United States
-              twitter: https://twitter.com/cdphe
-              linkedin: https://www.linkedin.com/company/codophe/
+              name: China Academy of Information and Communication Technology
+              description: CAICT is proactively responds to challenges presented by new technologies and new business.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.caict.ac.cn
+              city: Haidian
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: https://www.linkedin.com/company/%E4%B8%AD%E5%9B%BD%E4%BF%A1%E6%81%AF%E9%80%9A%E4%BF%A1%E7%A0%94%E7%A9%B6%E9%99%A2
               acquisitions: []
               parents: []
               stockExchange: null
             image_data:
-              fileName: colorado-department-of-public-health-and-environment-member.svg
-              hash: Gi5X9CgvHzUlCCATlmpGYtvaVm+7CKkyGLDfKS7t9+Q=
+              fileName: china-academy-of-information-and-communications-technology-caict.svg
+              hash: HGWVdh8QGvHzZd3erSg7PIa+jAwpeQdDkg1dvYkFZVc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Council of State and Territorial Epidemiologists
+            homepage_url: https://cste.org/
+            logo: council_of_state_and_territorial_epidemiologists.svg
+            crunchbase: https://www.crunchbase.com/organization/cste
+            crunchbase_data:
+              name: CSTE
+              description: CSTE works to advance public health policy and epidemiologic capacity.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.cste.org/
+              city: Atlanta
+              region: Georgia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/council-of-state-and-territorial-epidemiologists/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: council-of-state-and-territorial-epidemiologists.svg
+              hash: mCJXveWO5wdGh+mwnoy0/GvLH9Wav8cLuUnVxGqIJk4=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-17T21:58:08.000Z
           - item:
-            name: Covid Watch (member)
-            homepage_url: https://www.covidwatch.org
-            logo: https://www.covid-watch.org/_nuxt/img/9e4bcbd.svg
+            name: Covid Watch
+            homepage_url: https://covidwatch.org/
+            logo: covid_watch.svg
+            twitter: https://twitter.com/CovidWatch
             crunchbase: https://www.crunchbase.com/organization/covid-watch
             crunchbase_data:
               name: Covid Watch
@@ -8661,16 +8594,49 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: covid-watch-member.svg
+              fileName: covid-watch.svg
+              hash: Q7vyjDTliXhZ4XPDTYOMNEAMRFd8b9GucT34NcxMFjo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-12T21:20:32.000Z
           - item:
-            name: Health Service Executive Ireland (member)
-            homepage_url: https://www.hse.ie/eng/
-            logo: hse-ireland.svg
+            name: Fachhochschule Kiel
+            homepage_url: https://fh-kiel.de/
+            logo: fachhochschule_kiel.svg
+            twitter: https://twitter.com/fh_kiel
+            crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+              Sciences in Schleswig-Holstein
+            crunchbase_data:
+              name: University of Applied Sciences Kiel
+              description: University
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.fh-kiel.de/
+              city: Kiel
+              region: Schleswig-Holstein
+              country: Germany
+              twitter: https://www.twitter.com/vielfhkiel
+              linkedin: https://www.linkedin.com/school/fachhochschule-kiel/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: fachhochschule-kiel.svg
+              hash: 6QEaq7WKBXaoTNak4r6I6anGQfRa6MPcrYpap/0savw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-18T12:30:05.000Z
+          - item:
+            name: Health Service Executive Ireland
+            homepage_url: https://hse.ie/
+            logo: health_service_executive_ireland.svg
+            twitter: https://twitter.com/HSELive
             crunchbase: https://www.crunchbase.com/organization/ireland-health-service-executive
             crunchbase_data:
               name: Ireland Health Service Executive
@@ -8687,46 +8653,73 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: health-service-executive-ireland-member.svg
+              fileName: health-service-executive-ireland.svg
               hash: VtKLIEpABOBljT9j+db2BkIG6UozI6vM5n8AI+9jaS4=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-03-17T16:43:00.000Z
+              latest_tweet_date: 2021-03-18T13:44:20.000Z
           - item:
-            name: Kiel University of Applied Sciences (member)
-            description: >-
-              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
-              Sciences in Schleswig-Holstein
-            homepage_url: https://www.fh-kiel.de/res/wartungsarbeiten.htm
-            logo: https://upload.wikimedia.org/wikipedia/commons/8/86/FH_Kiel_Logo_-_englisch.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
+            name: New Jersey Office of Innovation
+            homepage_url: https://nj.gov/
+            logo: new_jersey_office_of_innovation.svg
+            twitter: https://twitter.com/NJGov
+            crunchbase: https://www.crunchbase.com/organization/state-of-new-jersey
             crunchbase_data:
-              name: University of Applied Sciences Kiel
-              description: University
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.fh-kiel.de/
-              city: Kiel
-              region: Schleswig-Holstein
-              country: Germany
-              twitter: https://www.twitter.com/vielfhkiel
-              linkedin: https://www.linkedin.com/school/fachhochschule-kiel/
+              name: State of New Jersey
+              description: State of New Jersey is a government website that provide information to the public.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.nj.gov
+              city: Trenton
+              region: New Jersey
+              country: United States
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
             image_data:
-              fileName: kiel-university-of-applied-sciences-member.svg
+              fileName: new-jersey-office-of-innovation.svg
+              hash: g0gb41Tn+yw42MPC3y9/8+4uoVSIjyg1jOQDiJpYkLA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-10-15T12:35:36.000Z
+              latest_tweet_date: 2021-03-17T20:31:20.000Z
           - item:
-            name: Onom Foundation (member)
-            homepage_url: https://www.onomfoundation.org/
-            logo: onom-foundation.svg
+            name: North Carolina Department of Health and Human Services
+            homepage_url: https://ncdhhs.gov/
+            logo: north_carolina_department_of_health_and_human_services.svg
+            twitter: https://twitter.com/ncdhhs
+            crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
+            crunchbase_data:
+              name: NC Department of Health and Human Services
+              description: The Department of Health and Human Services manages the delivery of health- and human-related services for all North Carolinians.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.ncdhhs.gov/
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: https://twitter.com/ncdhhs
+              linkedin: https://www.linkedin.com/company/ncdhhs/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: north-carolina-department-of-health-and-human-services.svg
+              hash: Tjlpxazdam5aSgamIhdxJ6gEZ42d23rM6dlKVE2n2gw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-16T22:28:52.000Z
+          - item:
+            name: Onom Foundation
+            homepage_url: https://onomfoundation.org/
+            logo: onom_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/onom-foundation
             crunchbase_data:
               name: Onom Foundation
@@ -8743,17 +8736,18 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: onom-foundation-member.svg
-              hash: AA24lweN/ul3BHXn5x61K2ASFPMIyEydokK0USrZJ38=
+              fileName: onom-foundation.svg
+              hash: KoAVFVuHG0GrXgjk/1lSGDjiwQGa6ICuOSTUgkAwJRs=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: OpenUK (member)
-            description: Where the UK’s Open communities meet and collaborate
+            name: OpenUK
             homepage_url: https://openuk.uk/
             logo: openuk.svg
+            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
@@ -8769,22 +8763,23 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: open-uk-member.svg
-              hash: DTVNz8ghlFwJWLu6yO4Fj5DV23X7KdX6pcaJbqPTc44=
+              fileName: open-uk.svg
+              hash: sD/O2Br7hyKC+1gagGj7aW8JTpcrxObd42hHjUbEuR0=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-17T17:14:49.000Z
           - item:
-            name: U.S. Digital Response (member)
+            name: U.S. Digital Response
+            homepage_url: https://usdigitalresponse.org/
+            logo: us_digital_response.svg
+            twitter: https://twitter.com/USDResponse
+            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
             description: >-
               Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
               deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
               you within hours.
-            homepage_url: https://www.usdigitalresponse.org
-            logo: usdigitalresponse.svg
-            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
             crunchbase_data:
               name: U.S. Digital Response
               description: USDR helps governments respond as fast as possible to COVID-19.
@@ -8800,13 +8795,43 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: u-s-digital-response-member.svg
+              fileName: u-s-digital-response.svg
               hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-16T23:55:49.000Z
+          - item:
+            name: Waterloo Centre for Microbial Research
+            homepage_url: https://uwaterloo.ca/
+            logo: waterloo_centre_for_microbial_research.svg
+            twitter: https://twitter.com/UWaterloo
+            crunchbase: https://www.crunchbase.com/organization/university-of-waterloo
+            crunchbase_data:
+              name: University of Waterloo
+              description: University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://uwaterloo.ca
+              city: Waterloo
+              region: Ontario
+              country: Canada
+              twitter: http://twitter.com/uWaterloo
+              linkedin: https://www.linkedin.com/edu/university-of-waterloo-10875
+              acquisitions: []
+              parents: []
+              funding: 1900000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: waterloo-centre-for-microbial-research.svg
+              hash: TWLhMbIjrO0CafpF++IKVbYthcQ9/lHZy9r3FdsLsog=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-18T13:01:08.000Z
 twitter_options:
   count: 15
   since_id: '1312038273678635010'
