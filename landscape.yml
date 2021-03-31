@@ -109,8 +109,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/guam-department-of-public-health-and-social-services
           - item:
             name: Ireland (COVID Tracker)
-            description: COVID Tracker is a free app for your mobile phone. It will help us to protect each other and slow the spread of coronavirus (COVID-19) in
-              Ireland.
+            description: COVID Tracker is a free app for your mobile phone. It will help us to protect each other and slow the spread of coronavirus (COVID-19) in Ireland.
             homepage_url: https://covidtracker.gov.ie/
             repo_url: https://github.com/HSEIreland/covid-tracker-app
             project_org: https://github.com/HSEIreland
@@ -592,8 +591,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kuwait-central-agency-for-information-technology
           - item:
             name: Philippines (StaySafe PH)
-            description: Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing
-              system.
+            description: Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing system.
             homepage_url: https://www.staysafe.ph/
             logo: philippines.svg
             crunchbase: https://www.crunchbase.com/organization/philippines-department-of-health
@@ -799,7 +797,7 @@ landscape:
               COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: https://covid19.apple.com/contacttracing
             logo: gaen.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: Google Apple Exposure Notification (GAEN) - Google
@@ -808,7 +806,7 @@ landscape:
               COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: https://www.google.com/covid19/exposurenotifications/
             logo: gaen.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Safe2 Protocol
@@ -1001,13 +999,11 @@ landscape:
             name: Doc.ai
             homepage_url: https://doc.ai/
             logo: docai.svg
-            twitter: https://twitter.com/_doc_ai
             crunchbase: https://www.crunchbase.com/organization/doc-ai
           - item:
             name: International Business Machines Corporation (IBM)
-            homepage_url: https://ibm.com/
+            homepage_url: https://www.ibm.com/us-en
             logo: international_business_machines_corporation_ibm.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: NearForm
@@ -1030,7 +1026,6 @@ landscape:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
       - subcategory:
         name: General
@@ -1039,7 +1034,6 @@ landscape:
             name: MotionMobs
             homepage_url: https://motionmobs.com/
             logo: motionmobs.svg
-            twitter: https://twitter.com/motionmobs
             crunchbase: https://www.crunchbase.com/organization/motionmobs
           - item:
             name: WeHealth Solutions PBC
@@ -1052,9 +1046,8 @@ landscape:
         items:
           - item:
             name: Boston Public Health Commission
-            homepage_url: https://bphc.org/
+            homepage_url: https://bphc.org/Pages/default.aspx
             logo: boston_public_health_commission.svg
-            twitter: https://twitter.com/HealthyBoston
             crunchbase: https://www.crunchbase.com/organization/boston-public-health-commission
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
@@ -1068,22 +1061,21 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cste
           - item:
             name: Covid Watch
-            homepage_url: https://covidwatch.org/
+            homepage_url: https://www.wehealth.org/arizona
             logo: covid_watch.svg
-            twitter: https://twitter.com/CovidWatch
             crunchbase: https://www.crunchbase.com/organization/covid-watch
           - item:
             name: Fachhochschule Kiel
-            homepage_url: https://fh-kiel.de/
-            logo: fachhochschule_kiel.svg
-            twitter: https://twitter.com/fh_kiel
-            crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
             description: >-
               With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
               Sciences in Schleswig-Holstein
+            homepage_url: https://www.fh-kiel.de/startseite
+            logo: fachhochschule_kiel.svg
+            twitter: https://twitter.com/fh_kiel
+            crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
           - item:
             name: Health Service Executive Ireland
-            homepage_url: https://hse.ie/
+            homepage_url: https://www.hse.ie/eng
             logo: health_service_executive_ireland.svg
             twitter: https://twitter.com/HSELive
             crunchbase: https://www.crunchbase.com/organization/ireland-health-service-executive
@@ -1097,7 +1089,6 @@ landscape:
             name: North Carolina Department of Health and Human Services
             homepage_url: https://ncdhhs.gov/
             logo: north_carolina_department_of_health_and_human_services.svg
-            twitter: https://twitter.com/ncdhhs
             crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
           - item:
             name: Onom Foundation
@@ -1106,21 +1097,19 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/onom-foundation
           - item:
             name: OpenUK
+            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
-            description: Where the UK’s Open communities meet and collaborate
           - item:
             name: U.S. Digital Response
-            homepage_url: https://usdigitalresponse.org/
-            logo: us_digital_response.svg
-            twitter: https://twitter.com/USDResponse
-            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
             description: >-
               Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
               deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
               you within hours.
+            homepage_url: https://usdigitalresponse.org/
+            logo: us_digital_response.svg
+            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
           - item:
             name: Waterloo Centre for Microbial Research
             homepage_url: https://uwaterloo.ca/
