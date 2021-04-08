@@ -28,10 +28,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             github_data:
               description: Aus Liebe zum Menschen
               contributors_count: 22
-              contributions: 0;0;21;5;52;42;63;134;165;368;169;68;18;2;5;13;0;2;0;5;16;11;5;0;0;0;0;0;0;0;1;0;6;2;12;25;28;0;0;0;20;24;8;10;54;18;2;8;12;0;2;24
+              contributions: 0;0;21;7;63;35;119;105;211;322;151;57;14;2;14;4;0;2;2;12;12;6;5;0;0;0;0;0;0;0;1;4;2;2;20;23;22;0;0;0;20;24;8;56;16;10;2;14;6;0;22;4
               stars: 455
               languages:
                 - name: Kotlin
@@ -102,6 +104,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: bermuda-we-health-bermuda.svg
               hash: NyU13Ob6OwaJJOtdcmPVVqWnjlRRl5LN8fGu/aFLnOQ=
@@ -109,7 +114,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:59:07.000Z
+              latest_tweet_date: 2021-04-07T23:17:51.000Z
           - item:
             name: Brazil (Coronavírus-SUS)
             description: The Ministry of Health of Brazil launches the Coronavírus-SUS app with the objective of raising awareness about the Corona Virus COVID-19.
@@ -130,6 +135,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Government
+                - Information Technology
             image_data:
               fileName: brazil-coronav-rus-sus.svg
               hash: 5gKI5abeadMAYnhuG2VeFhYuO5Eewfl3lfLUBc87mg0=
@@ -161,13 +170,16 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: TypeScript
-                  value: 585768
+                  value: 583803
                   color: '#2b7489'
                 - name: Python
-                  value: 388488
+                  value: 389189
                   color: '#3572A5'
                 - name: Go
                   value: 303652
@@ -209,13 +221,13 @@ landscape:
                 - name: Starlark
                   value: 602
               contributions: >-
-                0;0;1;0;0;17;144;95;70;69;442;611;326;479;317;294;168;98;138;77;127;49;104;95;101;90;41;60;31;27;31;26;23;33;30;22;25;0;15;35;22;17;82;52;61;55;102;136;81;74;66;51
+                0;1;0;0;0;28;145;106;64;81;575;472;425;412;320;296;136;86;138;98;100;58;95;91;112;82;42;58;27;35;19;29;23;45;22;31;9;3;24;28;19;31;82;44;62;62;122;124;81;73;71;37
               firstWeek: 2020-04-12Z
               stars: 1183
               license: Apache License 2.0
               description: Exposure notification client application / Application client de notification d'exposition
-              latest_commit_date: '2021-04-06T21:15:21Z'
-              latest_commit_link: /cds-snc/covid-alert-app/commit/48440f926ab441183309f282bec835415a273b03
+              latest_commit_date: '2021-04-07T13:41:13Z'
+              latest_commit_link: /cds-snc/covid-alert-app/commit/43d171cbfba31a73549970edda5ac0f762fcbfce
               release_date: '2021-04-06T18:30:39Z'
               release_link: https://github.com/cds-snc/covid-alert-app/releases
               contributors_count: 83
@@ -265,10 +277,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             github_data:
               description: The official COVID-19 exposure notification app for Croatia
               contributors_count: 1
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               stars: 22
               languages:
                 - name: Java
@@ -305,7 +320,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:31:35.000Z
+              latest_tweet_date: 2021-04-07T17:04:58.000Z
           - item:
             name: Denmark (Smittestop)
             description: Smittestop allows all of us to help stop the spread of COVID-19.
@@ -326,6 +341,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: denmark-smittestop.svg
               hash: a7Eo5WJNJZ8r8yFC4hdgK0Q0jTd/c69UHhkziDfjpcc=
@@ -354,6 +371,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: ecuador-asi.svg
               hash: zwcOJ3g2uP8gVe1kiVUmF02MkAp2Llt/icBwBEW38ac=
@@ -361,7 +380,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:16:38.000Z
+              latest_tweet_date: 2021-04-08T01:36:18.000Z
           - item:
             name: Estonia (HOIA)
             description: >-
@@ -384,6 +403,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Government
+                - Health Care
             image_data:
               fileName: estonia-hoia.svg
               hash: iUf2sXW+Mhf1ePcOOooSILaIr844UAZaYa1bhEI//NE=
@@ -413,6 +436,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Government
+                - Health Care
             github_data:
               languages:
                 - name: Java
@@ -430,7 +457,7 @@ landscape:
                 - name: Dockerfile
                   value: 2855
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37;22;56;8;20;29;19;6;8;6;5;20;12;6;8;23;14;19;0;1;7;3;5;7;4;11;3;7;5;2;1;0;6
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44;21;55;8;17;37;11;5;8;6;8;16;16;4;7;26;12;17;0;1;9;2;7;5;4;11;3;6;5;3;0;3;3
               firstWeek: 2020-04-12Z
               stars: 327
               license: European Union Public License 1.2
@@ -458,7 +485,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:53:18.000Z
+              latest_tweet_date: 2021-04-08T05:23:51.000Z
           - item:
             name: Germany (Corona-Warn-App)
             description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
@@ -481,21 +508,28 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Education
+                - Government
+                - Health Care
+                - Medical
             github_data:
               description: The official COVID-19 exposure notification app for Germany.
               contributors_count: 310
               contributions: >-
-                0;0;0;18;48;227;172;714;1661;976;351;195;237;235;194;162;143;171;206;156;170;197;248;214;375;308;297;338;370;256;399;333;470;385;409;529;482;182;171;278;497;463;436;557;686;561;570;358;506;542;607;226
-              stars: 9993
+                0;0;0;24;66;249;142;928;1669;808;323;191;246;237;189;144;148;188;215;120;188;200;236;249;344;371;263;340;358;276;383;404;435;387;404;594;380;176;186;312;509;429;461;652;609;582;472;419;509;566;586;321
+              stars: 9997
               languages:
                 - name: Swift
-                  value: 3824837
+                  value: 3843570
                   color: '#ffac45'
                 - name: Kotlin
                   value: 3147154
                   color: '#F18E33'
                 - name: Java
-                  value: 2460036
+                  value: 2461824
                   color: '#b07219'
                 - name: HTML
                   value: 926842
@@ -516,7 +550,7 @@ landscape:
                   value: 21001
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 17592
+                  value: 17601
                   color: '#384d54'
                 - name: FreeMarker
                   value: 12191
@@ -540,11 +574,11 @@ landscape:
               - url: https://github.com/corona-warn-app/cwa-app-android
                 stars: 2225
               - url: https://github.com/corona-warn-app/cwa-documentation
-                stars: 3343
+                stars: 3344
               - url: https://github.com/corona-warn-app/cwa-server
                 stars: 1703
               - url: https://github.com/corona-warn-app/cwa-app-ios
-                stars: 1570
+                stars: 1572
               - url: https://github.com/corona-warn-app/cwa-website
                 stars: 480
               - url: https://github.com/corona-warn-app/cwa-verification-server
@@ -554,7 +588,7 @@ landscape:
               - url: https://github.com/corona-warn-app/cwa-testresult-server
                 stars: 88
               - url: https://github.com/corona-warn-app/cwa-wishlist
-                stars: 68
+                stars: 69
               - url: https://github.com/corona-warn-app/cwa-verification-iam
                 stars: 46
               - url: https://github.com/corona-warn-app/cwa-backlog
@@ -579,7 +613,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T09:41:19.000Z
+              latest_tweet_date: 2021-04-07T10:41:31.000Z
           - item:
             name: Gibraltar (Beat COVID)
             description: >-
@@ -602,6 +636,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: gibraltar-beat-covid.svg
               hash: 0UVC8KHxjxiQ2XjnoKGJG+t+ZBWZSKxlDonR3BVltT8=
@@ -630,6 +666,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: guam-guam-covid-alert.svg
               hash: SuvEfPIiufJJFIrR7cJ0B+OLbq5tcjslmaaBqBVsU84=
@@ -660,11 +699,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               description: Health Service Executive
               contributors_count: 20
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;12;4;0;5;8;50;25;29;35;13;30;26;23;14;1;0;3;4;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;8;0;0;0;0;0;1;0
-              stars: 614
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;16;0;0;10;3;58;20;28;37;15;33;17;32;5;1;0;3;4;0;0;0;0;2;0;0;0;0;0;0;0;0;0;7;1;0;0;0;0;0;1;0
+              stars: 613
               languages:
                 - name: TypeScript
                   value: 639772
@@ -712,7 +753,7 @@ landscape:
               contributors_link: https://github.com/HSEIreland/covid-tracker-app/graphs/contributors
             repos:
               - url: https://github.com/HSEIreland/covid-tracker-app
-                stars: 422
+                stars: 421
               - url: https://github.com/HSEIreland/covid-tracker-backend-api
                 stars: 77
               - url: https://github.com/HSEIreland/covid-tracker-infra
@@ -749,7 +790,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:54:46.000Z
+              latest_tweet_date: 2021-04-07T18:10:16.000Z
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
@@ -771,6 +812,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: Swift
@@ -799,7 +843,7 @@ landscape:
                   color: '#89e051'
                 - name: Smarty
                   value: 200
-              contributions: 0;0;0;0;0;0;163;334;292;106;37;67;23;21;2;17;6;2;0;1;0;42;25;30;1;2;4;5;7;68;8;0;0;0;0;8;16;0;0;1;9;5;7;3;3;3;1;0;2;4;4;4
+              contributions: 0;0;0;0;0;0;250;300;280;66;62;41;33;11;7;16;2;2;0;1;15;27;31;25;0;2;4;6;6;68;8;0;0;0;0;15;9;0;0;2;9;4;8;5;0;3;1;0;2;4;4;4
               firstWeek: 2020-04-12Z
               stars: 1463
               license: GNU Affero General Public License v3.0
@@ -827,7 +871,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:19:58.000Z
+              latest_tweet_date: 2021-04-07T19:05:11.000Z
           - item:
             name: Japan (COCOA)
             description: >-
@@ -850,6 +894,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: japan-cocoa.svg
               hash: C5KDOiUBZn0cR3vf/CU+7sjGKQA9gE0oal7YL4avpIM=
@@ -877,6 +924,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: latvia-apturi-covid.svg
               hash: /qsrZs1Qzib0fyGOhQsccIigtg31F2cIhugroex45Y0=
@@ -884,7 +934,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:29:24.000Z
+              latest_tweet_date: 2021-04-07T13:17:18.000Z
           - item:
             name: Malta (COVID Alert Malta)
             description: >-
@@ -910,15 +960,20 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - GovTech
+                - Government
+                - Politics
             github_data:
               description: ''
               contributors_count: 42
               contributions: >-
-                14;30;42;102;53;104;145;93;97;206;188;38;51;136;70;161;80;17;29;48;66;47;72;96;56;62;24;85;95;36;24;7;15;6;16;3;12;0;2;3;2;9;12;9;3;0;0;0;0;6;0;0
+                17;33;39;106;64;113;150;82;95;232;160;24;63;128;84;153;67;19;28;71;52;52;75;86;53;62;31;74;119;15;21;15;12;4;12;5;10;0;3;3;1;11;15;4;3;0;0;0;4;2;0;1
               stars: 2
               languages:
                 - name: Java
-                  value: 1111575
+                  value: 1111713
                   color: '#b07219'
                 - name: Swift
                   value: 553863
@@ -986,7 +1041,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T09:58:54.000Z
+              latest_tweet_date: 2021-04-07T15:34:56.000Z
           - item:
             name: New Zealand (NZ COVID Tracer)
             description: NZ COVID Tracer helps you protect yourself, your friends, your whānau and your community by enabling faster contact tracing.
@@ -1009,12 +1064,15 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               description: >-
                 Kia ora. The Ministry of Health - Manatū Hauora works across the health sector to deliver better health outcomes for New Zealanders. IN AN
                 EMERGENCY, CALL 111
               contributors_count: 1
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;3;0;0;1;0;1;0;0;0;1;1;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;3;0;1;0;0;1;0;0;0;1;1;1
               stars: 359
               languages:
                 - name: TypeScript
@@ -1065,7 +1123,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:54:28.000Z
+              latest_tweet_date: 2021-04-08T01:22:42.000Z
           - item:
             name: Poland (STOP COVID)
             description: STOP COVID is an application that is effective in helping to contain the spread of the coronavirus.
@@ -1088,11 +1146,14 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             github_data:
               description: ''
               contributors_count: 49
               contributions: >-
-                61;254;382;129;82;114;185;199;115;29;54;22;23;9;18;23;31;31;64;68;42;58;66;58;3;42;74;92;150;74;42;73;60;20;97;86;103;9;12;7;2;8;16;11;9;19;18;25;22;51;10;1
+                62;310;353;112;69;146;184;176;100;41;48;21;19;6;24;23;32;30;83;52;37;72;69;40;0;62;73;90;141;76;36;79;58;26;101;88;84;11;9;7;7;5;17;8;11;24;17;19;31;43;10;4
               stars: 459
               languages:
                 - name: JavaScript
@@ -1159,7 +1220,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:12:41.000Z
+              latest_tweet_date: 2021-04-07T14:52:33.000Z
           - item:
             name: Portugal (STAYAWAY COVID)
             description: >-
@@ -1186,10 +1247,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             github_data:
               description: The official COVID-19 exposure notification app for Portugal.
               contributors_count: 17
-              contributions: 0;0;0;0;0;0;1;6;9;9;10;1;0;5;0;10;42;35;30;5;7;10;10;12;3;7;13;11;14;21;0;3;6;5;1;2;6;0;2;0;4;5;3;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;1;6;10;13;5;1;0;5;0;14;56;23;25;4;11;6;12;10;4;10;9;12;19;15;0;3;9;3;1;5;2;0;2;0;5;5;2;0;0;0;0;0;0;0;0;0
               stars: 472
               languages:
                 - name: JavaScript
@@ -1270,6 +1333,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: saudi-arabia-tabaud.svg
               hash: UuhY32Kb9ysRD+btVxWFT4Q9QGHLZsEEnMGNAB104Jo=
@@ -1277,7 +1343,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:23:16.000Z
+              latest_tweet_date: 2021-04-07T20:57:39.000Z
           - item:
             name: Spain (Radar COVID)
             description: >-
@@ -1302,10 +1368,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Association
             github_data:
               description: The official COVID-19 exposure notification app for Spain.
               contributors_count: 16
-              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;136;100;73;94;105;78;117;111;64;55;12;0;0;1;34;0;1;12;17;16;36;9;24;13;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20;140;96;66;110;86;92;121;93;55;60;6;0;0;1;34;1;2;17;11;25;29;10;27;6;0;0;0;0;0;0
               stars: 815
               languages:
                 - name: Java
@@ -1375,7 +1444,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:43:21.000Z
+              latest_tweet_date: 2021-04-08T06:12:23.000Z
           - item:
             name: Switzerland (SwissCovid)
             description: The app provides information on suspected infections. In this way, the chain of infection can be broken.
@@ -1398,6 +1467,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
+                - Non Profit
             github_data:
               languages:
                 - name: Java
@@ -1444,7 +1517,7 @@ landscape:
                   value: 180
                   color: '#555555'
               contributions: >-
-                32;194;332;249;142;221;250;172;145;302;283;76;58;173;97;180;78;24;31;69;75;67;100;98;65;91;45;128;114;51;24;13;21;16;55;15;140;0;0;0;6;16;3;0;3;13;34;111;62;38;3;0
+                60;204;338;222;164;223;271;158;118;336;269;40;66;171;117;162;71;20;30;94;61;76;92;89;82;79;62;108;133;32;23;13;24;13;50;44;111;0;0;0;9;15;1;1;4;14;43;139;30;30;3;0
               firstWeek: 2020-04-12Z
               stars: 997
               license: Mozilla Public License 2.0
@@ -1484,7 +1557,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-01T13:44:12.000Z
+              latest_tweet_date: 2021-04-07T13:11:19.000Z
           - item:
             name: United Kingdom - England and Wales (NHS COVID-19)
             description: The free NHS COVID-19 app is a vital part of the NHS Test and Trace service in England, and the NHS Wales Test, Trace, Protect service.
@@ -1506,6 +1579,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
+                - Information Technology
             image_data:
               fileName: united-kingdom-england-and-wales-nhs-covid-19.svg
               hash: fOH6XgxgrfvK1QREz7q0p2LDjvGFYvDfNbxmL1SOcsI=
@@ -1513,7 +1590,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T14:38:57.000Z
+              latest_tweet_date: 2021-04-07T15:33:56.000Z
           - item:
             name: United Kingdom - Northern Ireland (StopCOVID NI)
             description: This app, from our health service, tells you automatically if you’ve been near someone who tests positive for COVID-19.
@@ -1535,6 +1612,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-kingdom-northern-ireland-stop-covid-ni.svg
               hash: BIX+U/9i+PfGkeS3HwBVllZT+sCcfM0uwGnnO9PA8Pc=
@@ -1566,6 +1646,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: TypeScript
@@ -1594,7 +1677,7 @@ landscape:
                 - name: Swift
                   value: 35
                   color: '#ffac45'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 41
               license: Apache License 2.0
@@ -1616,7 +1699,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:00:25.000Z
+              latest_tweet_date: 2021-04-07T14:01:04.000Z
           - item:
             name: United States - Alabama (GuideSafe)
             description: Protect Your Community. Protect Your Privacy. Protect Your Life. Stop the Spread of COVID in Alabama.
@@ -1637,6 +1720,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-alabama-guide-safe.svg
               hash: bH4dFBl+e7EYGUnwRF/o6R69vOxXtXIg7RIb09lfQDI=
@@ -1644,7 +1730,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:48:22.000Z
+              latest_tweet_date: 2021-04-07T21:06:03.000Z
           - item:
             name: United States - Connecticut (COVID Alert CT)
             description: COVID Alert CT is a voluntary, anonymous, exposure-notification smartphone app.
@@ -1665,6 +1751,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-connecticut-covid-alert-ct.svg
               hash: a3RFwtzs8O8/juZMj/vekMnVZpO+Lz2SVJD+DYlv3HQ=
@@ -1693,6 +1782,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Government
+                - Health Care
+                - Non Profit
+                - Social
             image_data:
               fileName: united-states-delaware-covid-alert-de.svg
               hash: yGpBq3TNz3El1eFl3Fqlud9zSVBLacd9UOErEhKCegA=
@@ -1700,7 +1795,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:40:40.000Z
+              latest_tweet_date: 2021-04-07T20:36:21.000Z
           - item:
             name: United States - Louisiana (COVID Defense)
             description: By adding this free app to your phone, you can help protect your friends, family, and community from COVID-19 by getting exposure alerts.
@@ -1723,6 +1818,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: united-states-louisiana-covid-defense.svg
               hash: TmJ/IgEfygQiIuVtVBtxaCtRrBQmXRjJZ06J6NZYHpM=
@@ -1730,7 +1827,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:40:55.000Z
+              latest_tweet_date: 2021-04-07T16:59:29.000Z
           - item:
             name: United States - Michigan (MI COVID Alert)
             description: >-
@@ -1753,6 +1850,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: united-states-michigan-mi-covid-alert.svg
               hash: JY2DbiBefI/vJpMeLj8VFy96TciHeuz8QkZ0DVB+SDo=
@@ -1781,6 +1880,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: united-states-minnesota-covi-daware-mn.svg
               hash: PLgRoQvaSBqPc2k+cRT8W5FYNCxe3flEmAyLddNUl7I=
@@ -1788,7 +1889,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:51:05.000Z
+              latest_tweet_date: 2021-04-08T00:33:16.000Z
           - item:
             name: United States - Nevada (COVID Trace)
             description: COVID Trace is a free, easy-to-use mobile phone app that gives us the information we need to fight COVID-19, without compromising your privacy.
@@ -1810,6 +1911,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-nevada-covid-trace.svg
               hash: GXnHqfaD4/L1CNzByaoIuGshPomqlxGvFyD3932jrOQ=
@@ -1817,7 +1921,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:26:54.000Z
+              latest_tweet_date: 2021-04-08T02:00:17.000Z
           - item:
             name: United States - New Jersey (COVID Alert NJ)
             description: >-
@@ -1840,6 +1944,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: united-states-new-jersey-covid-alert-nj.svg
               hash: zHg2yS2cGR5gViLfHVddgyXYhHAyMTAey8HKh6SDpR8=
@@ -1847,7 +1953,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T14:26:20.000Z
+              latest_tweet_date: 2021-04-07T18:47:28.000Z
           - item:
             name: United States - New York (COVID Alert NY)
             description: >-
@@ -1872,10 +1978,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               description: Covid Alert NY
               contributors_count: 74
-              contributions: 5;56;45;69;93;104;44;55;43;31;13;15;18;7;33;8;49;50;66;102;106;126;125;60;61;45;15;14;15;11;24;32;21;8;0;26;8;0;1;8;3;29;3;2;3;10;4;9;1;0;15;0
+              contributions: 11;54;50;76;94;97;49;51;41;24;12;18;15;13;32;2;56;52;64;106;127;130;96;72;51;39;13;26;7;12;22;33;17;7;4;28;2;0;5;4;10;22;3;2;3;10;4;10;0;5;10;0
               stars: 6
               languages:
                 - name: Go
@@ -1955,7 +2064,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:22:00.000Z
+              latest_tweet_date: 2021-04-07T20:55:20.000Z
           - item:
             name: United States - North Carolina (SlowCOVIDNC)
             description: It’s easy. All you have to do is download SlowCOVIDNC and you can help slow the spread of COVID-19.
@@ -1976,6 +2085,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-north-carolina-slow-covidnc.svg
               hash: hEx8O5kasPZSzW1YZ4DhsEDQG3EW7+Qg/VWwD08FbjA=
@@ -1983,7 +2095,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:40:41.000Z
+              latest_tweet_date: 2021-04-08T01:54:58.000Z
           - item:
             name: United States - North Dakota (Care19 Alert)
             description: >-
@@ -2006,6 +2118,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-north-dakota-care19-alert.svg
               hash: I5AJ1NWdngTlISBRzU5NkJRF2BrO3+/wLyaa7uPf/aM=
@@ -2013,7 +2128,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:14:41.000Z
+              latest_tweet_date: 2021-04-08T01:16:47.000Z
           - item:
             name: United States - Pennsylvania (COVID Alert PA)
             description: >-
@@ -2036,6 +2151,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: united-states-pennsylvania-covid-alert-pa.svg
               hash: 6kuxK+R9u3zP9kaLTWjwuJXJisPh6ThlbgFhVkUc/Sk=
@@ -2043,7 +2160,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:30:00.000Z
+              latest_tweet_date: 2021-04-07T20:47:55.000Z
           - item:
             name: United States - Virginia (COVIDWISE)
             description: Download Virginia’s free COVIDWISE Exposure Notifications app to help protect your community while protecting your privacy.
@@ -2064,6 +2181,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: united-states-virginia-covidwise.svg
               hash: 9UPvgXnr/+tSMrK4MYBBSOE60YtWaunWIYlO4CLS1KY=
@@ -2071,7 +2190,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:55:02.000Z
+              latest_tweet_date: 2021-04-07T20:20:03.000Z
           - item:
             name: United States - Wyoming (Care19 Alert)
             description: Care19 Alert is the official COVID-19 exposure notification app for North Dakota and Wyoming as authorized by each states Department of Health.
@@ -2092,6 +2211,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: united-states-wyoming-care19-alert.svg
               hash: qm1ckG+/7XEmHMM2l8FYr9a0BejdBK/4DnvbhV22PDs=
@@ -2118,6 +2239,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: uruguay-coronavirus-uy.svg
               hash: eiCtbZU180KowWBJ54NDT/mt9ATra/oJO6MyL7X5hzk=
@@ -2125,7 +2249,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:04:44.000Z
+              latest_tweet_date: 2021-04-08T00:12:36.000Z
       - subcategory:
         name: GAEN EN Express
         items:
@@ -2151,6 +2275,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
             image_data:
               fileName: united-states-california-california-covid-notify.svg
               hash: cbGpxWjfFAYlmOqTsYlGPDN+CiTe3OEpCxt+d5+Brtk=
@@ -2158,7 +2286,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:01:24.000Z
+              latest_tweet_date: 2021-04-07T23:04:27.000Z
           - item:
             name: United States - Colorado (CO Exposure Notifications)
             description: Exposure Notifications is a voluntary new service available on both iPhone and Android phones that helps slow the spread of COVID-19.
@@ -2179,6 +2307,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-colorado-co-exposure-notifications.svg
               hash: l0fz+xvokQpAU5FJohAB2dGHjKziY03iwI1XfnAimEQ=
@@ -2186,7 +2317,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:00:52.000Z
+              latest_tweet_date: 2021-04-07T23:42:48.000Z
           - item:
             name: United States - District of Columbia (DC CAN)
             description: Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy.
@@ -2207,6 +2338,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Internet
+                - Online Portals
             image_data:
               fileName: united-states-district-of-columbia-dc-can.svg
               hash: Cj2Yq7wnWEc0tVK/k+A/sTe1W2Qkeq7396+bAr1G8ew=
@@ -2214,7 +2350,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:00:23.000Z
+              latest_tweet_date: 2021-04-07T23:29:18.000Z
           - item:
             name: United States - Hawaii (Aloha Safe Alert)
             description: AlohaSafe Alert is a free, voluntary new service that helps slow the spread of COVID-19.
@@ -2235,6 +2371,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-hawaii-aloha-safe-alert.svg
               hash: yG/8J8O6zdbdRkm8La1ZpIjsNvS2KiG+8+g6yAKjrCU=
@@ -2242,7 +2381,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:00:00.000Z
+              latest_tweet_date: 2021-04-07T23:00:00.000Z
           - item:
             name: United States - Maryland (MD COVID Alert)
             description: >-
@@ -2265,6 +2404,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Government
+                - Health Care
+                - Non Profit
             image_data:
               fileName: united-states-maryland-md-covid-alert.svg
               hash: O2boDnVgdL4G9uF7xLCymx1S7qa5v41AIarWXQGn5ns=
@@ -2272,7 +2416,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:01:00.000Z
+              latest_tweet_date: 2021-04-07T19:21:44.000Z
           - item:
             name: United States - Utah (UT Exposure Notifications)
             description: >-
@@ -2296,6 +2440,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Information Technology
             image_data:
               fileName: united-states-utah-ut-exposure-notifications.svg
               hash: KLNNYustHA07srlEnUPX6tiEEuDQx700z/pJsIbQzUg=
@@ -2303,7 +2451,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:59:13.000Z
+              latest_tweet_date: 2021-04-08T01:13:02.000Z
           - item:
             name: United States - Washington (WA Notify)
             description: >-
@@ -2326,6 +2474,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-washington-wa-notify.svg
               hash: 6bfJdKbTc3az1pyzT712VcrNjK9HJzh+A99EfeqCgAc=
@@ -2333,7 +2484,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:00:01.000Z
+              latest_tweet_date: 2021-04-08T02:44:54.000Z
           - item:
             name: United States - Wisconsin (WI Exposure Notifications)
             description: >-
@@ -2356,6 +2507,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-wisconsin-wi-exposure-notifications.svg
               hash: 7iYRWutYjRaXjgM3b4Duh5iE978kGObLexxrr6yPLO4=
@@ -2363,7 +2517,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:30:00.000Z
+              latest_tweet_date: 2021-04-07T23:30:00.000Z
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -2388,6 +2542,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Information Technology
+                - Non Profit
             github_data:
               languages:
                 - name: Kotlin
@@ -2399,9 +2557,9 @@ landscape:
                 - name: Shell
                   value: 1096
                   color: '#89e051'
-              contributions: 0;0;0;0;1;1;1;0;1;0;1;0;1;0;1;0;0;1;2;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;2;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0
+              contributions: 0;0;0;0;1;1;1;0;1;0;1;0;1;0;1;0;1;0;2;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;2;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0
               firstWeek: 2020-04-12Z
-              stars: 364
+              stars: 365
               license: Other
               description: COVIDSafe android app
               latest_commit_date: '2021-03-22T05:48:41Z'
@@ -2410,7 +2568,7 @@ landscape:
               contributors_link: https://github.com/AU-COVIDSafe/mobile-android/graphs/contributors
             repos:
               - url: https://github.com/AU-COVIDSafe/mobile-android
-                stars: 364
+                stars: 365
             github_start_commit_data:
               start_commit_link: /AU-COVIDSafe/mobile-android/commit/b827cf3ccef72a3d38c6fc37466a99868823540f
               start_date: '2020-05-08T05:23:03Z'
@@ -2440,6 +2598,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: azerbaijan-e-tabib.svg
               hash: f4OunJkSpgXTIq/aXOlK1pQV3QXCUEHhGDkbo3afnK0=
@@ -2447,7 +2607,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T16:29:15.000Z
+              latest_tweet_date: 2021-04-07T14:32:54.000Z
           - item:
             name: Canada - Alberta (ABTraceTogether)
             description: Albertans can support reopening businesses while continuing to act responsibly to prevent the spread.
@@ -2468,6 +2628,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             image_data:
               fileName: canada-alberta-ab-trace-together.svg
               hash: AaVCR1YkdVogQ6UU1ZeGhobxlAXbtoGlGe1lkOjo560=
@@ -2475,7 +2638,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:39:29.000Z
+              latest_tweet_date: 2021-04-07T22:40:01.000Z
           - item:
             name: Colombia (CoronApp)
             description: Evaluate your health and receive recommendations on COVID-19 using the official application of the National Government of Colombia.
@@ -2496,6 +2659,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: colombia-coron-app.svg
               hash: nPKu8Sv+McnIGmQbheEaVl9UHTatruUdMZlLEdjeWrE=
@@ -2525,6 +2690,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: cyprus-cov-tracer.svg
               hash: dE9v/Ir7dhbZOHwwScca3GA8bkfsifrUSEbZs5GRiHM=
@@ -2554,6 +2721,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: Kotlin
@@ -2565,7 +2735,7 @@ landscape:
                 - name: Shell
                   value: 384
                   color: '#89e051'
-              contributions: 35;26;2;1;7;2;1;0;0;0;0;0;0;0;5;3;2;4;11;9;31;24;27;22;15;4;7;13;22;25;5;3;9;6;2;2;2;0;1;1;0;1;3;4;7;6;1;0;10;23;7;0
+              contributions: 44;16;3;0;7;3;0;0;0;0;0;0;0;1;4;3;2;7;13;7;32;20;29;23;14;3;9;13;32;12;7;2;11;3;2;4;0;0;1;1;0;1;3;4;8;5;1;1;12;22;5;0
               firstWeek: 2020-04-12Z
               stars: 198
               license: MIT License
@@ -2609,6 +2779,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Government
+                - Non Profit
             repos:
               - url: https://gitlab.inria.fr/stopcovid19/stopcovid-android
               - url: https://gitlab.inria.fr/stopcovid19/stopcovid-ios
@@ -2620,7 +2794,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:45:02.000Z
+              latest_tweet_date: 2021-04-07T20:00:37.000Z
           - item:
             name: Hungary (VirusRadar)
             description: >-
@@ -2643,6 +2817,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: hungary-virus-radar.svg
               hash: ssDpASFce86FekihOnDVYusU2BPgKNhlTFZR7IFOf0c=
@@ -2669,6 +2845,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: malaysia-my-trace.svg
               hash: po6FJ+bXd9aELRhiOcDazW8qR3GwKdVvLHXWFrTRcfo=
@@ -2676,7 +2854,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:06:18.000Z
+              latest_tweet_date: 2021-04-08T01:46:39.000Z
           - item:
             name: Mexico (CovidRadar.mx)
             description: >-
@@ -2699,6 +2877,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Government
+                - Non Profit
             image_data:
               fileName: mexico-covid-radar-mx.svg
               hash: wmXAZvqC975myvJiZt6o6E4Ueizy0LMkIzEgvq0ejYg=
@@ -2728,6 +2910,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: north-macedonia-stop-korona.svg
               hash: ABZYBdyRzfVLMe1uAf71ms5S6nfA8WSW9UVfqjNYLA0=
@@ -2758,10 +2943,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               description: OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19
               contributors_count: 10
-              contributions: 19;4;0;9;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 21;2;0;9;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               stars: 1349
               languages:
                 - name: Kotlin
@@ -2803,7 +2991,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T14:01:44.000Z
+              latest_tweet_date: 2021-04-07T14:13:04.000Z
           - item:
             name: United Arab Emirates (TraceCovid)
             description: When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.
@@ -2824,6 +3012,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
+                - Non Profit
             image_data:
               fileName: united-arab-emirates-trace-covid.svg
               hash: Zjpvlz8cnP6YrFIZyqpoFKKTfEk5ctNBB8Bn6Jnwymk=
@@ -2831,7 +3023,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:36:31.000Z
+              latest_tweet_date: 2021-04-08T06:02:29.000Z
       - subcategory:
         name: GPS-based
         items:
@@ -2857,6 +3049,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Information Technology
             image_data:
               fileName: bahrain-be-aware.svg
               hash: 4kXiAKOoXGsdmZs8wXZaz2bGngFDTmSRGPPwxu1mclM=
@@ -2864,7 +3060,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T11:03:53.000Z
+              latest_tweet_date: 2021-04-07T12:31:30.000Z
           - item:
             name: Brunei (BruHealth)
             description: >-
@@ -2888,6 +3084,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: brunei-bru-health.svg
               hash: o2lCUFrjiKLfoyMHEUu2l0PWKTUq2aSS/elKMXCojR8=
@@ -2917,6 +3115,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: Kotlin
@@ -2928,7 +3129,7 @@ landscape:
                 - name: Shell
                   value: 379
                   color: '#89e051'
-              contributions: 16;19;38;33;8;9;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 17;30;26;33;10;9;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 28
               license: Apache License 2.0
@@ -2969,6 +3170,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: china-health-code.svg
               hash: qxL7U+PqArF/ds5N97Ca4Bzi3ueuA2uwIl25hAYbuBA=
@@ -2995,6 +3199,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: ghana-gh-covid-19-tracker.svg
               hash: jRoMC6rdQrNMrJ1MC0MgankJATO76yLeXsT5PladKqg=
@@ -3021,6 +3227,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: iceland-rakning-c-19.svg
               hash: OytmW6cYAYVyllT+7iNgrUtpkK6dpm3yAl+MwQnyvxI=
@@ -3050,6 +3258,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Information Services
+                - Service Industry
             github_data:
               languages:
                 - name: JavaScript
@@ -3067,7 +3280,7 @@ landscape:
                 - name: CSS
                   value: 1427
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;76;53;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;106;23;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 2805
               license: Other
@@ -3093,7 +3306,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:10:40.000Z
+              latest_tweet_date: 2021-04-08T04:26:53.000Z
           - item:
             organization:
               name: Ministry of Health and Medical Education (MOHME) Iran
@@ -3140,6 +3353,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Government
+                - Health Care
+                - Medical
+                - Non Profit
             github_data:
               languages:
                 - name: TypeScript
@@ -3165,7 +3384,7 @@ landscape:
                 - name: C
                   value: 104
                   color: '#555555'
-              contributions: 13;26;33;34;17;24;20;29;20;35;27;27;8;8;6;1;8;4;9;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 11;32;27;41;11;34;13;27;21;35;29;23;7;13;1;2;8;4;10;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 507
               license: MIT License
@@ -3212,6 +3431,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: kuwait-shlonik.svg
               hash: jDifG1JwHsAfO9JmuIu6oDkU8ujb7lL3iEssrWYqUa0=
@@ -3240,6 +3461,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: philippines-stay-safe-ph.svg
               hash: RiQNb/Y73FVzqkGgelYL0/L9YMVssiY8a8xbkvmLEFg=
@@ -3266,6 +3489,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             image_data:
               fileName: qatar-ehteraz.svg
               hash: fi1BIpGGq0hyoqhbjIgc8n2WelVPtCeDJoJSUguTATE=
@@ -3273,7 +3499,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T06:01:32.000Z
+              latest_tweet_date: 2021-04-08T06:03:15.000Z
           - item:
             name: Turkey (Hayat Eve Sığar)
             description: With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!
@@ -3294,6 +3520,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
+                - Non Profit
             image_data:
               fileName: turkey-hayat-eve-s-ar.svg
               hash: mFC91ovnDW1WVzhJ6Kd/PNCbFMWC04x0gHkV4Amce9s=
@@ -3301,7 +3531,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:11:04.000Z
+              latest_tweet_date: 2021-04-07T20:55:42.000Z
           - item:
             name: United States - Rhode Island (Crush Covid)
             description: >-
@@ -3324,6 +3554,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-rhode-island-crush-covid.svg
               hash: JHH+1SlqDINIvtTGjbVpV0TsnYyjtIRx+N7I31V8v+k=
@@ -3331,7 +3564,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:15:00.000Z
+              latest_tweet_date: 2021-04-07T23:38:00.000Z
           - item:
             name: United States - South Dakota (Care19)
             description: >-
@@ -3354,6 +3587,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: united-states-south-dakota-care19.svg
               hash: pBTWQK4GHaCJzd/4ypnHIcm4k38tw9Qx3GJC2OPdzZs=
@@ -3361,7 +3597,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:21:06.000Z
+              latest_tweet_date: 2021-04-07T21:20:04.000Z
   - category:
     name: Exposure Notification
     subcategories:
@@ -3392,10 +3628,13 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
             github_data:
               description: Open Source COVID-19 GAEN app
               contributors_count: 33
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;6;2;0;16;9;51;43;30;35;13;30;26;28;31;23;18;11;15;16;29;31;15;10;1;20;18;0;3;34;9;16;9;6;4;8;7;9;2;4;13;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;8;0;0;23;2;60;37;29;37;15;33;17;39;24;22;15;16;15;17;23;33;16;8;3;28;7;0;4;36;8;14;11;4;4;9;6;9;4;6;9;0
               stars: 431
               languages:
                 - name: TypeScript
@@ -3494,6 +3733,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               languages:
                 - name: TypeScript
@@ -3525,7 +3767,7 @@ landscape:
                   color: '#C1F12E'
                 - name: Starlark
                   value: 1944
-              contributions: 55;53;44;27;16;29;24;19;33;51;48;33;38;28;85;48;44;39;46;38;31;33;36;40;40;39;21;23;24;18;34;18;20;16;14;17;21;19;10;8;12;5;8;1;3;2;7;6;3;3;2;2
+              contributions: 48;51;49;23;29;17;23;23;30;51;50;38;32;32;85;45;42;47;39;39;31;36;39;33;47;30;26;24;18;20;30;21;22;13;15;16;26;15;9;8;10;5;9;0;3;4;5;6;4;2;3;1
               firstWeek: 2020-04-12Z
               stars: 38
               license: MIT License
@@ -3574,12 +3816,15 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
             github_data:
               description: >-
                 An open source exposure notification solution built with privacy as its top priority. Uses the exposure notification technology provided by
                 Apple and Google.
               contributors_count: 40
-              contributions: 0;0;1;0;0;102;270;107;74;53;65;87;58;56;2;0;1;0;0;0;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;0;0;0;174;223;103;68;44;90;84;49;39;0;0;1;0;0;0;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
               stars: 836
               languages:
                 - name: JavaScript
@@ -3672,10 +3917,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             github_data:
               description: Together, we have the power to stop COVID-19.
               contributors_count: 69
-              contributions: 382;347;443;371;383;297;216;88;98;144;149;85;94;103;184;152;79;87;79;27;13;18;30;5;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;3;0;0;0;1;0;0;0;0
+              contributions: 422;322;433;381;410;257;210;85;96;157;135;89;87;119;189;150;69;71;79;22;15;20;29;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;3;0;0;0;1;0;0;0;0
               stars: 141
               languages:
                 - name: Go
@@ -3803,6 +4050,12 @@ landscape:
               parents: []
               funding: 1270188
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Information Services
+                - Information Technology
+                - Software
               kind: funding
             image_data:
               fileName: spring-ml.svg
@@ -3834,12 +4087,15 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
             github_data:
               languages:
                 - name: Swift
                   value: 279761
                   color: '#ffac45'
-              contributions: 0;0;0;0;0;0;31;26;12;10;8;4;17;28;2;0;4;8;1;1;2;2;0;6;0;0;0;0;1;3;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;31;26;15;9;8;2;30;15;2;0;5;7;1;1;2;2;0;6;0;0;0;0;1;3;2;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 11
               license: MIT License
@@ -3885,6 +4141,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: coalition-app.svg
               hash: Pcp60Ebcz4723apKp/AQ3vrC7z6e/WsBJWAwLPyVMjU=
@@ -3914,6 +4172,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               languages:
                 - name: Swift
@@ -3928,7 +4188,7 @@ landscape:
                 - name: Objective-C
                   value: 132
                   color: '#438eff'
-              contributions: 32;11;40;4;13;17;10;18;50;17;15;27;16;0;0;12;28;8;7;3;2;0;1;1;4;2;0;5;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 29;27;22;6;12;17;11;20;57;8;15;37;3;0;0;17;23;8;7;3;2;0;1;1;4;2;0;5;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 56
               license: MIT License
@@ -3975,11 +4235,21 @@ landscape:
               parents: []
               funding: 87530000
               stockExchange: null
+              company_type: ''
+              industries:
+                - Artificial Intelligence
+                - EdTech
+                - Education
+                - Energy Storage
+                - Higher Education
+                - Machine Learning
+                - Solar
+                - Universities
               kind: funding
             github_data:
               description: A tool to alert you about highly relevant public health announcements, potential exposure to COVID-19, and to assist public health officials.
               contributors_count: 34
-              contributions: 68;223;150;132;5;19;180;123;117;82;76;134;120;17;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 68;253;133;113;7;17;190;151;101;72;114;144;76;1;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               stars: 72
               languages:
                 - name: Java
@@ -4032,7 +4302,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:06:56.000Z
+              latest_tweet_date: 2021-04-08T01:54:23.000Z
           - item:
             name: Covid Safe Paths
             homepage_url: https://pathcheck.org
@@ -4054,11 +4324,14 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             github_data:
               description: PathCheck Foundation is dedicated to containing Covid-19 and revitalizing the economy, while preserving privacy and individual liberty.
               contributors_count: 209
               contributions: >-
-                117;141;243;135;110;127;158;97;250;291;345;190;213;183;185;107;175;118;91;117;58;33;37;42;40;39;21;23;33;21;36;43;193;53;16;31;74;53;85;14;56;27;41;15;80;13;43;91;80;67;27;15
+                101;149;279;101;142;112;141;137;220;338;314;194;197;188;173;116;160;122;93;99;58;36;40;35;47;30;26;24;28;22;41;82;155;45;23;24;94;49;69;33;37;45;22;39;55;20;67;70;83;54;36;6
               stars: 607
               languages:
                 - name: TypeScript
@@ -4217,6 +4490,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Association
+                - Health Care
+                - Service Industry
             github_data:
               languages:
                 - name: Dart
@@ -4257,7 +4535,7 @@ landscape:
                 - name: Objective-C
                   value: 38
                   color: '#438eff'
-              contributions: 27;26;16;12;30;35;4;0;0;0;19;0;2;1;5;1;0;1;8;11;4;1;11;12;14;18;17;31;43;5;7;5;10;8;8;4;28;17;3;4;0;3;0;0;0;2;2;0;1;0;0;3
+              contributions: 26;25;19;9;44;19;4;0;0;0;19;0;2;1;5;1;0;1;8;14;1;1;11;18;9;17;25;26;41;4;7;8;9;6;9;14;18;16;3;4;0;3;0;0;0;2;2;0;1;0;1;2
               firstWeek: 2020-04-12Z
               stars: 2043
               license: Other
@@ -4281,7 +4559,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:41:43.000Z
+              latest_tweet_date: 2021-04-07T21:53:57.000Z
           - item:
             name: CVKey
             description: CVKey Project is on a mission to help communities reopen responsibly during the COVID-19 pandemic without compromising privacy.
@@ -4302,6 +4580,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
             image_data:
               fileName: cv-key.svg
               hash: 9PdlP42wZWr/2GxF9BwOXZPmnh/RNFfHIeMHVgS9zzc=
@@ -4332,6 +4613,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
             image_data:
               fileName: healthy-together.svg
             best_practice_data:
@@ -4360,6 +4644,9 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
             github_data:
               languages:
                 - name: HTML
@@ -4397,7 +4684,7 @@ landscape:
                 - name: Shell
                   value: 354
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;28;49;45;18;26;16;11;64;40;8;0;0;6;5;19;53;55;47;24;32;17;2;2;22;24;19;34;10;10;4;1;2;13;13;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19;26;58;36;21;21;16;23;68;32;0;0;2;4;6;27;54;53;43;22;30;17;2;7;18;27;19;37;3;10;4;1;2;15;11;0;0
               firstWeek: 2020-04-12Z
               stars: 53
               license: Other
@@ -4427,7 +4714,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:00:13.000Z
+              latest_tweet_date: 2021-04-07T21:44:19.000Z
           - item:
             name: ito-app
             homepage_url: https://www.ito-app.org
@@ -4448,6 +4735,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               languages:
                 - name: TypeScript
@@ -4470,7 +4759,7 @@ landscape:
                 - name: Shell
                   value: 596
                   color: '#89e051'
-              contributions: 70;143;39;26;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 101;117;40;19;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 49
               license: GNU General Public License v3.0
@@ -4516,6 +4805,13 @@ landscape:
               parents: []
               funding: 1310000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Crowdsourcing
+                - Education
+                - Internet
+                - Social Media
+                - Video
               kind: funding
             image_data:
               fileName: novid.svg
@@ -4545,6 +4841,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: safe2.svg
               hash: PRAgFYxMDO8vzwgelQ/XABqeL/cC6LCZgLpsC+X45lc=
@@ -4571,6 +4869,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: share-trace.svg
               hash: 8E42DTS6HAnR11JkgjM4V5enXBZYycQou0FZ8Goq+Gw=
@@ -4605,6 +4905,11 @@ landscape:
               parents: []
               funding: 5000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Internet of Things
+                - Telecommunications
               kind: funding
             image_data:
               fileName: nodle-m1.svg
@@ -4621,19 +4926,28 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tended
             crunchbase_data:
               name: Tended
-              description: Tended creates intelligent personal safety systems and accident detection wearables for both consumers and businesses.
+              description: Tended combines wearables and behavioural psychology to prevent workplace accidents and fatalities, and create a positive safety culture.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.tended.co
+              homepage: https://www.tended.co.uk
               city: Lincoln
               region: Lincolnshire
               country: United Kingdom
               twitter: https://twitter.com/tended
-              linkedin: https://www.linkedin.com/company/18223690/
+              linkedin: https://www.linkedin.com/company/tended-ltd
               acquisitions: []
               parents: []
-              funding: 1684949
+              funding: 5438613
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - B2B
+                - Hardware
+                - Machine Learning
+                - Mobile Apps
+                - Public Safety
+                - Wearables
               kind: funding
             image_data:
               fileName: tended.svg
@@ -4669,12 +4983,18 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - 3D Technology
+                - Education
+                - Higher Education
+                - Universities
             github_data:
               languages:
                 - name: Shell
                   value: 76
                   color: '#89e051'
-              contributions: 79;41;48;49;8;9;9;2;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 73;40;55;40;12;9;6;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 2227
               license: Unknown License
@@ -4696,7 +5016,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:10:55.000Z
+              latest_tweet_date: 2021-04-07T18:11:00.000Z
           - item:
             name: Google Apple Exposure Notification (GAEN) - Apple
             description: >-
@@ -4989,9 +5309,16 @@ landscape:
               ticker: AAPL
               funding: 6150230000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Electronics
+                - Hardware
+                - Mobile Devices
+                - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2118826065920
+              market_cap: 2147198042112
               effective_ticker: AAPL
             image_data:
               fileName: google-apple-exposure-notification-gaen-apple.svg
@@ -5561,9 +5888,15 @@ landscape:
               ticker: GOOG
               funding: 36100000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - Information Technology
+                - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1498039844864
+              market_cap: 1494417408000
               effective_ticker: GOOG
             image_data:
               fileName: google-apple-exposure-notification-gaen-google.svg
@@ -5591,6 +5924,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: safe2-protocol.svg
               hash: ngEsOmzPGxqAtEZWBFp5s10uOWXyRc9eg4+BAaMOMes=
@@ -5618,6 +5953,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             github_data:
               languages:
                 - name: Rust
@@ -5626,7 +5963,7 @@ landscape:
                 - name: Julia
                   value: 620
                   color: '#a270ba'
-              contributions: 32;13;0;0;0;0;0;2;6;0;2;1;3;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 11;13;0;0;0;0;1;1;6;0;2;1;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 261
               license: MIT License
@@ -5671,6 +6008,11 @@ landscape:
               parents: []
               funding: 5000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Internet of Things
+                - Telecommunications
               kind: funding
             github_data:
               languages:
@@ -5680,7 +6022,7 @@ landscape:
                 - name: Java
                   value: 17097
                   color: '#b07219'
-              contributions: 0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 4
               license: GNU General Public License v3.0
@@ -5734,10 +6076,18 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Health Care
+                - Information Technology
+                - Open Source
+                - Social Impact
+                - Software
             github_data:
               languages:
                 - name: Python
-                  value: 20954446
+                  value: 20966315
                   color: '#3572A5'
                 - name: Java
                   value: 4765732
@@ -5782,15 +6132,15 @@ landscape:
                   value: 1505
                   color: '#701516'
               contributions: >-
-                483;488;471;445;418;500;441;433;460;452;561;462;395;401;341;425;454;320;327;348;262;251;230;262;285;232;273;233;207;225;182;242;193;94;179;277;223;125;140;245;266;335;336;407;344;354;375;344;271;220;255;156
+                475;494;472;415;444;504;430;443;459;488;537;426;420;395;339;444;443;304;330;330;268;228;235;271;272;237;261;245;232;193;159;271;176;92;195;299;198;112;165;240;294;323;337;437;348;325;388;329;249;227;264;159
               firstWeek: 2020-04-12Z
               stars: 473
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile
                 applications to frontline workers worldwide
-              latest_commit_date: '2021-04-07T05:37:23Z'
-              latest_commit_link: /dimagi/commcare-hq/commit/653e500cad1d746addc7b339603b5a82086a3e9d
+              latest_commit_date: '2021-04-08T02:06:21Z'
+              latest_commit_link: /dimagi/commcare-hq/commit/9bbf337eac34ec9e2994193ae51e4c8835658a4c
               release_date: '2018-03-20T18:42:17Z'
               release_link: https://github.com/dimagi/commcare-hq/releases
               contributors_count: 149
@@ -5814,7 +6164,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:10:00.000Z
+              latest_tweet_date: 2021-04-07T13:02:11.000Z
           - item:
             name: Conduent Maven
             description: >-
@@ -5839,6 +6189,11 @@ landscape:
                   acquiree: Health Solutions Plus
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Information Technology
+                - Security
             image_data:
               fileName: conduent-maven.svg
             best_practice_data:
@@ -5868,6 +6223,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Association
+                - Health Care
+                - Service Industry
             image_data:
               fileName: go-data.svg
               hash: XQhecrplfl6PQU+OWEUKOmqEO1iUMZTq7ra6EGG3QyI=
@@ -5875,7 +6235,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:41:43.000Z
+              latest_tweet_date: 2021-04-07T21:53:57.000Z
           - item:
             name: Microsoft Dynamics 365 Customer Service & Remote Assist
             description: >-
@@ -6412,9 +6772,15 @@ landscape:
               ticker: MSFT
               funding: 1000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1869414662144
+              market_cap: 1884800679936
               effective_ticker: MSFT
             image_data:
               fileName: microsoft-dynamics-365-customer-service-remote-assist.svg
@@ -6423,7 +6789,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:00:02.000Z
+              latest_tweet_date: 2021-04-07T22:00:02.000Z
           - item:
             name: MTX Quarantine Health Management
             description: >-
@@ -6446,6 +6812,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Information Services
+                - Information Technology
             image_data:
               fileName: mtx-quarantine-health-management.svg
               hash: Kyw51ZhJQnn6ijaZ0XPBHA1px5zqSWsioNPasNGykAA=
@@ -6453,7 +6824,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T18:53:58.000Z
+              latest_tweet_date: 2021-04-07T15:40:53.000Z
           - item:
             name: SaferMe
             homepage_url: https://www.safer.me/
@@ -6474,6 +6845,12 @@ landscape:
               parents: []
               funding: 2901265
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Location Based Services
+                - Mobile
+                - SaaS
+                - Software
               kind: funding
             image_data:
               fileName: safer-me.svg
@@ -6659,9 +7036,15 @@ landscape:
               ticker: CRM
               funding: 65375124
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Analytics
+                - CRM
+                - Enterprise Software
+                - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 203623890944
+              market_cap: 203347591168
               effective_ticker: CRM
             image_data:
               fileName: salesforce-emergency-response-management-for-public-health.svg
@@ -6669,7 +7052,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:31:07.000Z
+              latest_tweet_date: 2021-04-08T01:03:00.000Z
           - item:
             name: Sara Alert
             homepage_url: https://saraalert.org/
@@ -6690,6 +7073,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Non Profit
+                - Quantum Computing
             github_data:
               languages:
                 - name: JavaScript
@@ -6710,9 +7097,9 @@ landscape:
                   value: 522
                   color: '#89e051'
               contributions: >-
-                76;61;182;71;93;125;55;70;67;37;75;75;116;80;93;66;57;68;59;65;54;84;61;85;119;69;126;72;55;71;81;75;104;21;51;115;65;19;27;47;29;61;73;36;32;32;36;56;39;30;16;11
+                79;58;188;65;117;100;60;69;73;38;79;76;104;94;79;64;64;63;63;63;50;85;71;125;75;89;105;74;44;83;65;97;80;26;64;106;62;19;32;40;35;74;57;34;33;35;33;55;43;24;14;10
               firstWeek: 2020-04-12Z
-              stars: 22
+              stars: 23
               license: Apache License 2.0
               description: Sara Alert is an open source application built to allow public health officials to monitor disease outbreaks.
               latest_commit_date: '2021-04-06T20:01:25Z'
@@ -6721,7 +7108,7 @@ landscape:
               contributors_link: https://github.com/SaraAlert/SaraAlert/graphs/contributors
             repos:
               - url: https://github.com/SaraAlert/SaraAlert
-                stars: 22
+                stars: 23
             github_start_commit_data:
               start_commit_link: /SaraAlert/SaraAlert/commit/d451109da880db913e96e217a1d36d43d7fe2ed8
               start_date: '2020-01-26T21:26:44Z'
@@ -6732,7 +7119,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:30:06.000Z
+              latest_tweet_date: 2021-04-07T13:30:00.000Z
           - item:
             name: Sormas
             homepage_url: https://sormas.org
@@ -6755,11 +7142,15 @@ landscape:
               parents: []
               funding: 8770000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Messaging
               kind: funding
             github_data:
               languages:
                 - name: Java
-                  value: 13311891
+                  value: 13320003
                   color: '#b07219'
                 - name: JavaScript
                   value: 192470
@@ -6790,22 +7181,22 @@ landscape:
                   value: 6782
                   color: '#198CE7'
               contributions: >-
-                110;432;525;336;223;81;359;192;326;364;440;341;906;387;348;302;241;255;235;479;179;440;75;93;71;129;133;46;51;91;59;69;130;112;107;132;55;9;114;250;191;41;97;94;158;90;82;127;93;192;84;42
+                115;499;593;170;228;178;273;274;341;316;458;337;911;311;412;367;250;146;402;284;264;358;69;98;77;128;135;23;63;90;50;82;131;103;114;131;39;17;258;207;95;41;102;100;157;82;93;129;110;174;65;40
               firstWeek: 2020-04-12Z
-              stars: 191
+              stars: 192
               license: Other
               description: >-
                 SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of
                 infectious diseases.
-              latest_commit_date: '2021-04-06T12:50:21Z'
-              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/63a543cfd5f8cd1efe4f6fcd43a70b61135b2b2c
+              latest_commit_date: '2021-04-07T14:41:56Z'
+              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/bd31430d5875770be7bf7b1e37386533ae0e5836
               release_date: '2021-04-01T08:28:23Z'
               release_link: https://github.com/hzi-braunschweig/SORMAS-Project/releases
               contributors_count: 83
               contributors_link: https://github.com/hzi-braunschweig/SORMAS-Project/graphs/contributors
             repos:
               - url: https://github.com/hzi-braunschweig/SORMAS-Project
-                stars: 191
+                stars: 192
             github_start_commit_data:
               start_commit_link: /hzi-braunschweig/SORMAS-Project/commit/406c6b941ae3fc054f0024e57a463d8ffe9a37d3
               start_date: '2016-05-31T14:14:14Z'
@@ -6842,6 +7233,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: how-we-feel.svg
               hash: AdqeCYWecAqhVwIGxEWloYlAjR9CyCOH8h6Nb3bVgX0=
@@ -6872,6 +7266,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
             image_data:
               fileName: covid-near-you.svg
             best_practice_data:
@@ -6898,6 +7295,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: track-my-temp.svg
               hash: AfKr8qAZyVvrk4Fh3kLIx6dD0iR0EUtUr0yGWBIaM9Y=
@@ -6934,6 +7333,14 @@ landscape:
               parents: []
               funding: 41000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Clinical Trials
+                - Health Care
+                - Machine Learning
+                - Medical
+                - Software
               kind: funding
             image_data:
               fileName: doc-ai.svg
@@ -6966,6 +7373,16 @@ landscape:
               parents: []
               funding: 13285000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Cyber Security
+                - FinTech
+                - Financial Services
+                - Identity Management
+                - Information Technology
+                - Privacy
+                - Software
               kind: funding
             image_data:
               fileName: tracelinks.svg
@@ -7004,6 +7421,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               languages: []
               contributions: 0;0;0;0;0;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -7028,7 +7447,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:52:31.000Z
+              latest_tweet_date: 2021-04-07T14:49:11.000Z
   - category:
     name: Implementers
     subcategories:
@@ -7057,6 +7476,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: covid-watch-implementation-team.svg
               hash: Q7vyjDTliXhZ4XPDTYOMNEAMRFd8b9GucT34NcxMFjo=
@@ -7088,6 +7509,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: u-s-digital-response-implimenter.svg
               hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
@@ -7095,7 +7518,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:52:31.000Z
+              latest_tweet_date: 2021-04-07T14:49:11.000Z
   - category:
     name: LFPH Members
     subcategories:
@@ -7166,9 +7589,15 @@ landscape:
               parents: []
               ticker: ANTM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Health Care
+                - Health Insurance
+                - Personal Health
+                - Wellness
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 86914523136
+              market_cap: 86272811008
               effective_ticker: ANTM
             image_data:
               fileName: anthem-inc.svg
@@ -7177,7 +7606,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:00:41.000Z
+              latest_tweet_date: 2021-04-07T21:46:16.000Z
           - item:
             name: Cisco Systems Inc.
             homepage_url: https://cisco.com/
@@ -7797,9 +8226,14 @@ landscape:
               ticker: CSCO
               funding: 2500000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - Enterprise Software
+                - Hardware
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 219638628352
+              market_cap: 218562068480
               effective_ticker: CSCO
             image_data:
               fileName: cisco-systems-inc.svg
@@ -7808,7 +8242,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:39:00.000Z
+              latest_tweet_date: 2021-04-08T01:08:07.000Z
           - item:
             name: Doc.ai
             homepage_url: https://doc.ai/
@@ -7833,6 +8267,14 @@ landscape:
               parents: []
               funding: 41000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Clinical Trials
+                - Health Care
+                - Machine Learning
+                - Medical
+                - Software
               kind: funding
             image_data:
               fileName: doc-ai.svg
@@ -8272,9 +8714,15 @@ landscape:
               parents: []
               ticker: IBM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Business Information Systems
+                - CRM
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: international-business-machines-corporation-ibm.svg
@@ -8283,7 +8731,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:08:53.000Z
+              latest_tweet_date: 2021-04-07T23:13:23.000Z
           - item:
             name: NearForm
             homepage_url: https://nearform.com/
@@ -8304,6 +8752,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Enterprise Software
+                - Software
             image_data:
               fileName: near-form.svg
               hash: eh6dHUYMp24Br/rlJzI5hhxxkKKOobzpi4WfwAEC9X8=
@@ -8311,7 +8764,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:27:03.000Z
+              latest_tweet_date: 2021-04-07T18:14:59.000Z
           - item:
             name: Ratio
             homepage_url: https://ratiopbc.com/
@@ -8331,6 +8784,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Health Care
+                - Software
             image_data:
               fileName: ratio.svg
               hash: ehTn4/69k8eMLaBrIsgRV2q7KeAuUTUHjnEvte5VY70=
@@ -8344,7 +8802,7 @@ landscape:
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
             crunchbase_data:
-              name: Tencent Holdings
+              name: Tencent
               description: Tencent is an internet service portal offering value-added internet, mobile, telecom, and online advertising services.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -8400,9 +8858,16 @@ landscape:
               ticker: 0700.HK
               funding: 6576770000
               stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Advertising
+                - Internet
+                - Online Games
+                - Online Portals
+                - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 779712017519
+              market_cap: 770832043392
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-holdings-limited.svg
@@ -8411,7 +8876,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:27:05.000Z
+              latest_tweet_date: 2021-04-07T15:08:03.000Z
           - item:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
@@ -8543,9 +9008,15 @@ landscape:
               ticker: VMW
               funding: 393500000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 63186796544
+              market_cap: 64381612032
               effective_ticker: VMW
             image_data:
               fileName: v-mware-inc.svg
@@ -8554,7 +9025,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T03:44:03.000Z
+              latest_tweet_date: 2021-04-08T03:02:07.000Z
       - subcategory:
         name: General
         items:
@@ -8577,6 +9048,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: consen-sys-health.svg
               hash: am3TqbEcboCI/7QbVANZGZeClZbbSjNuta3HVZ+7vLI=
@@ -8604,6 +9077,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Mobile
+                - Software
             image_data:
               fileName: motion-mobs.svg
               hash: Ov1Xg8KyKyK9AbMTLRWQ1gyfYv3IdLXzMl+cudsHcOM=
@@ -8611,7 +9088,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:47:09.000Z
+              latest_tweet_date: 2021-04-07T19:09:04.000Z
           - item:
             name: WeHealth Solutions PBC
             homepage_url: https://wehealth.org/
@@ -8632,6 +9109,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: we-health-solutions-pbc.svg
               hash: EKOH7/xhbO4B+PZCBU9TwZK1Z1lBx9loTzCR1sdGGRw=
@@ -8662,6 +9142,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Fitness
+                - Health Care
+                - Non Profit
             image_data:
               fileName: boston-public-health-commission.svg
               hash: h6CqZX8QZvgyL2+AiLC6wMfOkDHMQMXd6iXH5mC1iDc=
@@ -8669,7 +9155,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:24:21.000Z
+              latest_tweet_date: 2021-04-07T21:00:23.000Z
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
@@ -8689,12 +9175,46 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Politics
             image_data:
               fileName: china-academy-of-information-and-communications-technology-caict.svg
               hash: HGWVdh8QGvHzZd3erSg7PIa+jAwpeQdDkg1dvYkFZVc=
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: CIO Strategy Council
+            homepage_url: https://ciostrategycouncil.com/
+            logo: cio_strategy_council.svg
+            crunchbase: https://www.crunchbase.com/organization/cio-strategy-council
+            crunchbase_data:
+              name: CIO Strategy Council
+              description: Internet Software & Services
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Ottawa
+              region: Ontario
+              country: Canada
+              twitter: https://twitter.com/CIOStrategyC
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Information Technology
+                - Non Profit
+            image_data:
+              fileName: cio-strategy-council.svg
+              hash: Fs2CPx2MS/An9Z/yhLhNF5uThqsyKkD3ZfDdsVPYLWg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-04-06T18:45:47.000Z
           - item:
             name: Council of State and Territorial Epidemiologists
             homepage_url: https://cste.org/
@@ -8714,6 +9234,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: council-of-state-and-territorial-epidemiologists.svg
               hash: mCJXveWO5wdGh+mwnoy0/GvLH9Wav8cLuUnVxGqIJk4=
@@ -8743,6 +9266,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Education
             image_data:
               fileName: fachhochschule-kiel.svg
               hash: 6QEaq7WKBXaoTNak4r6I6anGQfRa6MPcrYpap/0savw=
@@ -8771,6 +9297,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: health-service-executive-ireland.svg
               hash: VtKLIEpABOBljT9j+db2BkIG6UozI6vM5n8AI+9jaS4=
@@ -8778,7 +9306,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:54:46.000Z
+              latest_tweet_date: 2021-04-07T18:10:16.000Z
           - item:
             name: New Jersey Office of Innovation
             homepage_url: https://nj.gov/
@@ -8799,6 +9327,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Government
+                - Information Technology
             image_data:
               fileName: new-jersey-office-of-innovation.svg
               hash: g0gb41Tn+yw42MPC3y9/8+4uoVSIjyg1jOQDiJpYkLA=
@@ -8806,7 +9338,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:13:07.000Z
+              latest_tweet_date: 2021-04-08T00:58:46.000Z
           - item:
             name: North Carolina Department of Health and Human Services
             homepage_url: https://ncdhhs.gov/
@@ -8826,6 +9358,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
             image_data:
               fileName: north-carolina-department-of-health-and-human-services.svg
               hash: Tjlpxazdam5aSgamIhdxJ6gEZ42d23rM6dlKVE2n2gw=
@@ -8833,7 +9368,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:40:41.000Z
+              latest_tweet_date: 2021-04-08T01:54:58.000Z
           - item:
             name: Onom Foundation
             homepage_url: https://onomfoundation.org/
@@ -8853,6 +9388,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Health Care
             image_data:
               fileName: onom-foundation.svg
               hash: KoAVFVuHG0GrXgjk/1lSGDjiwQGa6ICuOSTUgkAwJRs=
@@ -8879,6 +9417,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: open-uk.svg
               hash: sD/O2Br7hyKC+1gagGj7aW8JTpcrxObd42hHjUbEuR0=
@@ -8886,7 +9426,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:16:22.000Z
+              latest_tweet_date: 2021-04-07T20:40:35.000Z
           - item:
             name: U.S. Digital Response
             description: >-
@@ -8910,6 +9450,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: u-s-digital-response.svg
               hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
@@ -8917,7 +9459,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:52:31.000Z
+              latest_tweet_date: 2021-04-07T14:49:11.000Z
           - item:
             name: Waterloo Centre for Microbial Research
             homepage_url: https://uwaterloo.ca/
@@ -8939,6 +9481,11 @@ landscape:
               parents: []
               funding: 1900000
               stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Knowledge Management
+                - Universities
               kind: funding
             image_data:
               fileName: waterloo-centre-for-microbial-research.svg
@@ -8947,8 +9494,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:31:38.000Z
+              latest_tweet_date: 2021-04-07T23:05:08.000Z
 twitter_options:
   count: 15
   since_id: '1312038273678635010'
-updated_at: 2021-04-07T06:24:08.126Z
+updated_at: 2021-04-08T06:21:54.200Z
