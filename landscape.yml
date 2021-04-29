@@ -734,12 +734,9 @@ landscape:
             description: Reliable Bluetooth communication and range finding across a wide range of mobile devices.
             homepage_url: https://vmware.github.io/herald/
             project: foundationproject
-            repo_url: https://github.com/vmware/herald
-            additional_repos:
-              - repo_url: https://github.com/vmware/herald-for-android
-              - repo_url: https://github.com/vmware/herald-for-ios
-              - repo_url: https://github.com/vmware/herald-analysis
-              - repo_url: https://github.com/vmware/herald-calibration
+            project_org: https://github.com/theheraldproject
+            repo_url: https://github.com/theheraldproject/herald-for-android        
+            twitter: https://twitter.com/HeraldProximity
             logo: herald.svg
             crunchbase: https://www.crunchbase.com/organization/lf-public-health
           - item:
