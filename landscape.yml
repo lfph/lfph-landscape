@@ -1,31 +1,5 @@
 landscape:
   - category:
-    name: COVID Verification
-    subcategories:
-      - subcategory:
-        name: W3C Standards
-        items:
-          - item:
-            name: Cardea
-            description: Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving way. 
-            homepage_url: https://www.cardea.app
-            repo_url: https://github.com/thecardeaproject/cardea
-            project_org: https://github.com/thecardeaproject
-            logo: https://raw.githubusercontent.com/lfph/artwork/69c5fa71c0c089072b3442cc80a3167da92d2d8d/projects/cardea/Cardea%20stacked%20color/Cardea%20stacked.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
-            twitter: http://www.twitter.com/cardeaproject
-            project: foundationproject
-          - item:
-            name: MedCreds
-            description: MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a digital wallet.
-            homepage_url: https://www.medcreds.com
-            repo_url: https://github.com/LFPH-Medcreds/medcreds-api
-            project_org: https://github.com/LFPH-Medcreds
-            logo: medcreds.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
-            twitter: http://www.twitter.com/medcreds
-            project: foundationproject        
-  - category:
     name: PHA-Deployed App
     subcategories:
       - subcategory:
@@ -33,7 +7,7 @@ landscape:
         items:
           - item:
             name: Austria (Stopp Corona)
-            description: Together we can contribute to interrupting the chain of infection of the corona infections as quickly as possible!
+            description: Together we contribute to interrupting the chain of infection of the corona infections as quickly as possible!
             homepage_url: https://www.stopp-corona.at
             repo_url: https://github.com/austrianredcross/stopp-corona-android
             project_org: https://github.com/austrianredcross
