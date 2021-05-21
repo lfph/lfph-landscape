@@ -155,22 +155,6 @@ big_picture:
         left: 180
         color: rgb(47,116,190)
         fit_width: true
- #     - type: HorizontalCategory
- #       category: Non-Code Offerings
-  #      width: 100
-   #     height: 160
-    #    top: 410
-     #   left: 590
-#        color: rgb(143,88,61)
- #       fit_width: true
-  #    - type: HorizontalCategory
-   #     category: Implementers
-    #    width: 100
-     #   height: 160
-#        top: 410
- #       left: 720
-  #      color: rgb(109,61,143)
-   #     fit_width: true 
       - type: LandscapeInfo
         width: 250
         height: 160
@@ -179,8 +163,8 @@ big_picture:
         children:
           - type: text
             text: >-
-              This landscape is a map to explore the software that is being developed to combat COVID-19, and focuses particularly on Exposure
-              Notification implementation apps deployed by public health authorities (PHAs) and COVID verification codebases.
+              This landscape is a map to explore the software that is being developed to combat COVID-19, and focuses particularly on Exposure Notification
+              implementation apps deployed by public health authorities (PHAs) and COVID verification codebases.
             top: 30
             left: 90
             right: 10
