@@ -352,10 +352,12 @@ const makeRemoteBuildWithCache = async function() {
     console.info('Remote build done!');
     console.info(output.text);
     await runLocalWithoutErrors(`
+      pwd
       rm -rf netlify/dist || true
       rm -rf dist || true
       mkdir -p netlify/dist
       mkdir -p dist
+      ls -al distRemote
       cp -r distRemote/* netlify/dist
       cp -r distRemote/* dist
       mv netlify/dist/functions netlify/functions
