@@ -356,8 +356,8 @@ const makeRemoteBuildWithCache = async function() {
       rm -rf netlify/dist || true
       mkdir -p netlify/dist
       cp -r distRemote/* netlify/dist
-      ls -al netlify/dist
       mv netlify/dist/functions netlify/functions
+      ls -al netlify/functions
     `);
     process.exit(0);
   }
