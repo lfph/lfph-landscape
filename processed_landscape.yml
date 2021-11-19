@@ -976,11 +976,11 @@ landscape:
                 - name: TypeScript
                   value: 673602
                   color: '#2b7489'
-                - name: JavaScript
-                  value: 405456
-                  color: '#f1e05a'
                 - name: HCL
-                  value: 354406
+                  value: 418971
+                - name: JavaScript
+                  value: 405523
+                  color: '#f1e05a'
                 - name: Swift
                   value: 190094
                   color: '#ffac45'
@@ -993,19 +993,19 @@ landscape:
                 - name: Objective-C
                   value: 17344
                   color: '#438eff'
+                - name: Shell
+                  value: 15837
+                  color: '#89e051'
                 - name: Ruby
                   value: 14909
                   color: '#701516'
-                - name: Shell
-                  value: 13836
-                  color: '#89e051'
                 - name: Makefile
-                  value: 9802
+                  value: 13494
                   color: '#427819'
+                - name: Smarty
+                  value: 5685
                 - name: Starlark
                   value: 4422
-                - name: Smarty
-                  value: 4418
                 - name: Dockerfile
                   value: 2180
                   color: '#384d54'
@@ -1043,6 +1043,8 @@ landscape:
               - url: https://github.com/HSEIreland/covid-green-push-api
                 stars: 0
               - url: https://github.com/HSEIreland/covid-green-interoperability-service
+                stars: 0
+              - url: https://github.com/HSEIreland/covid-green-interoperability-infra
                 stars: 0
             github_start_commit_data:
               start_commit_link: /HSEIreland/covidtracker-documentation/commit/606aae03aa7eba087a6bff73438c4ede8f7f80c9
@@ -1988,7 +1990,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-19T10:00:09.000Z
+              latest_tweet_date: 2021-11-19T12:00:46.000Z
           - item:
             name: United States - Alabama (GuideSafe)
             description: Protect Your Community. Protect Your Privacy. Protect Your Life. Stop the Spread of COVID in Alabama.
@@ -4914,7 +4916,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-19T11:56:55.000Z
+              latest_tweet_date: 2021-11-19T11:54:49.000Z
           - item:
             name: CVKey
             description: CVKey Project is on a mission to help communities reopen responsibly during the COVID-19 pandemic without compromising privacy.
@@ -6640,7 +6642,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-19T11:56:55.000Z
+              latest_tweet_date: 2021-11-19T11:54:49.000Z
           - item:
             name: Microsoft Dynamics 365 Customer Service & Remote Assist
             description: >-
@@ -9227,7 +9229,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 610754669282
+              market_cap: 610762899204
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-holdings-limited.svg
