@@ -151,7 +151,7 @@ landscape:
             description: >-
               COVID Alert Malta is the national Maltese app designed to help protect individuals and their loved ones by alerting them if they were in close
               contact with persons infected with the COVID-19 virus.
-            homepage_url: https://covidalert.gov.mt
+            homepage_url: https://splashpage.gov.mt
             repo_url: https://github.com/GOVMT-MITA/dp3t-admin-ui-mt
             project_org: https://github.com/GOVMT-MITA
             logo: malta.svg
@@ -160,7 +160,7 @@ landscape:
           - item:
             name: New Zealand (NZ COVID Tracer)
             description: NZ COVID Tracer helps you protect yourself, your friends, your whānau and your community by enabling faster contact tracing.
-            homepage_url: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-and-tools/nz-covid-tracer-app
+            homepage_url: https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-resources-and-tools/nz-covid-tracer-app
             repo_url: https://github.com/minhealthnz/nzcovidtracer-app
             project_org: https://github.com/minhealthnz
             logo: new-zealand.svg
@@ -291,7 +291,7 @@ landscape:
           - item:
             name: United States - Nevada (COVID Trace)
             description: COVID Trace is a free, easy-to-use mobile phone app that gives us the information we need to fight COVID-19, without compromising your privacy.
-            homepage_url: https://nvhealthresponse.nv.gov/covidtrace/
+            homepage_url: https://nvhealthresponse.nv.gov/exposure-notifications
             logo: nevada.svg
             twitter: https://twitter.com/NVHealthRespon1
             crunchbase: https://www.crunchbase.com/organization/nevada-division-of-public-and-behavioral-health
@@ -332,7 +332,7 @@ landscape:
             description: >-
               The App is designed to assist in alerting individuals that came in close proximity with someone who later tests positive for COVID-19, and to
               provide information about the virus and steps for controlling the spread of the virus.
-            homepage_url: https://www.pa.gov/covid/covid-alert-pa/
+            homepage_url: https://www.pa.gov/covid/stop-the-spread/covid-alert-pa
             logo: pennsylvania.svg
             crunchbase: https://www.crunchbase.com/organization/executive-office-of-the-commonwealth-of-pennsylvania
           - item:
@@ -1122,15 +1122,17 @@ landscape:
             logo: blockchain_labs_inc.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-labs
           - item:
-            name: ConsenSys Health
-            homepage_url: https://consensyshealth.com/
-            logo: consensys_health.svg
-            crunchbase: https://www.crunchbase.com/organization/consensys-health
-          - item:
             name: Dimagi Inc
             homepage_url: https://dimagi.com/
             logo: dimagi_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dimagi
+          - item:
+            name: Equideum Health
+            homepage_url: https://equideum.health/
+            logo: equideum_health.svg
+            twitter: https://twitter.com/equideumhealth
+            organization:
+              name: Equideum Health
           - item:
             name: Healthvana
             homepage_url: https://healthvana.com/
@@ -1147,6 +1149,13 @@ landscape:
             homepage_url: https://www.mtxb2b.com/s
             logo: mtx_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/mtx-group
+          - item:
+            name: WeHealth Solutions PBC
+            homepage_url: https://wehealth.org/
+            logo: wehealth_solutions_pbc.svg
+            twitter: https://twitter.com/WeHealthOrg
+            organization:
+              name: WeHealth Solutions PBC
       - subcategory:
         name: Associate
         items:
@@ -1191,6 +1200,13 @@ landscape:
             logo: health_service_executive_ireland.svg
             twitter: https://twitter.com/HSELive
             crunchbase: https://www.crunchbase.com/organization/ireland-health-service-executive
+          - item:
+            name: iRespond Global
+            homepage_url: https://irespond.org/
+            logo: irespond_global.svg
+            twitter: https://twitter.com/iRespond
+            organization:
+              name: iRespond Global
           - item:
             name: New Jersey Office of Innovation
             homepage_url: https://innovation.nj.gov/
