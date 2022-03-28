@@ -7,6 +7,206 @@ landscape:
         name: GAEN
         items:
           - item:
+            name: Cardea
+            description: >-
+              Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving
+              way.
+            homepage_url: https://www.cardea.app
+            project: foundationproject
+            repo_url: https://github.com/thecardeaproject/cardea
+            project_org: https://github.com/thecardeaproject
+            logo: cardea.svg
+            twitter: http://www.twitter.com/cardeaproject
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-04-29'
+              artwork_url: https://github.com/lfph/artwork/tree/main/projects/cardea
+            crunchbase_data:
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.lfph.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lfpubhealth
+              linkedin: https://www.linkedin.com/company/lfph
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
+            github_data:
+              description: ''
+              contributors_count: 11
+              contributions: 2;0;0;0;0;9;8;7;1;0;2;6;1;5;0;0;0;1;8;9;4;6;38;0;0;3;1;4;2;5;0;0;0;4;4;1;2;0;0;0;1;4;0;0;0;0;0;0;0;8;0;0
+              stars: 22
+              languages:
+                - name: JavaScript
+                  value: 1956915
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 29704
+                  color: '#89e051'
+                - name: CSS
+                  value: 13508
+                  color: '#563d7c'
+                - name: Objective-C
+                  value: 6815
+                  color: '#438eff'
+                - name: Java
+                  value: 4424
+                  color: '#b07219'
+                - name: TypeScript
+                  value: 4369
+                  color: '#2b7489'
+                - name: Ruby
+                  value: 3796
+                  color: '#701516'
+                - name: HTML
+                  value: 2064
+                  color: '#e34c26'
+                - name: Starlark
+                  value: 1204
+                - name: Dockerfile
+                  value: 302
+                  color: '#384d54'
+                - name: C
+                  value: 208
+                  color: '#555555'
+                - name: Swift
+                  value: 110
+                  color: '#ffac45'
+              latest_commit_link: /thecardeaproject/cardea/commit/243b1f1226963a76540a45c12cdfa9be0ecd2292
+              latest_commit_date: '2021-12-07T17:20:00Z'
+              firstWeek: 2021-04-04Z
+              license: Apache License 2.0
+              contributors_link: https://github.com/thecardeaproject/cardea/graphs/contributors
+            repos:
+              - url: https://github.com/thecardeaproject/cardea
+                stars: 7
+              - url: https://github.com/thecardeaproject/cardea-mobile-holder
+                stars: 8
+              - url: https://github.com/thecardeaproject/cardea-mobile-verifier
+                stars: 4
+              - url: https://github.com/thecardeaproject/cardea-enterprise-health-ui
+                stars: 2
+              - url: https://github.com/thecardeaproject/cardea-enterprise-health-controller
+                stars: 1
+              - url: https://github.com/thecardeaproject/cardea-enterprise-government-controller
+                stars: 0
+              - url: https://github.com/thecardeaproject/cardea-enterprise-government-ui
+                stars: 0
+              - url: https://github.com/thecardeaproject/cardea-docker
+                stars: 0
+              - url: https://github.com/thecardeaproject/cardea-enterprise-verifier-ui
+                stars: 0
+              - url: https://github.com/thecardeaproject/cardea-enterprise-verifier-controller
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /thecardeaproject/cardea/commit/fa1bd3e07846b0001da33c3a44c4884635778044
+              start_date: '2021-05-17T20:20:41Z'
+            image_data:
+              fileName: cardea.svg
+              hash: zxfHoMy4yJdeVd3oqCp1vX13nhZ4BZndD+71NpkZVcI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-24T15:16:04.000Z
+          - item:
+            name: MedCreds
+            description: >-
+              MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a
+              digital wallet.
+            homepage_url: https://www.proofmarket.io/medcreds
+            project: foundationproject
+            repo_url: https://github.com/LFPH-Medcreds/medcreds-api
+            project_org: https://github.com/LFPH-Medcreds
+            logo: medcreds.svg
+            twitter: http://www.twitter.com/medcreds
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-04-29'
+            crunchbase_data:
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.lfph.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lfpubhealth
+              linkedin: https://www.linkedin.com/company/lfph
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
+            github_data:
+              description: Open Source project for MedCreds Open Source under the jurisdiction of the Linux Foundation Public Health initiative (LFPH)
+              contributors_count: 4
+              contributions: 0;0;0;0;0;0;0;2;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              stars: 3
+              languages:
+                - name: JavaScript
+                  value: 342252
+                  color: '#f1e05a'
+                - name: Vue
+                  value: 231005
+                  color: '#2c3e50'
+                - name: HTML
+                  value: 6741
+                  color: '#e34c26'
+                - name: TypeScript
+                  value: 6051
+                  color: '#2b7489'
+                - name: Stylus
+                  value: 4874
+                - name: Dockerfile
+                  value: 1374
+                  color: '#384d54'
+                - name: Shell
+                  value: 381
+                  color: '#89e051'
+                - name: SCSS
+                  value: 138
+              latest_commit_link: /LFPH-Medcreds/medcreds-api/commit/a839e1e332aeae43ad039b88db73d6baa23f54da
+              latest_commit_date: '2021-05-28T20:17:16Z'
+              firstWeek: 2021-04-04Z
+              license: Apache License 2.0
+              contributors_link: https://github.com/LFPH-Medcreds/medcreds-api/graphs/contributors
+            repos:
+              - url: https://github.com/LFPH-Medcreds/medcreds-api
+                stars: 2
+              - url: https://github.com/LFPH-Medcreds/medcreds-app
+                stars: 1
+              - url: https://github.com/LFPH-Medcreds/medcreds.github.io
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /LFPH-Medcreds/medcreds-api/commit/fdc34266239ecc1523af1850c8e9a9fbd96b1fd9
+              start_date: '2021-05-19T18:41:31Z'
+            image_data:
+              fileName: med-creds.svg
+              hash: 3atop2VnVGvCwLOJyyauCSOtZ3V6IxvbffFNj1px72s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-05-19T04:08:09.000Z
+  - category:
+    name: PHA-Deployed App
+    subcategories:
+      - subcategory:
+        name: GAEN Bluetooth
+        items:
+          - item:
             name: Austria (Stopp Corona)
             description: Together we can contribute to interrupting the chain of infection of the corona infections as quickly as possible!
             homepage_url: https://www.stopp-corona.at
@@ -59,7 +259,7 @@ landscape:
                   color: '#563d7c'
               latest_commit_link: /austrianredcross/stopp-corona-android/commit/c799461b99fa23097f68bade7a6f4a334e9c5912
               latest_commit_date: '2022-03-01T15:36:02Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: GNU Affero General Public License v3.0
               contributors_link: https://github.com/austrianredcross/stopp-corona-android/graphs/contributors
             repos:
@@ -217,7 +417,7 @@ landscape:
                 - name: Starlark
                   value: 602
               contributions: 68;57;52;46;113;90;68;111;77;113;35;70;67;41;38;8;2;2;4;4;0;2;2;8;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;1;1;2;1;3;0;3;0;0;2;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 1243
               license: Apache License 2.0
               description: Exposure notification client application / Application client de notification d'exposition
@@ -293,7 +493,7 @@ landscape:
                   color: '#701516'
               latest_commit_link: /Stop-COVID-19-Croatia/stopcovid19-android/commit/457b6829784a531ed81c4faa22c74ab1496b7797
               latest_commit_date: '2022-03-03T16:40:29Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Unknown License
               contributors_link: https://github.com/Stop-COVID-19-Croatia/stopcovid19-android/graphs/contributors
             repos:
@@ -312,6 +512,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T18:27:07.000Z
           - item:
             name: Denmark (Smittestop)
             description: Smittestop allows all of us to help stop the spread of COVID-19.
@@ -370,6 +572,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T02:06:30.000Z
           - item:
             name: Estonia (HOIA)
             description: >-
@@ -438,7 +642,7 @@ landscape:
                   value: 443611
                   color: '#F18E33'
                 - name: Swift
-                  value: 432297
+                  value: 439067
                   color: '#ffac45'
                 - name: Shell
                   value: 6927
@@ -446,16 +650,16 @@ landscape:
                 - name: Dockerfile
                   value: 2855
                   color: '#384d54'
-              contributions: 5;6;10;4;1;3;4;0;2;0;8;6;0;0;0;1;0;0;4;8;0;2;2;1;1;2;1;0;1;3;0;0;0;2;1;0;0;2;3;0;1;3;3;0;2;4;2;0;2;0;0;7
-              firstWeek: 2021-03-28Z
+              contributions: 5;6;10;4;1;3;4;0;2;0;8;6;0;0;0;1;0;0;4;8;0;2;2;1;1;2;1;0;1;3;0;0;0;2;1;0;0;2;3;1;0;3;3;0;2;4;2;0;2;0;0;8
+              firstWeek: 2021-04-04Z
               stars: 328
               license: European Union Public License 1.2
               description: null
-              latest_commit_date: '2022-02-16T13:12:04Z'
-              latest_commit_link: /THLfi/koronavilkku-ios/commit/c1f953ecd8c384487d4d18fcb8c865ba15f86198
+              latest_commit_date: '2022-03-26T18:01:35Z'
+              latest_commit_link: /THLfi/koronavilkku-ios/commit/707204674759afb17ed6b1cfb6e15bd36be85311
               release_date: '2022-02-16T13:10:56Z'
               release_link: https://github.com/THLfi/koronavilkku-ios/releases
-              contributors_count: 13
+              contributors_count: 14
               contributors_link: https://github.com/THLfi/koronavilkku-ios/graphs/contributors
             repos:
               - url: https://github.com/THLfi/koronavilkku-ios
@@ -506,7 +710,7 @@ landscape:
               description: The official COVID-19 exposure notification app for Germany.
               contributors_count: 437
               contributions: >-
-                602;571;672;852;735;720;560;605;564;570;535;661;488;640;458;596;419;457;379;270;261;340;343;351;246;412;456;302;380;343;242;201;278;288;309;309;295;366;88;55;352;426;462;365;382;354;457;525;255;278;235;225
+                599;572;695;843;763;675;559;605;568;575;526;667;480;642;462;593;416;458;381;269;261;339;342;351;248;410;459;302;381;340;242;209;270;291;308;306;295;366;88;56;354;428;458;364;387;355;451;525;255;278;235;225
               stars: 10839
               languages:
                 - name: Swift
@@ -574,7 +778,7 @@ landscape:
                   color: '#555555'
               latest_commit_link: /corona-warn-app/cwa-app-android/commit/632aad8d1c074253dc17445ce3f18ec75cd3c400
               latest_commit_date: '2022-03-23T16:04:12Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Apache License 2.0
               contributors_link: https://github.com/corona-warn-app/cwa-app-android/graphs/contributors
             repos:
@@ -689,6 +893,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T09:33:01.000Z
           - item:
             name: Guam (Guam Covid Alert)
             description: Download the Department of Public Health and Social Services GUAM COVID ALERT app to help protect your community while protecting your privacy.
@@ -818,7 +1024,7 @@ landscape:
                   color: '#555555'
               latest_commit_link: /HSEIreland/covid-tracker-app/commit/5684a05a14de649fc04ecbba2e349a75189e4645
               latest_commit_date: '2021-07-16T06:55:59Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: MIT License
               contributors_link: https://github.com/HSEIreland/covid-tracker-app/graphs/contributors
             repos:
@@ -859,6 +1065,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T08:32:00.000Z
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
@@ -911,8 +1119,8 @@ landscape:
                   color: '#89e051'
                 - name: Smarty
                   value: 200
-              contributions: 4;0;1;0;0;0;9;8;13;25;49;17;8;5;0;0;2;0;2;1;0;0;0;0;0;12;4;5;6;0;3;5;0;8;0;1;0;0;0;10;16;4;13;0;7;1;5;0;0;4;2;0
-              firstWeek: 2021-03-28Z
+              contributions: 4;0;1;0;0;0;9;8;13;36;38;17;8;5;0;0;2;0;2;1;0;0;0;0;7;5;4;8;3;0;3;5;0;8;0;1;0;0;0;10;16;4;13;0;7;1;5;0;0;4;2;0
+              firstWeek: 2021-04-04Z
               stars: 1467
               license: GNU Affero General Public License v3.0
               description: ' Official repository for the Android version of the immuni application '
@@ -938,6 +1146,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T08:58:36.000Z
           - item:
             name: Japan (COCOA)
             description: >-
@@ -1080,7 +1290,7 @@ landscape:
                   color: '#555555'
               latest_commit_link: /GOVMT-MITA/dp3t-admin-ui-mt/commit/ed3fdffbbf458b1f431e128caa099e873af554e9
               latest_commit_date: '2021-05-21T11:38:30Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Mozilla Public License 2.0
               contributors_link: https://github.com/GOVMT-MITA/dp3t-admin-ui-mt/graphs/contributors
             repos:
@@ -1141,7 +1351,7 @@ landscape:
                 Kia ora. The Ministry of Health - Manatū Hauora works across the health sector to deliver better health outcomes for New Zealanders. IN AN
                 EMERGENCY, CALL 111
               contributors_count: 3
-              contributions: 0;1;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;3;0;0;7;64;62;42;44;38;31;48;47;10;23;27;22;27;22;28;27;30;21;7;9;19;10;8;67;96;96;98;30;5;9;13
+              contributions: 0;1;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;3;0;0;24;54;61;42;40;40;32;51;40;12;22;27;23;27;22;28;27;30;19;7;8;20;11;7;79;96;96;98;17;5;9;16
               stars: 862
               languages:
                 - name: TypeScript
@@ -1175,7 +1385,7 @@ landscape:
                   value: 1204
               latest_commit_link: /minhealthnz/nzcovidtracer-app/commit/7c1d755f0db65ee6c84b9fd49b309f95283baacf
               latest_commit_date: '2021-12-16T21:46:50Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Other
               contributors_link: https://github.com/minhealthnz/nzcovidtracer-app/graphs/contributors
             repos:
@@ -1200,6 +1410,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T05:33:35.000Z
           - item:
             name: Poland (STOP COVID)
             description: STOP COVID is an application that is effective in helping to contain the spread of the coronavirus.
@@ -1228,7 +1440,7 @@ landscape:
             github_data:
               description: ''
               contributors_count: 50
-              contributions: 25;11;2;1;2;0;41;12;1;5;12;0;0;0;0;0;1;6;10;0;3;5;1;10;3;6;3;0;0;0;4;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 25;10;2;1;2;0;43;10;1;5;12;0;0;0;0;0;1;6;10;1;2;5;1;10;3;9;0;0;0;1;3;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               stars: 454
               languages:
                 - name: JavaScript
@@ -1271,7 +1483,7 @@ landscape:
                   color: '#438eff'
               latest_commit_link: /ProteGO-Safe/android/commit/efdd8eee92b7eb6efad684a03a7a6a78805dd21e
               latest_commit_date: '2021-09-17T08:37:19Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: GNU General Public License v3.0
               contributors_link: https://github.com/ProteGO-Safe/android/graphs/contributors
             repos:
@@ -1294,6 +1506,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T10:00:00.000Z
           - item:
             name: Portugal (STAYAWAY COVID)
             description: >-
@@ -1362,7 +1576,7 @@ landscape:
                   color: '#563d7c'
               latest_commit_link: /stayawayinesctec/stayaway-app/commit/9c07ea0e85bf0b8f8ee1c8093cec7659f6efc59f
               latest_commit_date: '2021-07-26T20:17:13Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: European Union Public License 1.2
               contributors_link: https://github.com/stayawayinesctec/stayaway-app/graphs/contributors
             repos:
@@ -1448,7 +1662,7 @@ landscape:
               description: The official COVID-19 exposure notification app for Spain.
               contributors_count: 17
               contributions: 0;43;32;12;10;18;9;4;7;2;1;6;1;0;0;7;3;0;0;0;0;0;0;0;0;0;0;0;0;2;5;0;1;0;0;0;0;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0
-              stars: 797
+              stars: 796
               languages:
                 - name: Java
                   value: 1361793
@@ -1496,7 +1710,7 @@ landscape:
                   color: '#555555'
               latest_commit_link: /RadarCOVID/radar-covid-android/commit/807be202d6e6eb6615513f440ce127865cda1bbd
               latest_commit_date: '2021-11-11T11:53:47Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Mozilla Public License 2.0
               contributors_link: https://github.com/RadarCOVID/radar-covid-android/graphs/contributors
             repos:
@@ -1507,7 +1721,7 @@ landscape:
               - url: https://github.com/RadarCOVID/radar-covid-backend-verification-server
                 stars: 98
               - url: https://github.com/RadarCOVID/radar-covid-backend-dp3t-server
-                stars: 89
+                stars: 88
               - url: https://github.com/RadarCOVID/radar-covid-backend-configuration-server
                 stars: 53
               - url: https://github.com/RadarCOVID/radar-covid-backend-efgs-server
@@ -1607,8 +1821,8 @@ landscape:
                   color: '#555555'
                 - name: PLpgSQL
                   value: 643
-              contributions: 1;7;49;73;135;34;41;92;76;136;22;95;153;0;14;2;0;2;0;0;0;15;31;30;1;0;7;0;20;0;0;0;0;0;4;13;0;0;0;0;5;0;0;2;0;20;0;0;15;11;46;22
-              firstWeek: 2021-03-28Z
+              contributions: 1;7;49;73;135;34;43;90;79;133;22;99;149;0;14;2;0;2;0;0;0;15;31;30;1;0;7;0;20;0;0;0;0;0;4;13;0;0;0;0;5;0;0;2;0;20;0;0;15;11;54;14
+              firstWeek: 2021-04-04Z
               stars: 1024
               license: Mozilla Public License 2.0
               description: SwissCovid is the official contact tracing app of Switzerland.
@@ -1766,7 +1980,7 @@ landscape:
                   value: 35
                   color: '#ffac45'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 41
               license: Apache License 2.0
               description: null
@@ -1844,6 +2058,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T16:00:00.000Z
           - item:
             name: United States - Delaware (COVID Alert DE)
             description: 'Add Your Phone to the COVID-19 Fight: Help Delaware Slow the Transmission of the Coronavirus'
@@ -1876,6 +2092,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T20:59:01.000Z
           - item:
             name: United States - Hawaii (Aloha Safe Alert)
             description: AlohaSafe Alert is a free, voluntary new service that helps slow the spread of COVID-19.
@@ -1905,6 +2123,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T02:00:13.000Z
           - item:
             name: United States - Louisiana (COVID Defense)
             description: By adding this free app to your phone, you can help protect your friends, family, and community from COVID-19 by getting exposure alerts.
@@ -1934,6 +2154,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T21:00:13.000Z
           - item:
             name: United States - Michigan (MI COVID Alert)
             description: >-
@@ -1993,6 +2215,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T20:00:24.000Z
           - item:
             name: United States - Nevada (COVID Trace)
             description: COVID Trace is a free, easy-to-use mobile phone app that gives us the information we need to fight COVID-19, without compromising your privacy.
@@ -2024,7 +2248,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T17:37:02.000Z
+              latest_tweet_date: 2022-03-26T18:07:01.000Z
           - item:
             name: United States - New Jersey (COVID Alert NJ)
             description: >-
@@ -2133,7 +2357,7 @@ landscape:
                   color: '#ffac45'
               latest_commit_link: /covid-alert-ny/covid-green-app/commit/3f4b043387598585d00d1149ac45777d1b350ac1
               latest_commit_date: '2021-11-15T08:42:09Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Apache License 2.0
               contributors_link: https://github.com/covid-alert-ny/covid-green-app/graphs/contributors
             repos:
@@ -2164,6 +2388,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T19:20:52.000Z
           - item:
             name: United States - North Carolina (SlowCOVIDNC)
             description: It’s easy. All you have to do is download SlowCOVIDNC and you can help slow the spread of COVID-19.
@@ -2193,6 +2419,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T13:10:01.000Z
           - item:
             name: United States - North Dakota (Care19 Alert)
             description: >-
@@ -2224,6 +2452,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T22:00:11.000Z
           - item:
             name: United States - Pennsylvania (COVID Alert PA)
             description: >-
@@ -2339,6 +2569,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T23:12:51.000Z
       - subcategory:
         name: GAEN EN Express
         items:
@@ -2403,6 +2635,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T21:00:00.000Z
           - item:
             name: United States - District of Columbia (DC CAN)
             description: Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy.
@@ -2500,6 +2734,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T17:56:02.000Z
           - item:
             name: United States - Utah (UT Exposure Notifications)
             description: >-
@@ -2534,7 +2770,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T22:10:00.000Z
+              latest_tweet_date: 2022-03-26T21:00:08.000Z
           - item:
             name: United States - Washington (WA Notify)
             description: >-
@@ -2566,6 +2802,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T23:48:04.000Z
           - item:
             name: United States - Wisconsin (WI Exposure Notifications)
             description: >-
@@ -2597,6 +2835,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T19:00:01.000Z
       - subcategory:
         name: Herald
         items:
@@ -2637,7 +2877,7 @@ landscape:
                   value: 1097
                   color: '#89e051'
               contributions: 0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 368
               license: Other
               description: COVIDSafe android app
@@ -2885,8 +3125,8 @@ landscape:
                 - name: Shell
                   value: 384
                   color: '#89e051'
-              contributions: 1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              contributions: 0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-04-04Z
               stars: 203
               license: MIT License
               description: Fighting against COVID-19 via privacy-first Bluetooth tracing
@@ -2943,6 +3183,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T20:48:32.000Z
           - item:
             name: Hungary (VirusRadar)
             description: >-
@@ -3002,6 +3244,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T06:49:44.000Z
           - item:
             name: Mexico (CovidRadar.mx)
             description: >-
@@ -3066,6 +3310,79 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T15:49:50.000Z
+          - item:
+            name: Singapore (Trace Together)
+            description: Join 2,100,000 users in stopping the spread of COVID-19 through community-driven contact tracing
+            homepage_url: https://www.tracetogether.gov.sg/
+            repo_url: https://github.com/opentrace-community/opentrace-android
+            project_org: https://github.com/opentrace-community
+            logo: singapore.svg
+            crunchbase: https://www.crunchbase.com/organization/ministry-of-health-singapore
+            crunchbase_data:
+              name: Ministry of Health Singapore
+              description: The Ministry of Health is a ministry of the Government of Singapore.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.moh.gov.sg/
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/sporeMOH
+              linkedin: https://www.linkedin.com/company/ministry-of-health-singapore/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Health Care
+            github_data:
+              description: OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19
+              contributors_count: 10
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              stars: 1393
+              languages:
+                - name: Kotlin
+                  value: 256405
+                  color: '#F18E33'
+                - name: Swift
+                  value: 138408
+                  color: '#ffac45'
+                - name: TypeScript
+                  value: 28679
+                  color: '#2b7489'
+                - name: Ruby
+                  value: 5349
+                  color: '#701516'
+                - name: Shell
+                  value: 920
+                  color: '#89e051'
+              latest_commit_link: /opentrace-community/opentrace-android/commit/7e0cdd8f52f4560c4ed9bb37d55a0f820d1cb0ae
+              latest_commit_date: '2020-05-02T03:53:09Z'
+              firstWeek: 2021-04-04Z
+              license: GNU General Public License v3.0
+              contributors_link: https://github.com/opentrace-community/opentrace-android/graphs/contributors
+            repos:
+              - url: https://github.com/opentrace-community/opentrace-android
+                stars: 573
+              - url: https://github.com/opentrace-community/opentrace-ios
+                stars: 426
+              - url: https://github.com/opentrace-community/opentrace-cloud-functions
+                stars: 275
+              - url: https://github.com/opentrace-community/opentrace-calibration
+                stars: 119
+            github_start_commit_data:
+              start_commit_link: /opentrace-community/opentrace-cloud-functions/commit/e92bf02d4a080134aea6b11dc976437d76dd2b78
+              start_date: '2020-04-09T11:28:02Z'
+            image_data:
+              fileName: singapore-trace-together.svg
+              hash: 2dD4ISwGWvWOqORM+Lpn7WJade27tUASLykvvZawywY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-24T15:57:56.000Z
           - item:
             name: United Arab Emirates (TraceCovid)
             description: When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.
@@ -3096,6 +3413,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T16:09:45.000Z
       - subcategory:
         name: GPS Based
         items:
@@ -3131,6 +3450,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T09:38:08.000Z
           - item:
             name: Brunei (BruHealth)
             description: >-
@@ -3198,7 +3519,7 @@ landscape:
                   value: 379
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 28
               license: Apache License 2.0
               description: The repo for the ViruSafe Android project
@@ -3321,7 +3642,7 @@ landscape:
                   value: 1427
                   color: '#563d7c'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 2859
               license: Other
               description: Aarogya Setu Android app native code
@@ -3423,7 +3744,7 @@ landscape:
                   value: 104
                   color: '#555555'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 507
               license: MIT License
               description: Israel's Ministry of Health's COVID-19 Exposure Prevention App
@@ -3445,6 +3766,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T07:55:45.000Z
           - item:
             name: Kuwait (Shlonik)
             description: >-
@@ -3532,6 +3855,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T05:30:11.000Z
           - item:
             name: Turkey (Hayat Eve Sığar)
             description: With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!
@@ -3593,6 +3918,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T21:15:00.000Z
           - item:
             name: United States - South Dakota (Care19)
             description: >-
@@ -3773,35 +4100,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-09-04T16:17:12.000Z
-          - item:
-            name: Covid Near You
-            homepage_url: https://outbreaksnearme.org
-            logo: covid-near-you.svg
-            crunchbase: https://www.crunchbase.com/organization/covid-near-you
-            crunchbase_data:
-              name: Covid Near You
-              description: Contribute your health status daily and help track the COVID-19 pandemic
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.covidnearyou.org/#!/
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/COVIDNearYou
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Health Care
-            image_data:
-              fileName: covid-near-you.svg
-              hash: lm1hwLaOb0YDjpWJ3PI+squVkPnNye4YECMo38vQjgs=
-            best_practice_data:
-              badge: false
-              percentage: null
+              latest_tweet_date: 2022-03-26T17:01:20.000Z
   - category:
     name: Outbreak Management
     subcategories:
@@ -3997,7 +4296,7 @@ landscape:
             github_data:
               description: Open Source COVID-19 GAEN app
               contributors_count: 38
-              contributions: 7;0;16;9;21;5;19;35;5;0;0;0;0;0;2;0;2;0;0;0;3;12;3;0;0;0;1;4;9;5;0;0;1;1;0;5;0;1;1;0;0;0;0;0;0;0;0;0;0;3;0;3
+              contributions: 7;0;16;9;21;5;19;35;5;0;0;0;0;0;2;0;2;0;0;0;3;12;3;0;0;0;4;1;9;5;0;0;1;1;0;5;0;1;1;0;0;0;0;0;0;0;0;0;0;3;0;3
               stars: 483
               languages:
                 - name: TypeScript
@@ -4041,7 +4340,7 @@ landscape:
                   color: '#555555'
               latest_commit_link: /covidgreen/covid-green-app/commit/cf5300cb4e13be1cb45c371d30447b092c64112a
               latest_commit_date: '2021-04-20T13:53:13Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Apache License 2.0
               contributors_link: https://github.com/covidgreen/covid-green-app/graphs/contributors
             repos:
@@ -4138,8 +4437,8 @@ landscape:
                   color: '#C1F12E'
                 - name: Starlark
                   value: 1944
-              contributions: 3;0;1;1;6;4;2;0;3;1;0;0;0;0;2;0;0;0;0;0;0;3;7;0;2;0;1;1;0;0;2;0;0;0;0;0;7;2;2;0;0;0;3;1;4;1;0;0;1;0;0;0
-              firstWeek: 2021-03-28Z
+              contributions: 3;0;1;4;3;4;2;0;3;1;0;0;0;0;2;0;0;0;0;0;0;3;7;0;2;0;1;1;0;0;2;0;0;0;0;0;7;2;2;0;0;0;3;1;4;1;0;0;1;0;0;0
+              firstWeek: 2021-04-04Z
               stars: 41
               license: MIT License
               description: The mobile application supporting the GAEN Exposure Notifications protocol.
@@ -4238,7 +4537,7 @@ landscape:
                   value: 602
               latest_commit_link: /CovidShield/mobile/commit/f27957f906f3bdded00a4c1d5a1b4cdbc923d42b
               latest_commit_date: '2020-08-28T18:20:37Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Apache License 2.0
               contributors_link: https://github.com/CovidShield/mobile/graphs/contributors
             repos:
@@ -4352,7 +4651,7 @@ landscape:
                   color: '#563d7c'
               latest_commit_link: /covidwatchorg/covidwatch-android-en/commit/a9d6fe16427f131fb8e5a5044db34cedb760c56e
               latest_commit_date: '2020-09-16T15:28:13Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: Apache License 2.0
               contributors_link: https://github.com/covidwatchorg/covidwatch-android-en/graphs/contributors
             repos:
@@ -4440,9 +4739,90 @@ landscape:
                 - name: Swift
                   value: 763888
                   color: '#ffac45'
-                - name: JavaScript
-                  value: 461015
-                  color: '#f1e05a'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-04-04Z
+              stars: 11
+              license: MIT License
+              description: Sample iOS app for exploring the Google Apple Exposure Notification framework
+              latest_commit_date: '2021-09-12T19:18:14Z'
+              latest_commit_link: /billpugh/GAEN_Explorer/commit/6347d88f477520c6ab2855bc3478d90ad63a1af7
+              contributors_count: 3
+              contributors_link: https://github.com/billpugh/GAEN_Explorer/graphs/contributors
+            repos:
+              - url: https://github.com/billpugh/GAEN_Explorer
+                stars: 11
+            github_start_commit_data:
+              start_commit_link: /billpugh/GAEN_Explorer/commit/6c10f25fcd685fbf41a32cbfb69c85b302eab2b9
+              start_date: '2020-05-23T20:38:22Z'
+            image_data:
+              fileName: gaen-explorer.svg
+              hash: KCUEZtyN97jZH36cRP1uhZHecBUxfXkjAEg6MmPBn90=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-21T12:37:44.000Z
+      - subcategory:
+        name: Non-GAEN
+        items:
+          - item:
+            name: Coalition App
+            description: Coalition is a global, privacy-first tracing app to help stop the spread of COVID-19.
+            homepage_url: https://www.coalitionnetwork.org/
+            logo: coalition.svg
+            crunchbase: https://www.crunchbase.com/organization/coalition-network
+            crunchbase_data:
+              name: Coalition Network
+              description: Coalition is a global, privacy-first contact tracing app to help stop the spread of COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.coalitionnetwork.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/coalition_app
+              linkedin: https://www.linkedin.com/company/coalitionapp/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: coalition-app.svg
+              hash: Pcp60Ebcz4723apKp/AQ3vrC7z6e/WsBJWAwLPyVMjU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-23T17:08:42.000Z
+          - item:
+            name: CoEpi
+            description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
+            homepage_url: https://www.coepi.org
+            repo_url: https://github.com/Co-Epi/app-android
+            logo: coepi.svg
+            crunchbase: https://www.crunchbase.com/organization/coepi
+            crunchbase_data:
+              name: CoEpi
+              description: CoEpi is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.coepi.org
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: https://twitter.com/CoEpiApp
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Swift
+                  value: 290705
+                  color: '#ffac45'
                 - name: Kotlin
                   value: 256405
                   color: '#F18E33'
@@ -4477,27 +4857,105 @@ landscape:
                 - name: Objective-C
                   value: 471
                   color: '#438eff'
-              latest_commit_link: /theheraldproject/herald-for-android/commit/c72795f268c7fbe37777a6c22d3ca8742304d6d6
-              latest_commit_date: '2021-10-11T13:10:24Z'
-              firstWeek: 2021-01-03Z
-              license: Apache License 2.0
-              contributors_link: https://github.com/theheraldproject/herald-for-android/graphs/contributors
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-04-04Z
+              stars: 59
+              license: MIT License
+              description: 'Android implementation of CoEpi '
+              latest_commit_date: '2020-11-22T13:55:02Z'
+              latest_commit_link: /Co-Epi/app-android/commit/54cffa441d27d18ba33d7719a34dc9b5c9125262
+              contributors_count: 19
+              contributors_link: https://github.com/Co-Epi/app-android/graphs/contributors
             repos:
-              - url: https://github.com/theheraldproject/herald-for-android
-                stars: 20
-              - url: https://github.com/theheraldproject/herald-for-ios
-                stars: 20
-              - url: https://github.com/theheraldproject/theheraldproject.github.io
-                stars: 17
-              - url: https://github.com/theheraldproject/herald-for-cpp
-                stars: 10
-              - url: https://github.com/theheraldproject/herald-analysis
-                stars: 7
-              - url: https://github.com/theheraldproject/herald-hardware
-                stars: 4
-              - url: https://github.com/theheraldproject/herald-calibration
-                stars: 2
-              - url: https://github.com/theheraldproject/zephyr-devices
+              - url: https://github.com/Co-Epi/app-android
+                stars: 30
+              - url: https://github.com/Co-Epi/app-ios
+                stars: 29
+            github_start_commit_data:
+              start_commit_link: /Co-Epi/app-android/commit/801182d53ef4a033cbd41ff0be12859aefef9b8a
+              start_date: '2020-03-22T08:01:10Z'
+            image_data:
+              fileName: co-epi.svg
+              hash: xZ7ohT0wWJ99XE928Z84YFjscfKi2F2xY1CGXXKKRtg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-01-19T21:07:12.000Z
+          - item:
+            name: CommonCircle
+            homepage_url: https://commoncircle.us/
+            repo_url: https://github.com/covidsafe/App-Android
+            project_org: https://github.com/covidsafe
+            logo: common-circle.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-washington
+            crunchbase_data:
+              name: University of Washington
+              description: University of Washington is an educational institution that provides undergraduate, graduate, and research programs.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.washington.edu/
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: https://twitter.com/UW
+              linkedin: https://www.linkedin.com/school/university-of-washington/
+              acquisitions: []
+              parents: []
+              funding: 88829689
+              stockExchange: null
+              company_type: ''
+              industries:
+                - EdTech
+                - Education
+                - Energy Storage
+                - Higher Education
+                - Solar
+                - Universities
+              kind: funding
+            github_data:
+              description: A tool to alert you about highly relevant public health announcements, potential exposure to COVID-19, and to assist public health officials.
+              contributors_count: 34
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              stars: 72
+              languages:
+                - name: Java
+                  value: 696323
+                  color: '#b07219'
+                - name: TypeScript
+                  value: 173284
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 168808
+                  color: '#f1e05a'
+                - name: Kotlin
+                  value: 32615
+                  color: '#F18E33'
+                - name: Objective-C
+                  value: 17383
+                  color: '#438eff'
+                - name: Ruby
+                  value: 7932
+                  color: '#701516'
+                - name: Python
+                  value: 7555
+                  color: '#3572A5'
+                - name: Starlark
+                  value: 602
+                - name: Shell
+                  value: 114
+                  color: '#89e051'
+              latest_commit_link: /covidsafe/App-Android/commit/a621babad52d1d93ffc580bc68b24690bdfe0c87
+              latest_commit_date: '2020-05-30T05:32:06Z'
+              firstWeek: 2021-04-04Z
+              license: MIT License
+              contributors_link: https://github.com/covidsafe/App-Android/graphs/contributors
+            repos:
+              - url: https://github.com/covidsafe/App-Android
+                stars: 66
+              - url: https://github.com/covidsafe/CovidShieldExposure
+                stars: 5
+              - url: https://github.com/covidsafe/hcp-tools
                 stars: 1
               - url: https://github.com/theheraldproject/opentrace-v1-android
                 stars: 0
@@ -4516,6 +4974,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T20:04:00.000Z
           - item:
             name: Covid Safe Paths
             homepage_url: https://pathcheck.org
@@ -4544,7 +5004,7 @@ landscape:
               description: PathCheck Foundation is dedicated to containing Covid-19 and revitalizing the economy, while preserving privacy and individual liberty.
               contributors_count: 407
               contributions: >-
-                266;223;301;227;188;268;244;309;285;289;225;284;169;134;195;191;162;276;148;150;170;186;195;187;158;255;159;65;36;44;69;52;68;18;61;30;61;84;82;54;39;7;31;11;14;11;10;9;10;8;12;6
+                255;230;294;227;219;241;238;316;280;297;237;261;165;136;194;197;158;275;147;149;173;189;192;186;160;256;154;65;36;61;56;49;70;26;53;29;63;101;61;59;37;4;33;11;14;11;10;9;10;8;12;6
               stars: 749
               languages:
                 - name: Java
@@ -4633,7 +5093,7 @@ landscape:
                   value: 48
               latest_commit_link: /Path-Check/safeplaces-dct-app/commit/d5461a6d39f654854362932f5c3050ca33e0459d
               latest_commit_date: '2020-08-07T20:26:13Z'
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               license: MIT License
               contributors_link: https://github.com/Path-Check/safeplaces-dct-app/graphs/contributors
             repos:
@@ -4824,7 +5284,7 @@ landscape:
                   value: 38
                   color: '#438eff'
               contributions: 2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 2093
               license: Other
               description: COVID-19 App
@@ -4882,7 +5342,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-07-14T20:15:00.000Z
+              latest_tweet_date: 2022-03-26T23:58:48.000Z
           - item:
             name: Safe2
             description: Your COVID-19 exposure warning system for smarter social distancing.
@@ -5377,6 +5837,132 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Herald
+            description: Reliable Bluetooth communication and range finding across a wide range of mobile devices.
+            homepage_url: https://vmware.github.io/herald/
+            project: foundationproject
+            repo_url: https://github.com/theheraldproject/herald-for-android
+            project_org: https://github.com/theheraldproject
+            logo: herald.svg
+            twitter: https://twitter.com/HeraldProximity
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-01-28'
+            crunchbase_data:
+              name: LF Public Health
+              description: An open source software foundation focused on the needs of public health authorities
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.lfph.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/lfpubhealth
+              linkedin: https://www.linkedin.com/company/lfph
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Software
+            github_data:
+              description: Bluetooth Proximity and Digital Contact Tracing
+              contributors_count: 10
+              contributions: 2;17;19;12;20;36;42;15;11;42;11;6;34;13;15;7;6;0;6;6;6;40;14;4;15;1;3;1;1;4;0;0;5;1;5;4;3;10;3;2;4;0;0;0;0;1;0;4;1;9;0;0
+              stars: 82
+              languages:
+                - name: HTML
+                  value: 21059395
+                  color: '#e34c26'
+                - name: C++
+                  value: 2399190
+                  color: '#f34b7d'
+                - name: Java
+                  value: 1069943
+                  color: '#b07219'
+                - name: Swift
+                  value: 763888
+                  color: '#ffac45'
+                - name: JavaScript
+                  value: 461015
+                  color: '#f1e05a'
+                - name: Kotlin
+                  value: 256405
+                  color: '#F18E33'
+                - name: SCSS
+                  value: 201660
+                - name: R
+                  value: 155107
+                  color: '#198CE7'
+                - name: C
+                  value: 129130
+                  color: '#555555'
+                - name: CSS
+                  value: 107636
+                  color: '#563d7c'
+                - name: CMake
+                  value: 61932
+                - name: TypeScript
+                  value: 28679
+                  color: '#2b7489'
+                - name: Shell
+                  value: 5185
+                  color: '#89e051'
+                - name: Python
+                  value: 4531
+                  color: '#3572A5'
+                - name: Ruby
+                  value: 4227
+                  color: '#701516'
+                - name: Batchfile
+                  value: 667
+                  color: '#C1F12E'
+                - name: Objective-C
+                  value: 471
+                  color: '#438eff'
+              latest_commit_link: /theheraldproject/herald-for-android/commit/c3bd00c7f3a283b2b8b4d3fd4f9597cf76e5df3a
+              latest_commit_date: '2022-01-05T21:12:36Z'
+              firstWeek: 2021-04-04Z
+              license: Apache License 2.0
+              contributors_link: https://github.com/theheraldproject/herald-for-android/graphs/contributors
+            repos:
+              - url: https://github.com/theheraldproject/herald-for-android
+                stars: 20
+              - url: https://github.com/theheraldproject/herald-for-ios
+                stars: 20
+              - url: https://github.com/theheraldproject/theheraldproject.github.io
+                stars: 17
+              - url: https://github.com/theheraldproject/herald-for-cpp
+                stars: 11
+              - url: https://github.com/theheraldproject/herald-analysis
+                stars: 7
+              - url: https://github.com/theheraldproject/herald-hardware
+                stars: 4
+              - url: https://github.com/theheraldproject/herald-calibration
+                stars: 2
+              - url: https://github.com/theheraldproject/zephyr-devices
+                stars: 1
+              - url: https://github.com/theheraldproject/opentrace-v1-android
+                stars: 0
+              - url: https://github.com/theheraldproject/opentrace-v1-ios
+                stars: 0
+              - url: https://github.com/theheraldproject/opentrace-v1-calibration
+                stars: 0
+              - url: https://github.com/theheraldproject/opentrace-v1-cloud-functions
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /theheraldproject/herald-for-ios/commit/124e11878b93271f3154643676e21c4d42b0b5ab
+              start_date: '2020-07-24T08:59:39Z'
+            image_data:
+              fileName: herald.svg
+              hash: IzEkml1VYj/OfyvP7VOairr6mEa8879i9dw6ev0AXa0=
+            best_practice_data:
+              badge: 4869
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2021-12-29T11:45:36.000Z
+          - item:
             name: ito-app
             homepage_url: https://www.ito-app.org
             repo_url: https://github.com/ito-org/ito-app
@@ -5421,7 +6007,7 @@ landscape:
                   value: 596
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 49
               license: GNU General Public License v3.0
               description: A privacy-first contact tracing app
@@ -6402,12 +6988,28 @@ landscape:
               industries:
                 - Communities
                 - Education
-                - Enterprise Software
-                - Events
-                - Information Technology
-                - Linux
-                - Non Profit
-                - Open Source
+                - Higher Education
+                - Universities
+            github_data:
+              languages:
+                - name: Shell
+                  value: 76
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-04-04Z
+              stars: 2257
+              license: Unknown License
+              description: Decentralized Privacy-Preserving Proximity Tracing -- Documents
+              latest_commit_date: '2020-09-30T12:20:11Z'
+              latest_commit_link: /DP-3T/documents/commit/08e9c145dabfe26907afd66e0973aceb4e4b44f7
+              contributors_count: 40
+              contributors_link: https://github.com/DP-3T/documents/graphs/contributors
+            repos:
+              - url: https://github.com/DP-3T/documents
+                stars: 2257
+            github_start_commit_data:
+              start_commit_link: /DP-3T/documents/commit/3b6024918f8980d2be10eeeaf7a43d6d52b64a38
+              start_date: '2020-04-03T16:04:33Z'
             image_data:
               fileName: zephyr-rtos.svg
               hash: URXph3QxwWxuoIdhF+f2WUtRca25icKqWWzoudlxqaM=
@@ -7649,7 +8251,7 @@ landscape:
                   value: 620
                   color: '#a270ba'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 262
               license: MIT License
               description: Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.
@@ -7710,7 +8312,7 @@ landscape:
                   value: 17097
                   color: '#b07219'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 5
               license: GNU General Public License v3.0
               description: Android implementation of the Whisper Tracing protocol https://www.coalitionnetwork.org/
@@ -7778,7 +8380,7 @@ landscape:
                   value: 1696255
                   color: '#f1e05a'
                 - name: Shell
-                  value: 26260
+                  value: 123049
                   color: '#89e051'
                 - name: CSS
                   value: 13508
@@ -7795,22 +8397,20 @@ landscape:
                 - name: Ruby
                   value: 3796
                   color: '#701516'
-                - name: HTML
-                  value: 2272
-                  color: '#e34c26'
-                - name: Starlark
-                  value: 1204
-                - name: C
-                  value: 208
-                  color: '#555555'
-                - name: Swift
-                  value: 110
-                  color: '#ffac45'
-              latest_commit_link: /thecardeaproject/cardea/commit/243b1f1226963a76540a45c12cdfa9be0ecd2292
-              latest_commit_date: '2021-12-07T17:20:00Z'
-              firstWeek: 2021-01-03Z
-              license: Apache License 2.0
-              contributors_link: https://github.com/thecardeaproject/cardea/graphs/contributors
+              contributions: >-
+                387;264;369;325;244;318;258;311;276;382;388;259;271;328;243;284;385;265;289;259;185;292;270;284;289;270;271;277;203;190;165;281;263;241;132;221;297;210;82;22;140;250;235;241;264;241;250;214;303;189;156;148
+              firstWeek: 2021-04-04Z
+              stars: 500
+              license: BSD 3-Clause "New" or "Revised" License
+              description: >-
+                CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile
+                applications to frontline workers worldwide
+              latest_commit_date: '2022-03-26T10:43:30Z'
+              latest_commit_link: /dimagi/commcare-hq/commit/9bb39ca20ee3ef575bfae5ea295390b2b3d2ade1
+              release_date: '2018-03-20T18:42:17Z'
+              release_link: https://github.com/dimagi/commcare-hq/releases
+              contributors_count: 157
+              contributors_link: https://github.com/dimagi/commcare-hq/graphs/contributors
             repos:
               - url: https://github.com/thecardeaproject/cardea
                 stars: 6
@@ -7858,16 +8458,909 @@ landscape:
             extra:
               accepted: '2021-04-29'
             crunchbase_data:
-              name: LF Public Health
-              description: An open source software foundation focused on the needs of public health authorities
+              name: Conduent
+              description: Improving how businesses and governments interact with citizens, patients, customers and employees.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.conduent.com/
+              city: Florham Park
+              region: New Jersey
+              country: United States
+              twitter: https://twitter.com/conduent
+              linkedin: https://www.linkedin.com/company-beta/10794364
+              acquisitions:
+                - date: '2018-10-31'
+                  acquiree: Health Solutions Plus
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Information Technology
+                - Security
+            image_data:
+              fileName: conduent-maven.svg
+              hash: 5IWfBIlYYw2+eZknEkR28F3BCXb7oOzM27i0oYYIw8c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-25T18:19:51.000Z
+          - item:
+            name: Go.Data
+            description: >-
+              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
+              to help responders work smarter.
+            homepage_url: https://www.who.int/godata/about
+            logo: world-health-organization-go-data.svg
+            crunchbase: https://www.crunchbase.com/organization/world-health-organization
+            crunchbase_data:
+              name: World Health Organization
+              description: World Health Organization is an international organization that directs and coordinates with authority for health.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://who.int/
+              city: Geneva
+              region: Geneve
+              country: Switzerland
+              twitter: http://twitter.com/who
+              linkedin: https://www.linkedin.com/company/5350
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Association
+                - Health Care
+                - Service Industry
+            image_data:
+              fileName: go-data.svg
+              hash: XQhecrplfl6PQU+OWEUKOmqEO1iUMZTq7ra6EGG3QyI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T23:58:48.000Z
+          - item:
+            name: Microsoft Dynamics 365 Customer Service & Remote Assist
+            description: >-
+              Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for up to
+              six months.
+            homepage_url: https://dynamics.microsoft.com/en-us/
+            logo: microsoft-dynamics365.svg
+            twitter: https://twitter.com/msftdynamics365
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            crunchbase_data:
+              name: Microsoft
+              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.microsoft.com
+              city: Redmond
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/Microsoft
+              linkedin: https://www.linkedin.com/company/microsoft
+              acquisitions:
+                - date: '1987-07-30'
+                  acquiree: Forethought
+                  price: 14000000
+                - date: '1991-03-08'
+                  acquiree: Consumers Software
+                - date: '1992-03-25'
+                  acquiree: Fox Software
+                - date: '1994-02-15'
+                  acquiree: SoftImage
+                - date: '1994-09-27'
+                  acquiree: Altamira Software
+                - date: '1994-11-01'
+                  acquiree: NextBase
+                - date: '1994-11-16'
+                  acquiree: One Tree Software Ltd
+                - date: '1995-02-23'
+                  acquiree: RenderMorphics
+                - date: '1995-07-10'
+                  acquiree: Network Managers
+                - date: '1995-10-16'
+                  acquiree: Blue Ribbon SoundWorks
+                - date: '1995-11-06'
+                  acquiree: Netwise
+                - date: '1995-12-12'
+                  acquiree: Bruce Artwick Organization
+                - date: '1996-01-16'
+                  acquiree: Vermeer Technologies
+                - date: '1996-03-12'
+                  acquiree: Colusa Software
+                - date: '1996-04-15'
+                  acquiree: EXOS
+                - date: '1996-04-23'
+                  acquiree: Aspect Software Inc
+                - date: '1996-06-11'
+                  acquiree: eShop
+                - date: '1996-06-17'
+                  acquiree: Electric Gravity
+                - date: '1996-12-10'
+                  acquiree: NetCarta
+                - date: '1997-03-03'
+                  acquiree: Interse
+                - date: '1997-04-06'
+                  acquiree: WebTV Networks
+                - date: '1997-05-07'
+                  acquiree: Dimension X
+                - date: '1997-06-13'
+                  acquiree: Cooper & Peters
+                - date: '1997-06-30'
+                  acquiree: LinkAge Software
+                - date: '1997-08-05'
+                  acquiree: VXtreme
+                - date: '1997-12-31'
+                  acquiree: Hotmail
+                - date: '1997-12-31'
+                  acquiree: Windows Live Hotmail
+                - date: '1998-04-09'
+                  acquiree: Firefly Network
+                - date: '1998-04-28'
+                  acquiree: MESA Group
+                - date: '1998-06-23'
+                  acquiree: Merchant Planet
+                - date: '1998-08-25'
+                  acquiree: Valence Research
+                - date: '1998-08-25'
+                  acquiree: Valence Technology
+                - date: '1998-11-05'
+                  acquiree: linkexchange
+                - date: '1999-01-08'
+                  acquiree: FASA Interactive
+                - date: '1999-03-04'
+                  acquiree: CompareNet
+                - date: '1999-03-28'
+                  acquiree: Numinous Technologies
+                - date: '1999-04-26'
+                  acquiree: Jump Networks
+                - date: '1999-06-07'
+                  acquiree: ShadowFactor Software
+                - date: '1999-06-14'
+                  acquiree: OmniBrowse
+                - date: '1999-07-01'
+                  acquiree: Sendit
+                - date: '1999-07-07'
+                  acquiree: Zoomit
+                - date: '1999-07-21'
+                  acquiree: STNC
+                - date: '1999-07-28'
+                  acquiree: Intrinsa
+                  price: 58900000
+                - date: '1999-09-15'
+                  acquiree: Visio Corporation
+                - date: '1999-09-17'
+                  acquiree: Softway Systems
+                - date: '1999-10-29'
+                  acquiree: Entropic
+                - date: '1999-11-01'
+                  acquiree: Entropic Research Laboratories
+                - date: '2000-02-29'
+                  acquiree: Peach Networks
+                - date: '2000-06-19'
+                  acquiree: Bungie
+                - date: '2000-07-12'
+                  acquiree: NetGames
+                - date: '2000-09-13'
+                  acquiree: MongoMusic
+                  price: 65000000
+                - date: '2000-09-18'
+                  acquiree: Pacific Microsonics
+                - date: '2000-12-05'
+                  acquiree: Digital Anvil
+                - date: '2000-12-21'
+                  acquiree: Great Plains Software
+                - date: '2001-04-30'
+                  acquiree: NCompass Labs
+                - date: '2001-09-13'
+                  acquiree: XDegrees
+                - date: '2002-05-07'
+                  acquiree: Navision
+                  price: 1450000000
+                - date: '2002-09-24'
+                  acquiree: Rare
+                  price: 337000000
+                - date: '2002-10-22'
+                  acquiree: Vicinity Corporation
+                  price: 96000000
+                - date: '2003-02-19'
+                  acquiree: Connectix
+                - date: '2003-03-04'
+                  acquiree: Pelican Security
+                  price: 1000000
+                - date: '2003-04-30'
+                  acquiree: PlaceWare
+                - date: '2003-06-10'
+                  acquiree: RAV Antivirus
+                - date: '2004-04-26'
+                  acquiree: ActiveViews
+                - date: '2004-07-17'
+                  acquiree: Lookout Software
+                - date: '2004-12-16'
+                  acquiree: GIANT Company Software
+                - date: '2005-02-08'
+                  acquiree: Sybari
+                - date: '2005-03-10'
+                  acquiree: Groove Networks
+                - date: '2005-05-11'
+                  acquiree: MessageCast
+                - date: '2005-07-20'
+                  acquiree: Frontbridge Technologies
+                - date: '2005-08-30'
+                  acquiree: Teleo
+                - date: '2005-09-19'
+                  acquiree: Alacris
+                - date: '2005-10-06'
+                  acquiree: Unveil Technologies
+                - date: '2005-11-02'
+                  acquiree: Media-Streams.com
+                - date: '2005-11-03'
+                  acquiree: FolderShare
+                - date: '2005-11-17'
+                  acquiree: 5th Finger
+                - date: '2006-01-28'
+                  acquiree: SeaDragon Software
+                - date: '2006-02-13'
+                  acquiree: Motion Bridge
+                - date: '2006-03-07'
+                  acquiree: Apptimum
+                - date: '2006-03-07'
+                  acquiree: Onfolio
+                - date: '2006-04-03'
+                  acquiree: ProClarity
+                - date: '2006-04-06'
+                  acquiree: Lionhead Studios
+                - date: '2006-04-26'
+                  acquiree: AssetMetrix Corporation
+                - date: '2006-05-01'
+                  acquiree: Massive
+                  price: 200000000
+                - date: '2006-05-04'
+                  acquiree: DeepMetrix
+                - date: '2006-05-04'
+                  acquiree: Vexcel
+                - date: '2006-05-18'
+                  acquiree: Whale Communications
+                  price: 75000000
+                - date: '2006-06-27'
+                  acquiree: iView Multimedia
+                - date: '2006-07-17'
+                  acquiree: Softricity
+                - date: '2006-07-18'
+                  acquiree: Winternals
+                - date: '2006-07-26'
+                  acquiree: Azyxxi
+                - date: '2006-09-26'
+                  acquiree: Gteko
+                - date: '2006-10-02'
+                  acquiree: DesktopStandard
+                - date: '2006-10-12'
+                  acquiree: Colloquis
+                - date: '2007-02-26'
+                  acquiree: Medstory
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-28'
+                  acquiree: devBiz Business Solutions
+                - date: '2007-05-03'
+                  acquiree: Screen Tonic
+                - date: '2007-05-18'
+                  acquiree: aQuantive
+                  price: 6400000000
+                - date: '2007-06-05'
+                  acquiree: Engyro
+                - date: '2007-06-07'
+                  acquiree: Stratature
+                - date: '2007-07-26'
+                  acquiree: AdECN
+                - date: '2007-08-29'
+                  acquiree: Parlano
+                - date: '2007-10-29'
+                  acquiree: Global Care Solutions
+                - date: '2007-11-15'
+                  acquiree: Musiwave
+                  price: 46000000
+                - date: '2007-11-30'
+                  acquiree: WebFives
+                - date: '2007-12-12'
+                  acquiree: MultiMap
+                - date: '2008-01-08'
+                  acquiree: Fast Search & Transfer
+                - date: '2008-01-21'
+                  acquiree: Calista Technologies
+                - date: '2008-02-07'
+                  acquiree: Caligari Corporation
+                - date: '2008-02-11'
+                  acquiree: Danger
+                  price: 500000000
+                - date: '2008-02-27'
+                  acquiree: YaData
+                - date: '2008-03-08'
+                  acquiree: Credentica
+                - date: '2008-03-12'
+                  acquiree: Kidaro
+                  price: 90000000
+                - date: '2008-03-14'
+                  acquiree: 90 Degree Software
+                - date: '2008-03-14'
+                  acquiree: Rapt
+                - date: '2008-03-20'
+                  acquiree: Komoku
+                - date: '2008-04-09'
+                  acquiree: Farecast
+                  price: 115000000
+                - date: '2008-06-18'
+                  acquiree: Navic Networks
+                - date: '2008-06-18'
+                  acquiree: Navic Systems
+                - date: '2008-06-26'
+                  acquiree: MobiComp
+                - date: '2008-07-01'
+                  acquiree: Powerset
+                  price: 100000000
+                - date: '2008-07-14'
+                  acquiree: Zoomix
+                - date: '2008-07-25'
+                  acquiree: DATAllegro
+                - date: '2008-08-29'
+                  acquiree: Greenfield Online
+                  price: 486000000
+                - date: '2008-08-31'
+                  acquiree: Ciao
+                - date: '2009-05-07'
+                  acquiree: BigPark
+                - date: '2009-06-01'
+                  acquiree: Rosetta Biosoftware
+                - date: '2009-06-28'
+                  acquiree: ClickStream Technologies
+                - date: '2009-09-22'
+                  acquiree: Interactive Supercomputing
+                - date: '2009-12-10'
+                  acquiree: Sentillion
+                - date: '2009-12-11'
+                  acquiree: Opalis Software
+                - date: '2010-10-06'
+                  acquiree: AVIcode
+                - date: '2010-10-29'
+                  acquiree: Canesta
+                - date: '2011-05-10'
+                  acquiree: Skype
+                - date: '2011-06-08'
+                  acquiree: Prodiance Corporation
+                - date: '2011-10-12'
+                  acquiree: Twisted Pixel Games
+                - date: '2011-11-23'
+                  acquiree: VideoSurf
+                  price: 100000000
+                - date: '2012-06-25'
+                  acquiree: Yammer
+                  price: 1200000000
+                - date: '2012-07-09'
+                  acquiree: Perceptive Pixel
+                - date: '2012-10-04'
+                  acquiree: PhoneFactor
+                - date: '2012-10-16'
+                  acquiree: StorSimple
+                - date: '2012-10-17'
+                  acquiree: MarketingPilot
+                - date: '2012-12-28'
+                  acquiree: R2 Studios
+                - date: '2013-01-02'
+                  acquiree: id8 Group R2 Studios
+                - date: '2013-02-04'
+                  acquiree: Pando Networks
+                - date: '2013-03-04'
+                  acquiree: MetricsHub
+                - date: '2013-03-19'
+                  acquiree: Netbreeze
+                - date: '2013-06-03'
+                  acquiree: InRelease
+                - date: '2013-09-03'
+                  acquiree: Nokia - Devices & Services Business
+                  price: 7166381241
+                - date: '2013-10-04'
+                  acquiree: Apiphany
+                - date: '2014-01-06'
+                  acquiree: Parature
+                  price: 100000000
+                - date: '2014-04-30'
+                  acquiree: GreenButton
+                - date: '2014-05-28'
+                  acquiree: Capptain
+                - date: '2014-07-03'
+                  acquiree: SyntaxTree
+                - date: '2014-07-11'
+                  acquiree: InMage Systems
+                - date: '2014-09-15'
+                  acquiree: Mojang Studios
+                  price: 2500000000
+                - date: '2014-10-08'
+                  acquiree: Equivio
+                  price: 200000000
+                - date: '2014-11-13'
+                  acquiree: Aorato
+                  price: 200000000
+                - date: '2014-12-01'
+                  acquiree: Acompli
+                  price: 200000000
+                - date: '2014-12-11'
+                  acquiree: Bit Stadium GmbH
+                - date: '2014-12-11'
+                  acquiree: HockeyApp
+                - date: '2015-01-23'
+                  acquiree: Revolution Analytics
+                - date: '2015-02-04'
+                  acquiree: Sunrise
+                  price: 100000000
+                - date: '2015-02-12'
+                  acquiree: N-Trig
+                - date: '2015-03-26'
+                  acquiree: LiveLoop
+                - date: '2015-04-14'
+                  acquiree: Datazen Software
+                - date: '2015-06-02'
+                  acquiree: Wunderlist
+                  price: 150000000
+                - date: '2015-06-10'
+                  acquiree: BlueStripe
+                - date: '2015-07-16'
+                  acquiree: FieldOne Systems
+                - date: '2015-07-19'
+                  acquiree: Adallom
+                  price: 320000000
+                - date: '2015-08-03'
+                  acquiree: FantasySalesTeam
+                - date: '2015-09-10'
+                  acquiree: Double Labs
+                - date: '2015-09-11'
+                  acquiree: VoloMetrix
+                  price: 250000000
+                - date: '2015-09-14'
+                  acquiree: Echo Locker
+                - date: '2015-09-30'
+                  acquiree: Adxstudio
+                - date: '2015-10-02'
+                  acquiree: Havok
+                - date: '2015-11-05'
+                  acquiree: Mobile Data Labs
+                - date: '2015-11-09'
+                  acquiree: Secure Islands Technologies
+                  price: 77500000
+                - date: '2015-12-18'
+                  acquiree: Metanautix
+                - date: '2015-12-21'
+                  acquiree: Talko
+                - date: '2016-01-13'
+                  acquiree: Event Zero
+                - date: '2016-01-19'
+                  acquiree: MinecraftEdu
+                - date: '2016-02-02'
+                  acquiree: SwiftKey
+                  price: 250000000
+                - date: '2016-02-09'
+                  acquiree: Groove (dba Zikera)
+                - date: '2016-02-24'
+                  acquiree: Xamarin
+                - date: '2016-05-03'
+                  acquiree: Solair
+                - date: '2016-06-13'
+                  acquiree: LinkedIn
+                  price: 26200000000
+                - date: '2016-06-16'
+                  acquiree: Wand Labs
+                - date: '2016-06-28'
+                  acquiree: Code Connect
+                - date: '2016-08-11'
+                  acquiree: Mixer
+                - date: '2016-08-22'
+                  acquiree: Genee
+                - date: '2017-01-13'
+                  acquiree: Maluuba
+                - date: '2017-01-17'
+                  acquiree: Donya Labs
+                - date: '2017-04-01'
+                  acquiree: Open Build Service
+                - date: '2017-04-10'
+                  acquiree: Deis.com
+                - date: '2017-04-18'
+                  acquiree: Intentional Software
+                - date: '2017-05-24'
+                  acquiree: Hexadite
+                  price: 100000000
+                - date: '2017-06-28'
+                  acquiree: Cloudyn
+                  price: 60000000
+                - date: '2017-08-15'
+                  acquiree: Cycle Computing
+                - date: '2017-10-04'
+                  acquiree: AltspaceVR
+                - date: '2017-11-07'
+                  acquiree: Swing Technologies
+                - date: '2018-01-03'
+                  acquiree: Avere Systems
+                - date: '2018-01-29'
+                  acquiree: PlayFab
+                - date: '2018-02-13'
+                  acquiree: Chalkup
+                - date: '2018-05-20'
+                  acquiree: Semantic Machines
+                - date: '2018-06-03'
+                  acquiree: GitHub
+                  price: 7500000000
+                - date: '2018-06-10'
+                  acquiree: Compulsion Games
+                - date: '2018-06-10'
+                  acquiree: Ninja Theory
+                - date: '2018-06-10'
+                  acquiree: Playground Games
+                - date: '2018-06-10'
+                  acquiree: Undead Labs
+                - date: '2018-06-18'
+                  acquiree: FlipGrid
+                - date: '2018-06-20'
+                  acquiree: Bonsai
+                - date: '2018-09-13'
+                  acquiree: Lobe
+                - date: '2018-11-10'
+                  acquiree: Obsidian Entertainment
+                - date: '2018-11-10'
+                  acquiree: inXile Entertainment
+                - date: '2018-11-14'
+                  acquiree: XOXCO
+                - date: '2018-11-19'
+                  acquiree: FSLogix
+                - date: '2019-01-24'
+                  acquiree: Citus Data
+                - date: '2019-02-04'
+                  acquiree: DataSense
+                - date: '2019-04-18'
+                  acquiree: Express Logic
+                - date: '2019-07-29'
+                  acquiree: BlueTalon
+                - date: '2019-08-05'
+                  acquiree: PromoteIQ
+                - date: '2019-08-19'
+                  acquiree: jClarity
+                - date: '2019-09-04'
+                  acquiree: Movere
+                - date: '2019-10-21'
+                  acquiree: Mover
+                - date: '2020-03-26'
+                  acquiree: Affirmed Networks
+                  price: 1350000000
+                - date: '2020-05-05'
+                  acquiree: CyberX
+                  price: 165000000
+                - date: '2020-05-14'
+                  acquiree: Metaswitch Networks
+                - date: '2020-05-19'
+                  acquiree: Softomotive
+                - date: '2020-06-18'
+                  acquiree: ADRM Software
+                - date: '2020-07-08'
+                  acquiree: Orions Systems
+                - date: '2020-09-21'
+                  acquiree: ZeniMax
+                  price: 7500000000
+                - date: '2020-12-02'
+                  acquiree: Smash.gg
+                - date: '2021-03-16'
+                  acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
+                - date: '2021-04-29'
+                  acquiree: Kinvolk
+                - date: '2021-06-02'
+                  acquiree: ReFirm Labs
+                - date: '2021-07-11'
+                  acquiree: RiskIQ
+                  price: 500000000
+                - date: '2021-07-21'
+                  acquiree: CloudKnox Security
+                - date: '2021-07-28'
+                  acquiree: Suplari
+                - date: '2021-08-10'
+                  acquiree: Peer5
+                - date: '2021-09-07'
+                  acquiree: Clipchamp
+                - date: '2021-09-10'
+                  acquiree: TakeLessons
+                - date: '2021-10-07'
+                  acquiree: Ally.io
+                  price: 76000000
+                - date: '2021-10-22'
+                  acquiree: Clear Software
+                - date: '2021-10-29'
+                  acquiree: Two Hat Security
+                - date: '2021-12-21'
+                  acquiree: Xandr
+                - date: '2022-01-18'
+                  acquiree: Activision Blizzard
+                  price: 68700000000
+              parents: []
+              ticker: MSFT
+              funding: 1000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 2276649336832
+              effective_ticker: MSFT
+            image_data:
+              fileName: microsoft-dynamics-365-customer-service-remote-assist.svg
+              hash: DJKPg96Pgvd+53xoMBwcRCZlnoxbh1GtOjuOUXG/3po=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T23:00:01.000Z
+          - item:
+            name: MTX Quarantine Health Management
+            description: >-
+              Proactively identify at-risk individuals who may have been exposed to an infectious disease or are currently under a mandated remote quarantine
+              with a two-way automatic texting conversation.
+            homepage_url: https://www.mtxb2b.com/cust_maint/site_down/maintenance.html
+            logo: mtx.svg
+            crunchbase: https://www.crunchbase.com/organization/mtx-group
+            crunchbase_data:
+              name: MTX Group
+              description: MTX Group is a global technology consulting firm that enables organizations to modernize through digital transformation and strategy.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.mtxb2b.com
+              city: Frisco
+              region: Texas
+              country: United States
+              twitter: https://twitter.com/MTX_Inc
+              linkedin: https://www.linkedin.com/company/mtx-b2b-solutions/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Cloud Computing
+                - Information Services
+                - Information Technology
+            image_data:
+              fileName: mtx-quarantine-health-management.svg
+              hash: Kyw51ZhJQnn6ijaZ0XPBHA1px5zqSWsioNPasNGykAA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-25T23:10:20.000Z
+          - item:
+            name: SaferMe
+            homepage_url: https://www.safer.me/
+            logo: saferme.svg
+            crunchbase: https://www.crunchbase.com/organization/thundermaps
+            crunchbase_data:
+              name: SaferMe
+              description: SaferMe mobilizes the world’s hazard data to make people safer, driving the digital transformation of safety within complex organisations.
               num_employees_min: 11
               num_employees_max: 50
               homepage: http://www.lfph.io
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/lfpubhealth
-              linkedin: https://www.linkedin.com/company/lfph
+              twitter: http://twitter.com/salesforce
+              linkedin: https://www.linkedin.com/company/salesforce
+              acquisitions:
+                - date: '2006-04-11'
+                  acquiree: Sendia
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                  price: 31500000
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                  price: 7000000
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-12-15'
+                  acquiree: Work.com
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                  price: 649000000
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                  price: 70000000
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                  price: 20000000
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                  price: 2500000000
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-11-18'
+                  acquiree: Cloud Connect
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                  price: 390000000
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                  price: 24200000
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                  price: 360000000
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                  price: 32799999
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                  price: 2800000000
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-08-01'
+                  acquiree: Quip
+                  price: 750000000
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                  price: 110000000
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-10-03'
+                  acquiree: Krux
+                  price: 800000000
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                  price: 6500000000
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                  price: 800000000
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                  price: 300000000
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                  price: 213000000
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                  price: 15700000000
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                  price: 1350000000
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                  price: 1330000000
+                - date: '2020-03-02'
+                  acquiree: The CMO Club
+                - date: '2020-09-06'
+                  acquiree: Mobify
+                  price: 60000000
+                - date: '2020-12-01'
+                  acquiree: Acumen Solutions
+                - date: '2020-12-01'
+                  acquiree: Slack
+                  price: 27700000000
+                - date: '2021-09-24'
+                  acquiree: LevelJump
+                - date: '2022-02-02'
+                  acquiree: Atonit
+              parents: []
+              ticker: CRM
+              funding: 65375124
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Analytics
+                - CRM
+                - Enterprise Software
+                - SaaS
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 208919691264
+              effective_ticker: CRM
+            image_data:
+              fileName: salesforce-emergency-response-management-for-public-health.svg
+              hash: dKpXxWc5pfrpYquqUdROe5+TUCxBGroYzGoOi2jPF1E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T18:00:00.000Z
+          - item:
+            name: Sara Alert
+            homepage_url: https://saraalert.org/
+            repo_url: https://github.com/SaraAlert/SaraAlert
+            logo: sara-alert.svg
+            crunchbase: https://www.crunchbase.com/organization/mitre
+            crunchbase_data:
+              name: MITRE Corporation
+              description: MITRE is a not-for-profit organization that operates research and development centers.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.mitre.org
+              city: Bedford
+              region: Massachusetts
+              country: United States
+              twitter: http://twitter.com/MITREcorp
+              linkedin: https://www.linkedin.com/company/mitre
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
@@ -7898,16 +9391,103 @@ landscape:
                 - name: Dockerfile
                   value: 1374
                   color: '#384d54'
+              contributions: 39;25;30;40;30;42;14;22;20;7;17;16;19;12;10;21;5;8;10;5;4;12;15;1;2;19;5;12;1;15;24;5;2;11;9;3;2;4;2;1;3;8;3;3;4;9;7;8;3;9;3;1
+              firstWeek: 2021-04-04Z
+              stars: 7
+              license: Apache License 2.0
+              description: Sara Alert is an open source application built to allow public health officials to monitor disease outbreaks.
+              latest_commit_date: '2022-03-24T20:03:29Z'
+              latest_commit_link: /SaraAlert/SaraAlert/commit/04214ac0d656c93a560a6764d48f379b7ea5c843
+              contributors_count: 28
+              contributors_link: https://github.com/SaraAlert/SaraAlert/graphs/contributors
+            repos:
+              - url: https://github.com/SaraAlert/SaraAlert
+                stars: 7
+            github_start_commit_data:
+              start_commit_link: /SaraAlert/SaraAlert/commit/d451109da880db913e96e217a1d36d43d7fe2ed8
+              start_date: '2020-01-26T21:26:44Z'
+            image_data:
+              fileName: sara-alert.svg
+              hash: Yyvr2neryrVfmYf8RTiZdLN/e3g91Qi1t5lUfw9V85U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-25T14:00:15.000Z
+          - item:
+            name: Sormas
+            homepage_url: https://sormas.org
+            repo_url: https://github.com/hzi-braunschweig/SORMAS-Project
+            logo: sormas.svg
+            twitter: https://twitter.com/sormas_open
+            crunchbase: https://www.crunchbase.com/organization/helmholtz-centre-for-infection-research
+            crunchbase_data:
+              name: Helmholtz Centre for Infection Research
+              description: Helmholtz-Zentrum für Infektionsforschung (HZI) ist eine außeruniversitäre Forschungseinrichtung mit über 750 Mitarbeitern.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.helmholtz-hzi.de
+              city: Braunschweig
+              region: Niedersachsen
+              country: Germany
+              twitter: https://www.twitter.com/helmholtz_hzi
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 8770000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Messaging
+              kind: funding
+            github_data:
+              languages:
+                - name: Java
+                  value: 18680848
+                  color: '#b07219'
+                - name: Gherkin
+                  value: 201862
+                  color: '#5B2063'
+                - name: JavaScript
+                  value: 192667
+                  color: '#f1e05a'
                 - name: Shell
                   value: 381
                   color: '#89e051'
                 - name: SCSS
-                  value: 138
-              latest_commit_link: /LFPH-Medcreds/medcreds-api/commit/a839e1e332aeae43ad039b88db73d6baa23f54da
-              latest_commit_date: '2021-05-28T20:17:16Z'
-              firstWeek: 2021-01-03Z
-              license: Apache License 2.0
-              contributors_link: https://github.com/LFPH-Medcreds/medcreds-api/graphs/contributors
+                  value: 60340
+                - name: PLpgSQL
+                  value: 44834
+                - name: CSS
+                  value: 20381
+                  color: '#563d7c'
+                - name: HTML
+                  value: 14069
+                  color: '#e34c26'
+                - name: FreeMarker
+                  value: 11037
+                  color: '#0050b2'
+                - name: R
+                  value: 6928
+                  color: '#198CE7'
+                - name: Dockerfile
+                  value: 574
+                  color: '#384d54'
+              contributions: >-
+                54;160;72;289;115;233;112;70;32;82;142;105;98;124;108;53;96;86;77;96;86;32;103;54;40;100;80;31;51;77;113;89;73;102;61;45;54;36;52;5;87;60;70;115;118;110;71;94;178;265;186;191
+              firstWeek: 2021-04-04Z
+              stars: 258
+              license: Other
+              description: >-
+                SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of
+                infectious diseases.
+              latest_commit_date: '2022-03-25T15:17:32Z'
+              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/febce5a3d4e9cf888ec01692106528a63f077793
+              release_date: '2022-03-25T15:53:48Z'
+              release_link: https://github.com/hzi-braunschweig/SORMAS-Project/releases
+              contributors_count: 113
+              contributors_link: https://github.com/hzi-braunschweig/SORMAS-Project/graphs/contributors
             repos:
               - url: https://github.com/LFPH-Medcreds/medcreds-api
                 stars: 2
@@ -7962,7 +9542,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-03-28Z
+              firstWeek: 2021-04-04Z
               stars: 1
               license: Creative Commons Zero v1.0 Universal
               description: Data Protection Agreement
@@ -7982,6 +9562,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T14:15:41.000Z
   - category:
     name: Implementers
     subcategories:
@@ -8051,6 +9633,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T14:15:41.000Z
   - category:
     name: LFPH Members
     subcategories:
@@ -8704,7 +10288,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T13:08:08.000Z
+              latest_tweet_date: 2022-03-26T17:08:00.000Z
           - item:
             name: International Business Machines Corporation
             homepage_url: https://www.ibm.com/us-en
@@ -9179,6 +10763,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T03:08:44.000Z
           - item:
             name: NearForm Ltd
             homepage_url: https://nearform.com/
@@ -9212,7 +10798,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T22:17:00.000Z
+              latest_tweet_date: 2022-03-26T19:29:59.000Z
           - item:
             name: Ratio
             homepage_url: https://ratiopbc.com/
@@ -9492,6 +11078,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T06:05:02.000Z
       - subcategory:
         name: General
         items:
@@ -9670,7 +11258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T19:22:25.000Z
+              latest_tweet_date: 2022-03-26T11:42:21.000Z
           - item:
             name: MTX Group Inc
             homepage_url: https://www.mtxb2b.com/s
@@ -9906,6 +11494,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T15:00:04.000Z
           - item:
             name: Health Service Executive Ireland
             homepage_url: https://hse.ie/eng
@@ -9936,7 +11526,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-26T07:55:31.000Z
+              latest_tweet_date: 2022-03-27T08:32:00.000Z
           - item:
             name: iRespond Global
             homepage_url: https://irespond.org/
@@ -10015,6 +11605,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T13:10:01.000Z
           - item:
             name: Onom Foundation
             homepage_url: https://onomfoundation.org/
@@ -10074,6 +11666,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-27T07:36:00.000Z
           - item:
             name: Resolve to Save Lives
             homepage_url: https://resolvetosavelives.org/
@@ -10102,6 +11696,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T15:51:24.000Z
           - item:
             name: U.S. Digital Response
             description: >-
@@ -10135,6 +11731,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-26T14:15:41.000Z
           - item:
             name: Washington State Department of Health
             homepage_url: https://dshs.wa.gov/
@@ -10200,8 +11798,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-03-25T22:10:18.000Z
+              latest_tweet_date: 2022-03-27T00:47:01.000Z
 twitter_options:
   count: 17
   since_id: '1425878539161665536'
-updated_at: 2022-03-26T10:22:39.354Z
+updated_at: 2022-03-27T10:39:16.115Z
