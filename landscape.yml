@@ -709,7 +709,18 @@ landscape:
     subcategories:
       - subcategory:
         name: Simulation Apps
-        items: null
+        items: 
+          - item:
+            name: Operation Outbreak
+            description: >-
+              Operation Outbreak (OO) is an innovative platform for STEM education on infectious diseases and outbreak preparedness created by Sarasota Military 
+              Academy Prep school  and the Sabeti lab at the Broad Institute of Harvard and MIT. This platform integrates an academic unit covering relevant 
+              science and humanities subjects with a culminating “outbreak simulation” experiential learning activity. This activity replicates a real-world 
+              outbreak scenario and guides hundreds of students on how to respond through a coordinated effort and use of technology, teaching them biology and 
+              public health in the process.
+            homepage_url: https://operationoutbreak.org/
+            logo: v-mware-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
   - category:
     name: Hardware Devices
     subcategories:
@@ -910,7 +921,7 @@ landscape:
             name: Zephyr RTOS
             description: The Zephyr® Project strives to deliver the best-in-class RTOS for connected resource-constrained devices, built to be secure and safe.
             homepage_url: https://www.zephyrproject.org/
-            logo: v-mware-inc.svg
+            logo: zephyr.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
   - category:
     name: Foundation Technologies
@@ -966,7 +977,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/springml
       - subcategory:
         name: Verifiable Credentials
-        items: null
+        items: 
+          - item:
+            name: Global Covid Certificate Network
+            description: >-
+              Global COVID Certificate Network (GCCN) is an initiative to enable interoperable and trustworthy verification of 
+              COVID certificates between jurisdictions for safe border reopening. 
+            homepage_url: https://www.lfph.io/global-covid-certificate-network/
+            logo: v-mware-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
   - category:
     name: Standardisation
     subcategories:
