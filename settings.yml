@@ -181,7 +181,7 @@ big_picture:
 
       - type: HorizontalCategory
         category: Standardisation
-        width: 300
+        width: 460
         height: 170
         top: 600
         left: 0
@@ -192,15 +192,15 @@ big_picture:
         category: LFPH Members
         width: 640
         height: 160
-        top: 790
-        left: 330
+        top: 600
+        left: 490
         color: rgb(47,116,190)
         fit_width: true
       - type: LandscapeInfo
         width: 250
         height: 160
-        top: 790
-        left: 850
+        top: 600
+        left: 1160
         children:
           - type: text
             text: >-
