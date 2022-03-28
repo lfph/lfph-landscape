@@ -1,44 +1,9 @@
 landscape:
   - category:
-    name: COVID Verification
+    name: DCT Mobile Apps
     subcategories:
       - subcategory:
-        name: W3C Standards
-        items:
-          - item:
-            name: Cardea
-            description: >-
-              Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving
-              way.
-            homepage_url: https://www.cardea.app
-            project: foundationproject
-            repo_url: https://github.com/thecardeaproject/cardea
-            project_org: https://github.com/thecardeaproject
-            logo: cardea.svg
-            twitter: http://www.twitter.com/cardeaproject
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
-            extra:
-              accepted: '2021-04-29'
-              artwork_url: https://github.com/lfph/artwork/tree/main/projects/cardea
-          - item:
-            name: MedCreds
-            description: >-
-              MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a
-              digital wallet.
-            homepage_url: https://www.proofmarket.io/medcreds
-            project: foundationproject
-            repo_url: https://github.com/LFPH-Medcreds/medcreds-api
-            project_org: https://github.com/LFPH-Medcreds
-            logo: medcreds.svg
-            twitter: http://www.twitter.com/medcreds
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
-            extra:
-              accepted: '2021-04-29'
-  - category:
-    name: PHA-Deployed App
-    subcategories:
-      - subcategory:
-        name: GAEN Bluetooth
+        name: GAEN
         items:
           - item:
             name: Austria (Stopp Corona)
@@ -453,7 +418,7 @@ landscape:
             logo: wisconsin.svg
             crunchbase: https://www.crunchbase.com/organization/wisconsin-department-of-health-services
       - subcategory:
-        name: Non-GAEN Bluetooth
+        name: Herald
         items:
           - item:
             name: Australia (COVIDSafe)
@@ -463,17 +428,31 @@ landscape:
             logo: australia.svg
             crunchbase: https://www.crunchbase.com/organization/australian-government
           - item:
-            name: Azerbaijan (e-Tabib)
-            description: e-Tabib (e-Doctor) is a mobile application that helps reduce the spread of coronavirus.
-            homepage_url: https://koronavirusinfo.az/az/page/haqqimizda/e-tebib-mobil-tetbiqini-yukleyin
-            logo: azerbaijan.svg
-            crunchbase: https://www.crunchbase.com/organization/cabinet-of-ministers-of-azerbaijan
-          - item:
             name: Canada - Alberta (ABTraceTogether)
             description: Albertans can support reopening businesses while continuing to act responsibly to prevent the spread.
             homepage_url: https://www.alberta.ca/ab-trace-together.aspx
             logo: canada-alberta.svg
             crunchbase: https://www.crunchbase.com/organization/alberta-health-services
+      - subcategory:
+        name: OpenTrace V1
+        items:
+          - item:
+            name: Singapore (Trace Together)
+            description: Join 2,100,000 users in stopping the spread of COVID-19 through community-driven contact tracing
+            homepage_url: https://www.tracetogether.gov.sg/
+            repo_url: https://github.com/opentrace-community/opentrace-android
+            project_org: https://github.com/opentrace-community
+            logo: singapore.svg
+            crunchbase: https://www.crunchbase.com/organization/ministry-of-health-singapore
+      - subcategory:
+        name: Other Bluetooth
+        items:
+          - item:
+            name: Azerbaijan (e-Tabib)
+            description: e-Tabib (e-Doctor) is a mobile application that helps reduce the spread of coronavirus.
+            homepage_url: https://koronavirusinfo.az/az/page/haqqimizda/e-tebib-mobil-tetbiqini-yukleyin
+            logo: azerbaijan.svg
+            crunchbase: https://www.crunchbase.com/organization/cabinet-of-ministers-of-azerbaijan
           - item:
             name: Colombia (CoronApp)
             description: Evaluate your health and receive recommendations on COVID-19 using the official application of the National Government of Colombia.
@@ -542,21 +521,13 @@ landscape:
             logo: north-macedonia.svg
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-north-macedonia
           - item:
-            name: Singapore (Trace Together)
-            description: Join 2,100,000 users in stopping the spread of COVID-19 through community-driven contact tracing
-            homepage_url: https://www.tracetogether.gov.sg/
-            repo_url: https://github.com/opentrace-community/opentrace-android
-            project_org: https://github.com/opentrace-community
-            logo: singapore.svg
-            crunchbase: https://www.crunchbase.com/organization/ministry-of-health-singapore
-          - item:
             name: United Arab Emirates (TraceCovid)
             description: When two users who have installed the TraceCovid app meet, a Secure Tracing Identifier is exchanged & stored in their respective phones.
             homepage_url: https://tracecovid.ae/
             logo: united-arab-emirates.svg
             crunchbase: https://www.crunchbase.com/organization/united-arab-emirates-ministry-of-health-and-prevention
       - subcategory:
-        name: GPS-based
+        name: GPS Based
         items:
           - item:
             name: Bahrain (BeAware)
@@ -670,10 +641,109 @@ landscape:
             logo: south-dakota.svg
             crunchbase: https://www.crunchbase.com/organization/south-dakota-department-of-health
   - category:
-    name: Exposure Notification
+    name: Credential Apps
     subcategories:
       - subcategory:
-        name: Production GAEN
+        name: Covid Creds
+        items:
+          - item:
+            name: doc.ai
+            description: Start your journey back to work, school, and your social life with the Passport app.
+            homepage_url: https://doc.ai/passport
+            logo: doc-ai.svg
+            crunchbase: https://www.crunchbase.com/organization/doc-ai
+  - category:
+    name: Symptom Monitoring
+    subcategories:
+      - subcategory:
+        name: Symptom Tracking
+        items:
+          - item:
+            name: How We Feel
+            homepage_url: https://howwefeel.org/
+            logo: how-we-feel.svg
+            crunchbase: https://www.crunchbase.com/organization/how-we-feel
+          - item:
+            name: TrackMyTemp
+            homepage_url: https://trackmytemp.org
+            logo: track-my-temp.svg
+            crunchbase: https://www.crunchbase.com/organization/trackmytemp
+          - item:
+            name: Tracelinks
+            description: >-
+              Follow reopening procedures recommended by the CDC and many US states by using Tracelinks Monitor to privately and securely track employee
+              attendance, daily symptoms screening and body temperature.
+            homepage_url: https://www.blockchains.com
+            logo: tracelinks.svg
+            twitter: https://twitter.com/tracelinks
+            crunchbase: https://www.crunchbase.com/organization/cambridge-blockchain
+          - item:
+            name: Covid Near You
+            homepage_url: https://outbreaksnearme.org
+            logo: covid-near-you.svg
+            crunchbase: https://www.crunchbase.com/organization/covid-near-you
+  - category:
+    name: Outbreak Management
+    subcategories:
+      - subcategory:
+        name: Web Apps
+        items:
+          - item:
+            name: Conduent Maven
+            description: >-
+              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
+              support and share information during an outbreak crisis.
+            homepage_url: https://www.conduent.com/solution/public-health-technology/disease-surveillance-system/
+            logo: conduent-maven.svg
+            crunchbase: https://www.crunchbase.com/organization/conduent
+          - item:
+            name: MTX Quarantine Health Management
+            description: >-
+              Proactively identify at-risk individuals who may have been exposed to an infectious disease or are currently under a mandated remote quarantine
+              with a two-way automatic texting conversation.
+            homepage_url: https://www.mtxb2b.com/cust_maint/site_down/maintenance.html
+            logo: mtx.svg
+            crunchbase: https://www.crunchbase.com/organization/mtx-group
+  - category:
+    name: Outbreak Simulation
+    subcategories:
+      - subcategory:
+        name: Simulation Apps
+        items:
+          - item:
+            name: Operation Outbreak
+            description: >-
+              Operation Outbreak (OO) is an innovative platform for STEM education on infectious diseases and outbreak preparedness created by Sarasota
+              Military  Academy Prep school  and the Sabeti lab at the Broad Institute of Harvard and MIT. This platform integrates an academic unit covering
+              relevant  science and humanities subjects with a culminating “outbreak simulation” experiential learning activity. This activity replicates a
+              real-world  outbreak scenario and guides hundreds of students on how to respond through a coordinated effort and use of technology, teaching them
+              biology and  public health in the process.
+            homepage_url: https://operationoutbreak.org/
+            logo: v-mware-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+  - category:
+    name: Hardware Devices
+    subcategories:
+      - subcategory:
+        name: Contact Tracing
+        items:
+          - item:
+            name: Nodle M1
+            description: The Nodle M1 is a smart wearable device that buzzes workers when they get too close to one another.
+            homepage_url: https://m1.nodle.io/
+            logo: nodle-m1.svg
+            crunchbase: https://www.crunchbase.com/organization/nodle-io
+          - item:
+            name: Tended
+            description: Minimise the effect of COVID-19 on your business. Wearable solutions to help maintain social distancing.
+            homepage_url: https://www.tended.co.uk/social-distancing-solution
+            logo: tended.svg
+            crunchbase: https://www.crunchbase.com/organization/tended
+  - category:
+    name: Application Frameworks
+    subcategories:
+      - subcategory:
+        name: Exposure Notification
         items:
           - item:
             name: COVID Green
@@ -707,22 +777,61 @@ landscape:
             logo: covid_watch.svg
             crunchbase: https://www.crunchbase.com/organization/covid-watch
           - item:
-            name: SpringML
-            homepage_url: https://springml.com
-            logo: spring-ml.svg
-            crunchbase: https://www.crunchbase.com/organization/springml
-      - subcategory:
-        name: Experimental GAEN
-        items:
+            name: OpenTrace
+            homepage_url: https://heraldpox.io/opentrace
+            repo_url: https://github.com/theheraldproject/opentrace-v1-android
+            project_org: https://github.com/theheraldproject
+            logo: opentrace.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+          - item:
+            name: Covid Safe Paths
+            homepage_url: https://pathcheck.org
+            repo_url: https://github.com/Path-Check/safeplaces-dct-app
+            project_org: https://github.com/Path-Check
+            logo: covid-safe-paths.svg
+            crunchbase: https://www.crunchbase.com/organization/path-check
+          - item:
+            name: WHO COVID-19 App
+            homepage_url: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/the-who-covid-19-app
+            repo_url: https://github.com/WorldHealthOrganization/app
+            logo: world-health-organization-covid-app.svg
+            crunchbase: https://www.crunchbase.com/organization/world-health-organization
+          - item:
+            name: Novid
+            homepage_url: https://www.novid.org/
+            logo: novid.svg
+            twitter: https://twitter.com/NOVIDApp
+            crunchbase: https://www.crunchbase.com/organization/expii-inc
+          - item:
+            name: Safe2
+            description: Your COVID-19 exposure warning system for smarter social distancing.
+            homepage_url: https://safe2.org/
+            logo: safe2.svg
+            crunchbase: https://www.crunchbase.com/organization/safe2
+          - item:
+            name: SaferMe
+            homepage_url: https://www.safer.me/
+            logo: saferme.svg
+            crunchbase: https://www.crunchbase.com/organization/thundermaps
+          - item:
+            name: Sara Alert
+            homepage_url: https://saraalert.org/
+            repo_url: https://github.com/SaraAlert/SaraAlert
+            logo: sara-alert.svg
+            crunchbase: https://www.crunchbase.com/organization/mitre
+          - item:
+            name: Sormas
+            homepage_url: https://sormas.org
+            repo_url: https://github.com/hzi-braunschweig/SORMAS-Project
+            logo: sormas.svg
+            twitter: https://twitter.com/sormas_open
+            crunchbase: https://www.crunchbase.com/organization/helmholtz-centre-for-infection-research
           - item:
             name: GAEN Explorer
             homepage_url: https://github.com/billpugh/GAEN_Explorer
             repo_url: https://github.com/billpugh/GAEN_Explorer
             logo: gaen-explorer.svg
             crunchbase: https://www.crunchbase.com/organization/gaen-explorer
-      - subcategory:
-        name: Non-GAEN
-        items:
           - item:
             name: Coalition App
             description: Coalition is a global, privacy-first tracing app to help stop the spread of COVID-19.
@@ -746,19 +855,6 @@ landscape:
             logo: common-circle.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
           - item:
-            name: Covid Safe Paths
-            homepage_url: https://pathcheck.org
-            repo_url: https://github.com/Path-Check/safeplaces-dct-app
-            project_org: https://github.com/Path-Check
-            logo: covid-safe-paths.svg
-            crunchbase: https://www.crunchbase.com/organization/path-check
-          - item:
-            name: COVID-19 App
-            homepage_url: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/the-who-covid-19-app
-            repo_url: https://github.com/WorldHealthOrganization/app
-            logo: world-health-organization-covid-app.svg
-            crunchbase: https://www.crunchbase.com/organization/world-health-organization
-          - item:
             name: CVKey
             description: CVKey Project is on a mission to help communities reopen responsibly during the COVID-19 pandemic without compromising privacy.
             homepage_url: https://www.cvkeyproject.org/
@@ -773,35 +869,11 @@ landscape:
             logo: healthy-together.svg
             crunchbase: https://www.crunchbase.com/organization/insite-applications-llc
           - item:
-            name: Herald
-            description: Reliable Bluetooth communication and range finding across a wide range of mobile devices.
-            homepage_url: https://vmware.github.io/herald/
-            project: foundationproject
-            repo_url: https://github.com/theheraldproject/herald-for-android
-            project_org: https://github.com/theheraldproject
-            logo: herald.svg
-            twitter: https://twitter.com/HeraldProximity
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
-            extra:
-              accepted: '2021-01-28'
-          - item:
             name: ito-app
             homepage_url: https://www.ito-app.org
             repo_url: https://github.com/ito-org/ito-app
             logo: ito.svg
             crunchbase: https://www.crunchbase.com/organization/ito-app
-          - item:
-            name: Novid
-            homepage_url: https://www.novid.org/
-            logo: novid.svg
-            twitter: https://twitter.com/NOVIDApp
-            crunchbase: https://www.crunchbase.com/organization/expii-inc
-          - item:
-            name: Safe2
-            description: Your COVID-19 exposure warning system for smarter social distancing.
-            homepage_url: https://safe2.org/
-            logo: safe2.svg
-            crunchbase: https://www.crunchbase.com/organization/safe2
           - item:
             name: ShareTrace
             description: We help individuals and organisations understand the risk that Covid-19 is spreading through their social networks.
@@ -809,32 +881,54 @@ landscape:
             logo: share-trace.svg
             crunchbase: https://www.crunchbase.com/organization/sharetrace
       - subcategory:
-        name: Hardware
+        name: Patient Engagement
         items:
           - item:
-            name: Nodle M1
-            description: The Nodle M1 is a smart wearable device that buzzes workers when they get too close to one another.
-            homepage_url: https://m1.nodle.io/
-            logo: nodle-m1.svg
-            crunchbase: https://www.crunchbase.com/organization/nodle-io
+            name: CommCare
+            description: >-
+              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
+              from screening and contact tracing to patient monitoring and post-care support.
+            homepage_url: https://www.dimagi.com/covid-19/
+            repo_url: https://github.com/dimagi/commcare-hq
+            additional_repos:
+              - repo_url: https://github.com/dimagi/commcare-cloud
+              - repo_url: https://github.com/dimagi/commcare-android
+              - repo_url: https://github.com/dimagi/formplayer
+            logo: commcare.svg
+            crunchbase: https://www.crunchbase.com/organization/dimagi
           - item:
-            name: Tended
-            description: Minimise the effect of COVID-19 on your business. Wearable solutions to help maintain social distancing.
-            homepage_url: https://www.tended.co.uk/social-distancing-solution
-            logo: tended.svg
-            crunchbase: https://www.crunchbase.com/organization/tended
+            name: Microsoft Dynamics 365 Customer Service & Remote Assist
+            description: >-
+              Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for up to
+              six months.
+            homepage_url: https://dynamics.microsoft.com/en-us/
+            logo: microsoft-dynamics365.svg
+            twitter: https://twitter.com/msftdynamics365
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Salesforce Emergency Response Management for Public Health
+            description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
+            homepage_url: https://www.salesforce.com/editions-pricing/industries/erm-public-health
+            logo: salesforce-emergency-response-management-for-public-health.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
   - category:
-    name: Specification
+    name: Device Platforms
     subcategories:
       - subcategory:
-        name: Bluetooth
+        name: Operating Systems
         items:
           - item:
-            name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
-            homepage_url: https://github.com/DP-3T/documents
-            repo_url: https://github.com/DP-3T/documents
-            logo: dp3t.svg
-            crunchbase: https://www.crunchbase.com/organization/eth-zurich
+            name: Zephyr RTOS
+            description: The Zephyr® Project strives to deliver the best-in-class RTOS for connected resource-constrained devices, built to be secure and safe.
+            homepage_url: https://www.zephyrproject.org/
+            logo: zephyr.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+  - category:
+    name: Foundation Technologies
+    subcategories:
+      - subcategory:
+        name: Exposure Notification
+        items:
           - item:
             name: Google Apple Exposure Notification (GAEN) - Apple
             description: >-
@@ -854,6 +948,57 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
+            name: Herald
+            description: Reliable Bluetooth communication and range finding across a wide range of mobile devices.
+            homepage_url: https://vmware.github.io/herald/
+            project: foundationproject
+            repo_url: https://github.com/theheraldproject/herald-for-android
+            project_org: https://github.com/theheraldproject
+            logo: herald.svg
+            twitter: https://twitter.com/HeraldProximity
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-01-28'
+      - subcategory:
+        name: Data Analysis
+        items:
+          - item:
+            name: Go.Data
+            description: >-
+              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
+              to help responders work smarter.
+            homepage_url: https://www.who.int/godata/about
+            logo: world-health-organization-go-data.svg
+            crunchbase: https://www.crunchbase.com/organization/world-health-organization
+          - item:
+            name: SpringML
+            homepage_url: https://springml.com
+            logo: spring-ml.svg
+            crunchbase: https://www.crunchbase.com/organization/springml
+      - subcategory:
+        name: Verifiable Credentials
+        items:
+          - item:
+            name: Global Covid Certificate Network
+            description: >-
+              Global COVID Certificate Network (GCCN) is an initiative to enable interoperable and trustworthy verification of  COVID certificates between
+              jurisdictions for safe border reopening. 
+            homepage_url: https://www.lfph.io/global-covid-certificate-network/
+            logo: v-mware-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+  - category:
+    name: Standardisation
+    subcategories:
+      - subcategory:
+        name: Exposure Notification Bluetooth
+        items:
+          - item:
+            name: Decentralized Privacy-Preserving Proximity Tracing (DP-3T)
+            homepage_url: https://github.com/DP-3T/documents
+            repo_url: https://github.com/DP-3T/documents
+            logo: dp3t.svg
+            crunchbase: https://www.crunchbase.com/organization/eth-zurich
+          - item:
             name: Safe2 Protocol
             description: 'This document describes the communication between Safe2 clients and Safe2 servers, and between servers. '
             homepage_url: https://docs.google.com/document/d/1W_ZuMD9n5rYeS-4MpsTS5ckoEl1d3At1Vt8B4vSDv5k/edit
@@ -872,124 +1017,38 @@ landscape:
             repo_url: https://github.com/NodleCode/libwhisper-android
             logo: nodle-whisper-tracing-protocol.svg
             crunchbase: https://www.crunchbase.com/organization/nodle-io
-  - category:
-    name: Contact Tracing
-    subcategories:
       - subcategory:
-        name: System
+        name: W3C Credential Standards
         items:
           - item:
-            name: CommCare
+            name: Cardea
             description: >-
-              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
-              from screening and contact tracing to patient monitoring and post-care support.
-            homepage_url: https://www.dimagi.com/covid-19/
-            repo_url: https://github.com/dimagi/commcare-hq
-            additional_repos:
-              - repo_url: https://github.com/dimagi/commcare-cloud
-              - repo_url: https://github.com/dimagi/commcare-android
-              - repo_url: https://github.com/dimagi/formplayer
-            logo: commcare.svg
-            crunchbase: https://www.crunchbase.com/organization/dimagi
+              Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving
+              way.
+            homepage_url: https://www.cardea.app
+            project: foundationproject
+            repo_url: https://github.com/thecardeaproject/cardea
+            project_org: https://github.com/thecardeaproject
+            logo: cardea.svg
+            twitter: http://www.twitter.com/cardeaproject
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-04-29'
+              artwork_url: https://github.com/lfph/artwork/tree/main/projects/cardea
           - item:
-            name: Conduent Maven
+            name: MedCreds
             description: >-
-              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
-              support and share information during an outbreak crisis.
-            homepage_url: https://www.conduent.com/government-solutions/government-healthcare-solutions/disease-surveillance-outbreak-management-system
-            logo: conduent-maven.svg
-            crunchbase: https://www.crunchbase.com/organization/conduent
-          - item:
-            name: Go.Data
-            description: >-
-              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
-              to help responders work smarter.
-            homepage_url: https://www.who.int/godata/about
-            logo: world-health-organization-go-data.svg
-            crunchbase: https://www.crunchbase.com/organization/world-health-organization
-          - item:
-            name: Microsoft Dynamics 365 Customer Service & Remote Assist
-            description: >-
-              Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for up to
-              six months.
-            homepage_url: https://dynamics.microsoft.com/en-us/
-            logo: microsoft-dynamics365.svg
-            twitter: https://twitter.com/msftdynamics365
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: MTX Quarantine Health Management
-            description: >-
-              Proactively identify at-risk individuals who may have been exposed to an infectious disease or are currently under a mandated remote quarantine
-              with a two-way automatic texting conversation.
-            homepage_url: https://www.mtxb2b.com/cust_maint/site_down/maintenance.html
-            logo: mtx.svg
-            crunchbase: https://www.crunchbase.com/organization/mtx-group
-          - item:
-            name: SaferMe
-            homepage_url: https://www.safer.me/
-            logo: saferme.svg
-            crunchbase: https://www.crunchbase.com/organization/thundermaps
-          - item:
-            name: Salesforce Emergency Response Management for Public Health
-            description: Explore our solutions to help public sector and private sector health providers respond quickly during crisis.
-            homepage_url: https://www.salesforce.com/editions-pricing/industries/erm-public-health
-            logo: salesforce-emergency-response-management-for-public-health.svg
-            crunchbase: https://www.crunchbase.com/organization/salesforce
-          - item:
-            name: Sara Alert
-            homepage_url: https://saraalert.org/
-            repo_url: https://github.com/SaraAlert/SaraAlert
-            logo: sara-alert.svg
-            crunchbase: https://www.crunchbase.com/organization/mitre
-          - item:
-            name: Sormas
-            homepage_url: https://sormas.org
-            repo_url: https://github.com/hzi-braunschweig/SORMAS-Project
-            logo: sormas.svg
-            twitter: https://twitter.com/sormas_open
-            crunchbase: https://www.crunchbase.com/organization/helmholtz-centre-for-infection-research
-  - category:
-    name: Symptom Monitoring
-    subcategories:
-      - subcategory:
-        name: App
-        items:
-          - item:
-            name: How We Feel
-            homepage_url: https://howwefeel.org/
-            logo: how-we-feel.svg
-            crunchbase: https://www.crunchbase.com/organization/how-we-feel
-      - subcategory:
-        name: Website
-        items:
-          - item:
-            name: Covid Near You
-            homepage_url: https://outbreaksnearme.org
-            logo: covid-near-you.svg
-            crunchbase: https://www.crunchbase.com/organization/covid-near-you
-          - item:
-            name: TrackMyTemp
-            homepage_url: https://trackmytemp.org
-            logo: track-my-temp.svg
-            crunchbase: https://www.crunchbase.com/organization/trackmytemp
-      - subcategory:
-        name: Employer
-        items:
-          - item:
-            name: doc.ai
-            description: Start your journey back to work, school, and your social life with the Passport app.
-            homepage_url: https://doc.ai/passport
-            logo: doc-ai.svg
-            crunchbase: https://www.crunchbase.com/organization/doc-ai
-          - item:
-            name: Tracelinks
-            description: >-
-              Follow reopening procedures recommended by the CDC and many US states by using Tracelinks Monitor to privately and securely track employee
-              attendance, daily symptoms screening and body temperature.
-            homepage_url: https://www.blockchains.com
-            logo: tracelinks.svg
-            twitter: https://twitter.com/tracelinks
-            crunchbase: https://www.crunchbase.com/organization/cambridge-blockchain
+              MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a
+              digital wallet.
+            homepage_url: https://www.proofmarket.io/medcreds
+            project: foundationproject
+            repo_url: https://github.com/LFPH-Medcreds/medcreds-api
+            project_org: https://github.com/LFPH-Medcreds
+            logo: medcreds.svg
+            twitter: http://www.twitter.com/medcreds
+            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            extra:
+              accepted: '2021-04-29'
   - category:
     name: Non-Code Offerings
     subcategories:

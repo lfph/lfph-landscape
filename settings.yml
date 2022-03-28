@@ -99,7 +99,7 @@ big_picture:
     fullscreen_header: Interactive version at l.lfph.io
     elements:
       - type: HorizontalCategory
-        category: PHA-Deployed App
+        category: DCT Mobile Apps
         rows: 6
         width: 1100
         height: 200
@@ -108,58 +108,99 @@ big_picture:
         color: rgb(179,77,77)
         fit_width: true
       - type: HorizontalCategory
-        category: Exposure Notification
-        width: 460
+        category: Credential Apps
+        rows: 6
+        width: 100
+        height: 200
+        top: 0
+        left: 1120
+        color: rgb(179,77,77)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Symptom Monitoring
+        rows: 6
+        width: 100
+        height: 200
+        top: 0
+        left: 1240
+        color: rgb(179,77,77)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Outbreak Management
+        rows: 6
+        width: 100
+        height: 200
+        top: 0
+        left: 1360
+        color: rgb(179,77,77)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Outbreak Simulation
+        rows: 6
+        width: 100
+        height: 200
+        top: 0
+        left: 1480
+        color: rgb(179,77,77)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Hardware Devices
+        rows: 6
+        width: 100
+        height: 200
+        top: 0
+        left: 1600
+        color: rgb(179,77,77)
+        fit_width: true
+
+      - type: HorizontalCategory
+        category: Application Frameworks
+        width: 1100
         height: 170
         top: 220
         left: 0
         color: rgb(4,81,49)
         fit_width: true
       - type: HorizontalCategory
-        category: Specification
-        width: 150
+        category: Device Platforms
+        width: 100
         height: 170
         top: 220
-        left: 490
+        left: 1120
         color: rgb(7,136,62)
         fit_width: true
+
       - type: HorizontalCategory
-        category: Contact Tracing
-        width: 200
+        category: Foundation Technologies
+        width: 520
         height: 170
-        top: 220
-        left: 670
-        color: rgb(79,121,13)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Symptom Monitoring
-        width: 200
-        height: 170
-        top: 220
-        left: 900
-        color: rgb(126,115,14)
-        fit_width: true
-      - type: HorizontalCategory
-        category: COVID Verification
-        width: 150
-        height: 160
         top: 410
+        left: 0
+        color: rgb(4,81,49)
+        fit_width: true
+
+      - type: HorizontalCategory
+        category: Standardisation
+        width: 460
+        height: 170
+        top: 600
         left: 0
         color: rgb(109,61,143)
         fit_width: true
+
       - type: HorizontalCategory
         category: LFPH Members
         width: 640
         height: 160
-        top: 410
-        left: 180
+        top: 600
+        left: 490
         color: rgb(47,116,190)
         fit_width: true
       - type: LandscapeInfo
         width: 250
         height: 160
-        top: 410
-        left: 850
+        top: 600
+        left: 1160
         children:
           - type: text
             text: >-
