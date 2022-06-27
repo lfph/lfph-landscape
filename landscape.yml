@@ -7,7 +7,8 @@ landscape:
         items:
           - item:
             name: Cardea
-            description: Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving
+            description: >-
+              Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving
               way.
             homepage_url: https://www.cardea.app
             project: foundationproject
@@ -21,8 +22,9 @@ landscape:
               artwork_url: https://github.com/lfph/artwork/tree/main/projects/cardea
           - item:
             name: MedCreds
-            description: MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in
-              a digital wallet.
+            description: >-
+              MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a
+              digital wallet.
             homepage_url: https://www.proofmarket.io/medcreds
             project: foundationproject
             repo_url: https://github.com/LFPH-Medcreds/medcreds-api
@@ -48,7 +50,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/austrian-red-cross
           - item:
             name: Bermuda (WeHealth Bermuda)
-            description: a new, free smartphone application that provides anonymous COVID-19 exposure notifications. It is one of the most sophisticated apps available
+            description: >-
+              a new, free smartphone application that provides anonymous COVID-19 exposure notifications. It is one of the most sophisticated apps available
               anywhere in the world for helping to control the spread of COVID-19.
             homepage_url: https://www.gov.bm/wehealth-bermuda
             logo: bermuda.svg
@@ -61,8 +64,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/brazilgovernment
           - item:
             name: Canada (COVID Alert)
-            description: Together, let's limit the spread of COVID-19 and prevent future outbreaks. COVID Alert helps us break the cycle of infection. The app can
-              let people know of possible exposures before any symptoms appear.
+            description: >-
+              Together, let's limit the spread of COVID-19 and prevent future outbreaks. COVID Alert helps us break the cycle of infection. The app can let
+              people know of possible exposures before any symptoms appear.
             homepage_url: https://www.canada.ca/errors/403.html
             repo_url: https://github.com/cds-snc/covid-alert-app
             additional_repos:
@@ -73,8 +77,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/health-canada
           - item:
             name: Croatia (Stop COVID-19)
-            description: In order to slow down the spread of COVID-19 among the population, the Government of the Republic of Croatia and the Ministry of Health have
-              developed an application that warns users that they have been in contact with a person who has subsequently been confirmed to be infected with COVID-19.
+            description: >-
+              In order to slow down the spread of COVID-19 among the population, the Government of the Republic of Croatia and the Ministry of Health have
+              developed an application that warns users that they have been in contact with a person who has subsequently been confirmed to be infected with
+              COVID-19.
             homepage_url: https://www.koronavirus.hr/stop-covid-19-723/723
             repo_url: https://github.com/Stop-COVID-19-Croatia/stopcovid19-android
             project_org: https://github.com/Stop-COVID-19-Croatia
@@ -88,22 +94,25 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/denmark-ministry-of-health
           - item:
             name: Ecuador (ASI)
-            description: We take care of your well-being and that of your loved ones by tracking digital contacts. This contact record is done via Bluetooth, and
-              does not use Geolocation or have access to any personal data on your cell phone.
+            description: >-
+              We take care of your well-being and that of your loved ones by tracking digital contacts. This contact record is done via Bluetooth, and does not
+              use Geolocation or have access to any personal data on your cell phone.
             homepage_url: https://asiecuador.com/
             logo: ecuador.svg
             crunchbase: https://www.crunchbase.com/organization/ministry-of-telecommunications-and-the-information-society-ecuador
           - item:
             name: Estonia (HOIA)
-            description: With the HOIA mobile app, you can quickly find out about possible close contact with a COVID-19 infected person, allowing you to take steps
-              to protect your own health and the health of others.
+            description: >-
+              With the HOIA mobile app, you can quickly find out about possible close contact with a COVID-19 infected person, allowing you to take steps to
+              protect your own health and the health of others.
             homepage_url: https://hoia.me/en/
             logo: estonia.svg
             crunchbase: https://www.crunchbase.com/organization/tehik
           - item:
             name: Finland (Koronavilkku)
-            description: Koronavilkku is a contact tracing app produced by the Finnish Institute for Health and Welfare (THL) to help you find out whether you may
-              have been exposed to coronavirus.
+            description: >-
+              Koronavilkku is a contact tracing app produced by the Finnish Institute for Health and Welfare (THL) to help you find out whether you may have
+              been exposed to coronavirus.
             homepage_url: https://koronavilkku.fi/en/
             repo_url: https://github.com/THLfi/koronavilkku-ios
             additional_repos:
@@ -121,8 +130,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/robert-koch-foundation
           - item:
             name: Gibraltar (Beat COVID)
-            description: Beat COVID Gibraltar has been developed by HM Government of Gibraltar and the Gibraltar Health Authority to help reduce the spread of the
-              COVID-19 virus and keep our community safe.
+            description: >-
+              Beat COVID Gibraltar has been developed by HM Government of Gibraltar and the Gibraltar Health Authority to help reduce the spread of the COVID-19
+              virus and keep our community safe.
             homepage_url: https://www.gibraltar.gov.gi/beatcovidapp
             logo: gibraltar.svg
             crunchbase: https://www.crunchbase.com/organization/hm-government-of-gibraltar
@@ -140,8 +150,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-iceland
           - item:
             name: Ireland (COVID Tracker)
-            description: COVID Tracker is a free app for your mobile phone. It will help us to protect each other and slow the spread of coronavirus (COVID-19) in
-              Ireland.
+            description: COVID Tracker is a free app for your mobile phone. It will help us to protect each other and slow the spread of coronavirus (COVID-19) in Ireland.
             homepage_url: https://www.covidtracker.ie
             repo_url: https://github.com/HSEIreland/covid-tracker-app
             project_org: https://github.com/HSEIreland
@@ -159,8 +168,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-italy
           - item:
             name: Japan (COCOA)
-            description: The Ministry of Health, Labor and Welfare has developed a new coronavirus contact confirmation application (COCOA) in cooperation with the
-              new coronavirus infection control tech team to help prevent the spread of new coronavirus infections.
+            description: >-
+              The Ministry of Health, Labor and Welfare has developed a new coronavirus contact confirmation application (COCOA) in cooperation with the new
+              coronavirus infection control tech team to help prevent the spread of new coronavirus infections.
             homepage_url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html
             logo: japan.svg
             crunchbase: https://www.crunchbase.com/organization/japan-ministry-of-health-labour-and-welfare
@@ -173,8 +183,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-latvia
           - item:
             name: Malta (COVID Alert Malta)
-            description: COVID Alert Malta is the national Maltese app designed to help protect individuals and their loved ones by alerting them if they were in
-              close contact with persons infected with the COVID-19 virus.
+            description: >-
+              COVID Alert Malta is the national Maltese app designed to help protect individuals and their loved ones by alerting them if they were in close
+              contact with persons infected with the COVID-19 virus.
             homepage_url: https://splashpage.gov.mt
             repo_url: https://github.com/GOVMT-MITA/dp3t-admin-ui-mt
             project_org: https://github.com/GOVMT-MITA
@@ -199,8 +210,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-poland
           - item:
             name: Portugal (STAYAWAY COVID)
-            description: STAYAWAY COVID is an application that runs on iOS and Android mobile phones and is intended to support the country in its efforts to screen
-              for COVID-19. By monitoring your most recent contacts, the app allows you to know, simply and safely, whether you have been exposed to the disease.
+            description: >-
+              STAYAWAY COVID is an application that runs on iOS and Android mobile phones and is intended to support the country in its efforts to screen for
+              COVID-19. By monitoring your most recent contacts, the app allows you to know, simply and safely, whether you have been exposed to the disease.
               The STAYAWAY COVID app is entirely voluntary and free and at no time requires access to your identity or personal data.
             homepage_url: https://stayawaycovid.pt
             repo_url: https://github.com/stayawayinesctec/stayaway-app
@@ -210,15 +222,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/inesc-tec
           - item:
             name: Saudi Arabia (Tabaud)
-            description: Tabaud app for smartphones is one of the latest government efforts in Saudi Arabia to combat and contain the coronavirus (COVID-19) pandemic
-              via Apple/Google Exposure Notification API.
+            description: >-
+              Tabaud app for smartphones is one of the latest government efforts in Saudi Arabia to combat and contain the coronavirus (COVID-19) pandemic via
+              Apple/Google Exposure Notification API.
             homepage_url: https://tabaud.sdaia.gov.sa/IndexEn
             logo: saudi-arabia.svg
             twitter: https://twitter.com/TabaudApp
             crunchbase: https://www.crunchbase.com/organization/saudi-arabia-ministry-of-health
           - item:
             name: Spain (Radar COVID)
-            description: With the official application of the Government of Spain you can receive notifications if you have been in contact with someone who was diagnosed
+            description: >-
+              With the official application of the Government of Spain you can receive notifications if you have been in contact with someone who was diagnosed
               positive for COVID-19. All anonymously, securely, confidentially and voluntarily.
             homepage_url: https://radarcovid.gob.es/
             repo_url: https://github.com/RadarCOVID/radar-covid-android
@@ -228,7 +242,8 @@ landscape:
           - item:
             name: Switzerland (SwissCovid)
             description: The app provides information on suspected infections. In this way, the chain of infection can be broken.
-            homepage_url: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing.html
+            homepage_url: >-
+              https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing.html
             repo_url: https://github.com/SwissCovid/swisscovid-app-android
             additional_repos:
               - repo_url: https://github.com/DP-3T/dp3t-app-ios-ch
@@ -257,8 +272,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/health-and-social-care-northern-ireland
           - item:
             name: United Kingdom - Scotland (Protect Scotland)
-            description: The Protect Scotland app from NHS Scotland’s Test and Protect is a free, mobile phone app designed to help us protect each other, reduce
-              the spread of coronavirus and avoid further lockdowns.
+            description: >-
+              The Protect Scotland app from NHS Scotland’s Test and Protect is a free, mobile phone app designed to help us protect each other, reduce the
+              spread of coronavirus and avoid further lockdowns.
             homepage_url: https://protect.scot/
             repo_url: https://github.com/NES-Digital-Service/protect-scotland
             logo: scotland.svg
@@ -295,7 +311,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/louisiana-department-of-health
           - item:
             name: United States - Michigan (MI COVID Alert)
-            description: MI COVID Alert is a free app for your mobile phone. It will help us to notify each other and slow the spread of coronavirus (COVID-19) in
+            description: >-
+              MI COVID Alert is a free app for your mobile phone. It will help us to notify each other and slow the spread of coronavirus (COVID-19) in
               Michigan.
             homepage_url: https://www.michigan.gov/som/404
             logo: michigan.svg
@@ -315,15 +332,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nevada-division-of-public-and-behavioral-health
           - item:
             name: United States - New Jersey (COVID Alert NJ)
-            description: COVID Alert NJ is New Jersey's free and secure mobile app that anonymously alerts users if they have been in close contact with someone who
-              has tested positive for COVID-19.
+            description: >-
+              COVID Alert NJ is New Jersey's free and secure mobile app that anonymously alerts users if they have been in close contact with someone who has
+              tested positive for COVID-19.
             homepage_url: https://covid19.nj.gov/pages/app
             logo: new-jersey.svg
             crunchbase: https://www.crunchbase.com/organization/nj-office-of-information-technology
           - item:
             name: United States - New York (COVID Alert NY)
-            description: To stop the spread of COVID-19, New York needs each of us to do our part. One way you can help yourself and your community is by participating
-              in our newly launched mobile contract tracing app COVID Alert NY.
+            description: >-
+              To stop the spread of COVID-19, New York needs each of us to do our part. One way you can help yourself and your community is by participating in
+              our newly launched mobile contract tracing app COVID Alert NY.
             homepage_url: https://coronavirus.health.ny.gov/covid-alert-ny
             repo_url: https://github.com/covid-alert-ny/covid-green-app
             project_org: https://github.com/covid-alert-ny
@@ -337,15 +356,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
           - item:
             name: United States - North Dakota (Care19 Alert)
-            description: Care19 Alert app uses the Bluetooth proximity technology provided jointly by Apple and Google Exposure Notification Systems to keep track
-              of the anonymous keys (transmitted by phones near you) that a user encounters over time.
+            description: >-
+              Care19 Alert app uses the Bluetooth proximity technology provided jointly by Apple and Google Exposure Notification Systems to keep track of the
+              anonymous keys (transmitted by phones near you) that a user encounters over time.
             homepage_url: https://ndresponse.gov/covid-19-resources/care19
             logo: north-dakota.svg
             crunchbase: https://www.crunchbase.com/organization/north-dakota-department-of-health
           - item:
             name: United States - Pennsylvania (COVID Alert PA)
-            description: The App is designed to assist in alerting individuals that came in close proximity with someone who later tests positive for COVID-19, and
-              to provide information about the virus and steps for controlling the spread of the virus.
+            description: >-
+              The App is designed to assist in alerting individuals that came in close proximity with someone who later tests positive for COVID-19, and to
+              provide information about the virus and steps for controlling the spread of the virus.
             homepage_url: https://www.pa.gov/covid/stop-the-spread/covid-alert-pa
             logo: pennsylvania.svg
             crunchbase: https://www.crunchbase.com/organization/executive-office-of-the-commonwealth-of-pennsylvania
@@ -372,7 +393,8 @@ landscape:
         items:
           - item:
             name: United States - California (California COVID Notify)
-            description: California COVID Notify will help to contain the spread of COVID-19. It complements ongoing contact tracing programs carried out by the local
+            description: >-
+              California COVID Notify will help to contain the spread of COVID-19. It complements ongoing contact tracing programs carried out by the local
               health jurisdictions and enhances the State’s COVID prevention efforts.
             homepage_url: https://canotify.ca.gov
             logo: california.svg
@@ -391,21 +413,24 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/district-of-columbia
           - item:
             name: United States - Maryland (MD COVID Alert)
-            description: MD COVID Alert pairs seamlessly with Maryland’s traditional contact tracing efforts by using Exposure Notifications technology to notify
-              users who may have been exposed to an infected person.
+            description: >-
+              MD COVID Alert pairs seamlessly with Maryland’s traditional contact tracing efforts by using Exposure Notifications technology to notify users who
+              may have been exposed to an infected person.
             homepage_url: https://covidlink.maryland.gov/content/mdcovidalert/
             logo: maryland.svg
             crunchbase: https://www.crunchbase.com/organization/maryland-department-of-health
           - item:
             name: United States - New Mexico (NM Notify)
-            description: NM Notify can quickly notify you if you’ve likely been exposed, allowing you to reduce risk for your loved ones, seek timely medical attention,
+            description: >-
+              NM Notify can quickly notify you if you’ve likely been exposed, allowing you to reduce risk for your loved ones, seek timely medical attention,
               and stay home.
             homepage_url: https://nmnotify.com/
             logo: new-mexico.svg
             crunchbase: https://www.crunchbase.com/organization/new-mexico-department-of-health
           - item:
             name: United States - Utah (UT Exposure Notifications)
-            description: The Healthy Together app helps you assess your symptoms, find the nearest testing center, view test results, and learn what to do after you've
+            description: >-
+              The Healthy Together app helps you assess your symptoms, find the nearest testing center, view test results, and learn what to do after you've
               been tested for COVID-19.
             homepage_url: https://coronavirus.utah.gov/exposure-notifications/
             logo: utah.svg
@@ -413,15 +438,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/state-of-utah
           - item:
             name: United States - Washington (WA Notify)
-            description: Washington Exposure Notifications (also known as WA Notify) is a new tool that works through smartphones, without sharing any personal information,
-              to alert users if they may have been exposed to COVID-19.
+            description: >-
+              Washington Exposure Notifications (also known as WA Notify) is a new tool that works through smartphones, without sharing any personal
+              information, to alert users if they may have been exposed to COVID-19.
             homepage_url: https://wanotify.uw.edu/index.html
             logo: washington.svg
             crunchbase: https://www.crunchbase.com/organization/washington-state-department-of-health
           - item:
             name: United States - Wisconsin (WI Exposure Notifications)
-            description: WI Exposure Notification is a smartphone app that uses Bluetooth Low Energy technology(link is external) to help stop the spread of COVID-19
-              in Wisconsin.
+            description: >-
+              WI Exposure Notification is a smartphone app that uses Bluetooth Low Energy technology(link is external) to help stop the spread of COVID-19 in
+              Wisconsin.
             homepage_url: https://www.dhs.wisconsin.gov/covid-19/notification.htm
             logo: wisconsin.svg
             crunchbase: https://www.crunchbase.com/organization/wisconsin-department-of-health-services
@@ -455,23 +482,26 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/the-government-of-the-republic-of-colombia
           - item:
             name: Cyprus (CovTracer)
-            description: Combating the spread of the COVID-19 epidemic requires the rapid identification of people who have come into recent contact with confirmed
-              cases of the SARS-Cov-2 virus. This allows for timely interventions such as evacuation and disinfection of spaces and for assistance in locating people
+            description: >-
+              Combating the spread of the COVID-19 epidemic requires the rapid identification of people who have come into recent contact with confirmed cases
+              of the SARS-Cov-2 virus. This allows for timely interventions such as evacuation and disinfection of spaces and for assistance in locating people
               who have been close to a carrier or have been exposed to the virus, so that they too can be appropriately tested or treated.
             homepage_url: https://covid-19.rise.org.cy/en/
             logo: cyprus.svg
             crunchbase: https://www.crunchbase.com/organization/research-centre-on-interactive-media-smart-systems-and-emerging-technologies
           - item:
             name: Czech Republic (eRouška)
-            description: Thanks to Bluetooth, the eRouška application remembers other eRouška you have met. This will make it easier for the public health officials
-              to locate risky contacts.
+            description: >-
+              Thanks to Bluetooth, the eRouška application remembers other eRouška you have met. This will make it easier for the public health officials to
+              locate risky contacts.
             homepage_url: https://erouska.cz/
             repo_url: https://github.com/covid19cz/erouska-android
             logo: czech-republic.svg
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-czech-republic
           - item:
             name: France (TousAntiCovid)
-            description: TousAntiCovid is an application that is part of the government's overall plan after initial lock-down. Previously known as StopCovid, an
+            description: >-
+              TousAntiCovid is an application that is part of the government's overall plan after initial lock-down. Previously known as StopCovid, an
               application that was part of the government's overall deconfinement plan in the context of the Covid-19 epidemic.
             homepage_url: https://www.economie.gouv.fr/tousanticovid
             repo_url: https://gitlab.inria.fr/users/sign_in
@@ -482,7 +512,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/government-of-france
           - item:
             name: Hungary (VirusRadar)
-            description: The Virus Radar is a mobile application which is the basis of the best international examples have been developed to protect against the
+            description: >-
+              The Virus Radar is a mobile application which is the basis of the best international examples have been developed to protect against the
               coronavirus.
             homepage_url: https://virusradar.hu/
             logo: hungary.svg
@@ -495,15 +526,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-science-technology-and-innovation-malaysia
           - item:
             name: Mexico (CovidRadar.mx)
-            description: An application that anonymously registers via Bluetooth the nearby devices that have the app installed and in the event that in the future
-              any user of the app is positive, it allows the authorities to send the corresponding alerts to the users who were in contact.
+            description: >-
+              An application that anonymously registers via Bluetooth the nearby devices that have the app installed and in the event that in the future any
+              user of the app is positive, it allows the authorities to send the corresponding alerts to the users who were in contact.
             homepage_url: https://covidradar.mx
             logo: mexico.svg
             crunchbase: https://www.crunchbase.com/organization/federal-government-of-mexico
           - item:
             name: North Macedonia (StopKorona)
-            description: StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the Coronavirus. The app is intended
-              to trace exposure with potentially infected persons, by the detection of the distance between mobile devices/applications by using Bluetooth technology.
+            description: >-
+              StopKorona! is a mobile app developed based on the best global practices for the prevention and control of the Coronavirus. The app is intended to
+              trace exposure with potentially infected persons, by the detection of the distance between mobile devices/applications by using Bluetooth
+              technology.
             homepage_url: https://stop.koronavirus.gov.mk/en
             logo: north-macedonia.svg
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-north-macedonia
@@ -526,16 +560,18 @@ landscape:
         items:
           - item:
             name: Bahrain (BeAware)
-            description: The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people
-              who have been in contact with someone who is showing symptoms of the COVID-19 virus.
+            description: >-
+              The BeAware Bahrain Mobile App, utilizing cloud and location data, enables the Government to swiftly identify, traceback and warn people who have
+              been in contact with someone who is showing symptoms of the COVID-19 virus.
             homepage_url: https://apps.bahrain.bh/CMSWebApplication/action/ShowAppDetailsAction?selectedAppID=321&appLanguage=en
             logo: bahrain.svg
             crunchbase: https://www.crunchbase.com/organization/egovernment-authority-kingdom-of-bahrain
           - item:
             name: Brunei (BruHealth)
-            description: BruHealth is developed by the Government of Brunei to engage its residents during the COVID-19 pandemic. The app provides residents of Brunei
-              updates on COVID-19 development and related policy measures, monitors health conditions of residents of Brunei through the self-assessment feature and
-              tracks risk exposure of residents of Brunei using the Bluetooth and GPS tracking features.
+            description: >-
+              BruHealth is developed by the Government of Brunei to engage its residents during the COVID-19 pandemic. The app provides residents of Brunei
+              updates on COVID-19 development and related policy measures, monitors health conditions of residents of Brunei through the self-assessment feature
+              and tracks risk exposure of residents of Brunei using the Bluetooth and GPS tracking features.
             homepage_url: https://www.gov.bn/Lists/Mobile%20Apps/NewDisplayForm.aspx?ID=27
             logo: brunei.svg
             crunchbase: https://www.crunchbase.com/organization/brunei-e-government-national-centre
@@ -560,8 +596,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ghana-health-services
           - item:
             name: India (Aarogya Setu)
-            description: AarogyaSetu is a mobile application developed by the Government of India to connect essential health services with the people of India in
-              our combined fight against COVID-19.
+            description: >-
+              AarogyaSetu is a mobile application developed by the Government of India to connect essential health services with the people of India in our
+              combined fight against COVID-19.
             homepage_url: https://www.mygov.in/aarogya-setu-app/
             repo_url: https://github.com/nic-delhi/AarogyaSetu_Android
             additional_repos:
@@ -571,9 +608,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/government-of-india
           - item:
             name: Iran (Mask)
-            description: In the mask you can see the map of corona in your country, city and place of residence and avoid polluted areas. You can also measure your
-              chances of getting corona by answering the app's questions regularly, and if you're in contact with corona sufferers without knowing it, so you can
-              be more careful not to infect others.
+            description: >-
+              In the mask you can see the map of corona in your country, city and place of residence and avoid polluted areas. You can also measure your chances
+              of getting corona by answering the app's questions regularly, and if you're in contact with corona sufferers without knowing it, so you can be
+              more careful not to infect others.
             homepage_url: https://mask.ir/
             logo: iran.svg
             organization:
@@ -582,23 +620,24 @@ landscape:
               country: Iran
           - item:
             name: Israel (Hamagen)
-            description: HaMagen is an app that is endorsed by the Ministry of Health. It can tell you have been in the presence of anyone who has been diagnosed
-              with coronavirus.
+            description: >-
+              HaMagen is an app that is endorsed by the Ministry of Health. It can tell you have been in the presence of anyone who has been diagnosed with
+              coronavirus.
             homepage_url: https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/
             repo_url: https://github.com/MohGovIL/hamagen-react-native
             logo: israel.svg
             crunchbase: https://www.crunchbase.com/organization/israeli-ministry-of-health
           - item:
             name: Kuwait (Shlonik)
-            description: Shlonik is an interactive app used to assist the Ministry of Health in Kuwait to engage with all citizens and residents and ensure their
-              safety with focus on COVID-19 pandemic.
+            description: >-
+              Shlonik is an interactive app used to assist the Ministry of Health in Kuwait to engage with all citizens and residents and ensure their safety
+              with focus on COVID-19 pandemic.
             homepage_url: https://play.google.com/store/apps/details?id=com.healthcarekw.app
             logo: kuwait.svg
             crunchbase: https://www.crunchbase.com/organization/kuwait-central-agency-for-information-technology
           - item:
             name: Philippines (StaySafe PH)
-            description: Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing
-              system.
+            description: Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing system.
             homepage_url: https://www.staysafe.ph/
             logo: philippines.svg
             crunchbase: https://www.crunchbase.com/organization/philippines-department-of-health
@@ -616,14 +655,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ministry-of-health-turkey
           - item:
             name: United States - Rhode Island (Crush Covid)
-            description: CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the
-              public health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
+            description: >-
+              CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public
+              health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey.
             homepage_url: https://covid.ri.gov/covid-19-prevention/401health-app
             logo: rhode-island.svg
             crunchbase: https://www.crunchbase.com/organization/rhode-island-department-of-health
           - item:
             name: United States - South Dakota (Care19)
-            description: Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
+            description: >-
+              Care19 is a location tracking app for your mobile device that will help the South Dakota Department of Health understand and predict infection
               rates in South Dakota. It will be used to plan better for testing and prepare healthcare services needed to fight the virus.
             homepage_url: https://covid.sd.gov/care19app.aspx
             logo: south-dakota.svg
@@ -726,8 +767,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cvkey
           - item:
             name: Healthy Together
-            description: Our COVID-19 response technology helps accelerate the time between detecting COVID-19 symptoms and notifying those at risk thereby slowing
-              the spread and keeping our communities safe.
+            description: >-
+              Our COVID-19 response technology helps accelerate the time between detecting COVID-19 symptoms and notifying those at risk thereby slowing the
+              spread and keeping our communities safe.
             homepage_url: https://www.healthytogether.io/
             logo: healthy-together.svg
             crunchbase: https://www.crunchbase.com/organization/insite-applications-llc
@@ -796,19 +838,21 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/eth-zurich
           - item:
             name: Google Apple Exposure Notification (GAEN) - Apple
-            description: Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread
-              of COVID-19 through contact tracing, with user privacy and security core to the design.
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: https://covid19.apple.com/contacttracing
             logo: gaen.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: Google Apple Exposure Notification (GAEN) - Google
-            description: Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread
-              of COVID-19 through contact tracing, with user privacy and security core to the design.
+            description: >-
+              Google and Apple announced a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of
+              COVID-19 through contact tracing, with user privacy and security core to the design.
             homepage_url: https://www.google.com/covid19/exposurenotifications/
             logo: gaen.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Safe2 Protocol
@@ -837,8 +881,9 @@ landscape:
         items:
           - item:
             name: CommCare
-            description: Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response
-              - from screening and contact tracing to patient monitoring and post-care support.
+            description: >-
+              Dimagi’s CommCare platform enables you to quickly build and deploy custom mobile applications for every phase of an effective COVID-19 response -
+              from screening and contact tracing to patient monitoring and post-care support.
             homepage_url: https://www.dimagi.com/covid-19/
             repo_url: https://github.com/dimagi/commcare-hq
             additional_repos:
@@ -849,29 +894,33 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/dimagi
           - item:
             name: Conduent Maven
-            description: Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to
-              provide support and share information during an outbreak crisis.
+            description: >-
+              Maven is an infectious disease management platform used by public health officials, medical providers, epidemiologists and laboratories to provide
+              support and share information during an outbreak crisis.
             homepage_url: https://www.conduent.com/government-solutions/government-healthcare-solutions/disease-surveillance-outbreak-management-system
             logo: conduent-maven.svg
             crunchbase: https://www.crunchbase.com/organization/conduent
           - item:
             name: Go.Data
-            description: Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN
-              Partners to help responders work smarter.
+            description: >-
+              Decades of outbreak response experience have culminated in the development of Go.Data – a data collection tool developed by WHO and GOARN Partners
+              to help responders work smarter.
             homepage_url: https://www.who.int/godata/about
             logo: world-health-organization-go-data.svg
             crunchbase: https://www.crunchbase.com/organization/world-health-organization
           - item:
             name: Microsoft Dynamics 365 Customer Service & Remote Assist
-            description: Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for
-              up to six months.
+            description: >-
+              Respond even faster to changing business needs due to COVID-19 using the following Dynamics 365 applications—available free of charge for up to
+              six months.
             homepage_url: https://dynamics.microsoft.com/en-us/
             logo: microsoft-dynamics365.svg
             twitter: https://twitter.com/msftdynamics365
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: MTX Quarantine Health Management
-            description: Proactively identify at-risk individuals who may have been exposed to an infectious disease or are currently under a mandated remote quarantine
+            description: >-
+              Proactively identify at-risk individuals who may have been exposed to an infectious disease or are currently under a mandated remote quarantine
               with a two-way automatic texting conversation.
             homepage_url: https://www.mtxb2b.com/cust_maint/site_down/maintenance.html
             logo: mtx.svg
@@ -935,7 +984,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/doc-ai
           - item:
             name: Tracelinks
-            description: Follow reopening procedures recommended by the CDC and many US states by using Tracelinks Monitor to privately and securely track employee
+            description: >-
+              Follow reopening procedures recommended by the CDC and many US states by using Tracelinks Monitor to privately and securely track employee
               attendance, daily symptoms screening and body temperature.
             homepage_url: https://www.blockchains.com
             logo: tracelinks.svg
@@ -949,7 +999,8 @@ landscape:
         items:
           - item:
             name: Model Data Protection Agreement (DPA)
-            description: Amidst all the noise about contact tracing and exposure notification apps, U.S. Digital Response has put together a Model Data Protection
+            description: >-
+              Amidst all the noise about contact tracing and exposure notification apps, U.S. Digital Response has put together a Model Data Protection
               Agreement to help ensure an appropriate balance between those who produce data for these apps and those who use data produced by these apps.
             homepage_url: https://law.mit.edu/pub/modeldpaforgovernment/release/1
             repo_url: https://github.com/usdigitalresponse/dpa
@@ -963,16 +1014,18 @@ landscape:
         items:
           - item:
             name: Covid Watch Implementation Team
-            description: Covid Watch is actively working with universities and public health departments to integrate the Covid Watch app and customizable verification
+            description: >-
+              Covid Watch is actively working with universities and public health departments to integrate the Covid Watch app and customizable verification
               portal with public health systems, preserving the anonymity of app users.
             homepage_url: https://www.wehealth.org/arizona
             logo: covid_watch.svg
             crunchbase: https://www.crunchbase.com/organization/covid-watch
           - item:
             name: U.S. Digital Response (implimenter)
-            description: Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to you
-              within hours.
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
             homepage_url: https://www.usdigitalresponse.org
             logo: usdigitalresponse.svg
             crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
@@ -992,7 +1045,6 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: NearForm Ltd
@@ -1016,7 +1068,6 @@ landscape:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
       - subcategory:
         name: General
@@ -1025,7 +1076,6 @@ landscape:
             name: Affinidi Pte Ltd
             homepage_url: https://affinidi.com/
             logo: affinidi_pte_ltd.svg
-            twitter: https://twitter.com/affinidi
             crunchbase: https://www.crunchbase.com/organization/affinidi
           - item:
             name: Blockchain Labs, Inc.
@@ -1036,7 +1086,6 @@ landscape:
             name: Dimagi Inc
             homepage_url: https://dimagi.com/
             logo: dimagi_inc.svg
-            twitter: https://twitter.com/dimagi
             crunchbase: https://www.crunchbase.com/organization/dimagi
           - item:
             name: Equideum Health
@@ -1049,7 +1098,6 @@ landscape:
             name: Healthvana
             homepage_url: https://healthvana.com/
             logo: healthvana.svg
-            twitter: https://twitter.com/healthvana
             crunchbase: https://www.crunchbase.com/organization/healthvana
           - item:
             name: Indicio
@@ -1061,7 +1109,6 @@ landscape:
             name: MTX Group Inc
             homepage_url: https://mtxb2b.com/
             logo: mtx_group_inc.svg
-            twitter: https://twitter.com/MTX_Inc
             crunchbase: https://www.crunchbase.com/organization/mtx-group
           - item:
             name: WeHealth Solutions PBC
@@ -1077,7 +1124,6 @@ landscape:
             name: Boston Public Health Commission
             homepage_url: https://bphc.org/
             logo: boston_public_health_commission.svg
-            twitter: https://twitter.com/HealthyBoston
             crunchbase: https://www.crunchbase.com/organization/boston-public-health-commission
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
@@ -1103,12 +1149,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cste
           - item:
             name: Fachhochschule Kiel
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+              Sciences in Schleswig-Holstein
             homepage_url: https://fh-kiel.de/
             logo: fachhochschule_kiel.svg
-            twitter: https://twitter.com/fh_kiel
             crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
-            description: With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
-              Sciences in Schleswig-Holstein
           - item:
             name: Health Service Executive Ireland
             homepage_url: https://hse.ie/eng
@@ -1126,7 +1172,6 @@ landscape:
             name: Interoperability Institute
             homepage_url: https://interoperabilityinstitute.org/
             logo: interoperability_institute.svg
-            twitter: https://twitter.com/TheInteropInst
             crunchbase: https://www.crunchbase.com/organization/interoperability-institute
           - item:
             name: iRespond Global
@@ -1145,7 +1190,6 @@ landscape:
             name: North Carolina Department of Health and Human Services
             homepage_url: https://ncdhhs.gov/
             logo: north_carolina_department_of_health_and_human_services.svg
-            twitter: https://twitter.com/ncdhhs
             crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
           - item:
             name: Onom Foundation
@@ -1155,32 +1199,29 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/onom-foundation
           - item:
             name: OpenUK
+            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
-            description: Where the UK’s Open communities meet and collaborate
           - item:
             name: Resolve to Save Lives
             homepage_url: https://resolvetosavelives.org/
             logo: resolve_to_save_lives.svg
-            twitter: https://twitter.com/ResolveTSL
             crunchbase: https://www.crunchbase.com/organization/resolve-to-save-lives
+          - item:
+            name: U.S. Digital Response
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
+            homepage_url: https://usdigitalresponse.org/
+            logo: us_digital_response.svg
+            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
           - item:
             name: University of Rochester Medical Center
             homepage_url: https://urmc.rochester.edu/
             logo: university_of_rochester_medical_center.svg
-            twitter: https://twitter.com/UofR
             crunchbase: https://www.crunchbase.com/organization/university-of-rochester-2
-          - item:
-            name: U.S. Digital Response
-            homepage_url: https://usdigitalresponse.org/
-            logo: us_digital_response.svg
-            twitter: https://twitter.com/USDResponse
-            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
-            description: Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to you
-              within hours.
           - item:
             name: Washington State Department of Health
             homepage_url: https://dshs.wa.gov/
