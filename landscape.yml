@@ -20,20 +20,23 @@ landscape:
             extra:
               accepted: '2021-04-29'
               artwork_url: https://github.com/lfph/artwork/tree/main/projects/cardea
+- category:
+    name: Treatments and Therapies
+    subcategories:
+      - subcategory:
+        name: Rare Diseases
+        items:
           - item:
-            name: MedCreds
+            name: RareCamp
             description: >-
-              MedCreds allows medical authorities to directly issue test and vaccination results in the form of verifiable credentials to individuals in a
-              digital wallet.
-            homepage_url: https://www.proofmarket.io/medcreds
+              RareCamp is a software platform to develop treatments for monogenic rare diseases.
+            homepage_url: https://rarecamp.org/
             project: foundationproject
-            repo_url: https://github.com/LFPH-Medcreds/medcreds-api
-            project_org: https://github.com/LFPH-Medcreds
-            logo: medcreds.svg
-            twitter: http://www.twitter.com/medcreds
-            crunchbase: https://www.crunchbase.com/organization/lf-public-health
+            repo_url: https://github.com/RareCamp/RareCamp
+            project_org: https://github.com/RareCamp
+            logo: rarecamp.png
             extra:
-              accepted: '2021-04-29'
+              accepted: '2022-09-04'
   - category:
     name: PHA-Deployed App
     subcategories:
