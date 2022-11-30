@@ -507,7 +507,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:34:04.000Z
+              latest_tweet_date: 2022-11-30T20:40:27.000Z
           - item:
             name: Denmark (Smittestop)
             description: Smittestop allows all of us to help stop the spread of COVID-19.
@@ -567,7 +567,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T16:34:22.000Z
+              latest_tweet_date: 2022-11-30T14:31:02.000Z
           - item:
             name: Estonia (HOIA)
             description: >-
@@ -669,7 +669,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T12:39:00.000Z
+              latest_tweet_date: 2022-11-30T13:37:45.000Z
           - item:
             name: Germany (Corona-Warn-App)
             description: The Corona-Warn-App is an app that helps trace infection chains of SARS-CoV-2 (which can cause COVID-19) in Germany.
@@ -703,26 +703,26 @@ landscape:
               description: The official COVID-19 exposure notification app for Germany.
               contributors_count: 449
               contributions: >-
-                254;318;306;45;191;349;483;363;417;380;373;523;447;278;273;309;380;482;292;120;196;255;300;229;280;152;74;111;66;79;123;116;98;121;112;122;107;172;137;150;151;160;120;98;171;111;111;112;107;57;113;105
-              stars: 10885
+                254;318;306;45;191;349;483;363;417;380;373;523;447;278;273;309;380;482;292;120;196;255;300;229;280;152;74;111;66;79;123;116;98;121;112;122;107;172;137;150;151;160;120;98;171;111;111;112;107;57;113;126
+              stars: 10886
               languages:
                 - name: Swift
-                  value: 9526718
+                  value: 9527321
                   color: '#ffac45'
                 - name: Kotlin
                   value: 8316497
                   color: '#F18E33'
                 - name: JavaScript
-                  value: 6324304
+                  value: 6324422
                   color: '#f1e05a'
                 - name: Java
                   value: 5075874
                   color: '#b07219'
                 - name: HTML
-                  value: 1491664
+                  value: 1491660
                   color: '#e34c26'
                 - name: SCSS
-                  value: 433431
+                  value: 433468
                 - name: TypeScript
                   value: 383087
                   color: '#2b7489'
@@ -781,7 +781,7 @@ landscape:
               - url: https://github.com/corona-warn-app/cwa-app-ios
                 stars: 1737
               - url: https://github.com/corona-warn-app/cwa-website
-                stars: 548
+                stars: 549
               - url: https://github.com/corona-warn-app/cwa-verification-server
                 stars: 353
               - url: https://github.com/corona-warn-app/cwa-wishlist
@@ -858,7 +858,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T10:59:23.000Z
+              latest_tweet_date: 2022-11-30T11:40:31.000Z
           - item:
             name: Gibraltar (Beat COVID)
             description: >-
@@ -892,7 +892,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T16:44:16.000Z
+              latest_tweet_date: 2022-11-30T13:52:50.000Z
           - item:
             name: Guam (Guam Covid Alert)
             description: Download the Department of Public Health and Social Services GUAM COVID ALERT app to help protect your community while protecting your privacy.
@@ -1066,7 +1066,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T17:55:00.000Z
+              latest_tweet_date: 2022-11-30T19:57:14.000Z
           - item:
             name: Italy (Immuni)
             description: Immuni is an app that helps us fight epidemics—starting with COVID-19.
@@ -1147,7 +1147,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:15:41.000Z
+              latest_tweet_date: 2022-11-30T17:44:46.000Z
           - item:
             name: Japan (COCOA)
             description: >-
@@ -1412,7 +1412,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:36:51.000Z
+              latest_tweet_date: 2022-11-30T02:17:59.000Z
           - item:
             name: Poland (STOP COVID)
             description: STOP COVID is an application that is effective in helping to contain the spread of the coronavirus.
@@ -1440,10 +1440,13 @@ landscape:
                 - Health Care
             github_data:
               description: ''
-              contributors_count: 41
+              contributors_count: 50
               contributions: 1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              stars: 422
+              stars: 446
               languages:
+                - name: JavaScript
+                  value: 834618
+                  color: '#f1e05a'
                 - name: Kotlin
                   value: 432880
                   color: '#F18E33'
@@ -1451,17 +1454,28 @@ landscape:
                   value: 349388
                   color: '#ffac45'
                 - name: TypeScript
-                  value: 198666
+                  value: 231060
                   color: '#2b7489'
                 - name: Java
                   value: 146270
                   color: '#b07219'
+                - name: SCSS
+                  value: 11282
+                - name: Shell
+                  value: 6752
+                  color: '#89e051'
                 - name: Ruby
                   value: 5893
                   color: '#701516'
-                - name: Shell
-                  value: 4207
-                  color: '#89e051'
+                - name: Python
+                  value: 4147
+                  color: '#3572A5'
+                - name: CSS
+                  value: 2344
+                  color: '#563d7c'
+                - name: HTML
+                  value: 1928
+                  color: '#e34c26'
                 - name: Dockerfile
                   value: 188
                   color: '#384d54'
@@ -1482,6 +1496,8 @@ landscape:
                 stars: 87
               - url: https://github.com/ProteGO-Safe/backend
                 stars: 73
+              - url: https://github.com/ProteGO-Safe/web
+                stars: 24
             github_start_commit_data:
               start_commit_link: /ProteGO-Safe/web/commit/854992e6d5969ac00e024eb1d7b6e759ac0fe5c1
               start_date: '2020-03-19T07:00:45Z'
@@ -1492,7 +1508,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T14:52:17.000Z
+              latest_tweet_date: 2022-11-30T12:13:02.000Z
           - item:
             name: Portugal (STAYAWAY COVID)
             description: >-
@@ -1733,7 +1749,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T18:42:40.000Z
+              latest_tweet_date: 2022-11-30T17:53:43.000Z
           - item:
             name: Switzerland (SwissCovid)
             description: The app provides information on suspected infections. In this way, the chain of infection can be broken.
@@ -1990,7 +2006,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T14:10:11.000Z
+              latest_tweet_date: 2022-11-30T12:20:31.000Z
           - item:
             name: United States - Alabama (GuideSafe)
             description: Protect Your Community. Protect Your Privacy. Protect Your Life. Stop the Spread of COVID in Alabama.
@@ -2021,7 +2037,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:02:44.000Z
+              latest_tweet_date: 2022-11-30T20:02:47.000Z
           - item:
             name: United States - Connecticut (COVID Alert CT)
             description: COVID Alert CT is a voluntary, anonymous, exposure-notification smartphone app.
@@ -2052,7 +2068,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:29:16.000Z
+              latest_tweet_date: 2022-11-30T21:00:00.000Z
           - item:
             name: United States - Delaware (COVID Alert DE)
             description: 'Add Your Phone to the COVID-19 Fight: Help Delaware Slow the Transmission of the Coronavirus'
@@ -2086,7 +2102,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:47:32.000Z
+              latest_tweet_date: 2022-11-30T15:40:38.000Z
           - item:
             name: United States - Hawaii (Aloha Safe Alert)
             description: AlohaSafe Alert is a free, voluntary new service that helps slow the spread of COVID-19.
@@ -2119,7 +2135,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T23:26:21.000Z
+              latest_tweet_date: 2022-11-30T20:51:06.000Z
           - item:
             name: United States - Louisiana (COVID Defense)
             description: By adding this free app to your phone, you can help protect your friends, family, and community from COVID-19 by getting exposure alerts.
@@ -2150,7 +2166,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:15:11.000Z
+              latest_tweet_date: 2022-11-30T17:46:18.000Z
           - item:
             name: United States - Michigan (MI COVID Alert)
             description: >-
@@ -2213,7 +2229,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T01:17:48.000Z
+              latest_tweet_date: 2022-11-30T18:49:58.000Z
           - item:
             name: United States - Nevada (COVID Trace)
             description: COVID Trace is a free, easy-to-use mobile phone app that gives us the information we need to fight COVID-19, without compromising your privacy.
@@ -2245,7 +2261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:00:06.000Z
+              latest_tweet_date: 2022-11-30T20:30:03.000Z
           - item:
             name: United States - New Jersey (COVID Alert NJ)
             description: >-
@@ -2277,7 +2293,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-28T17:46:08.000Z
+              latest_tweet_date: 2022-11-30T14:25:05.000Z
           - item:
             name: United States - New York (COVID Alert NY)
             description: >-
@@ -2388,7 +2404,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:42:21.000Z
+              latest_tweet_date: 2022-11-30T19:29:00.000Z
           - item:
             name: United States - North Carolina (SlowCOVIDNC)
             description: It’s easy. All you have to do is download SlowCOVIDNC and you can help slow the spread of COVID-19.
@@ -2419,7 +2435,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:10:31.000Z
+              latest_tweet_date: 2022-11-30T20:52:46.000Z
           - item:
             name: United States - North Dakota (Care19 Alert)
             description: >-
@@ -2484,7 +2500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:27:41.000Z
+              latest_tweet_date: 2022-11-30T15:30:00.000Z
           - item:
             name: United States - Virginia (COVIDWISE)
             description: Download Virginia’s free COVIDWISE Exposure Notifications app to help protect your community while protecting your privacy.
@@ -2514,7 +2530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:30:07.000Z
+              latest_tweet_date: 2022-11-30T21:05:28.000Z
           - item:
             name: United States - Wyoming (Care19 Alert)
             description: Care19 Alert is the official COVID-19 exposure notification app for North Dakota and Wyoming as authorized by each states Department of Health.
@@ -2575,7 +2591,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:30:20.000Z
+              latest_tweet_date: 2022-11-30T20:22:58.000Z
       - subcategory:
         name: GAEN EN Express
         items:
@@ -2612,7 +2628,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T18:30:24.000Z
+              latest_tweet_date: 2022-11-30T19:38:52.000Z
           - item:
             name: United States - Colorado (CO Exposure Notifications)
             description: Exposure Notifications is a voluntary new service available on both iPhone and Android phones that helps slow the spread of COVID-19.
@@ -2643,7 +2659,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:23:00.000Z
+              latest_tweet_date: 2022-11-30T20:00:22.000Z
           - item:
             name: United States - District of Columbia (DC CAN)
             description: Get DC's free DC COVID Alert Notice (DC CAN) to help protect your community while protecting your privacy.
@@ -2713,7 +2729,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:05:59.000Z
+              latest_tweet_date: 2022-11-30T20:02:24.000Z
           - item:
             name: United States - New Mexico (NM Notify)
             description: >-
@@ -2781,7 +2797,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:48:31.000Z
+              latest_tweet_date: 2022-11-30T17:29:52.000Z
           - item:
             name: United States - Washington (WA Notify)
             description: >-
@@ -2814,7 +2830,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:53:17.000Z
+              latest_tweet_date: 2022-11-30T20:56:24.000Z
           - item:
             name: United States - Wisconsin (WI Exposure Notifications)
             description: >-
@@ -2847,7 +2863,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:00:01.000Z
+              latest_tweet_date: 2022-11-30T20:00:36.000Z
       - subcategory:
         name: Non-GAEN Bluetooth
         items:
@@ -2937,7 +2953,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T17:57:38.000Z
+              latest_tweet_date: 2022-11-30T18:31:13.000Z
           - item:
             name: Canada - Alberta (ABTraceTogether)
             description: Albertans can support reopening businesses while continuing to act responsibly to prevent the spread.
@@ -2968,7 +2984,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-28T22:25:17.000Z
+              latest_tweet_date: 2022-11-30T20:54:37.000Z
           - item:
             name: Colombia (CoronApp)
             description: Evaluate your health and receive recommendations on COVID-19 using the official application of the National Government of Colombia.
@@ -3124,7 +3140,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:16:54.000Z
+              latest_tweet_date: 2022-11-30T17:04:46.000Z
           - item:
             name: Hungary (VirusRadar)
             description: >-
@@ -3281,7 +3297,7 @@ landscape:
               description: OpenTrace is the reference implementation of BlueTrace, a privacy-preserving protocol for epidemiological contact tracing to fight COVID-19
               contributors_count: 10
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              stars: 1392
+              stars: 1391
               languages:
                 - name: Kotlin
                   value: 256405
@@ -3311,7 +3327,7 @@ landscape:
               - url: https://github.com/opentrace-community/opentrace-cloud-functions
                 stars: 273
               - url: https://github.com/opentrace-community/opentrace-calibration
-                stars: 119
+                stars: 118
             github_start_commit_data:
               start_commit_link: /opentrace-community/opentrace-cloud-functions/commit/e92bf02d4a080134aea6b11dc976437d76dd2b78
               start_date: '2020-04-09T11:28:02Z'
@@ -3354,7 +3370,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T14:03:28.000Z
+              latest_tweet_date: 2022-11-30T17:12:06.000Z
       - subcategory:
         name: GPS-based
         items:
@@ -3391,7 +3407,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T12:14:58.000Z
+              latest_tweet_date: 2022-11-30T16:57:13.000Z
           - item:
             name: Brunei (BruHealth)
             description: >-
@@ -3609,7 +3625,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T03:43:15.000Z
+              latest_tweet_date: 2022-11-30T05:03:42.000Z
           - item:
             name: Iran (Mask)
             description: >-
@@ -3711,7 +3727,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:18:50.000Z
+              latest_tweet_date: 2022-11-30T17:43:00.000Z
           - item:
             name: Kuwait (Shlonik)
             description: >-
@@ -3743,7 +3759,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-24T11:36:08.000Z
+              latest_tweet_date: 2022-11-30T11:24:40.000Z
           - item:
             name: Philippines (StaySafe PH)
             description: Join us in stopping the spread of COVID-19 through this community-driven contact tracing, health condition reporting and social distancing system.
@@ -3802,7 +3818,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T10:59:27.000Z
+              latest_tweet_date: 2022-11-30T07:00:36.000Z
           - item:
             name: Turkey (Hayat Eve Sığar)
             description: With the HAYAT EVE SIĞAR application, you can see the risky areas on the map!
@@ -3867,7 +3883,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T23:16:00.000Z
+              latest_tweet_date: 2022-11-30T20:32:00.000Z
           - item:
             name: United States - South Dakota (Care19)
             description: >-
@@ -3900,7 +3916,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T01:35:11.000Z
+              latest_tweet_date: 2022-11-30T20:27:04.000Z
   - category:
     name: Exposure Notification
     subcategories:
@@ -4376,7 +4392,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T12:52:17.000Z
+              latest_tweet_date: 2022-11-30T12:00:40.000Z
       - subcategory:
         name: Experimental GAEN
         items:
@@ -4613,7 +4629,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T01:28:01.000Z
+              latest_tweet_date: 2022-11-30T19:18:47.000Z
           - item:
             name: Covid Safe Paths
             homepage_url: https://pathcheck.org
@@ -4642,11 +4658,11 @@ landscape:
               description: PathCheck Foundation is dedicated to containing Covid-19 and revitalizing the economy, while preserving privacy and individual liberty.
               contributors_count: 718
               contributions: >-
-                143;134;176;75;103;120;107;96;89;86;95;59;88;62;83;75;73;66;55;50;70;81;69;54;60;66;80;56;74;78;63;35;81;138;68;56;44;54;100;67;98;78;86;107;103;104;94;112;86;50;70;65
-              stars: 767
+                143;134;176;75;103;120;107;96;89;86;95;59;88;62;83;75;73;66;55;50;70;81;69;54;60;66;80;56;74;78;63;35;81;138;68;56;44;54;100;67;98;78;86;107;103;104;95;126;88;62;72;72
+              stars: 768
               languages:
                 - name: Java
-                  value: 253339374
+                  value: 253313128
                   color: '#b07219'
                 - name: Jupyter Notebook
                   value: 5281160
@@ -4655,7 +4671,7 @@ landscape:
                   value: 3306473
                   color: '#e34c26'
                 - name: Kotlin
-                  value: 2633498
+                  value: 2640723
                   color: '#F18E33'
                 - name: JavaScript
                   value: 2408091
@@ -4764,7 +4780,7 @@ landscape:
               - url: https://github.com/Path-Check/shc-sdk.js
                 stars: 6
               - url: https://github.com/Path-Check/who-verifier-app
-                stars: 5
+                stars: 6
               - url: https://github.com/Path-Check/safeplaces-data-layer
                 stars: 3
               - url: https://github.com/Path-Check/divoc-sdk.js
@@ -4977,7 +4993,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T23:23:44.000Z
+              latest_tweet_date: 2022-11-30T17:01:38.000Z
           - item:
             name: CVKey
             description: CVKey Project is on a mission to help communities reopen responsibly during the COVID-19 pandemic without compromising privacy.
@@ -5469,7 +5485,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T16:01:39.000Z
+              latest_tweet_date: 2022-11-30T15:32:03.000Z
           - item:
             name: Google Apple Exposure Notification (GAEN) - Apple
             description: >-
@@ -5783,7 +5799,7 @@ landscape:
                 - Wearables
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2245746491392
+              market_cap: 2354875990016
               effective_ticker: AAPL
             image_data:
               fileName: google-apple-exposure-notification-gaen-apple.svg
@@ -6389,7 +6405,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1234344607744
+              market_cap: 1311241142272
               effective_ticker: GOOG
             image_data:
               fileName: google-apple-exposure-notification-gaen-google.svg
@@ -6586,29 +6602,29 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 22441433
+                  value: 22504144
                   color: '#3572A5'
                 - name: JavaScript
-                  value: 6356127
+                  value: 6357801
                   color: '#f1e05a'
                 - name: Java
                   value: 5098670
                   color: '#b07219'
                 - name: HTML
-                  value: 2590225
+                  value: 2592084
                   color: '#e34c26'
                 - name: Kotlin
                   value: 344841
                   color: '#F18E33'
                 - name: Jinja
-                  value: 214778
+                  value: 215748
                 - name: Less
                   value: 176282
                 - name: Shell
                   value: 139762
                   color: '#89e051'
                 - name: HCL
-                  value: 89401
+                  value: 90638
                 - name: CSS
                   value: 83752
                   color: '#563d7c'
@@ -6638,26 +6654,26 @@ landscape:
                   value: 150
                   color: '#ecdebe'
               contributions: >-
-                276;259;173;71;57;220;253;291;262;344;285;272;290;295;218;182;254;357;363;285;288;198;239;222;267;303;235;259;271;245;226;197;188;211;192;200;233;196;200;209;239;181;249;150;66;185;213;148;171;200;186;78
+                276;259;173;71;57;220;253;291;262;344;285;272;290;295;218;182;254;357;363;285;288;198;239;222;267;303;235;259;271;245;226;197;188;219;195;200;241;220;202;228;262;191;252;156;68;185;213;148;171;205;191;110
               firstWeek: 2021-12-05Z
-              stars: 519
+              stars: 521
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile
                 applications to frontline workers worldwide
-              latest_commit_date: '2022-11-29T06:22:00Z'
-              latest_commit_link: /dimagi/commcare-hq/commit/570ca1849bf833ef39cb4bda2928b5a8a7c44234
+              latest_commit_date: '2022-11-30T16:13:29Z'
+              latest_commit_link: /dimagi/commcare-hq/commit/248c56b54067681d388ffa5cd747d4d54bf81d13
               release_date: '2018-03-20T18:42:17Z'
               release_link: https://github.com/dimagi/commcare-hq/releases
               contributors_count: 165
               contributors_link: https://github.com/dimagi/commcare-hq/graphs/contributors
             repos:
               - url: https://github.com/dimagi/commcare-hq
-                stars: 465
+                stars: 466
               - url: https://github.com/dimagi/commcare-android
                 stars: 26
               - url: https://github.com/dimagi/commcare-cloud
-                stars: 22
+                stars: 23
               - url: https://github.com/dimagi/formplayer
                 stars: 6
             github_start_commit_data:
@@ -6670,7 +6686,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:01:28.000Z
+              latest_tweet_date: 2022-11-30T16:00:40.000Z
           - item:
             name: Conduent Maven
             description: >-
@@ -6708,7 +6724,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T16:10:52.000Z
+              latest_tweet_date: 2022-11-30T20:30:16.000Z
           - item:
             name: Go.Data
             description: >-
@@ -6743,7 +6759,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T23:23:44.000Z
+              latest_tweet_date: 2022-11-30T17:01:38.000Z
           - item:
             name: Microsoft Dynamics 365 Customer Service & Remote Assist
             description: >-
@@ -7324,7 +7340,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1791532859392
+              market_cap: 1901933494272
               effective_ticker: MSFT
             image_data:
               fileName: microsoft-dynamics-365-customer-service-remote-assist.svg
@@ -7333,7 +7349,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:30:00.000Z
+              latest_tweet_date: 2022-11-30T19:30:01.000Z
           - item:
             name: MTX Quarantine Health Management
             description: >-
@@ -7369,7 +7385,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T18:38:18.000Z
+              latest_tweet_date: 2022-11-30T18:11:21.000Z
           - item:
             name: SaferMe
             homepage_url: https://www.safer.me/
@@ -7600,7 +7616,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 151679991808
+              market_cap: 160250003456
               effective_ticker: CRM
             image_data:
               fileName: salesforce-emergency-response-management-for-public-health.svg
@@ -7609,7 +7625,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:38:39.000Z
+              latest_tweet_date: 2022-11-30T21:15:19.000Z
           - item:
             name: Sara Alert
             homepage_url: https://saraalert.org/
@@ -7675,7 +7691,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:30:35.000Z
+              latest_tweet_date: 2022-11-30T19:30:40.000Z
           - item:
             name: Sormas
             homepage_url: https://sormas.org
@@ -7706,7 +7722,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 21985626
+                  value: 21992675
                   color: '#b07219'
                 - name: Gherkin
                   value: 746463
@@ -7737,22 +7753,22 @@ landscape:
                   value: 502
                   color: '#384d54'
               contributions: >-
-                29;47;45;32;25;90;71;76;105;126;107;69;156;180;258;239;193;129;128;118;97;90;103;156;138;61;107;108;94;122;148;139;110;123;121;129;67;97;113;79;104;102;88;98;79;98;85;87;101;89;117;77
+                29;47;45;32;25;90;71;76;105;126;107;69;156;180;258;239;193;129;128;118;97;90;103;156;138;61;107;108;94;122;148;139;110;123;121;129;67;97;113;79;104;102;88;98;79;98;85;87;101;89;117;78
               firstWeek: 2021-12-05Z
-              stars: 276
+              stars: 278
               license: GNU General Public License v3.0
               description: >-
                 SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of
                 infectious diseases.
-              latest_commit_date: '2022-11-29T16:43:04Z'
-              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/a37db54c3c229b2f7782e48a55a8ab5d9f4cae11
+              latest_commit_date: '2022-11-30T12:46:45Z'
+              latest_commit_link: /hzi-braunschweig/SORMAS-Project/commit/4b7b97e0c4ef6b6d2b4b5622154c6f81d1246897
               release_date: '2022-11-24T10:43:25Z'
               release_link: https://github.com/hzi-braunschweig/SORMAS-Project/releases
               contributors_count: 124
               contributors_link: https://github.com/hzi-braunschweig/SORMAS-Project/graphs/contributors
             repos:
               - url: https://github.com/hzi-braunschweig/SORMAS-Project
-                stars: 276
+                stars: 278
             github_start_commit_data:
               start_commit_link: /hzi-braunschweig/SORMAS-Project/commit/406c6b941ae3fc054f0024e57a463d8ffe9a37d3
               start_date: '2016-05-31T14:14:14Z'
@@ -8195,10 +8211,10 @@ landscape:
                   price: 125000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 2000000000
+                  price: 200000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 200000000
+                  price: 2000000000
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
                   price: 170000000
@@ -8727,7 +8743,7 @@ landscape:
                 - Hardware
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 198339067904
+              market_cap: 204254740480
               effective_ticker: CSCO
             image_data:
               fileName: cisco-systems-inc.svg
@@ -8736,7 +8752,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:08:22.000Z
+              latest_tweet_date: 2022-11-30T18:48:53.000Z
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
@@ -9211,7 +9227,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 131301924864
+              market_cap: 133462040576
               effective_ticker: IBM
             image_data:
               fileName: international-business-machines-corporation.svg
@@ -9220,7 +9236,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T22:12:27.000Z
+              latest_tweet_date: 2022-11-30T20:37:08.000Z
       - subcategory:
         name: General
         items:
@@ -9328,7 +9344,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:01:28.000Z
+              latest_tweet_date: 2022-11-30T16:00:40.000Z
           - item:
             name: Indicio
             homepage_url: https://indicio.tech/
@@ -9366,7 +9382,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:33:10.000Z
+              latest_tweet_date: 2022-11-30T21:12:33.000Z
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
@@ -9649,7 +9665,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119270301696
+              market_cap: 124098887680
               effective_ticker: INTC
             image_data:
               fileName: intel-corporation.svg
@@ -9658,7 +9674,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:51:22.000Z
+              latest_tweet_date: 2022-11-30T16:35:48.000Z
           - item:
             name: NearForm Ltd
             homepage_url: https://nearform.com/
@@ -9692,7 +9708,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T11:19:43.000Z
+              latest_tweet_date: 2022-11-30T19:14:59.000Z
           - item:
             name: WeHealth Solutions PBC
             homepage_url: https://wehealth.org/
@@ -9747,7 +9763,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:05:00.000Z
+              latest_tweet_date: 2022-11-30T21:21:00.000Z
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
@@ -9837,7 +9853,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:23:00.000Z
+              latest_tweet_date: 2022-11-30T20:00:22.000Z
           - item:
             name: Council of State and Territorial Epidemiologists
             homepage_url: https://cste.org/
@@ -9870,7 +9886,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:32:21.000Z
+              latest_tweet_date: 2022-11-30T19:02:10.000Z
           - item:
             name: DataKind
             homepage_url: https://datakind.org/
@@ -9906,7 +9922,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:30:00.000Z
+              latest_tweet_date: 2022-11-30T21:15:26.000Z
           - item:
             name: Fachhochschule Kiel
             description: >-
@@ -9940,7 +9956,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:15:10.000Z
+              latest_tweet_date: 2022-11-30T11:45:10.000Z
           - item:
             name: Health Service Executive Ireland
             homepage_url: https://hse.ie/eng
@@ -9971,7 +9987,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T17:55:00.000Z
+              latest_tweet_date: 2022-11-30T19:57:14.000Z
           - item:
             name: HealthDataForGood.org
             homepage_url: https://healthdataforgood.org/
@@ -10004,7 +10020,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:15:00.000Z
+              latest_tweet_date: 2022-11-30T02:35:53.000Z
           - item:
             name: Interoperability Institute
             homepage_url: https://interoperabilityinstitute.org/
@@ -10100,7 +10116,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T18:50:49.000Z
+              latest_tweet_date: 2022-11-30T20:30:56.000Z
           - item:
             name: North Carolina Department of Health and Human Services
             homepage_url: https://ncdhhs.gov/
@@ -10131,7 +10147,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T20:10:31.000Z
+              latest_tweet_date: 2022-11-30T20:52:46.000Z
           - item:
             name: One Fact Foundation
             homepage_url: https://onefact.org/
@@ -10211,7 +10227,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T15:15:14.000Z
+              latest_tweet_date: 2022-11-30T17:02:46.000Z
           - item:
             name: OpenUK
             description: Where the UK’s Open communities meet and collaborate
@@ -10242,7 +10258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-30T00:42:50.000Z
+              latest_tweet_date: 2022-11-30T21:16:27.000Z
           - item:
             name: Resolve to Save Lives
             homepage_url: https://resolvetosavelives.org/
@@ -10364,7 +10380,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T13:29:56.000Z
+              latest_tweet_date: 2022-11-30T12:06:00.000Z
           - item:
             name: University of Rochester Medical Center
             homepage_url: https://urmc.rochester.edu/
@@ -10398,7 +10414,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T19:05:00.000Z
+              latest_tweet_date: 2022-11-30T20:49:03.000Z
           - item:
             name: Washington State Department of Health
             homepage_url: https://dshs.wa.gov/
@@ -10429,7 +10445,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-04T15:53:39.000Z
+              latest_tweet_date: 2022-10-20T19:21:56.000Z
           - item:
             name: Waterloo Centre for Microbial Research
             homepage_url: https://uwaterloo.ca/waterloo-centre-microbial-research
@@ -10464,8 +10480,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-29T21:42:14.000Z
+              latest_tweet_date: 2022-11-30T19:05:31.000Z
 twitter_options:
   count: 17
   since_id: '1425878539161665536'
-updated_at: 2022-11-30T01:59:08.489Z
+updated_at: 2022-11-30T21:38:00.942Z
