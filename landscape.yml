@@ -3,7 +3,7 @@ landscape:
     name: COVID Verification
     subcategories:
       - subcategory:
-        name: W3C Standards
+        name: Verifiable Credentials
         items:
           - item:
             name: Cardea
@@ -677,11 +677,11 @@ landscape:
     name: Exposure Notification
     subcategories:
       - subcategory:
-        name: Production GAEN
+        name: Communicable Disease
         items:
           - item:
             name: COVID Green
-            description: Open Source COVID-19 GAEN app.
+            description: An open-source COVID-19 app for exposure notifications, developed on the Google/Apple Exposure Notifications system.
             homepage_url: https://github.com/covidgreen/covid-green-app
             project: foundationproject
             repo_url: https://github.com/covidgreen/covid-green-app
@@ -711,6 +711,9 @@ landscape:
             project_org: https://github.com/covidwatchorg
             logo: covid_watch.svg
             crunchbase: https://www.crunchbase.com/organization/covid-watch
+      - subcategory:
+        name: Digital Transformation
+        items:
           - item:
             name: SpringML
             homepage_url: https://springml.com
